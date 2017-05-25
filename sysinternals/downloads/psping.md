@@ -1,7 +1,6 @@
 --- 
 TOCTitle: PsPing
 Title: PsPing
-layout: LandingPage
 ms:assetid: '80138356-ebe3-41cd-a14d-8aa7eae81c42'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/JJ729731(v=MSDN.10)'
 ---

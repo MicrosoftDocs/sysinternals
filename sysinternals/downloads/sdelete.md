@@ -1,7 +1,6 @@
 --- 
 TOCTitle: SDelete
 Title: SDelete
-layout: LandingPage
 ms:assetid: '5cc3991b-5a50-4784-a795-185e4ac84603'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897443(v=MSDN.10)'
 ---

@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Autoruns
 Title: Autoruns for Windows
-layout: LandingPage
 ms:assetid: 'b13af0f4-f0a1-4cc5-b940-20be546c1179'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963902(v=MSDN.10)'
 ---

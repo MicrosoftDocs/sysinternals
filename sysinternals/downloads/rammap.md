@@ -1,7 +1,6 @@
 --- 
 TOCTitle: RAMMap
 Title: RAMMap
-layout: LandingPage
 ms:assetid: 'e90bb927-b735-4888-bedc-588efd5fd7eb'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Ff700229(v=MSDN.10)'
 ---

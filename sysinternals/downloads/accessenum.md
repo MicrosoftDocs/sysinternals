@@ -1,7 +1,6 @@
 --- 
 TOCTitle: AccessEnum
 Title: AccessEnum
-layout: LandingPage
 ms:assetid: 'dd3ac121-4a4b-48b4-98a7-8b0dfeda3007'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897332(v=MSDN.10)'
 ---   

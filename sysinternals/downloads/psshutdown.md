@@ -1,7 +1,6 @@
 --- 
 TOCTitle: PsShutdown
 Title: PsShutdown
-layout: LandingPage
 ms:assetid: 'ba3665e1-fbac-45a1-b1c3-575d83832987'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897541(v=MSDN.10)'
 ---

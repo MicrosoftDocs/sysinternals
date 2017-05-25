@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Desktops
 Title: Desktops
-layout: LandingPage
 ms:assetid: 'a6144f44-1b00-4308-94c0-6bf6e6a1aaee'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Cc817881(v=MSDN.10)'
 ---

@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Coreinfo
 Title: Coreinfo
-layout: LandingPage
 ms:assetid: 'c5e117b5-d674-4409-914d-17bcac43f1fd'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Cc835722(v=MSDN.10)'
 ---

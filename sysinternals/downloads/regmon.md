@@ -1,7 +1,6 @@
 --- 
 TOCTitle: RegMon
 Title: RegMon for Windows
-layout: LandingPage
 ms:assetid: '531bc878-a910-4238-89bb-5831687e85d4'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896652(v=MSDN.10)'
 ---

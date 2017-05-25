@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Sysmon
 Title: Sysmon
-layout: LandingPage
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dn798348(v=MSDN.10)'
 ---

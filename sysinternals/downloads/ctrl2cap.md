@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Ctrl2cap
 Title: Ctrl2cap
-layout: LandingPage
 ms:assetid: 'e0dcb713-f196-4e45-a2f8-e7bf3f692ac9'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897578(v=MSDN.10)'
 ---

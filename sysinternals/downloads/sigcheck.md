@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Sigcheck
 Title: Sigcheck
-layout: LandingPage
 ms:assetid: 'fe633cd0-b369-4ca5-a9ae-c64e2d52acac'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897441(v=MSDN.10)'
 ---

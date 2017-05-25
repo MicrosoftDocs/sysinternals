@@ -1,7 +1,6 @@
 --- 
 TOCTitle: NTFSInfo
 Title: NTFSInfo
-layout: LandingPage
 ms:assetid: 'a0e927ac-8cca-409b-bb5c-f93567b65ea7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897424(v=MSDN.10)'
 ---

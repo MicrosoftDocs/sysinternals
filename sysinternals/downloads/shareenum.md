@@ -1,7 +1,6 @@
 --- 
 TOCTitle: ShareEnum
 Title: ShareEnum
-layout: LandingPage
 ms:assetid: '03257fd3-88a5-44f8-8447-2d0055930c47'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897442(v=MSDN.10)'
 ---

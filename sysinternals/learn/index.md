@@ -1,7 +1,6 @@
 ---
 TOCTitle: Learn Sysinternals
 Title: Learn Sysinternals
-layout: LandingPage
 ms:assetid: '07f84be7-5808-4b75-a29c-437b8e935d78'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb469930(v=MSDN.10)'
 ---

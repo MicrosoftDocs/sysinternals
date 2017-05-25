@@ -1,7 +1,6 @@
 --- 
 TOCTitle: VolumeID
 Title: VolumeID
-layout: LandingPage
 ms:assetid: '2073ab9a-ad2e-4c86-96b9-4b4d520b8a1d'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897436(v=MSDN.10)'
 ---

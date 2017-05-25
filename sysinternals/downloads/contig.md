@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Contig
 Title: Contig
-layout: LandingPage
 ms:assetid: '33371252-c217-4fc7-8d74-f9f0e20e0597'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897428(v=MSDN.10)'
 ---

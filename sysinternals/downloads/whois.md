@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Whois
 Title: Whois
-layout: LandingPage
 ms:assetid: '31fa42da-10ab-4cb3-a206-72be17333805'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897435(v=MSDN.10)'
 ---

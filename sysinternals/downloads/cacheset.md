@@ -1,7 +1,6 @@
 --- 
 TOCTitle: CacheSet
 Title: CacheSet
-layout: LandingPage
 ms:assetid: '1e957b54-014b-4ec9-9dbb-39b7ef6d5899'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897561(v=MSDN.10)'
 ---

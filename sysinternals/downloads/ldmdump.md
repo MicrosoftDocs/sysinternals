@@ -1,7 +1,6 @@
 --- 
 TOCTitle: LDMDump
 Title: 'LDMDump v1.02'
-layout: LandingPage
 ms:assetid: '2767f738-9f1d-4eb0-8c75-4287b7ca0e13'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897413(v=MSDN.10)'
 ---

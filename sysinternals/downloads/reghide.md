@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Reghide
 Title: Reghide
-layout: LandingPage
 ms:assetid: '2d5d1657-5dce-4ad3-8070-7e8882c9d1f7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd581628(v=MSDN.10)'
 ---

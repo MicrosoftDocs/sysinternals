@@ -1,7 +1,6 @@
 --- 
 TOCTitle: FileMon
 Title: FileMon for Windows
-layout: LandingPage
 ms:assetid: 'f0149462-bb51-4b25-9d47-39eb5eb1dee1'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896642(v=MSDN.10)'
 ---

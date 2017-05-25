@@ -1,7 +1,6 @@
 ---
 TOCTitle: Security Utilities 
 Title: Sysinternals Security Utilities
-layout: LandingPage
 ms:assetid: '25e27bed-b251-4af4-b30a-c2a2a93a80d9' 
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb795534(v=MSDN.10)' 
 ---

@@ -1,7 +1,6 @@
 ---
 TOCTitle: Inside Native Applications
 Title: Inside Native Applications
-layout: LandingPage
 ms:assetid: 'e6d81ff5-0abe-4834-a8d6-73f0b49de2d4'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897447(v=MSDN.10)'
 ---

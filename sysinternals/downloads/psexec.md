@@ -1,7 +1,6 @@
 --- 
 TOCTitle: PsExec
 Title: PsExec
-layout: LandingPage
 ms:assetid: '936a8b8b-a7ce-4b63-bcc2-ca334cd4c276'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897553(v=MSDN.10)'
 ---

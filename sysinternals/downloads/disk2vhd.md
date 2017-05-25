@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Disk2vhd
 Title: Disk2vhd
-layout: LandingPage
 ms:assetid: 'd2c9597c-1927-4ddc-9ec1-9e0f33166f90'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Ee656415(v=MSDN.10)'
 ---

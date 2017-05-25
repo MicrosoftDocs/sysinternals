@@ -1,7 +1,6 @@
 --- 
 TOCTitle: EFSDump
 Title: EFSDump
-layout: LandingPage
 ms:assetid: 'e6c7175a-2edd-48d6-bf40-d701aa597b01'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896735(v=MSDN.10)'
 ---

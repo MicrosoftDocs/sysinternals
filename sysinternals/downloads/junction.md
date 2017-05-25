@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Junction
 Title: Junction
-layout: LandingPage
 ms:assetid: '16f763c0-cb78-4d67-a865-63e79bef0c58'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896768(v=MSDN.10)'
 ---

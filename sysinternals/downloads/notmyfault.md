@@ -1,7 +1,6 @@
 --- 
 TOCTitle: NotMyFault
 Title: NotMyFault
-layout: LandingPage
 ms:assetid: 'fc881ee6-6e6a-480f-95d2-83458e2d09b7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Mt742033(v=MSDN.10)'
 ---

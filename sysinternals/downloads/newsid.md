@@ -1,7 +1,6 @@
 --- 
 TOCTitle: NewSID
 Title: 'NewSID v4.10'
-layout: LandingPage
 ms:assetid: 'd1b65ba7-2339-4232-aafe-5871deff2e07'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897418(v=MSDN.10)'
 ---

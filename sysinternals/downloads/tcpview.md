@@ -1,7 +1,6 @@
 --- 
 TOCTitle: TCPView
 Title: TCPView for Windows
-layout: LandingPage
 ms:assetid: '0797e73a-a0c2-4266-b821-50bc561da3a6'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897437(v=MSDN.10)'
 ---

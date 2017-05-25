@@ -1,7 +1,6 @@
 --- 
 TOCTitle: VMMap
 Title: VMMap
-layout: LandingPage
 ms:assetid: '0b5217b3-99e1-4742-b502-7574bb478a16'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd535533(v=MSDN.10)'
 ---

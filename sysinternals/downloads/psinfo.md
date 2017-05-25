@@ -1,7 +1,6 @@
 --- 
 TOCTitle: PsInfo
 Title: PsInfo
-layout: LandingPage
 ms:assetid: '5b454ec8-9d69-44bb-b3fe-c7c252929439'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897550(v=MSDN.10)'
 ---

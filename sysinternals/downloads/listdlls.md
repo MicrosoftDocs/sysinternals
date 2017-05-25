@@ -1,7 +1,6 @@
 --- 
 TOCTitle: ListDLLs
 Title: ListDLLs
-layout: LandingPage
 ms:assetid: 'b4a511a2-c7d8-4fda-9319-8048718a09eb'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896656(v=MSDN.10)'
 ---

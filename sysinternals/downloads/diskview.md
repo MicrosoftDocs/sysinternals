@@ -1,7 +1,6 @@
 --- 
 TOCTitle: DiskView
 Title: DiskView
-layout: LandingPage
 ms:assetid: '3f42dea1-2beb-46ff-b818-9012ccc0260d'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896650(v=MSDN.10)'
 ---

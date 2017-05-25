@@ -1,7 +1,6 @@
 --- 
 TOCTitle: PsLogList
 Title: PsLogList
-layout: LandingPage
 ms:assetid: '78a2118a-4eea-438f-af53-4b44a9058ec6'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897544(v=MSDN.10)'
 ---

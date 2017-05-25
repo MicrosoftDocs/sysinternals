@@ -1,7 +1,6 @@
 --- 
 TOCTitle: PageDefrag
 Title: PageDefrag
-layout: LandingPage
 ms:assetid: '104b3934-81cc-4c7e-b874-6fd19127ed99'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897426(v=MSDN.10)'
 ---

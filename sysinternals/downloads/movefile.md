@@ -1,7 +1,6 @@
 --- 
 TOCTitle: PendMoves
 Title: PendMoves and MoveFile
-layout: LandingPage
 ms:assetid: 'a49e9434-8fa3-4f2c-9ae1-8212360d4917'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897556(v=MSDN.10)'
 ---

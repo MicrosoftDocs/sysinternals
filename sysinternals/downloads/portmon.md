@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Portmon
 Title: Portmon for Windows
-layout: LandingPage
 ms:assetid: 'f989ac38-afd3-4e14-ad47-85af3c4f8ded'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896644(v=MSDN.10)'
 ---

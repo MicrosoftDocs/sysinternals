@@ -1,7 +1,6 @@
 --- 
 TOCTitle: LogonSessions
 Title: LogonSessions
-layout: LandingPage
 ms:assetid: 'b7415eea-e897-49ba-b304-dd6879718a74'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896769(v=MSDN.10)'
 ---

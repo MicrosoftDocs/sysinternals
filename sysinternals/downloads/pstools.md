@@ -1,7 +1,6 @@
 --- 
 TOCTitle: PsTools
 Title: PsTools
-layout: LandingPage
 ms:assetid: '559ea946-3d7d-47bb-821c-b47fd078dfb7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896649(v=MSDN.10)'
 ---

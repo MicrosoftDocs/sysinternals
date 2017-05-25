@@ -1,7 +1,6 @@
 --- 
 TOCTitle: DiskMon
 Title: DiskMon for Windows
-layout: LandingPage
 ms:assetid: 'f9e26786-be46-4276-a073-8764d4e9fba4'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896646(v=MSDN.10)'
 ---

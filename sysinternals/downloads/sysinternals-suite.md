@@ -1,7 +1,6 @@
 ---
 TOCTitle: Sysinternals Suite 
 Title: Sysinternals Suite 
-layout: LandingPage
 ms:assetid: '0e18b180-9b7a-4c49-8120-c47c5a693683' 
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb842062(v=MSDN.10)' 
 ---

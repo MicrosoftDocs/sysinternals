@@ -2,7 +2,6 @@
 TOCTitle: Sysinternals Utilities
 Title: Sysinternals Utilities
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
-layout: LandingPage
 ms:date: 05/16/2017
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb545027(v=MSDN.10)'

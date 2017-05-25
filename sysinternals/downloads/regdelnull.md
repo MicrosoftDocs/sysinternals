@@ -1,7 +1,6 @@
 --- 
 TOCTitle: RegDelNull
 Title: RegDelNull
-layout: LandingPage
 ms:assetid: '8f4db30a-523f-4482-91d6-f6a68a11126c'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897448(v=MSDN.10)'
 ---

@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Pipelist
 Title: Pipelist
-layout: LandingPage
 ms:assetid: 'c379bcf5-754c-46b0-807d-1266658bd8be'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd581625(v=MSDN.10)'
 ---

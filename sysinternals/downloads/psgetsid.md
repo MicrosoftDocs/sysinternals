@@ -1,7 +1,6 @@
 --- 
 TOCTitle: PsGetSid
 Title: PsGetSid
-layout: LandingPage
 ms:assetid: 'f7eefa28-72dd-4dc7-a41e-02e7ac7e35ae'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897417(v=MSDN.10)'
 ---

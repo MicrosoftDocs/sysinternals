@@ -1,7 +1,6 @@
 ---
 TOCTitle: Software License Terms
 Title: Sysinternals Software License Terms
-layout: LandingPage
 ms:assetid: '785a4c3d-df4e-4d58-a4b9-bcca685aa303'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb469936(v=MSDN.10)'
 ---

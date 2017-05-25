@@ -1,7 +1,6 @@
 --- 
 TOCTitle: DebugView
 Title: DebugView
-layout: LandingPage
 ms:assetid: 'e20c3b02-fe03-4067-82e9-f5c01398b804'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896647(v=MSDN.10)'
 ---

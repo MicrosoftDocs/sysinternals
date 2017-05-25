@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Process Explorer
 Title: Process Explorer
-layout: LandingPage
 ms:assetid: '32cbeee6-4335-44d5-b94b-160612b99738'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896653(v=MSDN.10)'
 ---

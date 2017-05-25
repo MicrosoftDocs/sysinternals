@@ -1,7 +1,6 @@
 --- 
 TOCTitle: ShellRunas
 Title: ShellRunas
-layout: LandingPage
 ms:assetid: 'd3e6e430-46f4-48ba-8860-4e2daa38024f'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Cc300361(v=MSDN.10)'
 ---

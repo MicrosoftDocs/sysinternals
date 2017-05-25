@@ -1,7 +1,6 @@
 ---
 TOCTitle: Disk Usage 
 Title: Disk Usage 
-layout: LandingPage
 ms:assetid: '428a14a6-d688-41bc-a769-5d5052ead7a0' 
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896651(v=MSDN.10)' 
 ---

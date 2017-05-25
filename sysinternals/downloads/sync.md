@@ -1,7 +1,6 @@
 --- 
 TOCTitle: Sync
 Title: Sync
-layout: LandingPage
 ms:assetid: 'c37d73b0-a75b-40ff-9b31-0d0dae62849e'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897438(v=MSDN.10)'
 ---
