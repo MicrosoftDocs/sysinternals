@@ -6,18 +6,18 @@
     tocHref: /sysinternals/learning-resources/
     topicHref: /sysinternals/learning-resources
     items:
-    - name: Mark's Webcasts
-      tocHref: /sysinternals/webcasts/
-      topicHref: /sysinternals/webcasts
-    - name: Windows Internals Book
-      tocHref: /sysinternals/windows-internals/
-      topicHref: /sysinternals/windows-internals
-    - name: Troubleshooting with the Windows Sysinternals Tools
-      tocHref: /sysinternals/troubleshooting-book/
-      topicHref: /sysinternals/troubleshooting-book
-    - name: Inside Native Applications
-      tocHref: /sysinternals/inside-native-applications/
-      topicHref: /sysinternals/inside-native-applications
+      - name: Mark's Webcasts
+        tocHref: /sysinternals/webcasts/
+        topicHref: /sysinternals/webcasts
+      - name: Windows Internals Book
+        tocHref: /sysinternals/windows-internals/
+        topicHref: /sysinternals/windows-internals
+      - name: Troubleshooting with the Windows Sysinternals Tools
+        tocHref: /sysinternals/troubleshooting-book/
+        topicHref: /sysinternals/troubleshooting-book
+      - name: Inside Native Applications
+        tocHref: /sysinternals/inside-native-applications/
+        topicHref: /sysinternals/inside-native-applications
   - name: Downloads
     tocHref: /sysinternals/downloads/
     topicHref: /sysinternals/downloads
