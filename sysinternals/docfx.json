@@ -17,6 +17,7 @@
         "resource": [{
             "files": [
                 "**/*.png",
+                "**/*.gif",
                 "**/*.jpg"
             ],
             "exclude": [
@@ -27,7 +28,7 @@
         "overwrite": [],
         "externalReference": [],
         "globalMetadata": {
-            "breadcrumb_path": "/sysinternals/bread/toc.json",
+            "breadcrumb_path": "~/bread/toc.yml",
             "ms.author": "markruss",
             "ms.prod": "sysinternals"
         },
