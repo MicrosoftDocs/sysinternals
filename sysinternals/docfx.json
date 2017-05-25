@@ -27,8 +27,7 @@
         "overwrite": [],
         "externalReference": [],
         "globalMetadata": {
-            "breadcrumb_path": "~/bread/toc.json",
-            "ms.locale": "en-us",
+            "breadcrumb_path": "/sysinternals/bread/toc.json",
             "ms.author": "markruss",
             "ms.prod": "sysinternals"
         },
