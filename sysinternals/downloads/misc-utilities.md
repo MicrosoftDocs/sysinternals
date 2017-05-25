@@ -1,7 +1,6 @@
---- 
+---
 TOCTitle: Miscellaneous Utilities
-Title: Sysinternals Miscellaneous
-Utilities
+Title: Sysinternals Miscellaneous Utilities
 layout: LandingPage
 ms:assetid: 'd46b4037-88ae-41d7-a41c-9660d7d96cf2'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb842059(v=MSDN.10)'
@@ -9,6 +8,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb842059(v=MSDN.10)'
 
 Sysinternals Miscellaneous Utilities
 ====================================
+
+  
 
 [AD Explorer](adexplorer.md)  
 Active Directory Explorer is an advanced Active Directory (AD) viewer

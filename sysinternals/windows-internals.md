@@ -43,7 +43,7 @@ tools.
 **Chapter 4** Management Mechanisms   
 **Chapter 5** Processes, Threads, and Jobs   
 **Chapter 6** Security   
-**Chapter 7** Networking
+**Chapter 7** Networking  
 **Part 2:**  
 **Chapter 8**  I/O System  
 **Chapter 9**  Storage Management  

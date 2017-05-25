@@ -9,6 +9,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb795534(v=MSDN.10)'
 Sysinternals Security Utilities
 ===============================
 
+  
+
 [AccessChk](accesschk.md)  
 This tool shows you the accesses the user or group you specify has to
 files, Registry keys or Windows services.

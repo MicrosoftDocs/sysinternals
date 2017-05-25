@@ -7,6 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb545046(v=MSDN.10)'
 ---
 # Sysinternals File and Disk Utilities
 
+  
 
 [AccessChk](accesschk.md)  
 This tool shows you the accesses the user or group you specify has

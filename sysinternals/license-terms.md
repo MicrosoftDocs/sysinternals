@@ -7,6 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb469936(v=MSDN.10)'
 ---
 
 # Sysinternals Software License Terms
+  
 
 These license terms are an agreement between Sysinternals (a wholly
 owned subsidiary of Microsoft Corporation) and you. Please read them.
