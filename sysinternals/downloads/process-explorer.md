@@ -51,7 +51,7 @@ screenshot](/media/landing/sysinternals/processexplorer2.jpg)
 ## Related Links
 
 -   [Windows Internals
-    Book](../windows-internals.md)  
+    Book](~/learn/windows-internals.md)  
     The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
 -   [Windows Sysinternals Administrator's

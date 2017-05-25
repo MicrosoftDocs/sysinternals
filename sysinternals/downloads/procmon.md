@@ -79,7 +79,7 @@ screenshot](/media/landing/sysinternals/procmon-proc.gif)
 ## Related Links
 
 -   [**Windows Internals Book**  
-    ](../windows-internals.md)The
+    ](~/learn/windows-internals.md)The
     official updates and errata page for the definitive book on Windows
     internals, by Mark Russinovich and David Solomon.
 -   [**Windows Sysinternals Administrator's Reference**  
