@@ -8,7 +8,7 @@
     items:
       - name: Mark's Webcasts
         tocHref: /sysinternals/webcasts/
-        topicHref: /sysinternals/webcasts
+        topicHref: /sysinternals/learn/webcasts
       - name: Windows Internals Book
         tocHref: /sysinternals/windows-internals/
         topicHref: /sysinternals/windows-internals
@@ -28,7 +28,7 @@
       items:
       - name: AccessChk
         tocHref: /sysinternals/downloads/accesschk/
-        topicHref: /sysinternals/downloads/accesschk
+        topicHref: /sysinternals/downloads/file-and-disk-utilities/accesschk
       - name: AccessEnum
         tocHref: /sysinternals/downloads/accessenum/
         topicHref: /sysinternals/downloads/accessenum
