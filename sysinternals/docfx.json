@@ -1,37 +1,39 @@
 {
-  "build": {
-    "content": [
-      {
-        "files": [
-          "**/*.md"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE",
-          "ThirdPartyNotices"
-        ]
-      }
-    ],
-    "resource": [
-      {
-        "files": [
-          "**/*.png",
-          "**/*.jpg"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**"
-        ]
-      }
-    ],
-    "overwrite": [],
-    "externalReference": [],
-    "globalMetadata": {},
-    "fileMetadata": {},
-    "template": [],
-    "dest": "sysinternals"
-  }
+    "build": {
+        "content": [{
+            "files": [
+                "**/*.md",
+                "**/*.yml"
+            ],
+            "exclude": [
+                "**/obj/**",
+                "**/includes/**",
+                "README.md",
+                "LICENSE",
+                "LICENSE-CODE",
+                "ThirdPartyNotices"
+            ]
+        }],
+        "resource": [{
+            "files": [
+                "**/*.png",
+                "**/*.jpg"
+            ],
+            "exclude": [
+                "**/obj/**",
+                "**/includes/**"
+            ]
+        }],
+        "overwrite": [],
+        "externalReference": [],
+        "globalMetadata": {
+            "breadcrumb_path": "~/bread/toc.json",
+            "ms.locale": "en-us",
+            "ms.author": "markruss",
+            "ms.prod": "sysinternals"
+        },
+        "fileMetadata": {},
+        "template": [],
+        "dest": "sysinternals"
+    }
 }
