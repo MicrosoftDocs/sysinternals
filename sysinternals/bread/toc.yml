@@ -3,32 +3,32 @@
   topicHref: /sysinternals/index
   items:
   - name: Learn
-    tocHref: /sysinternals/learning-resources/
-    topicHref: /sysinternals/learning-resources
+    tocHref: /sysinternals/learn/
+    topicHref: /sysinternals/learn/index
     items:
       - name: Mark's Webcasts
-        tocHref: /sysinternals/webcasts/
-        topicHref: /sysinternals/webcasts
+        tocHref: /sysinternals/learn/webcasts/
+        topicHref: /sysinternals/learn/webcasts
       - name: Windows Internals Book
-        tocHref: /sysinternals/windows-internals/
-        topicHref: /sysinternals/windows-internals
+        tocHref: /sysinternals/learn/windows-internals/
+        topicHref: /sysinternals/learn/windows-internals
       - name: Troubleshooting with the Windows Sysinternals Tools
-        tocHref: /sysinternals/troubleshooting-book/
-        topicHref: /sysinternals/troubleshooting-book
+        tocHref: /sysinternals/learn/troubleshooting-book/
+        topicHref: /sysinternals/learn/troubleshooting-book
       - name: Inside Native Applications
-        tocHref: /sysinternals/inside-native-applications/
-        topicHref: /sysinternals/inside-native-applications
+        tocHref: /sysinternals/learn/inside-native-applications/
+        topicHref: /sysinternals/learn/inside-native-applications
   - name: Downloads
     tocHref: /sysinternals/downloads/
-    topicHref: /sysinternals/downloads
+    topicHref: /sysinternals/downloads/index
     items:
     - name: File and Disk Utilities
       tocHref: /sysinternals/downloads/file-and-disk-utilities/
-      topicHref: /sysinternals/downloads/file-and-disk-utilities
+      topicHref: /sysinternals/downloads/file-and-disk-utilities/index
       items:
       - name: AccessChk
-        tocHref: /sysinternals/downloads/accesschk/
-        topicHref: /sysinternals/downloads/accesschk
+        tocHref: /sysinternals/downloads/file-and-disk-utilities/accesschk/
+        topicHref: /sysinternals/downloads/file-and-disk-utilities/accesschk
       - name: AccessEnum
         tocHref: /sysinternals/downloads/accessenum/
         topicHref: /sysinternals/downloads/accessenum
