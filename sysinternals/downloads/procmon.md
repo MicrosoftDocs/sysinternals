@@ -83,7 +83,7 @@ screenshot](/media/landing/sysinternals/procmon-proc.gif)
     official updates and errata page for the definitive book on Windows
     internals, by Mark Russinovich and David Solomon.
 -   [**Windows Sysinternals Administrator's Reference**  
-    ](../troubleshooting-book.md)The
+    ](~/learn/troubleshooting-book.md)The
     official guide to the Sysinternals utilities by Mark Russinovich and
     Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example

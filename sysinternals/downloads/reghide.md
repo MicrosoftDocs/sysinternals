@@ -10,9 +10,7 @@ Reghide
 
 Published: November 1, 2006
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download Reghide (38
-KB)**](https://download.sysinternals.com/files/reghide.zip)
+[![](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/reghide.zip)
 
  
 
@@ -20,8 +18,7 @@ KB)**](https://download.sysinternals.com/files/reghide.zip)
 ## Introduction
 
 A subtle but significant difference between the Win32 API and the Native
-API (see [Inside the Native
-API](../inside-native-applications.md) for
+API (see [Inside the Native API](~/learn/inside-native-applications.md) for
 more information on this largely undocumented interface) is the way that
 names are described. In the Win32 API strings are interpreted as
 NULL-terminated ANSI (8-bit) or wide character (16-bit) strings. In the
@@ -42,26 +39,6 @@ Native API, but that cannot be described using the Win32 API.
 
 [**Run RegHide**](https://live.sysinternals.com/reghide.exe) now from
 Live.Sysinternals.com
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/reghide.zip)
-
-[**Download Reghide**  
-](https://download.sysinternals.com/files/reghide.zip)**(38 KB)**
-
-[**Run RegHide**](https://live.sysinternals.com/reghide.exe) now from
-Live.Sysinternals.com
-
 **Runs on:**
 
 -   Client: Windows Vista and higher.
