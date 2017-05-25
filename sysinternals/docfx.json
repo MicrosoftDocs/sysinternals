@@ -28,6 +28,7 @@
         "overwrite": [],
         "externalReference": [],
         "globalMetadata": {
+            "layout": "Conceptual",
             "breadcrumb_path": "~/bread/toc.yml",
             "ms.author": "markruss",
             "ms.prod": "sysinternals"
