@@ -13,7 +13,7 @@ AccessChk v6.1
 
 Published: February 17, 2017
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip)**(359 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(359 KB)**
 
 ## Introduction
 
@@ -102,4 +102,4 @@ To see all global objects that Everyone can modify:
 
   
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip)**(359 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(359 KB)**

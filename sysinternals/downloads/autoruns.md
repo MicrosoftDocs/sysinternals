@@ -13,7 +13,7 @@ Autoruns for Windows v13.71
 
 Published: May 16, 2017
 
-[![Download](/media/landing/sysinternals/download_sm.png) **Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.21 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.21 MB)**
 
 ## Introduction
 
@@ -92,23 +92,23 @@ Autorunsc is the command-line version of Autoruns. Its usage syntax is:
 |Parameter  |Description  |
 |---------|---------|
 |  **-a**      |   Autostart entry selection:|
-|  **   \***   |   All.|
-|  **   b**    |   Boot execute.|
-|  **   d**    |   Appinit DLLs.|
-|  **   e**    |   Explorer addons.|
-|  **   g**    |   Sidebar gadgets (Vista and higher)|
-|  **   h**    |   Image hijacks.|
-|  **   i**    |   Internet Explorer addons.|
-|  **   k**    |   Known DLLs.|
-|  **   l**    |   Logon startups (this is the default).|
-|  **   m**    |   WMI entries.|
-|  **   n**    |   Winsock protocol and network providers.|
-|  **   o**    |   Codecs.|
-|  **   p**    |   Printer monitor DLLs.|
-|  **   r**    |   LSA security providers.|
-|  **   s**    |   Autostart services and non-disabled drivers.|
-|  **   t**    |   Scheduled tasks.|
-|  **   w**    |   Winlogon entries.|
+|     **\***   |   All.|
+|     **b**    |   Boot execute.|
+|     **d**    |   Appinit DLLs.|
+|     **e**    |   Explorer addons.|
+|     **g**    |   Sidebar gadgets (Vista and higher)|
+|     **h**    |   Image hijacks.|
+|     **i**    |   Internet Explorer addons.|
+|     **k**    |   Known DLLs.|
+|     **l**    |   Logon startups (this is the default).|
+|     **m**    |   WMI entries.|
+|     **n**    |   Winsock protocol and network providers.|
+|     **o**    |   Codecs.|
+|     **p**    |   Printer monitor DLLs.|
+|     **r**    |   LSA security providers.|
+|     **s**    |   Autostart services and non-disabled drivers.|
+|     **t**    |   Scheduled tasks.|
+|     **w**    |   Winlogon entries.|
 |  **-c**      |   Print output as CSV.|
 |  **-ct**     |   Print output as tab-delimited values.|
 |  **-h**      |   Show file hashes.|
@@ -124,10 +124,9 @@ Autorunsc is the command-line version of Autoruns. Its usage syntax is:
  
 ## Related Links
 
--   **[Windows Internals Book](~/learn/windows-internals.md)  
-    **The official updates and errata page for the definitive book on
+-   [**Windows Internals Book**](~/learn/windows-internals.md)  The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
--   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)The
+-   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)  The
     official guide to the Sysinternals utilities by Mark Russinovich and
     Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example
