@@ -3,12 +3,11 @@ TOCTitle: Security Utilities
 Title: Sysinternals Security Utilities
 ms:assetid: '25e27bed-b251-4af4-b30a-c2a2a93a80d9' 
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb795534(v=MSDN.10)' 
+ms.date: 07/22/2016
 ---
 
 Sysinternals Security Utilities
 ===============================
-
-  
 
 [AccessChk](accesschk.md)  
 This tool shows you the accesses the user or group you specify has to

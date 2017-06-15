@@ -3,7 +3,7 @@ TOCTitle: Autoruns
 Title: Autoruns for Windows
 ms:assetid: 'b13af0f4-f0a1-4cc5-b940-20be546c1179'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963902(v=MSDN.10)'
-ms.date: 16/05/2017
+ms.date: 05/16/2017
 ---
 
 Autoruns for Windows v13.71
@@ -13,13 +13,7 @@ Autoruns for Windows v13.71
 
 Published: May 16, 2017
 
-[![Download
-icon](/media/landing/sysinternals/download_sm.png)
- **Download Autoruns and Autorunsc**  
-](https://download.sysinternals.com/files/autoruns.zip)**(1.21 MB)**
-
-
-<div>
+[![Download](/media/landing/sysinternals/download_sm.png) **Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.21 MB)**
 
 ## Introduction
 
@@ -45,7 +39,7 @@ automatically!
 
 ## Screenshot
 
-![Autoruns](/media/landing/sysinternals/autoruns_v13.png "Autoruns")
+![Autoruns](/media/landing/sysinternals/autoruns_v13.png)
 
 ## Usage
 
@@ -61,8 +55,7 @@ categories.
 
 To view the properties of an executable configured to run automatically,
 select it and use the **Properties** menu item or toolbar button. If
-[Process
-Explorer](process-explorer.md) is
+[Process Explorer](process-explorer.md) is
 running and there is an active process executing the selected executable
 then the **Process Explorer** menu item in the **Entry** menu will open
 the process properties dialog box for the process executing the selected
@@ -96,45 +89,39 @@ Autorunsc is the command-line version of Autoruns. Its usage syntax is:
 \[-m\] \[-s\] \[-u\] \[-vt\] \[\[-z \] | \[user\]\]\]**
 
  
--------------- 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **-a**         Autostart entry selection:
-  **   \***      All.
-  **   b**       Boot execute.
-  **   d**       Appinit DLLs.
-  **   e**       Explorer addons.
-  **   g**       Sidebar gadgets (Vista and higher)
-  **   h**       Image hijacks.
-  **   i**       Internet Explorer addons.
-  **   k**       Known DLLs.
-  **   l**       Logon startups (this is the default).
-  **   m**       WMI entries.
-  **   n**       Winsock protocol and network providers.
-  **   o**       Codecs.
-  **   p**       Printer monitor DLLs.
-  **   r**       LSA security providers.
-  **   s**       Autostart services and non-disabled drivers.
-  **   t**       Scheduled tasks.
-  **   w**       Winlogon entries.
-  **-c**         Print output as CSV.
-  **-ct**        Print output as tab-delimited values.
-  **-h**         Show file hashes.
-  **-m**         Hide Microsoft entries (signed entries if used with -v).
-  **-s**         Verify digital signatures.
-  **-t**         Show timestamps in normalized UTC (YYYYMMDD-hhmmss).
-  **-u**         If VirusTotal check is enabled, show files that are unknown by VirusTotal or have non-zero detection, otherwise show only unsigned files.
-  **-x**         Print output as XML.
-  **-v\[rs\]**   Query VirusTotal (www.virustotal.com) for malware based on file hash. Add 'r' to open reports for files with non-zero detection. Files reported as not previously scanned will be uploaded to VirusTotal if the 's' option is specified. Note scan results may not be available for five or more minutes.
-  **-vt**        Before using VirusTotal features, you must accept VirusTotal terms of service. See: https://www.virustotal.com/en/about/terms-of-service/ If you haven't accepted the terms and you omit this option, you will be interactively prompted.
-  **-z**         Specifies the offline Windows system to scan.
-  **user**       Specifies the name of the user account for which autorun items will be shown. Specify '\*' to scan all user profiles.
+|Parameter  |Description  |
+|---------|---------|
+|  **-a**      |   Autostart entry selection:|
+|  **   \***   |   All.|
+|  **   b**    |   Boot execute.|
+|  **   d**    |   Appinit DLLs.|
+|  **   e**    |   Explorer addons.|
+|  **   g**    |   Sidebar gadgets (Vista and higher)|
+|  **   h**    |   Image hijacks.|
+|  **   i**    |   Internet Explorer addons.|
+|  **   k**    |   Known DLLs.|
+|  **   l**    |   Logon startups (this is the default).|
+|  **   m**    |   WMI entries.|
+|  **   n**    |   Winsock protocol and network providers.|
+|  **   o**    |   Codecs.|
+|  **   p**    |   Printer monitor DLLs.|
+|  **   r**    |   LSA security providers.|
+|  **   s**    |   Autostart services and non-disabled drivers.|
+|  **   t**    |   Scheduled tasks.|
+|  **   w**    |   Winlogon entries.|
+|  **-c**      |   Print output as CSV.|
+|  **-ct**     |   Print output as tab-delimited values.|
+|  **-h**      |   Show file hashes.|
+|  **-m**      |   Hide Microsoft entries (signed entries if used with -v).|
+|  **-s**      |   Verify digital signatures.|
+|  **-t**      |   Show timestamps in normalized UTC (YYYYMMDD-hhmmss).|
+|  **-u**      |   If VirusTotal check is enabled, show files that are unknown by VirusTotal or have non-zero detection, otherwise show only unsigned files.|
+|  **-x**      |   Print output as XML.|
+|  **-v\[rs\]**|   Query VirusTotal (www.virustotal.com) for malware based on file hash. Add 'r' to open reports for files with non-zero detection. Files reported as not previously scanned will be uploaded to VirusTotal if the 's' option is specified. Note scan results may not be available for five or more minutes.|
+|  **-vt**     |   Before using VirusTotal features, you must accept VirusTotal terms of service. See: https://www.virustotal.com/en/about/terms-of-service/ If you haven't accepted the terms and you omit this option, you will be interactively prompted.|
+|  **-z**      |   Specifies the offline Windows system to scan.|
+|  **user**    |   Specifies the name of the user account for which autorun items will be shown. Specify '\*' to scan all user profiles. |
  
--------------- 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
 ## Related Links
 
 -   **[Windows Internals Book](~/learn/windows-internals.md)  
@@ -146,19 +133,10 @@ Autorunsc is the command-line version of Autoruns. Its usage syntax is:
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
 
-
-
 ## Download
 
-[![Download
-icon](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/autoruns.zip)
-
-[**Download Autoruns and Autorunsc**  
-](https://download.sysinternals.com/files/autoruns.zip)**(1.21 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.21 MB)**
 
  
-
-[**Run Autoruns**](https://live.sysinternals.com/autoruns.exe) now from
-Live.Sysinternals.com
+[**Run Autoruns**](https://live.sysinternals.com/autoruns.exe) now from Live.Sysinternals.com
 

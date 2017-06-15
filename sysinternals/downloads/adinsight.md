@@ -3,6 +3,7 @@ TOCTitle: AdInsight
 Title: AdInsight
 ms:assetid: 'f3eb3300-3b79-45b4-bf1e-b4ae9fc68ca8'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897539(v=MSDN.10)'
+ms.date: 10/26/2015
 ---
 
 Insight for Active Directory v1.2
@@ -12,9 +13,7 @@ Insight for Active Directory v1.2
 
 Published: October 26, 2015
 
-![](/media/landing/sysinternals/download_sm.png)[**Download
-AdInsight**  
-](https://download.sysinternals.com/files/adinsight.zip)**(113 KB)**
+![Download](/media/landing/sysinternals/download_sm.png)[**Download AdInsight**](https://download.sysinternals.com/files/AdInsight.zip) **(113 KB)**
 
 
 ## Introduction
@@ -35,45 +34,17 @@ tracing DLL, which means that it does not require administrative
 permissions, however, if run with administrative rights, it will also
 monitor system processes, including windows services.
 
-![](/media/landing/sysinternals/adinsight.jpg)  
+![ADInsight](/media/landing/sysinternals/adinsight.jpg)  
 
  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdInsight.zip) [**Download AdInsight**](https://download.sysinternals.com/files/AdInsight.zip) **(113 KB)**
 
-[![](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/adinsight.zip)
-
-[**Download AdInsight**  
-](https://download.sysinternals.com/files/adinsight.zip)**(113 KB)**
-
- 
-
-**[Run AdInsight](https://live.sysinternals.com/adinsight.exe)** now
-from Live.Sysinternals.com
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-[![](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/adinsight.zip)
-
-[  
-**Download
-AdInsight**](https://download.sysinternals.com/files/adinsight.zip)  
-**(113 KB)**
-
-**  
-[Run AdInsight](https://live.sysinternals.com/adinsight.exe)** now  
-from Live.Sysinternals.com
+**[Run AdInsight](https://live.sysinternals.com/adinsight.exe)** now from Live.Sysinternals.com
 
 **Runs on:**
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
 
 ## Related Links
 
@@ -82,10 +53,5 @@ The Sysinternals
 utility enables you to restore deleted objects on Windows Server 2003
 domains.
 
-[AD
-Explorer](adexplorer.md)
+[AD Explorer](adexplorer.md)
 is an advanced Active Directory (AD) viewer and editor.  
-  
-
-
-

@@ -12,9 +12,7 @@ Autologon for Windows v3.10
 
 Published: August 29, 2016
 
-**[![](/media/landing/sysinternals/download_sm.png)
- Download
-Autologon](https://download.sysinternals.com/files/autologon.zip)  
+**[![ Download](/media/landing/sysinternals/download_sm.png) Autologon](https://download.sysinternals.com/files/AutoLogon.zip) 
 (70 KB)**
 
 
@@ -39,16 +37,8 @@ Windows will not process the autologon configuration.
 
  
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/autologon.zip)
-
-[**Download Autologon**  
-](https://download.sysinternals.com/files/autologon.zip)**(70 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AutoLogon.zip) [**Download Autologon**](https://download.sysinternals.com/files/AutoLogon.zip) **(70 KB)**
 
  
 
-[**Run Autologon**](https://live.sysinternals.com/autologon.exe) now
-from Live.Sysinternals.com
-
-  
-
+[**Run Autologon**](https://live.sysinternals.com/Autologon.exe) now from Live.Sysinternals.com

@@ -3,6 +3,7 @@ TOCTitle: AD Explorer
 Title: AD Explorer
 ms:assetid: 'da300ae9-b58f-4acc-a169-ce3b39867bc8'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963907(v=MSDN.10)'
+ms.date: 11/15/2012
 ---
 
 Active Directory Explorer v1.44
@@ -12,9 +13,7 @@ Active Directory Explorer v1.44
 
 Published: November 15, 2012
 
-[![Download icon](/media/landing/sysinternals/download_sm.png)
- **Download AdExplorer (244
-KB)**](https://download.sysinternals.com/files/adexplorer.zip)
+![Download](/media/landing/sysinternals/download_sm.png)]  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) (244 KB)
 
 
 ## Introduction
@@ -33,16 +32,8 @@ If you have two snapshots of an AD database you can use AD Explorer's
 comparison functionality to see what objects, attributes and security
 permissions changed between them.
 
-![AD Explorer
-screenshot](/media/landing/sysinternals/adexplorer.jpg)
+![AD Explorer screenshot](/media/landing/sysinternals/adexplorer.jpg)
 
+[![Download icon](/media/landing/sysinternals/Download_sm.png](https://download.sysinternals.com/files/AdExplorer.zip) [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(244 KB)**
 
-[![Download icon](/media/landing/sysinternals/Download_sm.png "Download")](https://download.sysinternals.com/files/adexplorer.zip)
-
-[**Download AdExplorer**  
-](https://download.sysinternals.com/files/adexplorer.zip)**(244 KB)**
-
- 
-
-[**Run AdExplorer**](https://live.sysinternals.com/adexplorer.exe) now
-from Live.Sysinternals.com
+[**Run AdExplorer**](https://live.sysinternals.com/ADExplorer.exe) now from Live.Sysinternals.com

@@ -3,6 +3,7 @@ TOCTitle: AdRestore
 Title: AdRestore
 ms:assetid: '8de4d67f-98dc-4222-ab3c-88844ac78ccb'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963906(v=MSDN.10)'
+ms.date: 11/01/2006
 ---
 
 AdRestore v1.1
@@ -12,10 +13,7 @@ AdRestore v1.1
 
 Published: November 1, 2006
 
-**[![](/media/landing/sysinternals/download_sm.png)
- Download
-AdRestore](https://download.sysinternals.com/files/adrestore.zip)  
- (42 KB)**
+**[![Download](/media/landing/sysinternals/download_sm.png)  [Download AdRestore](https://download.sysinternals.com/files/ADRestore.zip)] (42 KB)**
 
 ## Introduction
 
@@ -31,8 +29,4 @@ Directory](http://support.microsoft.com/?kbid=840001)
 
  
 
-[![No](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/adrestore.zip)
-
-[**Download AdRestore**  
-](https://download.sysinternals.com/files/adrestore.zip)**(42 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)]https://download.sysinternals.com/files/ADRestore.zip) [**Download AdRestore**](https://download.sysinternals.com/files/ADRestore.zip) **(42 KB)**

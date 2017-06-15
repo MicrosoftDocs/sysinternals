@@ -3,6 +3,7 @@ TOCTitle: Sysinternals Suite
 Title: Sysinternals Suite 
 ms:assetid: '0e18b180-9b7a-4c49-8120-c47c5a693683' 
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb842062(v=MSDN.10)' 
+ms.date: 06/14/2017
 ---
 
 Sysinternals Suite
@@ -10,9 +11,10 @@ Sysinternals Suite
   
 
 **By Mark Russinovich**  
-Updated: May 16, 2017  
+Updated: June 14, 2017  
 [**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (21.3 MB)  
 [**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (4.6 MB)
+
 ## Introduction
 The Sysinternals Troubleshooting Utilities have been rolled up into a
 single Suite of tools. This file contains the individual troubleshooting

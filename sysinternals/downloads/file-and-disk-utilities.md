@@ -3,10 +3,9 @@ TOCTitle: File and Disk Utilities
 Title: 'File and Disk Utilities: Sysinternals Center'
 ms:assetid: '17988fd8-ed7b-4f90-95bd-e4d23baf441c'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb545046(v=MSDN.10)'
+ms.date: 07/22/2016
 ---
 # Sysinternals File and Disk Utilities
-
-  
 
 [AccessChk](accesschk.md)  
 This tool shows you the accesses the user or group you specify has

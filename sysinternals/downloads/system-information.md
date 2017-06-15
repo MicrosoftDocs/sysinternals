@@ -3,12 +3,11 @@ TOCTitle: System Information Utilities
 Title: Sysinternals System Information Utilities 
 ms:assetid: '86a95979-23f8-45f5-9480-f4ed9dab3aab'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb795535(v=MSDN.10)'
+ms.date: 09/08/2016
 ---
 
 Sysinternals System Information Utilities
 =========================================
-
-  
 
 [Autoruns](autoruns.md)  
 See what programs are configured to startup automatically when your
