@@ -3,7 +3,7 @@ TOCTitle: AccessChk
 Title: AccessChk 
 ms:assetid: 'f15a6468-622f-4c89-98d7-94667c640675' 
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb664922(v=MSDN.10)' 
-ms.date: 2/17/2017
+ms.date: 02/17/2017
 ---
 
 AccessChk v6.1
@@ -13,8 +13,7 @@ AccessChk v6.1
 
 Published: February 17, 2017
 
-[![](/media/landing/sysinternals/download_sm.png) **Download AccessChk**  
-](https://download.sysinternals.com/files/accesschk.zip)**(359 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip)**(359 KB)**
 
 ## Introduction
 
@@ -103,8 +102,4 @@ To see all global objects that Everyone can modify:
 
   
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/accesschk.zip)
-
-[**Download AccessChk**  
-](https://download.sysinternals.com/files/accesschk.zip)**(359 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip)**(359 KB)**
