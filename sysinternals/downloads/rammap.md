@@ -3,6 +3,7 @@ TOCTitle: RAMMap
 Title: RAMMap
 ms:assetid: 'e90bb927-b735-4888-bedc-588efd5fd7eb'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Ff700229(v=MSDN.10)'
+ms.date: 2/2/2016
 ---
 
 RAMMap v1.5

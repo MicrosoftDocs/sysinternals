@@ -30,8 +30,10 @@
         "globalMetadata": {
             "layout": "Conceptual",
             "breadcrumb_path": "~/bread/toc.yml",
+            "author": "markruss",
             "ms.author": "markruss",
-            "ms.prod": "sysinternals"
+            "ms.prod": "sysinternals",
+            "ms.technology": ""
         },
         "fileMetadata": {},
         "template": [],

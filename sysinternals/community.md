@@ -3,6 +3,7 @@ TOCTitle: Sysinternals Community
 Title: Sysinternals Community
 ms:assetid: 'e81be4ea-3647-4997-837f-74a3c8a298f7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb469929(v=MSDN.10)'
+ms.date: 28/09/2009
 ---
 
 # Sysinternals Community

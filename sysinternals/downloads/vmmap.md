@@ -3,6 +3,7 @@ TOCTitle: VMMap
 Title: VMMap
 ms:assetid: '0b5217b3-99e1-4742-b502-7574bb478a16'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd535533(v=MSDN.10)'
+ms.date: 20/07/2015
 ---
 
 VMMap v3.21

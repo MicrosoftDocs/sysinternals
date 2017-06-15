@@ -3,6 +3,7 @@ TOCTitle: AccessChk
 Title: AccessChk 
 ms:assetid: 'f15a6468-622f-4c89-98d7-94667c640675' 
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb664922(v=MSDN.10)' 
+ms.date: 17/2/2017
 ---
 
 AccessChk v6.1
@@ -28,8 +29,6 @@ questions with an intuitive interface and output.
 AccessChk is a console program. Copy AccessChk onto your executable
 path. Typing "accesschk" displays its usage syntax.
 
- 
-
 ## Using AccessChk
 
 **Usage: accesschk \[-s\]\[-e\]\[-u\]\[-r\]\[-w\]\[-n\]\[-v\]-\[f
@@ -38,31 +37,28 @@ path. Typing "accesschk" displays its usage syntax.
 \[-i\]\]|\[username\]\] &lt;file, directory, registry key, process,
 service, object&gt;**
 
- 
--------- 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **-a**   Name is a Windows account right. Specify "\*" as the name to show all rights assigned to a user. Note that when you specify a specific right, only groups and accounts directly assigned to the right are displayed.
-  **-c**   Name is a Windows Service, e.g. ssdpsrv. Specify "\*" as the name to show all services and "scmanager" to check the security of the Service Control Manager.
-  **-d**   Only process directories or top-level keys
-  **-e**   Only show explicitly set-Integrity Levels (Windows Vista Vista and higher only)
-  **-f**   If following -p, shows full process token information including groups and privileges. Otherwise is a list of comma-separated accounts to filter from the output.
-  **-h**   Name is a file or printer share. Specify '\*' as the name to show all shares.
-  **-i**   Ignore objects with only inherited ACEs when dumping full access control lists.
-  **-k**   Name is a Registry key, e.g. hklm\\software
-  **-l**   Show full security descriptor. Add -i to ignore inherited ACEs.
-  **-n**   Show only objects that have no access
-  **-o**   Name is an object in the Object Manager namespace (default is root). To view the contents of a directory, specify the name with a trailing backslash or add -s. Add -t and an object type (e.g. section) to see only objects of a specific type.
-  **-p**   Name is a process name or PID, e.g. cmd.exe (specify "\*" as the name to show all processes). Add -f to show full process token information, including groups and privileges. Add -t to show threads.
-  **-q**   Omit Banner
-  **-r**   Show only objects that have read access
-  **-s**   Recurse
-  **-t**   Object type filter, e.g. "section"
-  **-u**   Suppress errors
-  **-v**   Verbose (includes Windows Vista Integrity Level)
-  **-w**   Show only objects that have write access
- 
--------- 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+|Parameter  |Description  |
+|---------|---------|
+|  **-a** |  Name is a Windows account right. Specify "\*" as the name to show all rights assigned to a user. Note that when you specify a specific right, only groups and accounts directly assigned to the right are displayed.|
+|  **-c** |  Name is a Windows Service, e.g. ssdpsrv. Specify "\*" as the name to show all services and "scmanager" to check the security of the Service Control Manager.|
+|  **-d** |  Only process directories or top-level keys|
+|  **-e** |  Only show explicitly set-Integrity Levels (Windows Vista Vista and higher only)|
+|  **-f** |  If following -p, shows full process token information including groups and privileges. Otherwise is a list of comma-separated accounts to filter from the output.|
+|  **-h** |  Name is a file or printer share. Specify '\*' as the name to show all shares.|
+|  **-i** |  Ignore objects with only inherited ACEs when dumping full access control lists.|
+|  **-k** |  Name is a Registry key, e.g. hklm\\software|
+|  **-l** |  Show full security descriptor. Add -i to ignore inherited ACEs.|
+|  **-n** |  Show only objects that have no access|
+|  **-o** |  Name is an object in the Object Manager namespace (default is root). To view the contents of a directory, specify the name with a trailing backslash or add -s. Add -t and an object type (e.g. section) to see only objects of a specific type.|
+|  **-p** |  Name is a process name or PID, e.g. cmd.exe (specify "\*" as the name to show all processes). Add -f to show full process token information, including groups and privileges. Add -t to show threads.|
+|  **-q** |  Omit Banner|
+|  **-r** |  Show only objects that have read access|
+|  **-s** |  Recurse|
+|  **-t** |  Object type filter, e.g. "section"|
+|  **-u** |  Suppress errors|
+|  **-v** |  Verbose (includes Windows Vista Integrity Level)|
+|  **-w** |  Show only objects that have write access|
 
 If you specify a user or group name and path, AccessChk will report the
 effective permissions for that account; otherwise it will show the

@@ -3,6 +3,7 @@ TOCTitle: Process Explorer
 Title: Process Explorer
 ms:assetid: '32cbeee6-4335-44d5-b94b-160612b99738'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896653(v=MSDN.10)'
+ms.date: 16/05/2017
 ---
 
 Process Explorer v16.21

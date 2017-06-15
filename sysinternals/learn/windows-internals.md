@@ -3,6 +3,7 @@ TOCTitle: Windows Internals Book
 Title: Windows Internals Book
 ms:assetid: '11dfe484-4785-45a8-9b2f-863cdbd83be6'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963901(v=MSDN.10)'
+ms.date: 2/7/2017
 ---
 
 Windows Internals Book

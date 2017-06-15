@@ -3,6 +3,7 @@ TOCTitle: Autoruns
 Title: Autoruns for Windows
 ms:assetid: 'b13af0f4-f0a1-4cc5-b940-20be546c1179'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963902(v=MSDN.10)'
+ms.date: 16/05/2017
 ---
 
 Autoruns for Windows v13.71
