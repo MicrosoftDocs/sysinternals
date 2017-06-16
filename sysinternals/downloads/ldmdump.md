@@ -13,7 +13,7 @@ LDMDump v1.02
 
 Published: November 1, 2006
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LdmDump.zip [**Download LDMDump**](https://download.sysinternals.com/files/LdmDump.zip) **(43 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LdmDump.zip) [**Download LDMDump**](https://download.sysinternals.com/files/LdmDump.zip) **(43 KB)**
 
 
 ## Introduction
@@ -67,7 +67,7 @@ For more information on the LDM on-disk structure, see:
     2000 Magazine, April 2000.
 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LdmDump.zip [**Download LDMDump**](https://download.sysinternals.com/files/LdmDump.zip) **(43 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LdmDump.zip) [**Download LDMDump**](https://download.sysinternals.com/files/LdmDump.zip) **(43 KB)**
 
 **Runs on:**
 

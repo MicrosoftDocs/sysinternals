@@ -68,6 +68,9 @@ Use NTFSInfo to see detailed information about NTFS volumes,
 including the size and location of the Master File Table (MFT) and
 MFT-zone, as well as the sizes of the NTFS meta-data files.
 
+[PageDefrag](pagedefrag.md)  
+Defragment the Windows paging file and Registry hives.
+
 [PendMoves](pendmoves.md)  
 See what files are scheduled for delete or rename the next time the
 system boots.

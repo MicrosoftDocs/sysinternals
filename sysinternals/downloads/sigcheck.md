@@ -53,7 +53,7 @@ name|\*&gt;**
 |  **-q**      |       Quiet (no banner)|
 |  **-r**      |       Disable check for certificate revocation|
 |  **-s**      |       Recurse subdirectories|
-|  **-t\[u\]\[v|\]**   Dump contents of specified certificate store ('\*' for all stores).  |
+|  **-t\[u\]\[v\]** |  Dump contents of specified certificate store ('\*' for all stores).  |
 |              |       Specify -tu to query the user store (machine store is the default).  |
 |              |       Append '-v' to have Sigcheck download the trusted Microsoft root certificate list and only output valid certificates not rooted to a certificate on that list. If the site is not accessible, authrootstl.cab or authroot.stl in the current directory are used instead, if present.|
 |  **-u**      |       If VirusTotal check is enabled, show files that are unknown by VirusTotal or have non-zero detection, otherwise show only unsigned files.|
