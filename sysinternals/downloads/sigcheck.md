@@ -53,13 +53,13 @@ name|\*&gt;**
 |  **-q**      |       Quiet (no banner)|
 |  **-r**      |       Disable check for certificate revocation|
 |  **-s**      |       Recurse subdirectories|
-|  **-t\[u\]\[v\]** |  Dump contents of specified certificate store ('\*' for all stores).  |
-|              |       Specify -tu to query the user store (machine store is the default).  |
-|              |       Append '-v' to have Sigcheck download the trusted Microsoft root certificate list and only output valid certificates not rooted to a certificate on that list. If the site is not accessible, authrootstl.cab or authroot.stl in the current directory are used instead, if present.|
+|  **-t\[u\]\[v\]** |  Dump contents of specified certificate store ('\*' for all stores).  
+Specify -tu to query the user store (machine store is the default).  |
+Append '-v' to have Sigcheck download the trusted Microsoft root certificate list and only output valid certificates not rooted to a certificate on that list. If the site is not accessible, authrootstl.cab or authroot.stl in the current directory are used instead, if present.|
 |  **-u**      |       If VirusTotal check is enabled, show files that are unknown by VirusTotal or have non-zero detection, otherwise show only unsigned files.|
-|  **-v\[rs\]**|       Query VirusTotal ([www.virustotal.com](http://www.virustotal.com/)) for malware based on file hash.  |
-|              |       Add 'r' to open reports for files with non-zero detection.  |
-|              |       Files  reported as not previously scanned will be uploaded to VirusTotal if the 's' option is specified. Note scan results may not be available for five or more minutes.|
+|  **-v\[rs\]**|       Query VirusTotal ([www.virustotal.com](http://www.virustotal.com/)) for malware based on file hash.  
+Add 'r' to open reports for files with non-zero detection.  
+|Files  reported as not previously scanned will be uploaded to VirusTotal if the 's' option is specified. Note scan results may not be available for five or more minutes.|
 |  **-vt**     |       Before using VirusTotal features, you must accept VirusTotal terms of service. See: <https://www.virustotal.com/en/about/terms-of-service/> If you haven't accepted the terms and you omit this option, you will be interactively prompted.|
 
 One way to use the tool is to check for unsigned files in your
