@@ -3,6 +3,7 @@ TOCTitle: BlueScreen
 Title: BlueScreen
 ms:assetid: '2682b9a8-04c3-44ab-9a5c-71c8650b5a2e'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897558(v=MSDN.10)'
+ms.date: 11/01/2006
 ---
 
 BlueScreen Screen Saver v3.2
@@ -12,10 +13,7 @@ BlueScreen Screen Saver v3.2
 
 Published: November 1, 2006
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download BlueScreen (64
-KB)**](https://download.sysinternals.com/files/bluescreen.zip)
-
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BlueScreen.zip) [**Download BlueScreen**](https://download.sysinternals.com/files/BlueScreen.zip) **(64 KB)**
 
 ## Introduction
 
@@ -43,8 +41,6 @@ from the system Bluescreen is running on.
 
 Use Bluescreen to amaze your friends and scare your enemies!  
 
- 
-
 ## Installation and Use
 
 Note: before you can run Bluescreen on Windows 95 or 98, you must copy
@@ -57,8 +53,6 @@ pull down list to find "Sysinternals Bluescreen" and apply it as your
 new screen saver. Select the "Settings" button to enable fake disk
 activity, which adds an extra touch of realism!  
 
- 
-
 ## More Information
 
 You can find out how real Blue Screens are generated, and what the
@@ -70,33 +64,7 @@ the Blue Screen."*
 If this is the case with your virus scanner, you may not be able to use
 this screen saver.**
 
- 
-
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/bluescreen.zip)
-
-[**Download Bluescreen**  
-](https://download.sysinternals.com/files/bluescreen.zip)**(64 KB)**
-
- 
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/bluescreen.zip)
-
-[**Download Bluescreen**  
-](https://download.sysinternals.com/files/bluescreen.zip)**(64 KB)**
-
-  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BlueScreen.zip) [**Download BlueScreen**](https://download.sysinternals.com/files/BlueScreen.zip) **(64 KB)**
 
 **Runs on:**
 

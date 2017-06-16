@@ -3,6 +3,7 @@ TOCTitle: CacheSet
 Title: CacheSet
 ms:assetid: '1e957b54-014b-4ec9-9dbb-39b7ef6d5899'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897561(v=MSDN.10)'
+ms.date: 11/01/2006
 ---
 
 CacheSet v1.0
@@ -12,10 +13,7 @@ CacheSet v1.0
 
 Published: November 1, 2006
 
-**[![](/media/landing/sysinternals/download_sm.png)
- Download
-CacheSet](https://download.sysinternals.com/files/cacheset.zip)  
-(44 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(44 KB)**
 
 
 ## Introduction
@@ -37,7 +35,7 @@ the "Increase Quota" privilege (administrator accounts have this
 privilege by default). *CacheSet* has been updated to enable this
 privilege so that it works on SP4.
 
-![](/media/landing/sysinternals/CacheSet.gif)
+![CacheSet](/media/landing/sysinternals/CacheSet.gif)
 
 ## Installation and Use
 
@@ -102,39 +100,9 @@ cache). Passing in a minimum and maximum of -1 causes
 **MmAjustWorkingSetSize** to perform a working-set clear operation,
 releasing all pages from the application's working set.
 
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(44 KB)**
 
-[![No](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/cacheset.zip)
-
-[**Download CacheSet**  
-](https://download.sysinternals.com/files/cacheset.zip)**(44 KB)**
-
- 
-
-[**Run CacheSet**](https://live.sysinternals.com/cacheset.exe) now from
-Live.Sysinternals.com.
-
- 
-
-
-<div class="RightAdRail">
-
-
-## Download
-
-  
-
-[![No](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/cacheset.zip)
-
-[**Download CacheSet**  
-](https://download.sysinternals.com/files/cacheset.zip)**(44 KB)**
-
-  
-
-[**Run CacheSet**](https://live.sysinternals.com/cacheset.exe) now from
-Live.Sysinternals.com
+[**Run CacheSet**](https://live.sysinternals.com/Cacheset.exe) now from Live.Sysinternals.com
 
 **Runs on:**
 

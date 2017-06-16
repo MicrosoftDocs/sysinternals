@@ -3,6 +3,7 @@ TOCTitle: BgInfo
 Title: BgInfo
 ms:assetid: '07f90217-c972-4992-beb1-7fb6c685e9de'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897557(v=MSDN.10)'
+ms.date: 05/16/2017
 ---
 
 BgInfo v4.22
@@ -12,10 +13,7 @@ BgInfo v4.22
 
 Published: May 16, 2017
 
-![Download
-icon](/media/landing/sysinternals/download_sm.png)[**Download
-BgInfo**  
-](https://download.sysinternals.com/files/bginfo.zip)**(974 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip)] **(974 KB)**
 
 
 ## Introduction
@@ -37,10 +35,7 @@ other applications.
 
 **Sysinternals BgInfo**
 
-![BgInfo
-screenshot](/media/landing/sysinternals/BgInfo.jpg)  
-
- 
+![BgInfo screenshot](/media/landing/sysinternals/BgInfo.jpg)  
 
 ## Installation and Use
 
@@ -64,8 +59,7 @@ Settings** menu item) you can automatically import and use those
 settings on other systems by adding the **/I&lt;path&gt;** or
 **/iq&lt;path&gt;** command line option.
 
-![BgInfo default configuration
-screenshot](/media/landing/sysinternals/BGInfo-Dialog.jpg)
+![BgInfo default configuration](/media/landing/sysinternals/BGInfo-Dialog.jpg)
 
  
 
@@ -179,61 +173,23 @@ the limit is 16K, while on NT/2000/XP systems the limit is 64K.
 
 ## Command Line Options
 
- 
-------------------------- 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **&lt;path&gt;**          Specifies the name of a configuration file to use for the current session. Changes to the configuration are automatically saved back to the file when OK or Apply is pressed. If this parameter is not present *BGInfo* uses the default configuration information which is stored in the registry under the current user ("HKEY\_CURRENT\_USER\\Software\\Winternals\\*BGInfo*").
-  **/timer**                Specifies the timeout value for the countdown timer, in seconds. Specifying zero will update the display without displaying the configuration dialog. Specifying 300 seconds or longer disables the timer altogether.
-  **/popup**                Causes *BGInfo* to create a popup window containing the configured information without updating the desktop. The information is formatted exactly as it would if displayed on the desktop, but resides in a fitted window instead. When using this option the history database is not updated.
-  **/silent**               Suppresses error messages.
-  **/taskbar**              Causes *BGInfo* to place an icon in the taskbar's status area without updating the desktop. Clicking the icon causes the configured information to appear in a popup window. When using this option the history database is not updated.
-  **/all**                  Specifies that *BGInfo* should change the wallpaper for any and all users currently logged in to the system. This option is useful within a Terminal Services environment, or when *BGInfo* is scheduled to run periodically on a system used by more than one person (see Using a Schedule below).
-  **/log**                  Causes *BGInfo* to write errors to the specified log file instead of generating a warning dialog box. This is useful for tracking down errors that occur when *BGInfo* is run under the scheduler.
-  **/rtf**                  Causes *BGInfo* to write its output text to an RTF file. All formatting information and colors are included.
- 
-------------------------- 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
-[![Download
-icon](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/bginfo.zip)
-
-[**Download BgInfo**  
-](https://download.sysinternals.com/files/bginfo.zip)**(974 KB)**
-
- 
-
-[**Run BgInfo**](https://live.sysinternals.com/bginfo.exe) now from
-Live.Sysinternals.com
-
- 
+|Parameter  |Description  |
+|---------|---------|
+|  **&lt;path&gt;**       |   Specifies the name of a configuration file to use for the current session. Changes to the configuration are automatically saved back to the file when OK or Apply is pressed. If this parameter is not present *BGInfo* uses the default configuration information which is stored in the registry under the current user ("HKEY\_CURRENT\_USER\\Software\\Winternals\\*BGInfo*").|
+|  **/timer**             |   Specifies the timeout value for the countdown timer, in seconds. Specifying zero will update the display without displaying the configuration dialog. Specifying 300 seconds or longer disables the timer altogether.|
+|  **/popup**             |   Causes *BGInfo* to create a popup window containing the configured information without updating the desktop. The information is formatted exactly as it would if displayed on the desktop, but resides in a fitted window instead. When using this option the history database is not updated.|
+|  **/silent**            |   Suppresses error messages.|
+|  **/taskbar**           |   Causes *BGInfo* to place an icon in the taskbar's status area without updating the desktop. Clicking the icon causes the configured information to appear in a popup window. When using this option the history database is not updated.|
+|  **/all**               |   Specifies that *BGInfo* should change the wallpaper for any and all users currently logged in to the system. This option is useful within a Terminal Services environment, or when *BGInfo* is scheduled to run periodically on a system used by more than one person (see Using a Schedule below).|
+|  **/log**               |   Causes *BGInfo* to write errors to the specified log file instead of generating a warning dialog box. This is useful for tracking down errors that occur when *BGInfo* is run under the scheduler.|
+|  **/rtf**               |   Causes *BGInfo* to write its output text to an RTF file. All formatting information and colors are included.|
 
 
-<div class="RightAdRail">
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip)] **(974 KB)**
 
-<div>
-
-
-## Download
-
-  
-
-[![Download
-icon](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/bginfo.zip)
-
-[**Download BgInfo**  
-](https://download.sysinternals.com/files/bginfo.zip)**(974 KB)**
-
- 
-
-[**Run BgInfo**](https://live.sysinternals.com/bginfo.exe) now from
-Live.Sysinternals.com
+[**Run BgInfo**](https://live.sysinternals.com/Bginfo.exe) now from Live.Sysinternals.com
 
 **Runs on:**
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-

@@ -3,6 +3,7 @@ TOCTitle: Disk2vhd
 Title: Disk2vhd
 ms:assetid: 'd2c9597c-1927-4ddc-9ec1-9e0f33166f90'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Ee656415(v=MSDN.10)'
+ms.date: 01/21/2014
 ---
 
 Disk2vhd v2.01
@@ -12,10 +13,7 @@ Disk2vhd v2.01
 
 Published: January 21, 2014
 
-[![Download
-icon](/media/landing/sysinternals/download_sm.png)
- **Download Disk2vhd**  
-](https://download.sysinternals.com/files/disk2vhd.zip)**(879 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**
 
 
 ## Introduction
@@ -67,11 +65,8 @@ including x64 systems.
 Here's a screenshot of a copy of a Windows Server 2008 R2 Hyper-V system
 running in a virtual machine on top of the system it was made from:
 
-[![Windows Server 2008 R2 Hyper-V
-screenshot](/media/landing/sysinternals/Disk2vhd_02_sm.png "Disk2vhd")](/media/landing/sysinternals/disk2vhd_02.jpg)  
+[![Windows Server 2008 R2 Hyper-V](/media/landing/sysinternals/Disk2vhd_02_sm.png)](/media/landing/sysinternals/disk2vhd_02.jpg)  
 *(click image to zoom)*
-
- 
 
 ## Command Line Usage
 
@@ -92,51 +87,7 @@ drive letter (e.g. c:) or use "\*" to include all volumes.
 > (OEM) using OEM versions of these products may not be transferred to a
 > virtual hard drive in accordance with Microsoft licensing terms.*
 
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**
 
-[![Download
-icon](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/disk2vhd.zip)
-
-[**Download Disk2vhd**  
-](https://download.sysinternals.com/files/disk2vhd.zip)**(879 KB)**
-
- 
-
-[**Run Disk2vhd**](https://live.sysinternals.com/disk2vhd.exe) now from
-Live.Sysinternals.com.
-
-**Runs on:**
-
--   Client: Windows Vista and higher.
--   Server: Windows Server 2003 and higher.
-
- 
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-[![Download
-icon](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/disk2vhd.zip)
-
-[  
-**Download
-Disk2vhd**](https://download.sysinternals.com/files/disk2vhd.zip)  
-**(879 KB)**
-
-[**Run Disk2vhd**](https://live.sysinternals.com/disk2vhd.exe) now from
-Live.Sysinternals.com
-
-**Runs on:**
-
--   Client: Windows Vista and higher.
--   Server: Windows Server 2003 and higher.
-
-
+[**Run Disk2vhd**](https://live.sysinternals.com/Disk2vhd.exe) now from Live.Sysinternals.com.
 

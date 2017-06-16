@@ -3,6 +3,7 @@ TOCTitle: Contig
 Title: Contig
 ms:assetid: '33371252-c217-4fc7-8d74-f9f0e20e0597'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897428(v=MSDN.10)'
+ms.date: 07/04/2016
 ---
 
 Contig v1.8
@@ -12,9 +13,7 @@ Contig v1.8
 
 Published: July 4, 2016
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download Contig**  
-](https://download.sysinternals.com/files/contig.zip)**(241 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Contig.zip) [ **Download Contig**](https://download.sysinternals.com/files/Contig.zip) **(241 KB)**
 
 
 ## Introduction
@@ -52,20 +51,15 @@ to optimize execution of your frequently used files.
 **or \\src\\Contig\\Release\\Contig.exe \[-v\] \[-l\] -n \[new file\]
 \[new file length\]**
 
- 
--------- 
--------------------------------------------------------------------------------
-  **-a**   Analyze fragmentation
-  **-f**   Analyze free space fragmentation
-  **-l**   Set valid data length for quick file creation (requires administrator rights)
-  **-q**   Quiet mode
-  **-s**   Recurse subdirectories
-  **-v**   Verbose
- 
--------- 
--------------------------------------------------------------------------------
+|Parameter  |Description  |
+|---------|---------|
+|  **-a** |  Analyze fragmentation|
+|  **-f** |  Analyze free space fragmentation|
+|  **-l** |  Set valid data length for quick file creation (requires administrator rights)|
+|  **-q** |  Quiet mode|
+|  **-s** |  Recurse subdirectories|
+|  **-v** |  Verbose|
 
-  
 *Contig* can also analyze and defragment the following NTFS metadata
 files:
 
@@ -97,38 +91,8 @@ Object Manager name space, and Mark's October 1997 Windows NT Magazine
 column,*"Inside the Object Manager",* is (of course) an excellent
 overview.
 
-  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Contig.zip) [ **Download Contig**](https://download.sysinternals.com/files/Contig.zip) **(241 KB)**
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/contig.zip)
-
-[**Download Contig**  
-](https://download.sysinternals.com/files/contig.zip)**(241 KB)**
-
- 
-
-[**Run Contig**](https://live.sysinternals.com/contig.exe) now from
-Live.Sysinternals.com
-
-  
-
-
-<div>
-
-<div class="RightAdRail">
-
-
-## Download
-
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/contig.zip)
-
-[  
-**Download
-Contig**](https://download.sysinternals.com/files/contig.zip)  
-**(241 KB)**
-
-  
 **Runs on:**
 
 -   Client: Windows Vista and higher

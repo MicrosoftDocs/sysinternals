@@ -3,22 +3,17 @@ TOCTitle: DiskMon
 Title: DiskMon for Windows
 ms:assetid: 'f9e26786-be46-4276-a073-8764d4e9fba4'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896646(v=MSDN.10)'
+ms.date: 11/01/20106
 ---
 
 DiskMon for Windows v2.01
 =========================
 
-
 **By Mark Russinovich**
 
 Published: November 1, 2006
 
-**[![](/media/landing/sysinternals/download_sm.png)
- Download
-Diskmon](https://download.sysinternals.com/files/diskmon.zip)  
- (80 KB)**
-
-
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DiskMon.zip) [**Download Diskmon**](https://download.sysinternals.com/files/DiskMon.zip) **(80 KB)**
 
 ## Introduction
 
@@ -52,7 +47,7 @@ stamped with the absolute time that they were initiated. The History
 Depth dialog can be used to specify the maximum number of records that
 will be kept in the GUI (0 signifies no limit).
 
-![](/media/landing/sysinternals/DiskMon.gif)
+![DiskMon](/media/landing/sysinternals/DiskMon.gif)
 
 ## Implementation
 
@@ -60,17 +55,6 @@ will be kept in the GUI (0 signifies no limit).
 Microsoft Platform SDK and the SDK contains source code to TraceDmp, on
 which *DiskMon* is based.
 
-[  
-![No](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/diskmon.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DiskMon.zip) [**Download Diskmon**](https://download.sysinternals.com/files/DiskMon.zip) **(80 KB)** 
 
-[**Download Diskmon**  
-](https://download.sysinternals.com/files/diskmon.zip)**(80 KB)**
-
- 
-
-[**Run Diskmon**](https://live.sysinternals.com/diskmon.exe) now from
-Live.Sysinternals.com
-
-  
-
+[**Run Diskmon**](https://live.sysinternals.com/Diskmon.exe) now from Live.Sysinternals.com
