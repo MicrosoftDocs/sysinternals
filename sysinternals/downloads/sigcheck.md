@@ -3,6 +3,7 @@ TOCTitle: Sigcheck
 Title: Sigcheck
 ms:assetid: 'fe633cd0-b369-4ca5-a9ae-c64e2d52acac'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897441(v=MSDN.10)'
+ms.date: 05/22/2017
 ---
 
 Sigcheck v2.55
@@ -12,10 +13,7 @@ Sigcheck v2.55
 
 Published: May 22, 2017
 
-**[![](/media/landing/sysinternals/download_sm.png)
- Download
-Sigcheck](https://download.sysinternals.com/files/sigcheck.zip) (514
-KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(514 KB)**
 
 
 ## Introduction
@@ -38,53 +36,31 @@ catalog file\] &lt;file or directory&gt;**
 **usage: sigcheck -t\[u\]\[v\] \[-i\] \[-c|-ct\] &lt;certificate store
 name|\*&gt;**
 
- 
------------------- 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **-a**             Show extended version information. The entropy measure reported is the bits per byte of information of the file's contents.
-
-  **-c**             CSV output with comma delimiter
-
-  **-ct**            CSV output with tab delimiter
-
-  **-d**             Dump contents of a catalog file
-
-  **-e**             Scan executable images only (regardless of their extension)
-
-  **-f**             Look for signature in the specified catalog file
-
-  **-h**             Show file hashes
-
-  **-i**             Show catalog name and signing chain
-
-  **-l**             Traverse symbolic links and directory junctions
-
-  **-m**             Dump manifest
-
-  **-n**             Only show file version number
-
-  **-o**             Performs Virus Total lookups of hashes captured in a CSV file previously captured by Sighcheck when using the -h option. This usage is intended for scans of offline systems.
-
-  **-q**             Quiet (no banner)
-
-  **-r**             Disable check for certificate revocation
-
-  **-s**             Recurse subdirectories
-
-  **-t\[u\]\[v\]**   Dump contents of specified certificate store ('\*' for all stores).  
-                     Specify -tu to query the user store (machine store is the default).  
-                     Append '-v' to have Sigcheck download the trusted Microsoft root certificate list and only output valid certificates not rooted to a certificate on that list. If the site is not accessible, authrootstl.cab or authroot.stl in the current directory are used instead, if present.
-
-  **-u**             If VirusTotal check is enabled, show files that are unknown by VirusTotal or have non-zero detection, otherwise show only unsigned files.
-
-  **-v\[rs\]**       Query VirusTotal ([www.virustotal.com](http://www.virustotal.com/)) for malware based on file hash.  
-                     Add 'r' to open reports for files with non-zero detection.  
-                     Files  reported as not previously scanned will be uploaded to VirusTotal if the 's' option is specified. Note scan results may not be available for five or more minutes.
-
-  **-vt**            Before using VirusTotal features, you must accept VirusTotal terms of service. See: <https://www.virustotal.com/en/about/terms-of-service/> If you haven't accepted the terms and you omit this option, you will be interactively prompted.
- 
------------------- 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Parameter  |Description  |
+|---------|---------|
+|  **-a**      |       Show extended version information. The entropy measure reported is the bits per byte of information of the file's contents.|
+|  **-c**      |       CSV output with comma delimiter|
+|  **-ct**     |       CSV output with tab delimiter|
+|  **-d**      |       Dump contents of a catalog file|
+|  **-e**      |       Scan executable images only (regardless of their extension)|
+|  **-f**      |       Look for signature in the specified catalog file|
+|  **-h**      |       Show file hashes|
+|  **-i**      |       Show catalog name and signing chain|
+|  **-l**      |       Traverse symbolic links and directory junctions|
+|  **-m**      |       Dump manifest|
+|  **-n**      |       Only show file version number|
+|  **-o**      |       Performs Virus Total lookups of hashes captured in a CSV file previously captured by Sighcheck when using the -h option. This usage is intended for scans of offline systems.|
+|  **-q**      |       Quiet (no banner)|
+|  **-r**      |       Disable check for certificate revocation|
+|  **-s**      |       Recurse subdirectories|
+|  **-t\[u\]\[v|\]**   Dump contents of specified certificate store ('\*' for all stores).  |
+|              |       Specify -tu to query the user store (machine store is the default).  |
+|              |       Append '-v' to have Sigcheck download the trusted Microsoft root certificate list and only output valid certificates not rooted to a certificate on that list. If the site is not accessible, authrootstl.cab or authroot.stl in the current directory are used instead, if present.|
+|  **-u**      |       If VirusTotal check is enabled, show files that are unknown by VirusTotal or have non-zero detection, otherwise show only unsigned files.|
+|  **-v\[rs\]**|       Query VirusTotal ([www.virustotal.com](http://www.virustotal.com/)) for malware based on file hash.  |
+|              |       Add 'r' to open reports for files with non-zero detection.  |
+|              |       Files  reported as not previously scanned will be uploaded to VirusTotal if the 's' option is specified. Note scan results may not be available for five or more minutes.|
+|  **-vt**     |       Before using VirusTotal features, you must accept VirusTotal terms of service. See: <https://www.virustotal.com/en/about/terms-of-service/> If you haven't accepted the terms and you omit this option, you will be interactively prompted.|
 
 One way to use the tool is to check for unsigned files in your
 \\Windows\\System32 directories with this command:
@@ -92,37 +68,14 @@ One way to use the tool is to check for unsigned files in your
 **sigcheck -u -e c:\\windows\\system32**
 
 You should investigate the purpose of any files that are not signed.  
-  
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/sigcheck.zip)
-
-[**Download Sigcheck**  
-](https://download.sysinternals.com/files/sigcheck.zip)**(514 KB)**
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/sigcheck.zip)
-
-[**Download Sigcheck**  
-](https://download.sysinternals.com/files/sigcheck.zip)**(514 KB)**
-
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(514 KB)**
 
 **Runs on:**
 
 -   Client: Windows Vista and higher
 -   Server: Windows Server 2008 and higher
 -   Nano Server: 2016 and higher
-
-
 
 ## Learn More
 

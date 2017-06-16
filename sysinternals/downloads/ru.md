@@ -50,7 +50,7 @@ CSV output is formatted as:
 
 Path,CurrentValueCount,CurrentValueSize,ValueCount,KeyCount,KeySize,WriteTime
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
+[![Download](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/ru.zip)
 
 [**Download RU**  

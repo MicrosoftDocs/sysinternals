@@ -31,7 +31,7 @@ active instances.
 
  
 
-[![No](/media/landing/sysinternals/download_sm.png "Download")
+[![No](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/pipelist.zip)
 
 [**Download PipeList**  
@@ -50,7 +50,7 @@ active instances.
 
   
 
-[![No](/media/landing/sysinternals/download_sm.png "Download")
+[![No](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/pipelist.zip)
 
 [**Download PipeList**  

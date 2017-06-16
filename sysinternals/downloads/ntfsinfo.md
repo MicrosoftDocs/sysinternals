@@ -3,6 +3,7 @@ TOCTitle: NTFSInfo
 Title: NTFSInfo
 ms:assetid: 'a0e927ac-8cca-409b-bb5c-f93567b65ea7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897424(v=MSDN.10)'
+ms.date: 07/04/2016
 ---
 
 NTFSInfo v1.2
@@ -12,11 +13,7 @@ NTFSInfo v1.2
 
 Published: July 4, 2016
 
-**[![](/media/landing/sysinternals/download_sm.png)
- Download
-NTFSInfo](https://download.sysinternals.com/files/ntfsinfo.zip) (143
-KB)**
-
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NTFSInfo.zip) [**Download NTFSInfo**](https://download.sysinternals.com/files/NTFSInfo.zip) **(143 KB)**
 
 ## Introduction
 
@@ -61,13 +58,9 @@ privilege.
 
 **Usage: NTFSInfo x**
 
- 
-------- 
----------------------------------------------------------------
-  **x**   The drive letter of the NTFS volume that you want to examine.
- 
-------- 
----------------------------------------------------------------
+|Parameter  |Description  |
+|---------|---------|
+|  **x**  | The drive letter of the NTFS volume that you want to examine.|
 
 ## How It Works
 
@@ -75,31 +68,7 @@ privilege.
 obtain information from NTFS about a volume. It prints this information
 along with a directory dump of NTFS meta-data files.
 
- 
-
-[![No](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/ntfsinfo.zip)
-
-[**Download NTFSInfo**  
-](https://download.sysinternals.com/files/ntfsinfo.zip)** (143 KB)**
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![No](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/ntfsinfo.zip)
-
-[**Download NTFSInfo**  
-](https://download.sysinternals.com/files/ntfsinfo.zip)**(143 KB)**
-
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NTFSInfo.zip) [**Download NTFSInfo**](https://download.sysinternals.com/files/NTFSInfo.zip) **(143 KB)**
 
 **Runs on:**
 

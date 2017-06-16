@@ -3,6 +3,7 @@ TOCTitle: SDelete
 Title: SDelete
 ms:assetid: '5cc3991b-5a50-4784-a795-185e4ac84603'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897443(v=MSDN.10)'
+ms.date: 07/04/2016
 ---
 
 SDelete v2.0
@@ -12,10 +13,7 @@ SDelete v2.0
 
 Published: July 4, 2016
 
-[![Download
-icon](/media/landing/sysinternals/download_sm.png)
- **Download SDelete**  
-](https://download.sysinternals.com/files/sdelete.zip)**(151 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(151 KB)**
 
 
 ## Introduction
@@ -63,21 +61,15 @@ accepts wild card characters as part of the directory or file specifier.
 ...**  
 **sdelete \[-p passes\] \[-z|-c\] \[drive letter\] ...**
 
- 
------------------- 
--------------------------------------------------------
-  **-a**             Remove Read-Only attribute.
-  **-c**             Clean free space.
-  **-p passes**      Specifies number of overwrite passes (default is 1).
-  **-q**             Don't print errors (Quiet).
-  **-s** or **-r**   Recurse subdirectories.
-  **-z**             Zero free space (good for virtual disk optimization).
- 
------------------- 
--------------------------------------------------------
+|Parameter  |Description  |
+|---------|---------|
+|  **-a**           |  Remove Read-Only attribute.|
+|  **-c**           |  Clean free space.|
+|  **-p passes**    |  Specifies number of overwrite passes (default is 1).|
+|  **-q**           |  Don't print errors (Quiet).|
+|  **-s** or **-r** |  Recurse subdirectories.|
+|  **-z**           |  Zero free space (good for virtual disk optimization).|
 
-
- 
 
 ## How SDelete Works
 
@@ -161,33 +153,8 @@ space containing deleted file names, but the free directory space is not
 available for allocation to other files. Hence, *SDelete* has no way of
 allocating this free space so that it can securely overwrite it.
 
-  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(151 KB)**
 
-[![Download
-icon](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/sdelete.zip)
-
-[**Download SDelete**  
-](https://download.sysinternals.com/files/sdelete.zip)**(151 KB)**
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-[![Download
-icon](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/sdelete.zip)
-
-[  
-**Download
-SDelete**](https://download.sysinternals.com/files/sdelete.zip)  
-**(151 KB)**
-
-  
 **Runs on:**
 
 -   Client: Windows Vista and higher

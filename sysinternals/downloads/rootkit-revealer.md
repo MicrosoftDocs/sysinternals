@@ -346,7 +346,7 @@ architecture is helpful to understanding rootkits).
 
  
 
-[![No](/media/landing/sysinternals/download_sm.png "Download")
+[![No](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/rootkitrevealer.zip)
 
 [**Download RootkitRevealer**  

@@ -3,6 +3,7 @@ TOCTitle: PsFile
 Title: PsFile
 ms:assetid: '01e9104e-4b10-4fec-a69d-a521dcc1b1e3'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897552(v=MSDN.10)'
+ms.date: 06/29/2016
 ---
 
 PsFile v1.03
@@ -12,9 +13,7 @@ PsFile v1.03
 
 Published: June 29, 2016
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download PsTools (1.6
-MB)**](https://download.sysinternals.com/files/pstools.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(1.6 MB)**
 
 
 ## Introduction
@@ -40,28 +39,16 @@ system that are open by remote systems. Typing a command followed by "-
 **Usage: psfile \[\\\\RemoteComputer \[-u Username \[-p Password\]\]\]
 \[\[Id | path\] \[-c\]\]**
 
- 
----------- 
------------------------------------------------------------------------------------------------------------------------------------------
-  **-u**     Specifies optional user name for login to remote computer.
-  **-p**     Specifies password for user name. If this is omitted, you will be prompted to enter the password without it being echoed to the screen.
-  **Id**     Identifier (as assigned by PsFile) of the file for which to display information or to close.
-  **Path**   Full or partial path of files to match for information display or close.
-  **-c**     Closes the files identifed by ID or path.
- 
----------- 
------------------------------------------------------------------------------------------------------------------------------------------
-
- 
+|Parameter  |Description  |
+|---------|---------|
+|  **-u** |    Specifies optional user name for login to remote computer.|
+|  **-p** |    Specifies password for user name. If this is omitted, you will be prompted to enter the password without it being echoed to the screen.|
+|  **Id** |    Identifier (as assigned by PsFile) of the file for which to display information or to close.|
+|  **Path** |  Full or partial path of files to match for information display or close.|
+|  **-c**  |   Closes the files identifed by ID or path.|
 
 ## How it Works
 
 *PsFile* uses the NET API, which is documented in the Platform SDK.
-
  
-
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/pstools.zip)
-
-[**Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1.6 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(1.6 MB)**

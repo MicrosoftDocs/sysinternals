@@ -3,7 +3,7 @@ TOCTitle: Process Explorer
 Title: Process Explorer
 ms:assetid: '32cbeee6-4335-44d5-b94b-160612b99738'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896653(v=MSDN.10)'
-ms.date: 16/05/2017
+ms.date: 05/16/2017
 ---
 
 Process Explorer v16.21
@@ -13,12 +13,7 @@ Process Explorer v16.21
 
 Published: May 16, 2017
 
-**[![Download
-icon](/media/landing/sysinternals/download_sm.png)
- Download Process
-Explorer](https://download.sysinternals.com/files/processexplorer.zip)
-(1.8 MB)**
-
+**[![Download](/media/landing/sysinternals/download_sm.png) Download Process Explorer](https://download.sysinternals.com/files/processexplorer.zip) (1.8 MB)**
 
 ## Introduction
 
@@ -47,8 +42,6 @@ screenshot](/media/landing/sysinternals/processexplorer.jpg)
 ![System Information
 screenshot](/media/landing/sysinternals/processexplorer2.jpg)  
 
-
-
 ## Related Links
 
 -   [Windows Internals
@@ -62,50 +55,15 @@ screenshot](/media/landing/sysinternals/processexplorer2.jpg)
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
 
-
-
 ## Download 
 
-[![Download
-icon](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/processexplorer.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/processexplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/processexplorer.zip) **(1.8 MB)**
 
-[**Download Process Explorer**  
-](https://download.sysinternals.com/files/processexplorer.zip)**(1.8
-MB)**
-
- 
-
-[**Run Process Explorer**](https://live.sysinternals.com/procexp.exe)
-now from Live.Sysinternals.com
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-[![Download
-icon](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/processexplorer.zip)
-
-[  
-**Download Process
-Explorer**](https://download.sysinternals.com/files/processexplorer.zip)  
-**(1.8 MB)**
-
-[  
-**Run Process Explorer**](https://live.sysinternals.com/procexp.exe) now
-from Live.Sysinternals.com
+[**Run Process Explorer**](https://live.sysinternals.com/procexp.exe) now from Live.Sysinternals.com
 
 **Runs on:**
-
 -   Client: Windows Vista and higher (Including IA64).
 -   Server: Windows Server 2008 and higher (Including IA64).
-
-
 
 ## Installation
 
@@ -143,6 +101,3 @@ available at Sysinternals:
     More](https://channel9.msdn.com/events/teched/northamerica/2010/wcl314)  
     Process Explorer gets a lot of attention in the first Sysinternals
     Primer delivered by Aaron Margosis and Tim Reckmeyer at TechEd 2010.
-
-
-

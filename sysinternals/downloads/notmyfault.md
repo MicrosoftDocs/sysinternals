@@ -71,7 +71,7 @@ Or  **notmyfaultc.exe hang hang\_type\_num**
 
  
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
+[![Download](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/notmyfault.zip)
 
 [**Download NotMyFault**  

@@ -52,7 +52,7 @@ ProcExp64.exe 13116: cmd.exe 17100: conhost.exe 6716: logonsessions.exe
 
  
 
-[![No](/media/landing/sysinternals/download_sm.png "Download")
+[![No](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/logonsessions.zip)
 
 [**Download Logonsessions**  
@@ -69,7 +69,7 @@ ProcExp64.exe 13116: cmd.exe 17100: conhost.exe 6716: logonsessions.exe
 
   
 
-[![No](/media/landing/sysinternals/download_sm.png "Download")
+[![No](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/logonsessions.zip)
 
 [**Download Logonsessions**  

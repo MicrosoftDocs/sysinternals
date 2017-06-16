@@ -3,6 +3,7 @@ TOCTitle: LDMDump
 Title: 'LDMDump v1.02'
 ms:assetid: '2767f738-9f1d-4eb0-8c75-4287b7ca0e13'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897413(v=MSDN.10)'
+ms.date: 11/01/2016
 ---
 
 LDMDump v1.02
@@ -12,9 +13,7 @@ LDMDump v1.02
 
 Published: November 1, 2006
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download LDMDump (43
-KB)**](https://download.sysinternals.com/files/ldmdump.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LdmDump.zip [**Download LDMDump**](https://download.sysinternals.com/files/LdmDump.zip) **(43 KB)**
 
 
 ## Introduction
@@ -45,16 +44,10 @@ To use *LDMDump* simply pass it the identifier of a disk.
 
 **Usage: ldmdump \[- \] \[-d\#\]**
 
- 
----------- 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-  **-**      Displays the supported options and the units of measurement used for output values.
-  **-d\#**   Specifies the number of the disk for *LDMDump* to examine. For example, "ldmdump /d0" has *LDMDump* show the LDM database information stored on disk 0.
- 
----------- 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
+|Parameter  |Description  |
+|---------|---------|
+|  **-**  |    Displays the supported options and the units of measurement used for output values.|
+|  **-d\#** |  Specifies the number of the disk for *LDMDump* to examine. For example, "ldmdump /d0" has *LDMDump* show the LDM database information stored on disk 0.|
 
 ## How it Works
 
@@ -73,34 +66,8 @@ For more information on the LDM on-disk structure, see:
 -   *Inside Storage Management, Part 2*, by Mark Russinovich, Windows
     2000 Magazine, April 2000.
 
-For information on how Windows NT 4.0 stores advanced volume
-information, see:
 
--   [Inside the Disk Key](https://technet.microsoft.com/a55d8f75-a003-43d9-abce-599c0235fcbc)
-
- 
-
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-  
-**Download LDMDump (43
-KB)**](https://download.sysinternals.com/files/ldmdump.zip)
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-  
-**Download LDMDump (43
-KB)**](https://download.sysinternals.com/files/ldmdump.zip)
-
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LdmDump.zip [**Download LDMDump**](https://download.sysinternals.com/files/LdmDump.zip) **(43 KB)**
 
 **Runs on:**
 

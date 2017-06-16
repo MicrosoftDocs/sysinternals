@@ -161,7 +161,7 @@ program has created a null-embedded key:
 
   
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
+[![Download](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/regdelnull.zip)
 
 [**Download Regdelnull**  
@@ -179,7 +179,7 @@ program has created a null-embedded key:
 
   
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
+[![Download](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/regdelnull.zip)
 
 [**Download Regdelnull**  

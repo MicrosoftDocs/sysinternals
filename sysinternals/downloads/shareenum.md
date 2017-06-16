@@ -3,6 +3,7 @@ TOCTitle: ShareEnum
 Title: ShareEnum
 ms:assetid: '03257fd3-88a5-44f8-8447-2d0055930c47'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897442(v=MSDN.10)'
+ms.date: 11/01/2006
 ---
 
 ShareEnum v1.6
@@ -12,10 +13,7 @@ ShareEnum v1.6
 
 Published: November 1, 2006
 
-**[![](/media/landing/sysinternals/download_sm.png)
- Download
-ShareEnum](https://download.sysinternals.com/files/shareenum.zip)  
-(94 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ShareEnum.zip) [**Download ShareEnum**](https://download.sysinternals.com/files/ShareEnum.zip) **(94 KB)**
 
 
 ## Introduction
@@ -40,36 +38,9 @@ ShareEnum uses **WNetEnumResource** to enumerate domains and the
 computers within them and **NetShareEnum** to enumerate shares on
 computers.
 
-  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ShareEnum.zip) [**Download ShareEnum**](https://download.sysinternals.com/files/ShareEnum.zip) **(94 KB)**
 
-[![No](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/shareenum.zip)
-
-[**Download ShareEnum**  
-](https://download.sysinternals.com/files/shareenum.zip)**(94 KB)**
-
-[**Run ShareEnum**](https://live.sysinternals.com/shareenum.exe) now
-from Live.Sysinternals.com
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![No](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/shareenum.zip)
-
-[**Download ShareEnum**  
-](https://download.sysinternals.com/files/shareenum.zip)**(94 KB)**
-
- 
-
-[**Run ShareEnum**](https://live.sysinternals.com/shareenum.exe) now
+[**Run ShareEnum**](https://live.sysinternals.com/ShareEnum.exe) now
 from Live.Sysinternals.com
 
 **Runs on:**

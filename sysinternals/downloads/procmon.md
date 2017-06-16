@@ -3,7 +3,7 @@ TOCTitle: Process Monitor
 Title: Process Monitor
 ms:assetid: '37225635-4ad0-4b08-aa5e-4bba665b1d89'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896645(v=MSDN.10)'
-ms.date: 16/05/2017
+ms.date: 05/16/2017
 ---
 
 Process Monitor v3.33
@@ -13,17 +13,11 @@ Process Monitor v3.33
 
 Published: May 16, 2017
 
-![Download
-icon](/media/landing/sysinternals/download_sm.png)[**Download
-Process Monitor**  
-](https://download.sysinternals.com/files/processmonitor.zip)**(981
-KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(981 KB)**
 
 
 Introduction
 ------------
-
-
 
 *Process Monitor* is an advanced monitoring tool for Windows that shows
 real-time file system, Registry and process/thread activity. It combines
@@ -69,13 +63,9 @@ options on a live system.
 
 ## Screenshots
 
-![Process Monitor
-screenshot](/media/landing/sysinternals/procmon-main.gif)  
+![Process Monitor screenshot](/media/landing/sysinternals/procmon-main.gif)  
 
-![Event Properties
-screenshot](/media/landing/sysinternals/procmon-proc.gif)  
-
-
+![Event Properties screenshot](/media/landing/sysinternals/procmon-proc.gif)  
 
 ## Related Links
 
@@ -90,21 +80,11 @@ screenshot](/media/landing/sysinternals/procmon-proc.gif)
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
 
-
-
 ## Download 
 
-[![Download
-icon](/media/landing/sysinternals/download_sm.png)
-](https://download.sysinternals.com/files/processmonitor.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(981 KB)**
 
-[**Download Process Monitor**  
-](https://download.sysinternals.com/files/processmonitor.zip)**(981
-KB)**
-
- 
-
-[**Run Process Monitor**](https://live.sysinternals.com/procmon.exe) now
+[**Run Process Monitor**](https://live.sysinternals.com/Procmon.exe) now
 from Live.Sysinternals.com
 
 **Runs on:**

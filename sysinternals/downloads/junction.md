@@ -3,6 +3,7 @@ TOCTitle: Junction
 Title: Junction
 ms:assetid: '16f763c0-cb78-4d67-a865-63e79bef0c58'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896768(v=MSDN.10)'
+ms.date: 07/04/2016
 ---
 
 Junction v1.07
@@ -12,10 +13,7 @@ Junction v1.07
 
 Published: July 4, 2016
 
-**[![](/media/landing/sysinternals/download_sm.png)
- Download
-Junction](https://download.sysinternals.com/files/junction.zip)  
-(212 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(212 KB)**
 
 
 ## Introduction
@@ -39,13 +37,7 @@ Please read this [Microsoft KB
 article](http://support.microsoft.com/?kbid=205524) for tips on using
 junctions.
 
-***Note**that Windows does not support junctions to directories on
-remote shares.*
-
-If you want to view reparse information, the usage for *Junction* is the
-following:
-
- 
+> Windows does not support junctions to directories on remote shares.
 
 ## Using Junction
 
@@ -53,7 +45,9 @@ Use junction to list junctions:
 
 **Usage: \[-s\]**
 
-**-s    **Recurse subdirectories
+|Parameter  |Description  |
+|---------|---------|
+| **-s**  | Recurse subdirectories |
 
 **Examples:**
 
@@ -75,34 +69,9 @@ To delete a junction, use the –d switch:
 
 **junction -d c:\\Program-Files**
 
-  
 
-[![No](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/junction.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(212 KB)**
 
-[**Download Junction**  
-](https://download.sysinternals.com/files/junction.zip)**(212 KB)**
-
-  
-  
-
-
-<div>
-
-<div class="RightAdRail">
-
-
-## Download
-
-[![No](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/junction.zip)
-
-[  
-**Download
-Junction**](https://download.sysinternals.com/files/junction.zip)  
-**(212 KB)**
-
-  
 **Runs on:**
 
 -   Client: Windows Vista and higher

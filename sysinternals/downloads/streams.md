@@ -3,6 +3,7 @@ TOCTitle: Streams
 Title: Streams
 ms:assetid: '5e6c8d3a-0865-4e4d-9f23-bd4c431a27c3'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897440(v=MSDN.10)'
+ms.date: 07/04/2016
 ---
 
 Streams v1.6
@@ -12,9 +13,7 @@ Streams v1.6
 
 Published: July 4, 2016
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download Streams (140
-KB)**](https://download.sysinternals.com/files/streams.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Streams.zip) [**Download Streams**](https://download.sysinternals.com/files/Streams.zip) **(140 KB)**
 
 
 ## Introduction
@@ -46,40 +45,12 @@ information.
 
 **Usage: streams \[-s\] \[-d\] &lt;file or directory&gt;**
 
- 
--------- 
-------------------------------------------------
-  **-s**   Recurse subdirectories.
-
-  **-d**   Delete streams.  
-           Streams takes wildcards e.g. 'streams \*.txt'.
- 
--------- 
-------------------------------------------------
-
- 
-
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/streams.zip)
-
-[**Download Streams**  
-](https://download.sysinternals.com/files/streams.zip)**(140 KB)**
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/streams.zip)
-
-[**Download Streams**  
-](https://download.sysinternals.com/files/streams.zip)**(140 KB)**
+|Parameter  |Description  |
+|---------|---------|
+|  **-s** |  Recurse subdirectories.|
+|  **-d** |  Delete streams.  
+           Streams takes wildcards e.g. 'streams \*.txt'.|
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Streams.zip) [**Download Streams**](https://download.sysinternals.com/files/Streams.zip) **(140 KB)**
 
 **Runs on:**
 

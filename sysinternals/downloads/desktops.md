@@ -71,7 +71,7 @@ Tray Desktop Switch Window
  
 
 [![Download
-icon](/media/landing/sysinternals/download_sm.png "Download")
+icon](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/desktops.zip)
 
 [**Download Desktops**  
@@ -92,7 +92,7 @@ Live.Sysinternals.com
   
 
 [![Download
-icon](/media/landing/sysinternals/download_sm.png "Download")
+icon](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/desktops.zip)
 
 [**Download Desktops**  

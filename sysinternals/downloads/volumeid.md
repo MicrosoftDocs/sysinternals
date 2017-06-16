@@ -3,6 +3,7 @@ TOCTitle: VolumeID
 Title: VolumeID
 ms:assetid: '2073ab9a-ad2e-4c86-96b9-4b4d520b8a1d'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897436(v=MSDN.10)'
+ms.date: 07/04/2016
 ---
 
 VolumeID v2.1
@@ -12,9 +13,7 @@ VolumeID v2.1
 
 Published: July 4, 2016
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download VolumeID (194
-KB)**](https://download.sysinternals.com/files/volumeid.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VolumeId.zip) [**Download VolumeID**](https://download.sysinternals.com/files/VolumeId.zip) **(194 KB)**
 
 
 ## Introduction
@@ -37,31 +36,7 @@ pop up messages indicating that you should reinsert the original disk
 (!). It may then fail the disk requests of applications using those
 drives.
 
- 
-
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/volumeid.zip)
-
-[**Download VolumeID**  
-](https://download.sysinternals.com/files/volumeid.zip)**(194 KB)**
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
-](https://download.sysinternals.com/files/volumeid.zip)
-
-[**Download VolumeID**  
-](https://download.sysinternals.com/files/volumeid.zip)**(194 KB)**
-
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VolumeId.zip) [**Download VolumeID**](https://download.sysinternals.com/files/VolumeId.zip) **(194 KB)**
 
 **Runs on:**
 

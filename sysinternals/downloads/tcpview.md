@@ -87,7 +87,7 @@ Try to Start a Web Site](http://support.microsoft.com/kb/816944)
  
 
 [![Download
-icon](/media/landing/sysinternals/download_sm.png "Download")
+icon](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/tcpview.zip)
 
 [**Download TCPView**  
@@ -107,7 +107,7 @@ Live.Sysinternals.com
 ## Download
 
 [![Download
-icon](/media/landing/sysinternals/download_sm.png "Download")
+icon](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/tcpview.zip)
 
 [  

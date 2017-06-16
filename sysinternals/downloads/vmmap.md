@@ -62,7 +62,7 @@ optimize their application's memory resource usage.
 
 ## Download
 
-[![No](/media/landing/sysinternals/download_sm.png "Download")
+[![No](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/vmmap.zip)
 
 [**Download VMMap**  
@@ -81,7 +81,7 @@ Live.Sysinternals.com
 
 ## Download
 
-[![No](/media/landing/sysinternals/download_sm.png "Download")
+[![No](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/vmmap.zip)  
 
 [**Download VMMap**  

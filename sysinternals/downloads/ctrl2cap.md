@@ -87,7 +87,7 @@ output), here are sources to check out:
 
  
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
+[![Download](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/ctrl2cap.zip)
 
 [**Download Ctrl2cap**  
@@ -105,7 +105,7 @@ output), here are sources to check out:
 
   
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
+[![Download](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/ctrl2cap.zip)
 
 [**Download Ctrl2cap**  

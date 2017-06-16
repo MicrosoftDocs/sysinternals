@@ -39,7 +39,7 @@ address (e.g. 66.193.254.46).
 
  
 
-[![dn](/media/landing/sysinternals/download_sm.png "Download")
+[![dn](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/whois.zip)
 
 [**Download Whois**  
@@ -59,7 +59,7 @@ address (e.g. 66.193.254.46).
 
   
 
-[![dn](/media/landing/sysinternals/download_sm.png "Download")
+[![dn](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/whois.zip)
 
 [**Download Whois**  

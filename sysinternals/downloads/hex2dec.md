@@ -33,7 +33,7 @@ e.g. To translate 0x1233 hexadecimal to decimal: hex2dec 0x1233
 
   
 
-[![No](/media/landing/sysinternals/download_sm.png "Download")
+[![No](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/hex2dec.zip)
 
 [**Download Hex2dec**  
@@ -51,7 +51,7 @@ e.g. To translate 0x1233 hexadecimal to decimal: hex2dec 0x1233
 
   
 
-[![No](/media/landing/sysinternals/download_sm.png "Download")
+[![No](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/hex2dec.zip)
 
 [**Download Hex2dec**  

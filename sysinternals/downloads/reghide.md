@@ -31,7 +31,7 @@ Native API, but that cannot be described using the Win32 API.
 
  
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
+[![Download](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/reghide.zip)
 
 [**Download Reghide**  

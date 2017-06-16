@@ -453,7 +453,7 @@ iexplore.exe in their name.
 
 ## Download
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
+[![Download](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/sysmon.zip)
 
 [**Download Sysmon**  

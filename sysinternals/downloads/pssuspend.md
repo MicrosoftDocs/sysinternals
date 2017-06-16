@@ -66,7 +66,7 @@ password\]\] &lt;process name | process id&gt;**
 that aid in the adminstration of local and remote systems named
 *PsTools*.
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
+[![Download](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/pstools.zip)
 
 [**Download PsTools**  
@@ -84,7 +84,7 @@ that aid in the adminstration of local and remote systems named
 
   
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
+[![Download](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/pstools.zip)
 
 [**Download PsTools**  

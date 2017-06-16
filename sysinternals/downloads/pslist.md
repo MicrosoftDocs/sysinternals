@@ -79,7 +79,7 @@ All memory values are displayed in KB.
 
   
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
+[![Download](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/pstools.zip)
 
 [**Download PsTools**  
@@ -97,7 +97,7 @@ All memory values are displayed in KB.
 
   
 
-[![Download](/media/landing/sysinternals/download_sm.png "Download")
+[![Download](/media/landing/sysinternals/download_sm.png
 ](https://download.sysinternals.com/files/pstools.zip)
 
 [**Download PsTools**  
