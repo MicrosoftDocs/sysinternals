@@ -3,6 +3,7 @@ TOCTitle: ListDLLs
 Title: ListDLLs
 ms:assetid: 'b4a511a2-c7d8-4fda-9319-8048718a09eb'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896656(v=MSDN.10)'
+ms.date: 07/04/2016
 ---
 
 ListDLLs v3.2
@@ -12,9 +13,7 @@ ListDLLs v3.2
 
 Published: July 4, 2016
 
-![](/media/landing/sysinternals/download_sm.png)[**Download
-ListDLLs**  
-](https://download.sysinternals.com/files/listdlls.zip)**(307 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ListDlls.zip) [**Download ListDLLs**](https://download.sysinternals.com/files/ListDlls.zip) **(307 KB)**
 
 
 ## Introduction
@@ -32,17 +31,14 @@ DLLs.
 listdlls \[-r\] \[-v\] \[-d dllname\]**
 
  
------------------ 
------------------------------------------------------------------------------
-  **processname**   Dump DLLs loaded by process (partial name accepted).
-  **pid**           Dump DLLs associated with the specified process id.
-  **dllname**       Show only processes that have loaded the specified DLL.
-  **-r**            Flag DLLs that relocated because they are not loaded at their base address.
-  **-u**            Only list unsigned DLLs.
-  **-v**            Show DLL version information.
- 
------------------ 
------------------------------------------------------------------------------
+|Parameter  |Description  |
+|---------|---------|
+|  **processname**  | Dump DLLs loaded by process (partial name accepted).|
+|  **pid**          | Dump DLLs associated with the specified process id.|
+|  **dllname**      | Show only processes that have loaded the specified DLL.|
+|  **-r**           | Flag DLLs that relocated because they are not loaded at their base address.|
+|  **-u**           | Only list unsigned DLLs.|
+|  **-v**           | Show DLL version information.|
 
 Examples
 --------
@@ -60,28 +56,7 @@ Show processes that have loaded MSO.DLL:
 
 **listdlls -d mso.dll**
 
- 
-
-
-![](/media/landing/sysinternals/download_sm.png)
-
-[**Download ListDLLs**  
-](https://download.sysinternals.com/files/listdlls.zip)**(307 KB)**
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-![](/media/landing/sysinternals/download_sm.png)
-
-[  
-**Download
-ListDLLs**](https://download.sysinternals.com/files/listdlls.zip)  
-**(307 KB)**
-
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ListDlls.zip) [**Download ListDLLs**](https://download.sysinternals.com/files/ListDlls.zip) **(307 KB)**
   
 **Runs on:**
 

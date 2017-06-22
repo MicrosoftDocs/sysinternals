@@ -3,7 +3,7 @@ TOCTitle: VMMap
 Title: VMMap
 ms:assetid: '0b5217b3-99e1-4742-b502-7574bb478a16'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd535533(v=MSDN.10)'
-ms.date: 20/07/2015
+ms.date: 07/20/2015
 ---
 
 VMMap v3.21
@@ -13,10 +13,7 @@ VMMap v3.21
 
 Published: July 20, 2015
 
-**[![](/media/landing/sysinternals/download_sm.png)
- Download
-VMMap](https://download.sysinternals.com/files/vmmap.zip)  
-(586 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)]() [**Download VMMap**](https://download.sysinternals.com/files/vmmap.zip)  **(586 KB)**
 
 
 ## Introduction
@@ -40,63 +37,27 @@ optimize their application's memory resource usage.
 
 ## Screenshot
 
-[![](/media/landing/sysinternals/vmmap.jpg)  
-(click image to zoom)
-
-
+![VMMap](/media/landing/sysinternals/vmmap.jpg)  
 
 ## Related Links
 
--   **[Windows Internals
-    Book](~/learn/windows-internals.md)  
+-   **[Windows Internals Book](~/learn/windows-internals.md)  
     **The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
--   [**Windows Sysinternals Administrator's Reference**  
-    ](~/learn/troubleshooting-book.md)The
+-   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)The
     official guide to the Sysinternals utilities by Mark Russinovich and
     Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
 
+[![Download](/media/landing/sysinternals/download_sm.png)]() [**Download VMMap**](https://download.sysinternals.com/files/vmmap.zip)  **(586 KB)**
 
-
-## Download
-
-[![No](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/vmmap.zip)
-
-[**Download VMMap**  
-](https://download.sysinternals.com/files/vmmap.zip)**(586 KB)**
-
- 
-
-[**Run VMMap**](https://live.sysinternals.com/vmmap.exe) now from
-Live.Sysinternals.com
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-[![No](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/vmmap.zip)  
-
-[**Download VMMap**  
-](https://download.sysinternals.com/files/vmmap.zip)**(586 KB)**
-
-[  
-**Run
-VMMap**](https://live.sysinternals.com/vmmap.exe)
-now from Live.Sysinternals.com
+[**Run VMMap**](https://live.sysinternals.com/vmmap.exe) now from Live.Sysinternals.com
 
 **Runs on:**
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
 
 
 ## Getting Help

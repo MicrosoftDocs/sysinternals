@@ -31,7 +31,8 @@ shares and their security settings. Because only a domain adminstrator
 has the ability to view all network resources, *ShareEnum* is most
 effective when you run it from a domain adminstrator account.
 
-![](/media/landing/sysinternals/ShareEnum.gif)  
+![ShareEnum](/media/landing/sysinternals/ShareEnum.gif)  
+
 ## How It Works
 
 ShareEnum uses **WNetEnumResource** to enumerate domains and the

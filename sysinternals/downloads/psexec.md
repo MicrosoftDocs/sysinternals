@@ -3,6 +3,7 @@ TOCTitle: PsExec
 Title: PsExec
 ms:assetid: '936a8b8b-a7ce-4b63-bcc2-ca334cd4c276'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897553(v=MSDN.10)'
+ms.date: 06/29/2016
 ---
 
 PsExec v2.2
@@ -12,9 +13,7 @@ PsExec v2.2
 
 Published: June 29, 2016
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1,648 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 
 ## Introduction
@@ -52,33 +51,30 @@ advanced usage of PsExec.
 directory\]\[-d\]\[-&lt;priority&gt;\]\[-a n,n,...\] cmd \[arguments\]**
 
  
------------------ 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **-a**            Separate processors on which the application can run with commas where 1 is the lowest numbered CPU. For example, to run the application on CPU 2 and CPU 4, enter: "-a 2,4"
-  **-c**            Copy the specified program to the remote system for execution. If you omit this option the application must be in the system path on the remote system.
-  **-d**            Don't wait for process to terminate (non-interactive).
-  **-e**            Does not load the specified account’s profile.
-  **-f**            Copy the specified program even if the file already exists on the remote system.
-  **-i**            Run the program so that it interacts with the desktop of the specified session on the remote system. If no session is specified the process runs in the console session.
-  **-h**            If the target system is Vista or higher, has the process run with the account's elevated token, if available.
-  **-l**            Run process as limited user (strips the Administrators group and allows only privileges assigned to the Users group). On Windows Vista the process runs with Low Integrity.
-  **-n**            Specifies timeout in seconds connecting to remote computers.
-  **-p**            Specifies optional password for user name. If you omit this you will be prompted to enter a hidden password.
-  **-r**            Specifies the name of the remote service to create or interact with.
-  **-s**            Run the remote process in the System account.
-  **-u**            Specifies optional user name for login to remote computer.
-  **-v**            Copy the specified file only if it has a higher version number or is newer on than the one on the remote system.
-  **-w**            Set the working directory of the process (relative to remote computer).
-  **-x**            Display the UI on the Winlogon secure desktop (local system only).
-  **-priority**     Specifies -low, -belownormal, -abovenormal, -high or -realtime to run the process at a different priority. Use -background to run at low memory and I/O priority on Vista.
-  **computer**      Direct PsExec to run the application on the remote computer or computers specified. If you omit the computer name, PsExec runs the application on the local system, and if you specify a wildcard (\\\\\*), PsExec runs the command on all computers in the current domain.
-  **@file**         PsExec will execute the command on each of the computers listed in the file.
-  **cmd**           Name of application to execute.
-  **arguments**     Arguments to pass (note that file paths must be absolute paths on the target system).
-  **-accepteula**   This flag suppresses the display of the license dialog.
- 
------------------ 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Parameter  |Description  |
+|---------|---------|
+|  **-a**           | Separate processors on which the application can run with commas where 1 is the lowest numbered CPU. For example, to run the application on CPU 2 and CPU 4, enter: "-a 2,4"|
+|  **-c**           | Copy the specified program to the remote system for execution. If you omit this option the application must be in the system path on the remote system.|
+|  **-d**           | Don't wait for process to terminate (non-interactive).|
+|  **-e**           | Does not load the specified account’s profile.|
+|  **-f**           | Copy the specified program even if the file already exists on the remote system.|
+|  **-i**           | Run the program so that it interacts with the desktop of the specified session on the remote system. If no session is specified the process runs in the console session.|
+|  **-h**           | If the target system is Vista or higher, has the process run with the account's elevated token, if available.|
+|  **-l**           | Run process as limited user (strips the Administrators group and allows only privileges assigned to the Users group). On Windows Vista the process runs with Low Integrity.|
+|  **-n**           | Specifies timeout in seconds connecting to remote computers.|
+|  **-p**           | Specifies optional password for user name. If you omit this you will be prompted to enter a hidden password.|
+|  **-r**           | Specifies the name of the remote service to create or interact with.|
+|  **-s**           | Run the remote process in the System account.|
+|  **-u**           | Specifies optional user name for login to remote computer.|
+|  **-v**           | Copy the specified file only if it has a higher version number or is newer on than the one on the remote system.|
+|  **-w**           | Set the working directory of the process (relative to remote computer).|
+|  **-x**           | Display the UI on the Winlogon secure desktop (local system only).|
+|  **-priority**    | Specifies -low, -belownormal, -abovenormal, -high or -realtime to run the process at a different priority. Use -background to run at low memory and I/O priority on Vista.|
+|  **computer**     | Direct PsExec to run the application on the remote computer or computers specified. If you omit the computer name, PsExec runs the application on the local system, and if you specify a wildcard (\\\\\*), PsExec runs the command on all computers in the current domain.|
+|  **@file**        | PsExec will execute the command on each of the computers listed in the file.|
+|  **cmd**          | Name of application to execute.|
+|  **arguments**    | Arguments to pass (note that file paths must be absolute paths on the target system).|
+|  **-accepteula**  | This flag suppresses the display of the license dialog.
 
 You can enclose applications that have spaces in their name with
 quotation marks e.g.
@@ -144,34 +140,7 @@ command:
 
 **psexec -l -d "c:\\program files\\internet explorer\\iexplore.exe"**
 
- 
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/pstools.zip)
-
-[**Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1,648 KB)**
-
- 
-
- 
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/pstools.zip)
-
-[  
-**Download
-PsTools**](https://download.sysinternals.com/files/pstools.zip)  
-**(1,648 KB)**
-
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
   
 **PSTools**
 

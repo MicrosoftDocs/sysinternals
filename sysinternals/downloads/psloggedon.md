@@ -3,6 +3,7 @@ TOCTitle: PsLoggedOn
 Title: PsLoggedOn
 ms:assetid: '05a9b41e-e4c2-457c-b46e-d6156fe069a1'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897545(v=MSDN.10)'
+ms.date: 06/29/2016
 ---
 
 PsLoggedOn v1.35
@@ -12,9 +13,7 @@ PsLoggedOn v1.35
 
 Published: June 29, 2016
 
-[![](/media/landing/sysinternals/download_sm.png)
-**Download PsTools (1.6
-MB)**](https://download.sysinternals.com/files/pstools.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 
 ## Introduction
@@ -53,48 +52,16 @@ Just copy *PsLoggedOn* onto your executable path, and type
 
 **Usage: psloggedon \[- \] \[-l\] \[-x\] \[\\\\computername |
 username\]**
-
  
----------------------- 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **-**                  Displays the supported options and the units of measurement used for output values.
-  **-l**                 Shows only local logons instead of both local and network resource logons.
-  **-x**                 Don't show logon times.
-  **\\\\computername**   Specifies the name of the computer for which to list logon information.
-  **username**           If you specify a user name *PsLoggedOn* searches the network for computers to which that user is logged on. This is useful if you want to ensure that a particular user is not logged on when you are about to change their user profile configuration.
- 
----------------------- 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Parameter  |Description  |
+|---------|---------|
+|  **-**                 | Displays the supported options and the units of measurement used for output values.|
+|  **-l**                | Shows only local logons instead of both local and network resource logons.|
+|  **-x**                | Don't show logon times.|
+|  **\\\\computername**  | Specifies the name of the computer for which to list logon information.|
+|  **username**          | If you specify a user name *PsLoggedOn* searches the network for computers to which that user is logged on. This is useful if you want to ensure that a particular user is not logged on when you are about to change their user profile configuration.|
 
- 
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/pstools.zip)
-
-[**Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1.6 MB)**
-
- 
-
- 
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/pstools.zip)
-
-[**Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1.6 MB)**
-
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 **PsTools**  
 *PsLoggedOn* is part of a growing kit of Sysinternals command-line tools

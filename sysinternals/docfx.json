@@ -32,8 +32,8 @@
             "breadcrumb_path": "~/bread/toc.yml",
             "author": "markruss",
             "ms.author": "markruss",
-            "ms.prod": "sysinternals",
-            "ms.technology": "na"
+            "ms.prod": "windows-sysinternals",
+            "ms.technology": "system-utilities"
         },
         "fileMetadata": {},
         "template": [],

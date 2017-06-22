@@ -3,6 +3,7 @@ TOCTitle: Sysmon
 Title: Sysmon
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dn798348(v=MSDN.10)'
+ms.date: 05/22/2017
 ---
 
 Sysmon v6.02
@@ -12,13 +13,7 @@ Sysmon v6.02
 
 Published: May 22, 2017
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download Sysmon**  
-](https://download.sysinternals.com/files/sysmon.zip)**(1 MB)**
-
-<div style="clear:both;margin-top:1em">
-
-
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1 MB)**
 
 ## Introduction
 
@@ -95,29 +90,17 @@ Usage:
 **Uninstall:**  **Sysmon.exe -u**
 
  
--------- 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **-c**   Update configuration of an installed Sysmon driver or dump the current configuration if no other argument is provided. Optionally take a configuration file.
-
-  **-h**   Specify the hash algorithms used for image identification (default is SHA1). It supports multiple algorithms at the same time. Configuration entry: HashAlgorithms.
-
-  **-i**   Install service and driver. Optionally take a configuration file.
-
-  **-l**   Log loading of modules. Optionally take a list of processes to track.
-
-  **-m**   Install the event manifest (done on service install as well).
-
-  **-n**   Log network connections. Optionally take a list of processes to track.
-
-  **-r**   Check for signature certificate revocation.  
-           Configuration entry: CheckRevocation.
-
-  **-s**   Print configuration schema definition.
-
-  **-u**   Uninstall service and driver.
- 
--------- 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Parameter  |Description  |
+|---------|---------|
+|  **-c** |  Update configuration of an installed Sysmon driver or dump the current configuration if no other argument is provided. Optionally take a configuration file.|
+|  **-h** |  Specify the hash algorithms used for image identification (default is SHA1). It supports multiple algorithms at the same time. Configuration entry: HashAlgorithms.|
+|  **-i** |  Install service and driver. Optionally take a configuration file.|
+|  **-l** |  Log loading of modules. Optionally take a list of processes to track.|
+|  **-m** |  Install the event manifest (done on service install as well).|
+|  **-n** |  Log network connections. Optionally take a list of processes to track.|
+|  **-r** |  Check for signature certificate revocation.  <br />Configuration entry: CheckRevocation.|
+|  **-s** |  Print configuration schema definition.|
+|  **-u** |  Uninstall service and driver.|
 
  
 
@@ -280,15 +263,12 @@ Sysmon uses abbreviated versions of Registry root key names, with the
 following mappings:
 
  
---------------------------------------------- 
----------------------------------
-  HKEY\_LOCAL\_MACHINEHKLM                      HKEY
-  HKEY\_USERS                                   HKU
-  HKEY\_LOCAL\_MACHINE\\System\\ControlSet00x   HKLM\\System\\CurrentControlSet
-  HKEY\_LOCAL\_MACHINE\\Classes                 HKCR
- 
---------------------------------------------- 
----------------------------------
+|Key name  | Abbreviation  |
+|---------|---------|
+|  HKEY\_LOCAL\_MACHINEHKLM                     | HKEY |
+|  HKEY\_USERS                                  | HKU |
+|  HKEY\_LOCAL\_MACHINE\\System\\ControlSet00x  | HKLM\\System\\CurrentControlSet |
+|  HKEY\_LOCAL\_MACHINE\\Classes                | HKCR |
 
 ### Event ID 13: RegistryEvent (Value Set)
 
@@ -370,32 +350,26 @@ Each event has its own filter tag under the EventFiltering node in a
 configuration file:
 
  
--------- 
----------------------- 
---------------------------------------------------
-  **ID**   **Tag**                **Event**
-  **1**    ProcessCreate          Process Create
-  **2**    FileCreateTime         File creation time
-  **3**    NetworkConnect         Network connection detected
-  **4**    n/a                    Sysmon service state change (cannot be filtered)
-  **5**    ProcessTerminate       Process terminated
-  **6**    DriverLoad             Driver Loaded
-  **7**    ImageLoad              Image loaded
-  **8**    CreateRemoteThread     CreateRemoteThread detected
-  **9**    RawAccessRead          RawAccessRead detected
-  **10**   ProcessAccess          Process accessed
-  **11**   FileCreate             File created
-  **12**   RegistryEvent          Registry object added or deleted
-  **13**   RegistryEvent          Registry value set
-  **14**   RegistryEvent          Registry object renamed
-  **15**   FileCreateStreamHash   File stream created
-  **16**   n/a                    Sysmon configuration change (cannot be filtered)
-  **17**   PipeEvent              Named pipe created
-  **18**   PipeEvent              Named pipe connected
- 
--------- 
----------------------- 
---------------------------------------------------
+|ID  |Tag  | Event |
+|---------|---------|---------|
+|  **1**    ProcessCreate         | Process Create |
+|  **2**    FileCreateTime        | File creation time |
+|  **3**    NetworkConnect        | Network connection detected |
+|  **4**    n/a                   | Sysmon service state change (cannot be filtered) |
+|  **5**    ProcessTerminate      | Process terminated |
+|  **6**    DriverLoad            | Driver Loaded |
+|  **7**    ImageLoad             | Image loaded |
+|  **8**    CreateRemoteThread    | CreateRemoteThread detected |
+|  **9**    RawAccessRead         | RawAccessRead detected |
+|  **10**   ProcessAccess         | Process accessed |
+|  **11**   FileCreate            | File created |
+|  **12**   RegistryEvent         | Registry object added or deleted |
+|  **13**   RegistryEvent         | Registry value set |
+|  **14**   RegistryEvent         | Registry object renamed |
+|  **15**   FileCreateStreamHash  | File stream created |
+|  **16**   n/a                   | Sysmon configuration change (cannot be filtered) |
+|  **17**   PipeEvent             | Named pipe created |
+|  **18**   PipeEvent             | Named pipe connected |
 
  
 
@@ -415,23 +389,17 @@ different field name behave as AND conditions. Field rules can also use
 conditions to match a value. The conditions are as follows (all are case
 insensitive):
 
- 
----------------- 
-------------------------------------------------------------------------------------------------------------------------
-  **Condition**    **Description**
-  **Is**           Default, values are equals
-  **is not**       Values are different
-  **Contains**     The field contains this value
-  **Excludes**     The field does not contain this value
-  **begin with**   The field begins with this value
-  **end with**     The field ends with this value
-  **less than**    Lexicographical comparison is less than zero
-  **more than**    Lexicographical comparison is more than zero
-  **Image**        Match an image path (full path or only image name). For example: lsass.exe will match c:\\windows\\system32\\lsass.exe
- 
----------------- 
-------------------------------------------------------------------------------------------------------------------------
-
+|  **Condition**   | **Description** |
+|---------|---------|
+|  **Is**          | Default, values are equals |
+|  **is not**      | Values are different |
+|  **Contains**    | The field contains this value |
+|  **Excludes**    | The field does not contain this value |
+|  **begin with**  | The field begins with this value |
+|  **end with**    | The field ends with this value |
+|  **less than**   | Lexicographical comparison is less than zero |
+|  **more than**   | Lexicographical comparison is more than zero |
+|  **Image**       | Match an image path (full path or only image name). For example: lsass.exe will match c:\\windows\\system32\\lsass.exe |
  
 
 You can use a different condition by specifying it as an attribute. This
@@ -451,14 +419,7 @@ activity to port 80 and 443 by all processes except those that have
 iexplore.exe in their name.
 
 
-## Download
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/sysmon.zip)
-
-[**Download Sysmon**  
-](https://download.sysinternals.com/files/sysmon.zip)**(1 MB)**
-
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1 MB)**
   
 **Runs on:**
 

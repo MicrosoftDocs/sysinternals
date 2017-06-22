@@ -3,6 +3,7 @@ TOCTitle: PsInfo
 Title: PsInfo
 ms:assetid: '5b454ec8-9d69-44bb-b3fe-c7c252929439'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897550(v=MSDN.10)'
+ms.date: 06/29/2016
 ---
 
 PsInfo v1.78
@@ -12,9 +13,7 @@ PsInfo v1.78
 
 Published: June 29, 2016
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download PsTools (1.6
-MB)**](https://download.sysinternals.com/files/pstools.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 
 ## Introduction
@@ -46,27 +45,22 @@ for SP 1, etc).
 \[-p psswd\]\]\] \[-h\] \[-s\] \[-d\] \[-c \[-t delimiter\]\]
 \[filter\]**
 
- 
------------------- 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **\\\\computer**   Perform the command on the remote computer or computers specified. If you omit the computer name the command runs on the local system, and if you specify a wildcard (\\\\\*), the command runs on all computers in the current domain.
-  **@file**          Run the command on each computer listed in the text file specified.
-  **-u**             Specifies optional user name for login to remote computer.
-  **-p**             Specifies optional password for user name. If you omit this you will be prompted to enter a hidden password.
-  **-h**             Show list of installed hotfixes.
-  **-s**             Show list of installed applications.
-  **-d**             Show disk volume information.
-  **-c**             Print in CSV format.
-  **-t**             The default delimiter for the -c option is a comma, but can be overriden with the specified character.
-  **filter**         Psinfo will only show data for the field matching the filter. e.g. "psinfo service" lists only the service pack field.
- 
------------------- 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
+|Parameter  |Description  |
+|---------|---------|
+|  **\\\\computer**  | Perform the command on the remote computer or computers specified. If you omit the computer name the command runs on the local system, and if you specify a wildcard (\\\\\*), the command runs on all computers in the current domain.|
+|  **@file**         | Run the command on each computer listed in the text file specified.|
+|  **-u**            | Specifies optional user name for login to remote computer.|
+|  **-p**            | Specifies optional password for user name. If you omit this you will be prompted to enter a hidden password.|
+|  **-h**            | Show list of installed hotfixes.|
+|  **-s**            | Show list of installed applications.|
+|  **-d**            | Show disk volume information.|
+|  **-c**            | Print in CSV format.|
+|  **-t**            | The default delimiter for the -c option is a comma, but can be overriden with the specified character.|
+|  **filter**        | Psinfo will only show data for the field matching the filter. e.g. "psinfo service" lists only the service pack field.|
 
 ## Example Output
 
+```Shell
 c:&gt; psinfo \\\\development -h -d  
   
 PsInfo v1.6 - local and remote system information viewer  
@@ -110,7 +104,7 @@ Sysinternals - www.sysinternals.com
     Q315000 1/8/2002  
     Q315403 3/13/2002  
     Q317277 3/20/2002
-
+```
  
 
 ## How it Works
@@ -120,9 +114,4 @@ system's Registry, and WMI to determine whether Windows XP installations
 have been activated.
 
  
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/pstools.zip)
-
-[**Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1.6 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**

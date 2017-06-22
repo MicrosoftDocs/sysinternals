@@ -3,6 +3,7 @@ TOCTitle: TCPView
 Title: TCPView for Windows
 ms:assetid: '0797e73a-a0c2-4266-b821-50bc561da3a6'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897437(v=MSDN.10)'
+ms.date: 07/25/2011
 ---
 
 TCPView v3.05
@@ -12,10 +13,7 @@ TCPView v3.05
 
 Published: July 25, 2011
 
-**[![Download
-icon](/media/landing/sysinternals/download_sm.png) Download
-TCPView](https://download.sysinternals.com/files/tcpview.zip)  
-(285 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(285 KB)**
 
 
 ## Introduction
@@ -29,8 +27,7 @@ subset of the Netstat program that ships with Windows. The TCPView
 download includes Tcpvcon, a command-line version with the same
 functionality.
 
-![TCP View
-screenshot](/media/landing/sysinternals/tcpview.jpg)
+![TCP View screenshot](/media/landing/sysinternals/tcpview.jpg)
 
  
 
@@ -65,16 +62,11 @@ utility:
 
 **Usage: tcpvcon \[-a\] \[-c\] \[-n\] \[process name or PID\]**
 
- 
--------- 
-----------------------------------------------------------------------
-  **-a**   Show all endpoints (default is to show established TCP connections).
-  **-c**   Print output as CSV.
-  **-n**   Don't resolve addresses..
- 
--------- 
-----------------------------------------------------------------------
-
+|Parameter  |Description  |
+|---------|---------|
+|  **-a**  | Show all endpoints (default is to show established TCP connections).|
+|  **-c**  | Print output as CSV.|
+|  **-n**  | Don't resolve addresses.|
  
 
 ## Microsoft TCPView KB Article
@@ -84,39 +76,9 @@ This Microsoft KB article references TCPView:
 [816944: "Unexpected Error 0x8ffe2740 Occurred" Error Message When You
 Try to Start a Web Site](http://support.microsoft.com/kb/816944)
 
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(285 KB)**
 
-[![Download
-icon](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/tcpview.zip)
-
-[**Download TCPView**  
-](https://download.sysinternals.com/files/tcpview.zip)**(285 KB)**
-
- 
-
-[**Run TcpView**](https://live.sysinternals.com/tcpview.exe) now from
-Live.Sysinternals.com
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-[![Download
-icon](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/tcpview.zip)
-
-[  
-**Download
-TCPView**](https://download.sysinternals.com/files/tcpview.zip)  
-**(285 KB)**
-
-[  
-**Run TcpView**](https://live.sysinternals.com/tcpview.exe) now from
+[**Run TcpView**](https://live.sysinternals.com/Tcpview.exe) now from
 Live.Sysinternals.com
 
 **Runs on:**

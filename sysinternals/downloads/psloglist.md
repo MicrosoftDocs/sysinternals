@@ -12,10 +12,7 @@ PsLogList v2.8
 
 Published: June 29, 2016
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download PsTools (1.6
-MB)**](https://download.sysinternals.com/files/pstools.zip)
-
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 ## Introduction
 
@@ -50,36 +47,32 @@ source\[,event source\]\[,..\]\]\] \[-q event source\[,event
 source\]\[,..\]\]\] \[-l event log file\] &lt;eventlog&gt;**
 
  
--------------- 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **@file**      Execute the command on each of the computers listed in the file.
-  **-a**         Dump records timestamped after specified date.
-  **-b**         Dump records timestamped before specified date.
-  **-c**         Clear the event log after displaying.
-  **-d**         Only display records from previous n days.
-  **-c**         Clear the event log after displaying.
-  **-e**         Exclude events with the specified ID or IDs (up to 10).
-  **-f**         Filter event types with filter string (e.g. "-f w" to filter warnings).
-  **-h**         Only display records from previous n hours.
-  **-i**         Show only events with the specified ID or IDs (up to 10).
-  **-l**         Dump records from the specified event log file.
-  **-m**         Only display records from previous n minutes.
-  **-n**         Only display the number of most recent entries specified.
-  **-o**         Show only records from the specified event source (e.g. \\"-o cdrom\\").
-  **-p**         Specifies optional password for user name. If you omit this you will be prompted to enter a hidden password.
-  **-q**         Omit records from the specified event source or sources (e.g. \\"-q cdrom\\").
-  **-r**         SDump log from least recent to most recent.
-  **-s**         This switch has *PsLogList* print Event Log records one-per-line, with comma delimited fields. This format is convenient for text searches, e.g. psloglist | findstr /i text, and for importing the output into a spreadsheet.
-  **-t**         The default delimeter is a comma, but can be overriden with the specified character.
-  **-u**         Specifies optional user name for login to remote computer.
-  **-w**         Wait for new events, dumping them as they generate (local system only).
-  **-x**         Dump extended data
-  **eventlog**   eventlog
- 
--------------- 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
+|Parameter  |Description  |
+|---------|---------|
+|  **@file**    |  Execute the command on each of the computers listed in the file.|
+|  **-a**       |  Dump records timestamped after specified date.|
+|  **-b**       |  Dump records timestamped before specified date.|
+|  **-c**       |  Clear the event log after displaying.|
+|  **-d**       |  Only display records from previous n days.|
+|  **-c**       |  Clear the event log after displaying.|
+|  **-e**       |  Exclude events with the specified ID or IDs (up to 10).|
+|  **-f**       |  Filter event types with filter string (e.g. "-f w" to filter warnings).|
+|  **-h**       |  Only display records from previous n hours.|
+|  **-i**       |  Show only events with the specified ID or IDs (up to 10).|
+|  **-l**       |  Dump records from the specified event log file.|
+|  **-m**       |  Only display records from previous n minutes.|
+|  **-n**       |  Only display the number of most recent entries specified.|
+|  **-o**       |  Show only records from the specified event source (e.g. \\"-o cdrom\\").|
+|  **-p**       |  Specifies optional password for user name. If you omit this you will be prompted to enter a hidden password.|
+|  **-q**       |  Omit records from the specified event source or sources (e.g. \\"-q cdrom\\").|
+|  **-r**       |  SDump log from least recent to most recent.|
+|  **-s**       |  This switch has *PsLogList* print Event Log records one-per-line, with comma delimited fields. This format is convenient for text searches, e.g. psloglist | findstr /i text, and for importing the output into a spreadsheet.|
+|  **-t**       |  The default delimeter is a comma, but can be overriden with the specified character.|
+|  **-u**       |  Specifies optional user name for login to remote computer.|
+|  **-w**       |  Wait for new events, dumping them as they generate (local system only).|
+|  **-x**       |  Dump extended data|
+|  **eventlog** |  eventlog|
+  
 
 ## How it Works
 
@@ -90,34 +83,7 @@ where the event log being viewed resides so that it correctly displays
 event log messages.
 
  
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/pstools.zip)
-
-[**Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1.6 MB)**
-
- 
-
- 
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/pstools.zip)
-
-[**Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1.6 MB)**
-
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 **PsTools**  
 *PsLogList* is part of a growing kit of Sysinternals command-line tools

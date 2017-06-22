@@ -3,6 +3,7 @@ TOCTitle: Pipelist
 Title: Pipelist
 ms:assetid: 'c379bcf5-754c-46b0-807d-1266658bd8be'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd581625(v=MSDN.10)'
+ms.date: 07/04/2016
 ---
 
 PipeList v1.02
@@ -10,10 +11,7 @@ PipeList v1.02
 
 Published: July 4, 2016
 
-**[![](/media/landing/sysinternals/download_sm.png)
- Download
-PipeList](https://download.sysinternals.com/files/pipelist.zip) (211
-KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList **](https://download.sysinternals.com/files/PipeList.zip) **(211 KB)**
 
 
 ## Introduction 
@@ -29,32 +27,7 @@ to list the pipes. The directory listing NPFS returns also indicates the
 maximum number of pipe instances set for each pipe and the number of
 active instances.
 
- 
-
-[![No](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/pipelist.zip)
-
-[**Download PipeList**  
-](https://download.sysinternals.com/files/pipelist.zip)**(211 KB)**
-
- 
-
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![No](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/pipelist.zip)
-
-[**Download PipeList**  
-](https://download.sysinternals.com/files/pipelist.zip)**(211 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList **](https://download.sysinternals.com/files/PipeList.zip) **(211 KB)**
 
 **Runs on:**
 

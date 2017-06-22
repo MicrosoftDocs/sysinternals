@@ -12,9 +12,7 @@ PsPasswd v1.24
 
 Published: June 29, 2016
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download PsTools (1.6
-MB)**](https://download.sysinternals.com/files/pstools.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 
 ## Introduction
@@ -48,47 +46,17 @@ account on the local or a remote computer.
 \[-p psswd\]\]\] Username \[NewPassword\]**
 
  
------------------ 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **computer**      Perform the command on the remote computer or computers specified. If you omit the computer name the command runs on the local system, and if you specify a wildcard (\\\\\*), the command runs on all computers in the current domain.
-  **@file**         Run the command on each computer listed in the text file specified.
-  **-u**            Specifies optional user name for login to remote computer.
-  **-p**            Specifies optional password for user name. If you omit this you will be prompted to enter a hidden password.
-  **Username**      Specifies name of account for password change.
-  **NewPassword**   New password. If ommitted a NULL password is applied.
- 
------------------ 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/pstools.zip)
-
-[**Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1.6 MB)**
-
- 
-
- 
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
+|Parameter  |Description  |
+|---------|---------|
+|  **computer**    |   Perform the command on the remote computer or computers specified. If you omit the computer name the command runs on the local system, and if you specify a wildcard (\\\\\*), the command runs on all computers in the current domain.|
+|  **@file**       |   Run the command on each computer listed in the text file specified.|
+|  **-u**          |   Specifies optional user name for login to remote computer.|
+|  **-p**          |   Specifies optional password for user name. If you omit this you will be prompted to enter a hidden password.|
+|  **Username**    |   Specifies name of account for password change.|
+|  **NewPassword** |   New password. If ommitted a NULL password is applied.|
   
 
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/pstools.zip)
-
-[**Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1.6 MB)**
-
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 **PsTools**  
 *PsPasswd* is part of a growing kit of Sysinternals command-line tools

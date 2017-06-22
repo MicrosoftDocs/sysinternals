@@ -3,6 +3,7 @@ TOCTitle: PsKill
 Title: PsKill
 ms:assetid: '12798522-e5f1-494c-8824-38db3162eea7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896683(v=MSDN.10)'
+ms.date: 06/29/2016
 ---
 
 PsKill v1.16
@@ -12,8 +13,7 @@ PsKill v1.16
 
 Published: June 29, 2016
 
-![](/media/landing/sysinternals/download_sm.png)[**Download
-PsTools (1.6 MB)**](https://download.sysinternals.com/files/pstools.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 
 ## Introduction
@@ -44,21 +44,15 @@ will kill all processes that have that name.
 **Usage: pskill \[- \] \[-t\] \[\\\\computer \[-u username\] \[-p
 password\]\] &lt;process name | process id&gt;**
 
- 
------------------- 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **-**              Displays the supported options.
-  **-t**             Kill the process and its descendants.
-  **\\\\computer**   Specifies the computer on which the process you want to terminate is executing. The remote computer must be accessible via the NT network neighborhood.
-  **-u username**    If you want to kill a process on a remote system and the account you are executing in does not have administrative privileges on the remote system then you must login as an administrator using this command-line option. If you do not include the password with the -p option then *PsKill* will prompt you for the password without echoing your input to the display.
-  **-p password**    This option lets you specify the login password on the command line so that you can use PsList from batch files. If you specify an account name and omit the -p option PsList prompts you interactively for a password.
-  **process id**     Specifies the process ID of the process you want to kill.
-  **process name**   Specifies the process name of the process or processes you want to kill.
- 
------------------- 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
+|Parameter  |Description  |
+|---------|---------|
+|  **-**             | Displays the supported options.|
+|  **-t**            | Kill the process and its descendants.|
+|  **\\\\computer**  | Specifies the computer on which the process you want to terminate is executing. The remote computer must be accessible via the NT network neighborhood.|
+|  **-u username**   | If you want to kill a process on a remote system and the account you are executing in does not have administrative privileges on the remote system then you must login as an administrator using this command-line option. If you do not include the password with the -p option then *PsKill* will prompt you for the password without echoing your input to the display.|
+|  **-p password**   | This option lets you specify the login password on the command line so that you can use PsList from batch files. If you specify an account name and omit the -p option PsList prompts you interactively for a password.|
+|  **process id**    | Specifies the process ID of the process you want to kill.|
+|  **process name**  | Specifies the process name of the process or processes you want to kill.|
 
 ## PsKill Microsoft KB Article
 
@@ -69,26 +63,7 @@ Error Message When You Try to Access a Project
 View](http://support.microsoft.com/kb/810596)
 
   
-
-![](/media/landing/sysinternals/download_sm.png)
-
-[**Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1.6 MB)**
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-![](/media/landing/sysinternals/download_sm.png)
-
-[**Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1.6 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 **PsTools**
 

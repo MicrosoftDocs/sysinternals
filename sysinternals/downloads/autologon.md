@@ -3,6 +3,7 @@ TOCTitle: Autologon
 Title: Autologon
 ms:assetid: '121f300c-85cb-418d-8199-48e587d864c3'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963905(v=MSDN.10)'
+ms.date: 08/29/2016
 ---
 
 Autologon for Windows v3.10

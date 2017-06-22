@@ -3,6 +3,7 @@ TOCTitle: PsService
 Title: PsService
 ms:assetid: 'b634454d-e5d3-410b-9fe1-f1b4b4dc14dd'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897542(v=MSDN.10)'
+ms.date: 06/29/2016
 ---
 
 PsService v2.25
@@ -12,9 +13,7 @@ PsService v2.25
 
 Published: June 29, 2016
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download PsTools (1.6
-MB)**](https://download.sysinternals.com/files/pstools.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 
 ## Introduction
@@ -53,59 +52,27 @@ information on the syntax for the command.
 **Usage: psservice \[\\\\computer \[-u username\] \[-p password\]\]
 &lt;command&gt; &lt;options&gt;**
 
- 
------------------- 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **query**          Displays the status of a service.
-  **config**         Displays the configuration of a service.
-  **setconfig**      Sets the start type (disabled, auto, demand) of a service.
-  **start**          Starts a service.
-  **stop**           Stops a service.
-  **restart**        Stops and then restarts a service.
-  **pause**          Pauses a service
-  **cont**           Resumes a paused service.
-  **depend**         Lists the services dependent on the one specified.
-  **security**       Dumps the service's security descriptor.
-  **find**           Searches the network for the specified service.
-  **\\\\computer**   Targets the NT/Win2K system specified. Include the -u switch with a username and password to login to the remote system if your security credentials do not permit you to obtain performance counter information from the remote system. If you specify the -u option, but not a password with the -p option, *PsService* will prompt you to enter the password and will not echo it to the screen.
- 
------------------- 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
+|Parameter  |Description  |
+|---------|---------|
+|  **query**        |  Displays the status of a service.|
+|  **config**       |  Displays the configuration of a service.|
+|  **setconfig**    |  Sets the start type (disabled, auto, demand) of a service.|
+|  **start**        |  Starts a service.|
+|  **stop**         |  Stops a service.|
+|  **restart**      |  Stops and then restarts a service.|
+|  **pause**        |  Pauses a service|
+|  **cont**         |  Resumes a paused service.|
+|  **depend**       |  Lists the services dependent on the one specified.|
+|  **security**     |  Dumps the service's security descriptor.|
+|  **find**         |  Searches the network for the specified service.|
+|  **\\\\computer** |  Targets the NT/Win2K system specified. Include the -u switch with a username and password to login to the remote system if your security credentials do not permit you to obtain performance counter information from the remote system. If you specify the -u option, but not a password with the -p option, *PsService* will prompt you to enter the password and will not echo it to the screen.|
 
 ## How it Works
 
 *PsService* uses the Service Control Manager APIs that are documented in
 the Platform SDK.
 
- 
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/pstools.zip)
-
-[**Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1.6 MB)**
-
- 
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/pstools.zip)
-
-[**Download PsTools**  
-](https://download.sysinternals.com/files/pstools.zip)**(1.6 MB)**
-
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 **PsTools**
 
