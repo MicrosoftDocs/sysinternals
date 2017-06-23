@@ -33,7 +33,8 @@
             "author": "markruss",
             "ms.author": "markruss",
             "ms.prod": "windows-sysinternals",
-            "ms.technology": "system-utilities"
+            "ms.technology": "system-utilities",
+            "ms.topic": "system-utilities"
         },
         "fileMetadata": {},
         "template": [],

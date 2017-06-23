@@ -3,7 +3,7 @@ TOCTitle: Windows Internals Book
 Title: Windows Internals Book
 ms:assetid: '11dfe484-4785-45a8-9b2f-863cdbd83be6'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963901(v=MSDN.10)'
-ms.date: 2/7/2017
+ms.date: 02/07/2017
 ---
 
 Windows Internals Book
@@ -85,7 +85,7 @@ encryption, the job object, and Terminal Services. *Windows Internals,
 Fourth Edition* was the Windows XP and Windows Server 2003 update and
 added more content focused on helping IT professionals make use of their
 knowledge of Windows internals, such as using key tools from ([Windows
-Sysinternals](http://docs.microsoft.com/sysinternals))
+Sysinternals](~/index.md))
 and analyzing crash dumps. *Windows Internals, Fifth Edition* was the
 update for Windows Vista and Windows Server 2008. New content included
 the image loader, user-mode debugging facility, and Hyper-V.
@@ -95,23 +95,23 @@ the image loader, user-mode debugging facility, and Hyper-V.
 Tools referenced in the book and hosted but not referenced on
 Sysinternals include:
 
--   [Cpustres](https://download.sysinternals.com/files/cpustres.zip):
+-   [Cpustres](https://download.sysinternals.com/files/CPUSTRES.zip):
     This tool is used in the Processes, Threads and Jobs chapter to
     demonstrate relative thread priorities and priority boosting. It has
     a UI thread and you can direct it to create up to four worker
     threads at a specified priority and activity level.
--   [NotMyFault](https://download.sysinternals.com/files/notmyfault.zip):
+-   [NotMyFault](https://download.sysinternals.com/files/NotMyFault.zip):
     Use this executable and driver to crash your system in several
     different ways. Chapter 7 uses Notmyfault to demonstrate pool leak
     troubleshooting and Chapter 14 uses it for crash analysis examples.
     The download includes x86 (in the exe\\release directory) and x64
     versions (in the exe\\relamd directory) as well as full source.
--   [Testlimit](https://download.sysinternals.com/files/testlimit.zip):
+-   [Testlimit](https://download.sysinternals.com/files/TestLimit.zip):
     Chapter 3 uses Testlimit to demonstrate the operating system's
     per-process limit on the number of concurrently opened handles, but
     the tool's command-line options also let you test limits of process
     and thread creation.
--   [Accvio](https://download.sysinternals.com/files/accvio.zip): This
+-   [Accvio](https://download.sysinternals.com/files/AccVio.zip): This
     executable generates a user mode access violation by trying to
     reference virtual address zero, which by default, is marked no
     access. Chapter 3 uses it to demonstrate the behavior of Windows

@@ -12,9 +12,7 @@ Reghide
 
 Published: November 1, 2006
 
-[![](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/reghide.zip)
-
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RegHide.zip) [**Download RegHide**](https://download.sysinternals.com/files/RegHide.zip) **(38 KB)**
 
 
 ## Introduction
@@ -29,17 +27,9 @@ distinction is usually not important, it leaves open an interesting
 situation: there is a class of names that can be referenced using the
 Native API, but that cannot be described using the Win32 API.
 
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RegHide.zip) [**Download RegHide**](https://download.sysinternals.com/files/RegHide.zip) **(38 KB)**
 
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/reghide.zip)
-
-[**Download Reghide**  
-](https://download.sysinternals.com/files/reghide.zip)**(38 KB)**
-
- 
-
-[**Run RegHide**](https://live.sysinternals.com/reghide.exe) now from
+[**Run RegHide**](https://live.sysinternals.com/Reghide.exe) now from
 Live.Sysinternals.com
 **Runs on:**
 

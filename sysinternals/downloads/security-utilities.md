@@ -49,6 +49,9 @@ The PsTools suite includes command-line utilities for listing the
 processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
 
+[Rootkit Revealer](rootkit-revealer.md)  
+RootkitRevealer is an advanced rootkit detection utility. 
+
 [SDelete](sdelete.md)  
 Securely overwrite your sensitive files and cleanse your free space of
 previously deleted files using this DoD-compliant secure delete program.

@@ -5,15 +5,16 @@ description: Library, learning resources, downloads, support, and community. Eva
 ms:date: 05/16/2017
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb545027(v=MSDN.10)'
+ms:date: 05/16/2017
 ---
 # Sysinternals Utilities Index #
 
   
 
-[Sysinternals Suite](https://download.sysinternals.com/files/SysinternalsSuite.zip.md)  
+[Sysinternals Suite](https://download.sysinternals.com/files/SysinternalsSuite.zip)  
 The entire set of Sysinternals Utilities rolled up into a single download.
 
-[Sysinternals Suite for Nano Server](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip.md)  
+[Sysinternals Suite for Nano Server](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip)  
 Sysinternals Utilities for Nano Server in a single download.
 
 [AccessChk](accesschk.md)  

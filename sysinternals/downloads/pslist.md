@@ -33,9 +33,7 @@ Published: June 29, 2016
 |  **-p**           |  password This option lets you specify the login password on the command line so that you can use *PsList* from batch files. If you specify an account name and omit the -p option *PsList* prompts you interactively for a password.|
 |  **name**         |  Show information about processes that begin with the name specified.|
 |  **-e**           |  Exact match the process name.|
-|  **pid**          |  Instead of listing all the running processes in the system, this parameter narrows *PsList's* scan to the process that has the specified PID. Thus:  <br />
-                     **pslist 53**  <br />
-                     would dump statistics for the process with the PID 53. |
+|  **pid**          |  Instead of listing all the running processes in the system, this parameter narrows *PsList's* scan to the process that has the specified PID. Thus:  <br />**pslist 53**  <br /> would dump statistics for the process with the PID 53. |
 
 ## How it Works
 

@@ -307,7 +307,7 @@ deploy a preset configuration and to filter captured events.
 
 A simple configuration xml file looks like this:
 
-![](/media/landing/sysinternals/sysmon_schema.png)
+![Configuration file](/media/landing/sysinternals/sysmon_schema.png)
 
 The configuration file contains a schemaversion attribute on the Sysmon
 tag. This version is independent from the Sysmon binary version and

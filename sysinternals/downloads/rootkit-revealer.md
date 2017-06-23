@@ -3,6 +3,7 @@ TOCTitle: RootkitRevealer
 Title: RootkitRevealer
 ms:assetid: 'c6a22668-e8d3-4d87-ba29-b42def1e90a7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897445(v=MSDN.10)'
+ms.date: 11/01/2006
 ---
 
 RootkitRevealer v1.71
@@ -12,10 +13,7 @@ RootkitRevealer v1.71
 
 Published: November 1, 2006
 
-**[![](/media/landing/sysinternals/download_sm.png)
- Download
-RootkitRevealer](https://download.sysinternals.com/files/rootkitrevealer.zip)  
-(231 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RootkitRevealer.zip) [**Download RootkitRevealer**](https://download.sysinternals.com/files/RootkitRevealer.zip) **(231 KB)**
 
 
 ## Introduction
@@ -159,16 +157,12 @@ RootkitRevealer supports several options for auto-scanning systems:
 
 **Usage: rootkitrevealer \[-a \[-c\] \[-m\] \[-r\] outputfile\]**
 
- 
---------- 
-----------------------------------------
-  **-a**    Automatically scan and exit when done.
-  **-c**    Format output as CSV.
-  **-m**    Show NTFS metadata files.
-   **-r**   Don't scan the Registry.
- 
---------- 
-----------------------------------------
+|Parameter  |Description  |
+|---------|---------|
+|  **-a**  |  Automatically scan and exit when done. |
+|  **-c**  |  Format output as CSV. |
+|  **-m**  |  Show NTFS metadata files. |
+|  **-r**  | Don't scan the Registry. |
 
 Note that the file output location must be on a local volume.
 
@@ -183,16 +177,14 @@ c:\\windows\\system32\\rootkit.log**
 ## Interpreting the Output
 
 This is a screenshot of RootkitRevealer detecting the presence of the
-popular
-[HackerDefender](http://www.spywareguide.com/spydet_905_hacker_defender.html)
-rootkit. The Registry key discrepancies show that the Registry keys
+popular HackerDefender rootkit. The Registry key discrepancies show that the Registry keys
 storing HackerDefender's device driver and service settings are not
 visible to the Windows API, but are present in the raw scan of the
 Registry hive data. Similarly, the HackerDefender-associated files are
 not visible to Windows API directory scans, but are present in the scan
 of the raw file system data.
 
-![](/media/landing/sysinternals/RootkitRevealer.gif)
+![Rootkit Revealer](/media/landing/sysinternals/RootkitRevealer.gif)
 
 You should examine all discrepancies and determine the likelihood that
 they indicate the presence of a rootkit. Unfortunately, there is no
@@ -328,10 +320,6 @@ This site stores the archive of *Phrack*, a cracker-oriented magazine
 where developers discuss flaws in security-related products, rootkit
 techniques, and other malware tricks.
 
-[research.microsoft.com/rootkit/](http://research.microsoft.com/rootkit/)  
-This is the Microsoft Research rootkit home page where Microsoft
-publishes papers and information on its efforts to combat rootkits.
-
 [The Art of Computer Virus Research and
 Defense](http://www.amazon.com/art-computer-virus-research-defense/dp/0321304543/sr=8-1/qid=1162397489/ref=pd_bbs_sr_1/103-0553948-5716666?ie=utf8&s=books),
 by Peter Szor
@@ -344,17 +332,7 @@ by Ed Skoudis and Lenny Zeltser
 (the book doesn't talk about rootkits, but understanding the Windows
 architecture is helpful to understanding rootkits).
 
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RootkitRevealer.zip) [**Download RootkitRevealer**](https://download.sysinternals.com/files/RootkitRevealer.zip) **(231 KB)**
 
-[![No](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/rootkitrevealer.zip)
-
-[**Download RootkitRevealer**  
-](https://download.sysinternals.com/files/rootkitrevealer.zip)**(231
-KB)**
-
- 
-
-[**Run RootkitRevealer**](//live.sysinternals.com/rootkitrevealer.exe)
-now from Live.Sysinternals.com
+[**Run RootkitRevealer**](https://live.sysinternals.com/RootkitRevealer.exe) now from Live.Sysinternals.com
 

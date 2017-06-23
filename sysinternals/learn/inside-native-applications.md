@@ -3,7 +3,7 @@ TOCTitle: Inside Native Applications
 Title: Inside Native Applications
 ms:assetid: 'e6d81ff5-0abe-4834-a8d6-73f0b49de2d4'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897447(v=MSDN.10)'
-ms.date: 7/22/2016
+ms.date: 07/22/2016
 ---
 Inside Native Applications
 ==========================
@@ -19,7 +19,7 @@ In this article I'm going to describe how native applications are built and how 
 ## How Does Autochk Get Executed
 *Autochk* runs in between the time that NT's boot and system start drivers are loaded, and when paging is turned on. At this point in the boot sequence Session Manager (smss.exe) is getting NT's user-mode environment off-the-ground and no other programs are active. The **HKLM\System\CurrentControlSet\Control\Session Manager\BootExecute** value, a MULTI_SZ, contains the names and arguments of programs that are executed by Session Manager, and is where Autochk is specified. Here is what you'll typically find if you look at this value, where "Autochk" is passed "*" as an argument:
 
-```
+```Shell
 Autocheck Autochk *
 ```
 
@@ -29,7 +29,7 @@ Autocheck Autochk *
 ## Building Native Applications
 Microsoft doesn't document it, but the NT DDK Build utility knows how to make native applications (and its probably used to compile *Autochk*). You specify information in a SOURCES file that defines the application, the same as would be done for device drivers. However, instead of indicating to Build that you want a driver, you tell it you want a native applicationin the SOURCES file like this:
 
-```
+```Shell
 TARGETTYPE=PROGRAM
 ```
 

@@ -17,7 +17,7 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 
 ---
 ## Sysinternals Live ##
-Sysinternals Live is a service that enables you to execute Sysinternals tools directly from the Web without hunting for and manually downloading them. Simply enter a tool's Sysinternals Live path into Windows Explorer or a command prompt as https://live.sysinternals.com/&lt;toolname&gt; or  \\\\live.sysinternals.com\tools\\&lt;toolname&gt;.
+Sysinternals Live is a service that enables you to execute Sysinternals tools directly from the Web without hunting for and manually downloading them. Simply enter a tool's Sysinternals Live path into Windows Explorer or a command prompt as live.sysinternals.com/&lt;toolname&gt; or  \\\\live.sysinternals.com\tools\\&lt;toolname&gt;.
 
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
@@ -29,7 +29,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ### What's New (February 17, 2017) ###
   - [Sysmon v6](~/downloads/sysmon.md)  
-    This release of Sysmon, a background monitor that records activity to the event log for use in security incident detection and forensics, introduces an option that displays event schema, adds an event for Sysmon configuration changes, interprets and displays registry paths in their common format, and adds named pipe create and connection events (thanks to Giulia Biagini for the contribution). Check out the related presentation from Mark’s RSA Conference, “<a href="https://t.co/jes1gbu5gu">How to Go From Responding to Hunting with Sysinternals Sysmon</a>.”
+    This release of Sysmon, a background monitor that records activity to the event log for use in security incident detection and forensics, introduces an option that displays event schema, adds an event for Sysmon configuration changes, interprets and displays registry paths in their common format, and adds named pipe create and connection events (thanks to Giulia Biagini for the contribution). Check out the related presentation from Mark’s RSA Conference, “[How to Go From Responding to Hunting with Sysinternals Sysmon](https://www.rsaconference.com/events/us17/agenda/sessions/7516-How-to-Go-from-Responding-to-Hunting-with-Sysinternals-Sysmon).”
   - [Autoruns v13.7](~/downloads/autoruns.md)  
     Autoruns, an autostart entry point management utility, now reports print providers, registrations in the WMI\Default namespace, fixes a KnownDLLs enumeration bug, and has improved toolbar usability on high-DPI displays.
   - [AccessChk v6.1](~/downloads/accesschk.md)  

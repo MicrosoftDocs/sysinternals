@@ -3,7 +3,7 @@ TOCTitle: 'Mark''s Webcasts'
 Title: 'Mark''s Webcasts' 
 ms:assetid: '3b496bb4-d2ce-477f-8c9e-c3736ac61bfe' 
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963887(v=MSDN.10)' 
-ms.date: 8/29/2016
+ms.date: 08/29/2016
 ---
 
 Mark's Webcasts
@@ -76,7 +76,7 @@ Mark takes you inside  new Windows virtualization  and VHD features, including l
   This session provides an  overview of  several Sysinternals tools,  including Process Monitor, Process Explorer, and Autoruns, focusing on  the features useful  for malware analysis and removal. These utilities enable  deep inspection  and control of  processes,  file system  and registry activity, and autostart execution points. You will see demos for their malware-hunting capabilities through several real-world  cases that used the tools to  identify and clean malware,and conclude by  performing  a live analysis of a Stuxnet infection’s system  impact. 
  - [Zero Day: A Non-Fiction View](http://www.youtube.com/watch?v=sx7lxvb5zd8)  
   Mark makes the case for how his hit cyberthriller,  ZeroDay, is  likely  to  be  realized in non-fiction form in  this 20-minute short version of  his well-popular RSA Conference  session.
- - [Zero Day Malware Cleaning with the Sysinternals tools](http://download.sysinternals.com/files/sysinternalsmalwarecleaning.pdf)  
+ - [Zero Day Malware Cleaning with the Sysinternals tools](http://download.sysinternals.com/files/SysinternalsMalwareCleaning.pdf)  
  Slides  from Mark’s  highly-rated Blackhat US  2011 presentationon  how to  use the Sysinternals tools to  hunt down and eliminate malware.
  - [Channel9:  Mark Talks about Windows Security and Core Architecture](http://channel9.msdn.com/showpost.aspx?postid=294410)  
 Check out Mark’s  Channel 9 interview where he  talks about how he  got started with Windows internals,  new security features in  Windows Vista,  User Account Control,and what he’s doing at  Microsoft.  
