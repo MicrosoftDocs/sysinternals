@@ -34,13 +34,23 @@ running in each session.
 
 ## Example output
 ```Shell
-C:\\&gt;logonsessions -p … \[13\] Logon session 00000000:6a6d6160: User
-name: NTDEV\\markruss Auth package: Kerberos Logon type:
-RemoteInteractive Session: 1 Sid:
-S-1-5-21-397955417-626881126-188441444-3615555 Logon time: 7/2/2015
-6:05:31 PM Logon server: NTDEV-99 DNS Domain: NTDEV.CORP.MICROSOFT.COM
-UPN: markruss@ntdev.microsoft.com 15368: ProcExp.exe 17528:
-ProcExp64.exe 13116: cmd.exe 17100: conhost.exe 6716: logonsessions.exe
+C:\\&gt;logonsessions -p 
+… 
+\[13\] Logon session 00000000:6a6d6160:
+    User name:    NTDEV\markruss
+    Auth package: Kerberos
+    Logon type:   RemoteInteractive
+    Session:      1
+    Sid:          S-1-5-21-397955417-626881126-188441444-3615555
+    Logon time:   7/2/2015 6:05:31 PM
+    Logon server: NTDEV-99
+    DNS Domain:   NTDEV.CORP.MICROSOFT.COM
+    UPN:          markruss@ntdev.microsoft.com
+    15368: ProcExp.exe
+    17528: ProcExp64.exe
+    13116: cmd.exe
+    17100: conhost.exe
+     6716: logonsessions.exe
 ```
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/logonSessions.zip) [**Download LogonSessions**](https://download.sysinternals.com/files/logonSessions.zip) **(237 KB)**

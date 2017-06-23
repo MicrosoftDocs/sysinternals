@@ -39,6 +39,7 @@ threshold\] \[-r\] \[-t\] \[-d &lt;callback DLL&gt;\] \[-64\] &lt;\[-w\]
 file&gt; | -u | -x &lt;dump file&gt; &lt;image file&gt; \[arguments\]
 &gt;\] \[-? \[ -e\]**
 
+  
 |Parameter  |Description  |
 |---------|---------|
 | **-a** | Avoid outage. Requires -r. If the trigger will cause the target to suspend for a prolonged time due to an exceeded concurrent dump   limit, the trigger will be skipped. |
@@ -167,12 +168,10 @@ See a list of example command lines (the examples are listed above):
 
 ## Related Links
 
--   **[Windows Internals
-    Book](~/learn/windows-internals.md)  
+-   **[Windows Internals Book**](~/learn/windows-internals.md)  
     **The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
--   [**Windows Sysinternals Administrator's Reference**  
-    ](~/learn/troubleshooting-book.md)The
+-   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)The
     official guide to the Sysinternals utilities by Mark Russinovich and
     Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example

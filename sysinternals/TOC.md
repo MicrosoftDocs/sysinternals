@@ -36,7 +36,6 @@
 #### [PipeList](downloads/pipelist.md)
 #### [PsFile](downloads/psfile.md)
 #### [PsPing](downloads/psping.md)
-#### [PsTools](downloads/pstools.md)
 #### [ShareEnum](downloads/shareenum.md)
 #### [TCPView](downloads/tcpview.md)
 #### [Whois](downloads/whois.md)

@@ -13,7 +13,7 @@ PsTools
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools Suite](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools Suite**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 
 ## Introduction
@@ -69,7 +69,7 @@ package, are:
 The *PsTools* download package includes an HTML help file with complete
 usage information for all the tools.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools Suite](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools Suite**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 **Runs on:**  
   - Client: Windows Vista and higher

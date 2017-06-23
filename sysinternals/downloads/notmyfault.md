@@ -39,7 +39,7 @@ requires administrative privileges.
 
 Usage:
 
-**    notmyfaultc.exe crash crash\_type\_num**
+**notmyfaultc.exe crash crash\_type\_num**
 ```Shell
     crash type:
       0x01: High IRQL fault (Kernel-mode)

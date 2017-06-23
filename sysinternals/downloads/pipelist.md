@@ -11,7 +11,7 @@ PipeList v1.02
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList **](https://download.sysinternals.com/files/PipeList.zip) **(211 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList**](https://download.sysinternals.com/files/PipeList.zip) **(211 KB)**
 
 
 ## Introduction 
@@ -27,7 +27,7 @@ to list the pipes. The directory listing NPFS returns also indicates the
 maximum number of pipe instances set for each pipe and the number of
 active instances.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList **](https://download.sysinternals.com/files/PipeList.zip) **(211 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList**](https://download.sysinternals.com/files/PipeList.zip) **(211 KB)**
 
 **Runs on:**
 

@@ -42,6 +42,8 @@ the files. It also takes several parameters that modify this behavior.
 **usage: handle \[\[-a\] \[-u\] | \[-c &lt;handle&gt; \[-l\] \[-y\]\] |
 \[-s\]\] \[-p &lt;processname&gt;|&lt;pid&gt;&gt; \[name\]**
 
+|Parameter  |Description  |
+|---------|---------|
 | **-a** | Dump information about all types of handles, not just those that refer to files. Other types include ports, Registry keys, synchronization primitives, threads, and processes.|
 | **-c** | Closes the specified handle (interpreted as a hexadecimal number). You must specify the process by its PID.<br />**WARNING:** Closing handles can cause application or system instability.|
 | **-l** | Dump the sizes of pagefile-backed sections. |

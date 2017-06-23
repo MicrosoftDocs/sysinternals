@@ -41,7 +41,7 @@ optimize their application's memory resource usage.
 
 ## Related Links
 
--   **[Windows Internals Book](~/learn/windows-internals.md)  
+-   [**Windows Internals Book**](~/learn/windows-internals.md)  
     **The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
 -   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)The
