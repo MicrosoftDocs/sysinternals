@@ -3,6 +3,7 @@ TOCTitle: Coreinfo
 Title: Coreinfo
 ms:assetid: 'c5e117b5-d674-4409-914d-17bcac43f1fd'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Cc835722(v=MSDN.10)'
+ms.date: 08/18/2014
 ---
 # Coreinfo v3.31
 
@@ -10,7 +11,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Cc835722(v=MSDN.10)'
 
 Published: August 18, 2014
 
-[![](/media/landing/sysinternals/Download_sm.png) **Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip)**(192 KB)**
+[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(192 KB)**
 
 ## Introduction
 
@@ -29,6 +30,8 @@ cache output with a map of shared by cores 3 and 4.
 
 **Usage: coreinfo [-c][-f][-g][-l][-n][-s][-m][-v]**
 
+|Parameter  |Description  |
+|---------|---------|
 | **-c ** | Dump information on cores. |
 | **-f** | Dump core feature information. |
 | **-g** | Dump information on groups. |
@@ -42,7 +45,7 @@ cache output with a map of shared by cores 3 and 4.
 All options except -v are selected by default.
 
 **Coreinfo Output:**
-```
+```xml
 <code class="xml" id="c_98b3359c5cb147c6898297da1a7cb27d">Coreinfo v3.03 - Dump information on system CPU and memory topology
 Copyright (C) 2008-2011 Mark Russinovich
 Sysinternals - www.sysinternals.com
@@ -159,4 +162,4 @@ Logical Processor to Group Map:
 ****  Group 0</code>
 ```
 
-[![](/media/landing/sysinternals/Download_sm.png) **Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip)**(192 KB)**
+[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(192 KB)**

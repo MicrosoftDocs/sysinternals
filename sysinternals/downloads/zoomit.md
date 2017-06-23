@@ -3,6 +3,7 @@ TOCTitle: ZoomIt
 Title: ZoomIt
 ms:assetid: '0b6c4abc-9482-4759-a9cd-bf77cb961dd4'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897434(v=MSDN.10)'
+ms.date: 06/20/2013
 ---
 
 ZoomIt v4.5
@@ -12,10 +13,7 @@ ZoomIt v4.5
 
 Published: June 20, 2013
 
-[![Download
-icon](/media/landing/sysinternals/download_sm.png)
- **Download ZoomIt**  
-](https://download.sysinternals.com/files/zoomit.zip)**(296 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(296 KB)**
 
 
 ## Introduction
@@ -43,18 +41,10 @@ by clicking on the ZoomIt tray icon.
   
 
 
-![ZoomIt
-screenshot](/media/landing/sysinternals/20130618_Zoomit_v4.5.jpg)  
+![ZoomIt](/media/landing/sysinternals/20130618_Zoomit_v4.5.jpg)  
 
-[![Download
-icon](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/zoomit.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(296 KB)**  
 
-[**Download ZoomIt**  
-](https://download.sysinternals.com/files/zoomit.zip)**(296 KB)**
-
- 
-
-[**Run ZoomIt**](https://live.sysinternals.com/zoomit.exe) now from
+[**Run ZoomIt**](https://live.sysinternals.com/ZoomIt.exe) now from
 Live.Sysinternals.com
 

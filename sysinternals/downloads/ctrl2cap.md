@@ -3,6 +3,7 @@ TOCTitle: Ctrl2cap
 Title: Ctrl2cap
 ms:assetid: 'e0dcb713-f196-4e45-a2f8-e7bf3f692ac9'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897578(v=MSDN.10)'
+ms.date: 11/01/2006
 ---
 
 Ctrl2Cap v2.0
@@ -12,9 +13,7 @@ Ctrl2Cap v2.0
 
 Published: November 1, 2006
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download Ctrl2Cap (48
-KB)**](https://download.sysinternals.com/files/ctrl2cap.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Ctrl2Cap.zip) [**Download Ctrl2Cap**](https://download.sysinternals.com/files/Ctrl2Cap.zip)  **(48 KB)**
 
 
 ## Introduction
@@ -85,33 +84,7 @@ output), here are sources to check out:
 -   The accompanying file system filter driver,
     [Filemon](filemon.md)
 
- 
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/ctrl2cap.zip)
-
-[**Download Ctrl2cap**  
-](https://download.sysinternals.com/files/ctrl2cap.zip)**(48 KB)**
-
- 
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/ctrl2cap.zip)
-
-[**Download Ctrl2cap**  
-](https://download.sysinternals.com/files/ctrl2cap.zip)**(48 KB)**
-
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Ctrl2Cap.zip) [**Download Ctrl2Cap**](https://download.sysinternals.com/files/Ctrl2Cap.zip)  **(48 KB)**
 
 **Runs on:**
 

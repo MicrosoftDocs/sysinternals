@@ -3,6 +3,7 @@ TOCTitle: Desktops
 Title: Desktops
 ms:assetid: 'a6144f44-1b00-4308-94c0-6bf6e6a1aaee'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Cc817881(v=MSDN.10)'
+ms.date: 10/17/2012
 ---
 
 Desktops v2.0
@@ -12,10 +13,7 @@ Desktops v2.0
 
 Published: October 17, 2012
 
-[![Download
-icon](/media/landing/sysinternals/download_sm.png)
- **Download Desktops (61
-KB)**](https://download.sysinternals.com/files/desktops.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Desktops.zip) [**Download Desktops**](https://download.sysinternals.com/files/Desktops.zip) **(61 KB)**
 
 
 ## Introduction
@@ -57,48 +55,15 @@ logoff.
 
 ## Screenshot
 
-![Configuration
-Dialog](/media/landing/sysinternals/desktops.png "Configuration Dialog")  
+![Configuration Dialog](/media/landing/sysinternals/desktops.png "Configuration Dialog")  
 Configuration Dialog
 
  
 
-![Tray Desktop Switch
-Window](/media/landing/sysinternals/desktops2.png "Tray Desktop Switch Window")  
+![Tray Desktop Switch Window](/media/landing/sysinternals/desktops2.png "Tray Desktop Switch Window")  
 Tray Desktop Switch Window
 
-
- 
-
-[![Download
-icon](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/desktops.zip)
-
-[**Download Desktops**  
-](https://download.sysinternals.com/files/desktops.zip)**(61 KB)**
-
- 
-
-[**Run Desktops**](https://live.sysinternals.com/desktops.exe) now from
-Live.Sysinternals.com
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![Download
-icon](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/desktops.zip)
-
-[**Download Desktops**  
-](https://download.sysinternals.com/files/desktops.zip)**(61 KB)**
-
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Desktops.zip) [**Download Desktops**](https://download.sysinternals.com/files/Desktops.zip) **(61 KB)**
 
 [**Run Desktops**](https://live.sysinternals.com/desktops.exe) now from
 Live.Sysinternals.com

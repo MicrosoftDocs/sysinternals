@@ -3,6 +3,7 @@ TOCTitle: NotMyFault
 Title: NotMyFault
 ms:assetid: 'fc881ee6-6e6a-480f-95d2-83458e2d09b7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Mt742033(v=MSDN.10)'
+ms.date: 11/18/2016
 ---
 
 NotMyFault v4.01
@@ -12,10 +13,7 @@ NotMyFault v4.01
 
 Published: November 18, 2016
 
-[![](/media/landing/sysinternals/download_sm.png)
- **Download
-NotMyFault**](https://download.sysinternals.com/files/notmyfault.zip)**(524
-KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(524 KB)**
 
 
 ## Introduction
@@ -42,37 +40,24 @@ requires administrative privileges.
 Usage:
 
 **    notmyfaultc.exe crash crash\_type\_num**
-
+```Shell
     crash type:
-
       0x01: High IRQL fault (Kernel-mode)
-
       0x02: Buffer overflow
-
       0x03: Code overwrite
-
       0x04: Stack trash
-
       0x05: High IRQL fault (User-mode)
-
       0x06: Stack overflow
-
       0x07: Hardcoded breakpoint
-
       0x08: Double Free
+```
 
 Or  **notmyfaultc.exe hang hang\_type\_num**
 
+```Shell
     hang type:
-
       0x01: Hang with IRP
-
       0x02: Hang with DPC
-
+```
  
-
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/notmyfault.zip)
-
-[**Download NotMyFault**  
-](https://download.sysinternals.com/files/notmyfault.zip)**(524 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(524 KB)**

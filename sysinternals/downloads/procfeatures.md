@@ -3,6 +3,7 @@ TOCTitle: ProcFeatures
 Title: ProcFeatures
 ms:assetid: '922f7441-5dec-40bb-a21b-aa777274344e'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897554(v=MSDN.10)'
+ms.date: 09/01/2011
 ---
 
 ProcFeatures v1.1

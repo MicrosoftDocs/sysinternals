@@ -3,7 +3,7 @@ TOCTitle: RAMMap
 Title: RAMMap
 ms:assetid: 'e90bb927-b735-4888-bedc-588efd5fd7eb'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Ff700229(v=MSDN.10)'
-ms.date: 2/2/2016
+ms.date: 02/02/2016
 ---
 
 RAMMap v1.5
@@ -13,10 +13,7 @@ RAMMap v1.5
 
 Published: February 2, 2016
 
-![Download
-icon](/media/landing/sysinternals/download_sm.png)[**Download
-RAMMap**  
-](https://download.sysinternals.com/files/rammap.zip)**(291 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(291 KB)**
 
 
 Have you ever wondered exactly how Windows is assigning physical memory,
@@ -45,8 +42,7 @@ physical-memory allocation algorithms used by the Windows memory
 manager, please see [Windows Internals, 5^th^
 Edition](~/learn/windows-internals.md).
 
-![RAMMap
-screenshot](/media/landing/sysinternals/rammap_thumb.jpg)
+![RAMMap screenshot](/media/landing/sysinternals/rammap_thumb.jpg)
 
 
 
@@ -63,54 +59,18 @@ screenshot](/media/landing/sysinternals/rammap_thumb.jpg)
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(291 KB)**
 
-
-## Download 
-
-[![Download
-icon](/media/landing/sysinternals/download_sm.png)
-](https://download.sysinternals.com/files/rammap.zip)
-
-[**Download RAMMap**  
-](https://download.sysinternals.com/files/rammap.zip)**(291 KB)**
-
- 
-
-[**Run RAMMap**](https://live.sysinternals.com/rammap.exe) now from
-Live.Sysinternals.com
+[**Run RAMMap**](https://live.sysinternals.com/rammap.exe) now from Live.Sysinternals.com
 
 **Runs on:**
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
- 
-
-
-<div class="RightAdRail">
-
-
-## Download
-
-[![Download
-icon](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/rammap.zip)
-
-[  
-**Download
-RAMMap**](https://download.sysinternals.com/files/rammap.zip)  
-**(291 KB)**
-
-**Runs on:**
-
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
-
-
 
 ## Learn More
 
--   [Defrag Tools: \#6 -
-    RAMMap](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-6-rammap)  
+-   [Defrag Tools: \#6 -  RAMMap](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-6-rammap)  
     In this episode of Defrag Tools, Andrew Richards and Larry Larsen
     cover using RAMMap to see how RAM is being used and tell if there
     has been any memory pressure.

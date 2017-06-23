@@ -3,6 +3,7 @@ TOCTitle: LoadOrder
 Title: LoadOrder
 ms:assetid: 'aa33a64d-d96b-4895-9724-dedb81f17581'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897416(v=MSDN.10)'
+ms.date: 07/04/2016
 ---
 
 LoadOrder v1.01
@@ -10,17 +11,10 @@ LoadOrder v1.01
 
 **By Mark Russinovich**
 
-<div>
-
 Published: July 4, 2016
 
 
-<div>
-
-
-[![](/media/landing/sysinternals/download_sm.png)
- **Download LoadOrder (318
-KB)**](https://download.sysinternals.com/files/loadorder.zip)
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(318 KB)**
 
 
 ## Introduction
@@ -31,39 +25,10 @@ may actually load in a different order than the one calculated, because
 plug-and-play drivers are loaded on demand during device detection and
 enumeration.
 
-  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(318 KB)**
 
-![](/media/landing/sysinternals/download_sm.png)
+[**Run LoadOrder**](https://live.sysinternals.com/LoadOrd.exe) now from Live.Sysinternals.com
 
-[**Download LoadOrder**  
-](https://download.sysinternals.com/files/loadorder.zip)**(318 KB)**
-
- 
-
-[**Run LoadOrder**](https://live.sysinternals.com/loadord.exe) now from
-Live.Sysinternals.com
-
- 
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-![](/media/landing/sysinternals/download_sm.png)
-
-[**Download LoadOrder**  
-](https://download.sysinternals.com/files/loadorder.zip)(318 KB)
-
- 
-
-[**Run LoadOrder**](https://live.sysinternals.com/loadord.exe) now from
-Live.Sysinternals.com
 
 **Runs on:**
 

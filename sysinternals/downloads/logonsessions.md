@@ -3,6 +3,7 @@ TOCTitle: LogonSessions
 Title: LogonSessions
 ms:assetid: 'b7415eea-e897-49ba-b304-dd6879718a74'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896769(v=MSDN.10)'
+ms.date: 07/04/2016
 ---
 
 LogonSessions v1.4
@@ -12,10 +13,7 @@ LogonSessions v1.4
 
 Published: July 4, 2016
 
-**[![](/media/landing/sysinternals/download_sm.png)
- Download
-LogonSessions](https://download.sysinternals.com/files/logonsessions.zip)  
- (237 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/logonSessions.zip) [**Download LogonSessions**](https://download.sysinternals.com/files/logonSessions.zip) **(237 KB)**
 
 
 ## Introduction
@@ -28,20 +26,14 @@ running in each session.
 **Usage: logonsessions \[-c\[t\]\] \[-p\]**
 
  
---------- 
-------------------------------------------
-  **-c**    Print output as CSV.
-  **-ct**   Print output as tab-delimited values.
-  **-p**    List processes running in logon session.
- 
---------- 
-------------------------------------------
-
-  
+|Parameter  |Description  |
+|---------|---------|
+|  **-c**   | Print output as CSV. |
+|  **-ct**  | Print output as tab-delimited values. |
+|  **-p**   | List processes running in logon session. |
 
 ## Example output
-
-
+```Shell
 C:\\&gt;logonsessions -p … \[13\] Logon session 00000000:6a6d6160: User
 name: NTDEV\\markruss Auth package: Kerberos Logon type:
 RemoteInteractive Session: 1 Sid:
@@ -49,31 +41,9 @@ S-1-5-21-397955417-626881126-188441444-3615555 Logon time: 7/2/2015
 6:05:31 PM Logon server: NTDEV-99 DNS Domain: NTDEV.CORP.MICROSOFT.COM
 UPN: markruss@ntdev.microsoft.com 15368: ProcExp.exe 17528:
 ProcExp64.exe 13116: cmd.exe 17100: conhost.exe 6716: logonsessions.exe
+```
 
- 
-
-[![No](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/logonsessions.zip)
-
-[**Download Logonsessions**  
-](https://download.sysinternals.com/files/logonsessions.zip)**(237 KB)**
-
-  
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![No](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/logonsessions.zip)
-
-[**Download Logonsessions**  
-](https://download.sysinternals.com/files/logonsessions.zip)**(237 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/logonSessions.zip) [**Download LogonSessions**](https://download.sysinternals.com/files/logonSessions.zip) **(237 KB)**
 
 **Runs on:**
 

@@ -3,6 +3,7 @@ TOCTitle: LiveKd
 Title: LiveKd
 ms:assetid: '9b0d30e0-be2b-41f0-a6b6-cee2ffb5f283'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897415(v=MSDN.10)'
+ms.date: 05/16/2017
 ---
 
 LiveKd v5.62
@@ -12,9 +13,7 @@ LiveKd v5.62
 
 Published: May 16, 2017
 
-![](/media/landing/sysinternals/download_sm.png)[**Download
-LiveKd**](https://download.sysinternals.com/files/livekd.zip)**(494
-KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LiveKD.zip) [**Download LiveKd**](https://download.sysinternals.com/files/LiveKD.zip) **(494 KB)**
 
 
 ## Introduction
@@ -72,93 +71,22 @@ LIVEKDD.SYS available, and does not affect the behavior of the debugger.
 \[\[-hl\]|\[-hv &lt;VM name&gt; \[\[-p\]|\[-hvd\]\]\]\] \[debugger
 options\]**
 
-+-----------------------------------+-----------------------------------+
-|    **-hv**                        | Specifies the name or GUID of the |
-|                                   | Hyper-V VM to debug.              |
-+-----------------------------------+-----------------------------------+
-|    **-hvd**                       | Includes hypervisor pages         |
-|                                   | (Windows 8.1 and above only).     |
-+-----------------------------------+-----------------------------------+
-|    **-hvl**                       | Lists the names and GUIDs of      |
-|                                   | running Hyper-V VMs.              |
-+-----------------------------------+-----------------------------------+
-|    **-k**                         | Specifies complete path and       |
-|                                   | filename of debugger image to     |
-|                                   | execute                           |
-+-----------------------------------+-----------------------------------+
-|    **-m**                         | Creates a mirror dump, which is a |
-|                                   | consistent view of kernel         |
-|                                   | memory.\                          |
-|                                   | \                                 |
-|                                   | Only kernel mode memory will be   |
-|                                   | available, and this option may    |
-|                                   | need significant amounts of       |
-|                                   | available physical memory.  A     |
-|                                   | flags mask that specifies which   |
-|                                   | regions to include may optionally |
-|                                   | be provided (drawn from the       |
-|                                   | following table, default 0x18F8): |
-|                                   |                                   |
-|                                   |     0001 - process private, 0002  |
-|                                   | - mapped file,                    |
-|                                   |     0004 - shared section,  0008  |
-|                                   | - page table pages,               |
-|                                   |     0010 - paged pool,      0020  |
-|                                   | - non-paged pool,                 |
-|                                   |     0040 - system PTEs,     0080  |
-|                                   | - session pages,                  |
-|                                   |     0100 - metadata files,  0200  |
-|                                   | - AWE user pages,                 |
-|                                   |     0400 - driver pages,    0800  |
-|                                   | - kernel stacks,                  |
-|                                   |     1000 - WS metadata,     2000  |
-|                                   | - large pages                     |
-|                                   |                                   |
-|                                   | The default captures most kernel  |
-|                                   | memory contents and is            |
-|                                   | recommended.\                     |
-|                                   | This option may be used with -o   |
-|                                   | to save faster, consistent        |
-|                                   | dumps.\                           |
-|                                   | Mirror dumps require Windows      |
-|                                   | Vista or Windows Server 2008 or   |
-|                                   | above.\                           |
-|                                   | Sysinternals RamMap provides a    |
-|                                   | graphical summary of the          |
-|                                   | distribution of the available     |
-|                                   | memory regions that can be        |
-|                                   | selected for inclusion.\          |
-+-----------------------------------+-----------------------------------+
-|    **-ml**                        | Generate live dump using native   |
-|                                   | support (Windows 8.1 and above    |
-|                                   | only).                            |
-+-----------------------------------+-----------------------------------+
-|    **-mp**                        | Specifies a single process whose  |
-|                                   | user mode memory contents should  |
-|                                   | be included in a mirror dump.     |
-|                                   | Only effective with the -m        |
-|                                   | option.                           |
-+-----------------------------------+-----------------------------------+
-|    **-o **                        | Saves a memory.dmp to disk        |
-|                                   | instead of launching the          |
-|                                   | debugger.                         |
-+-----------------------------------+-----------------------------------+
-|    **-p**                         | Pauses the target Hyper-V VM      |
-|                                   | while LiveKd is active            |
-|                                   | (recommended for use with -o).    |
-+-----------------------------------+-----------------------------------+
-|                                   | Specifies the name or GUID of the |
-|                                   | Hyper-V VM to debug.              |
-+-----------------------------------+-----------------------------------+
-|    **-hvl**                       | Lists the names and GUIDs of      |
-|                                   | running Hyper-V VMs.              |
-+-----------------------------------+-----------------------------------+
-|    **-vsym**                      | Displays verbose debugging        |
-|                                   | information about symbol load     |
-|                                   | operations.                       |
-+-----------------------------------+-----------------------------------+
-|    **-w**                         | Runs windbg instead of kd         |
-+-----------------------------------+-----------------------------------+
+|Parameter  |Description  |
+|---------|---------|
+|  **-hv** | Specifies the name or GUID of the Hyper-V VM to debug. |
+|  **-hvd** | Includes hypervisor pages (Windows 8.1 and above only). |
+|  **-hvl** | Lists the names and GUIDs of running Hyper-V VMs. |
+|  **-k**  | Specifies complete path and filename of debugger image to execute |
+|  **-m**  | Creates a mirror dump, which is a consistent view of kernel memory.<br /> Only kernel mode memory will be available, and this option may need significant amounts of available physical memory.  A flags mask that specifies which regions to include may optionally be provided (drawn from the following table, default 0x18F8):<br />
+0001 - process private, 0002 - mapped file,<br />0004 - shared section,  0008 - page table pages,<br />0010 - paged pool, 0020 - non-paged pool,<br />0040 - system PTEs, 0080 - session pages,<br />0100 - metadata files,  0200 - AWE user pages,<br />0400 - driver pages,    0800 - kernel stacks,<br />1000 - WS metadata,     2000 - large pages<br /> The default captures most kernel memory contents and is  recommended.<br /> This option may be used with -o to save faster, consistent dumps.<br /> Mirror dumps require Windows Vista or Windows Server 2008 or above.<br /> Sysinternals RamMap provides a graphical summary of the distribution of the available memory regions that can be selected for inclusion. |
+|  **-ml**  | Generate live dump using native support (Windows 8.1 and above only).|
+|  **-mp**  | Specifies a single process whose user mode memory contents should be included in a mirror dump. Only effective with the -m option.|
+|  **-o ** | Saves a memory.dmp to disk instead of launching the debugger.|
+|  **-p** | Pauses the target Hyper-V VM while LiveKd is active (recommended for use with -o). Specifies the name or GUID of the Hyper-V VM to debug. |
+|  **-hvl** | Lists the names and GUIDs of running Hyper-V VMs. |
+|  **-vsym** | Displays verbose debugging information about symbol load operations. |
+|  **-w**  | Runs windbg instead of kd |
+
 
   
 All other options are passed through to the debugger.
@@ -168,27 +96,7 @@ hangs.
 
 By default LiveKd runs kd.exe.
 
-
-[![](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/livekd.zip)
-
-[**Download LiveKd**  
-](https://download.sysinternals.com/files/livekd.zip)**(494 KB)**
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-[![](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/livekd.zip)
-
-[  
-**Download
-LiveKd**](https://download.sysinternals.com/files/livekd.zip)  
-**(494 KB)**
-
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LiveKD.zip) [**Download LiveKd**](https://download.sysinternals.com/files/LiveKD.zip) **(494 KB)**
 
 **Runs on:**
 

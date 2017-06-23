@@ -3,6 +3,7 @@ TOCTitle: DebugView
 Title: DebugView
 ms:assetid: 'e20c3b02-fe03-4067-82e9-f5c01398b804'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896647(v=MSDN.10)'
+ms.date: 12/04/2012
 ---
 
 DebugView v4.81
@@ -12,11 +13,7 @@ DebugView v4.81
 
 Published: December 4, 2012
 
-[![Download
-icon](/media/landing/sysinternals/download_sm.png)
- **Download
-DebugView**](https://download.sysinternals.com/files/debugview.zip)**(287
-KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(287 KB)**
 
 
 ## Introduction
@@ -157,18 +154,9 @@ describes all of *DebugView*'s features.
 This is a screenshot of *DebugView* capturing Win32 debug output from a
 remote system. Note the presence of a highlighting filter.
 
-  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(287 KB)**
 
-[![Download](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/debugview.zip)
-
-[**Download DebugView**  
-](https://download.sysinternals.com/files/debugview.zip)**(287 KB)**
-
- 
-
-[**Run DebugView**](https://live.sysinternals.com/dbgview.exe) now from
-Live.Sysinternals.com
+[**Run DebugView**](https://live.sysinternals.com/Dbgview.exe) now from Live.Sysinternals.com
 
   
 

@@ -3,6 +3,7 @@ TOCTitle: Strings
 Title: Strings
 ms:assetid: '516a3dc2-ae3c-48ea-9dd2-65d3635eee79'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897439(v=MSDN.10)'
+ms.date: 07/04/2016
 ---
 
 Strings v2.53
@@ -12,9 +13,7 @@ Strings v2.53
 
 Published: July 4, 2016
 
-[![](/media/landing/sysinternals/download_sm.png)
-** Download Strings**  
-](https://download.sysinternals.com/files/strings.zip) **(150 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [** Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(150 KB)**
 
 
 ## Introduction
@@ -36,55 +35,23 @@ Note that it works under Windows 95 as well.
 Strings takes wild-card expressions for file names, and additional
 command line parameters are defined as follows:
 
- 
--------- 
-----------------------------------------------------
-  **-a**   Ascii-only search (Unicode and Ascii is default)
-  **-b**   Bytes of file to scan
-  **-f**   File offset at which to start scanning.
-  **-o**   Print offset in file string was located
-  **-n**   Minimum string length (default is 3)
-  **-q**   Quiet (no banner)
-  **-s**   Recurse subdirectories
-  **-u**   Unicode-only search (Unicode and Ascii is default)
- 
--------- 
-----------------------------------------------------
-
- 
+|Parameter  |Description  |
+|---------|---------|
+|  **-a**  | Ascii-only search (Unicode and Ascii is default) |
+|  **-b**  | Bytes of file to scan |
+|  **-f**  | File offset at which to start scanning. |
+|  **-o**  | Print offset in file string was located |
+|  **-n**  | Minimum string length (default is 3) |
+|  **-q**  | Quiet (no banner) |
+|  **-s**  | Recurse subdirectories |
+|  **-u**  | Unicode-only search (Unicode and Ascii is default) | 
 
 To search one or more files for the presence of a particular string
 using strings use a command like this:
 
 **strings \* | findstr /i TextToSearchFor**
 
- 
-
-[![No](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/strings.zip)
-
-[**Download Strings**  
-](https://download.sysinternals.com/files/strings.zip)**(150 KB)**
-
- 
-
-
-<div class="RightAdRail">
-
-<div>
-
-
-## Download
-
-  
-
-[![No](/media/landing/sysinternals/download_sm.png
-](https://download.sysinternals.com/files/strings.zip)
-
-[**Download Strings**  
-](https://download.sysinternals.com/files/strings.zip)**(150 KB)**
-
- 
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [** Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(150 KB)**
 
 **Runs on:**
 

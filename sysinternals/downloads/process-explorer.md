@@ -36,11 +36,9 @@ The unique capabilities of *Process Explorer* make it useful for
 tracking down DLL-version problems or handle leaks, and provide insight
 into the way Windows and applications work.
 
-![Process Explorer
-screenshot](/media/landing/sysinternals/processexplorer.jpg)  
+![Process Explorer screenshot](/media/landing/sysinternals/processexplorer.jpg)  
 
-![System Information
-screenshot](/media/landing/sysinternals/processexplorer2.jpg)  
+![System Information screenshot](/media/landing/sysinternals/processexplorer2.jpg)  
 
 ## Related Links
 
