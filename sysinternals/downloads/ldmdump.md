@@ -1,6 +1,7 @@
 --- 
 TOCTitle: LDMDump
-Title: 'LDMDump v1.02'
+title: LDMDump - Windows Sysinternals | Microsoft Docs
+description: Dump the contents of the Logical Disk Manager's on-disk database, which describes the partitioning of Windows 2000 Dynamic disks.
 ms:assetid: '2767f738-9f1d-4eb0-8c75-4287b7ca0e13'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897413(v=MSDN.10)'
 ms.date: 11/01/2016

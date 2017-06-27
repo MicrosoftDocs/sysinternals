@@ -1,6 +1,6 @@
 ---
 TOCTitle: 'Windows Sysinternals: Documentation, downloads and additional resources'
-Title: 'Windows Sysinternals: Documentation, downloads and additional resources'
+title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb545021(v=MSDN.10)'

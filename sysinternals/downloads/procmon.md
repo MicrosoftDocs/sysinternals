@@ -1,6 +1,7 @@
 --- 
 TOCTitle: Process Monitor
-Title: Process Monitor
+title: Process Monitor - Windows Sysinternals | Microsoft Docs
+description: Monitor file system, Registry, process, thread and DLL activity in real-time.
 ms:assetid: '37225635-4ad0-4b08-aa5e-4bba665b1d89'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896645(v=MSDN.10)'
 ms.date: 05/16/2017

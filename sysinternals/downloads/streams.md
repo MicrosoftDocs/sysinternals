@@ -1,6 +1,7 @@
 --- 
 TOCTitle: Streams
-Title: Streams
+title: Streams - Windows Sysinternals | Microsoft Docs
+description: Reveal NTFS alternate streams.
 ms:assetid: '5e6c8d3a-0865-4e4d-9f23-bd4c431a27c3'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897440(v=MSDN.10)'
 ms.date: 07/04/2016

@@ -1,6 +1,7 @@
 --- 
 TOCTitle: DiskView
-Title: DiskView
+title: DiskView - Windows Sysinternals | Microsoft Docs
+description: Graphical disk sector utility.
 ms:assetid: '3f42dea1-2beb-46ff-b818-9012ccc0260d'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896650(v=MSDN.10)'
 ms.date: 03/25/2010

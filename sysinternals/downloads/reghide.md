@@ -1,6 +1,6 @@
 --- 
 TOCTitle: Reghide
-Title: Reghide
+title: Reghide - Windows Sysinternals | Microsoft Docs
 ms:assetid: '2d5d1657-5dce-4ad3-8070-7e8882c9d1f7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd581628(v=MSDN.10)'
 ms.date: 01/11/2006

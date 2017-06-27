@@ -1,6 +1,7 @@
 ---
 TOCTitle: AccessChk 
-Title: AccessChk 
+title: AccessChk - Windows Sysinternals | Microsoft Docs
+description: AccessChk is a command-line tool for viewing the effective permissions on files, registry keys, services, processes, kernel objects, and more.
 ms:assetid: 'f15a6468-622f-4c89-98d7-94667c640675' 
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb664922(v=MSDN.10)' 
 ms.date: 02/17/2017

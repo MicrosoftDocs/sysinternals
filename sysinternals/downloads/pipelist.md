@@ -1,6 +1,7 @@
 --- 
 TOCTitle: Pipelist
-Title: Pipelist
+title: Pipelist - Windows Sysinternals | Microsoft Docs
+description: Displays the named pipes on your system, including the number of maximum instances and active instances for each pipe.
 ms:assetid: 'c379bcf5-754c-46b0-807d-1266658bd8be'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd581625(v=MSDN.10)'
 ms.date: 07/04/2016

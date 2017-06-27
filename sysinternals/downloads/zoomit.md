@@ -1,6 +1,7 @@
 --- 
 TOCTitle: ZoomIt
-Title: ZoomIt
+title: ZoomIt - Windows Sysinternals | Microsoft Docs
+description: Presentation utility for zooming and drawing on the screen.
 ms:assetid: '0b6c4abc-9482-4759-a9cd-bf77cb961dd4'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897434(v=MSDN.10)'
 ms.date: 06/20/2013

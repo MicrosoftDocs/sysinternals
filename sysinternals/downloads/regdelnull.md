@@ -1,6 +1,7 @@
 --- 
 TOCTitle: RegDelNull
-Title: RegDelNull
+title: RegDelNull - Windows Sysinternals | Microsoft Docs
+description: Scan for and delete Registry keys that contain embedded null-characters that are otherwise undeleteable by standard Registry-editing tools.
 ms:assetid: '8f4db30a-523f-4482-91d6-f6a68a11126c'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897448(v=MSDN.10)'
 ms.date: 07/04/2016

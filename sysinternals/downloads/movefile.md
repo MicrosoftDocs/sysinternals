@@ -1,6 +1,7 @@
 --- 
 TOCTitle: PendMoves
-Title: PendMoves and MoveFile
+title: PendMoves and MoveFile - Windows Sysinternals | Microsoft Docs
+description: Allows you to schedule move and delete commands for the next reboot.
 ms:assetid: 'a49e9434-8fa3-4f2c-9ae1-8212360d4917'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897556(v=MSDN.10)'
 ms.date: 07/04/2016

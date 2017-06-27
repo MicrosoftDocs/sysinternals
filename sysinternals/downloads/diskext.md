@@ -1,6 +1,7 @@
 --- 
 TOCTitle: DiskExt
-Title: DiskExt
+title: DiskExt - Windows Sysinternals | Microsoft Docs
+description: Display volume disk-mappings.
 ms:assetid: 'b13abe76-3276-4462-8591-46b0babf1336'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896648(v=MSDN.10)'
 ms.date: 07/04/2016

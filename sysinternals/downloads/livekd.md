@@ -1,6 +1,7 @@
 --- 
 TOCTitle: LiveKd
-Title: LiveKd
+title: LiveKd - Windows Sysinternals | Microsoft Docs
+description: Use Microsoft kernel debuggers to examine a live system.
 ms:assetid: '9b0d30e0-be2b-41f0-a6b6-cee2ffb5f283'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897415(v=MSDN.10)'
 ms.date: 05/16/2017

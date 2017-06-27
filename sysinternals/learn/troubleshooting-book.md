@@ -1,6 +1,6 @@
 ---
 TOCTitle: Troubleshooting with the Windows Sysinternals Tools 
-Title: Troubleshooting with the Windows Sysinternals Tools 
+title: Troubleshooting with the Windows Sysinternals Tools - Windows Sysinternals | Microsoft Docs
 ms:assetid: '13386ead-8b0b-41ba-b926-c0d47079f737' 
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Hh290819(v=MSDN.10)' 
 ms.date: 11/28/2016

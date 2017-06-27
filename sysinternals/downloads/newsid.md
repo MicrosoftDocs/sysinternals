@@ -1,6 +1,7 @@
 --- 
 TOCTitle: NewSID
-Title: 'NewSID v4.10'
+title: NewSID - Windows Sysinternals | Microsoft Docs
+description: Learn about the computer SID problem everybody has been talking about and get a free computer SID changer, NewSID.
 ms:assetid: 'd1b65ba7-2339-4232-aafe-5871deff2e07'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897418(v=MSDN.10)'
 ms.date: 11/01/2006

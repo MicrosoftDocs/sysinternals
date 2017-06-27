@@ -1,6 +1,7 @@
 --- 
 TOCTitle: Registry Usage
-Title: Registry Usage
+title: Registry Usage - Windows Sysinternals | Microsoft Docs
+description: View the registry space usage for the specified registry key.
 ms:assetid: 'a0d594d7-9653-4dc3-8a32-d1ab452d04e7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dn194428(v=MSDN.10)'
 ms.date: 07/04/2016

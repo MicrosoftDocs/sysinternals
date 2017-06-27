@@ -1,6 +1,7 @@
 --- 
 TOCTitle: RootkitRevealer
-Title: RootkitRevealer
+title: RootkitRevealer - Windows Sysinternals | Microsoft Docs
+description: Scan your system for rootkit-based malware.
 ms:assetid: 'c6a22668-e8d3-4d87-ba29-b42def1e90a7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897445(v=MSDN.10)'
 ms.date: 11/01/2006

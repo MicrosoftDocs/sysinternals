@@ -1,6 +1,7 @@
 --- 
 TOCTitle: Hex2dec
-Title: Hex2dec
+title: Hex2dec - Windows Sysinternals | Microsoft Docs
+description: Convert hex numbers to decimal and vice versa.
 ms:assetid: '219d0d03-8ef3-42e2-bce5-7370d7e7c88f'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896736(v=MSDN.10)'
 ms.date: 07/04/2016

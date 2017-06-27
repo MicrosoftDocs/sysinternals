@@ -1,6 +1,7 @@
 ---
 TOCTitle: File and Disk Utilities
-Title: 'File and Disk Utilities: Sysinternals Center'
+title: File and Disk Utilities - Windows Sysinternals | Microsoft Docs
+description: Windows Sysinternals file and disk utilities
 ms:assetid: '17988fd8-ed7b-4f90-95bd-e4d23baf441c'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb545046(v=MSDN.10)'
 ms.date: 07/22/2016

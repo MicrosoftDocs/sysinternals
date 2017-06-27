@@ -1,6 +1,7 @@
 --- 
 TOCTitle: VMMap
-Title: VMMap
+title: VMMap - Windows Sysinternals | Microsoft Docs
+description: VMMap is a process virtual and physical memory analysis utility.
 ms:assetid: '0b5217b3-99e1-4742-b502-7574bb478a16'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd535533(v=MSDN.10)'
 ms.date: 07/20/2015

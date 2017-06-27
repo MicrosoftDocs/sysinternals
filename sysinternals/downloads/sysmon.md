@@ -1,6 +1,7 @@
 --- 
 TOCTitle: Sysmon
-Title: Sysmon
+title: Sysmon - Windows Sysinternals | Microsoft Docs
+description: Monitors and reports key system activity via the Windows event log.
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dn798348(v=MSDN.10)'
 ms.date: 05/22/2017

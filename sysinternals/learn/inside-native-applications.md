@@ -1,6 +1,6 @@
 ---
 TOCTitle: Inside Native Applications
-Title: Inside Native Applications
+title: Inside Native Applications - Windows Sysinternals | Microsoft Docs
 ms:assetid: 'e6d81ff5-0abe-4834-a8d6-73f0b49de2d4'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897447(v=MSDN.10)'
 ms.date: 07/22/2016

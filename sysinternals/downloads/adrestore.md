@@ -1,6 +1,7 @@
 --- 
 TOCTitle: AdRestore
-Title: AdRestore
+title: AdRestore - Windows Sysinternals | Microsoft Docs
+description: Undelete Server 2003 Active Directory objects.
 ms:assetid: '8de4d67f-98dc-4222-ab3c-88844ac78ccb'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963906(v=MSDN.10)'
 ms.date: 11/01/2006

@@ -1,6 +1,6 @@
 --- 
 TOCTitle: PsGetSid
-Title: PsGetSid
+title: PsGetSid - Windows Sysinternals | Microsoft Docs
 ms:assetid: 'f7eefa28-72dd-4dc7-a41e-02e7ac7e35ae'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897417(v=MSDN.10)'
 ms.date: 06/29/2016

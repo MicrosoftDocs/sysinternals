@@ -1,6 +1,7 @@
 --- 
 TOCTitle: Disk2vhd
-Title: Disk2vhd
+title: Disk2vhd - Windows Sysinternals | Microsoft Docs
+description: Disk2vhd simplifies the migration of physical systems into virtual machines.
 ms:assetid: 'd2c9597c-1927-4ddc-9ec1-9e0f33166f90'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Ee656415(v=MSDN.10)'
 ms.date: 01/21/2014
@@ -39,9 +40,9 @@ the data contents for volumes on the disk that are selected. This
 enables you to capture just system volumes and exclude data volumes, for
 example.
 
-> *Note: Virtual PC supports a maximum virtual disk size of 127GB. If
+> Virtual PC supports a maximum virtual disk size of 127GB. If
 > you create a VHD from a larger disk it will not be accessible from a
-> Virtual PC VM.*
+> Virtual PC VM.
 
 To use VHDs produced by Disk2vhd, create a VM with the desired
 characteristics and add the VHDs to the VM's configuration as IDE disks.
@@ -52,12 +53,15 @@ Virtual PC or Hyper-V integration components. You can also attach to
 VHDs using the Windows 7 or Windows Server 2008 R2 Disk Management or
 Diskpart utilities.
 
-> *Note: do not attach to VHDs on the same system on which you created
+> Do not attach to VHDs on the same system on which you created
 > them if you plan on booting from them. If you do so, Windows will
 > assign the VHD a new disk signature to avoid a collision with the
 > signature of the VHD’s source disk. Windows references disks in the
 > boot configuration database (BCD) by disk signature, so when that
-> happens Windows booted in a VM will fail to locate the boot disk.*
+> happens Windows booted in a VM will fail to locate the boot disk.
+
+> Disk2vhd does not support the conversion of volumes with Bitlocker enabled. If you wish to create a VHD for such a volume, turn off Bitlocker and wait for the volume to be fully decrypted first. 
+
 
 Disk2vhd runs on Windows Vista, Windows Server 2008, and higher,
 including x64 systems.
@@ -74,18 +78,18 @@ Disk2vhd includes command-line options that enable you to script the
 creation of VHDs. Specify the volumes you want included in a snapshot by
 drive letter (e.g. c:) or use "\*" to include all volumes.
 
-> Usage: **disk2vhd &lt;\[drive: \[drive:\]...\]|\[\*\]&gt;
-> &lt;vhdfile&gt;**  
-> Example: **disk2vhd \* c:\\vhd\\snapshot.vhd**
->
-> *Note: Physical-to-virtual hard drive migration of a Windows
+Usage: **disk2vhd &lt;\[drive: \[drive:\]...\]|\[\*\]&gt;
+&lt;vhdfile&gt;**  
+Example: **disk2vhd \* c:\\vhd\\snapshot.vhd**
+
+> Physical-to-virtual hard drive migration of a Windows
 > installation is a valid function for customers with Software Assurance
 > and full retail copies of Windows XP, Windows Vista, and Windows 7.
 > Software Assurance provides users valuable benefits—please contact
 > Microsoft Corporation for further information. Windows XP, Windows
 > Vista and Windows 7 installed by Original Equipment Manufacturers
 > (OEM) using OEM versions of these products may not be transferred to a
-> virtual hard drive in accordance with Microsoft licensing terms.*
+> virtual hard drive in accordance with Microsoft licensing terms.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**
 

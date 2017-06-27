@@ -1,6 +1,7 @@
 --- 
 TOCTitle: Sigcheck
-Title: Sigcheck
+title: Sigcheck - Windows Sysinternals | Microsoft Docs
+description: Dump file version information and verify that images on your system are digitally signed.
 ms:assetid: 'fe633cd0-b369-4ca5-a9ae-c64e2d52acac'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897441(v=MSDN.10)'
 ms.date: 05/22/2017
