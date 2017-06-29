@@ -3,7 +3,7 @@ TOCTitle: Licensing FAQ
 title: Sysinternals Licensing FAQ - Windows Sysinternals | Microsoft Docs
 ms:assetid: '50ed3280-1fb1-42ce-86cc-b1fbdde1afd2' 
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb847944(v=MSDN.10)'
-ms.date: 28/09/2009
+ms.date: 09/28/2009
 ---
 
 Sysinternals Licensing FAQ
