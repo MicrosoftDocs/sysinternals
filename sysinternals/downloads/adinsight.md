@@ -1,6 +1,6 @@
 --- 
 TOCTitle: AdInsight
-title: AdInsight - Windows Sysinternals | Microsoft Docs
+title: AdInsight
 description: An LDAP (Light-weight Directory Access Protocol) real-time monitoring tool aimed at troubleshooting Active Directory client applications.
 ms:assetid: 'f3eb3300-3b79-45b4-bf1e-b4ae9fc68ca8'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897539(v=MSDN.10)'

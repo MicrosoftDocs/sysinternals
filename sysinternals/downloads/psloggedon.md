@@ -1,6 +1,6 @@
 --- 
 TOCTitle: PsLoggedOn
-title: PsLoggedOn - Windows Sysinternals | Microsoft Docs
+title: PsLoggedOn
 description: Show users logged on to a system.
 ms:assetid: '05a9b41e-e4c2-457c-b46e-d6156fe069a1'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897545(v=MSDN.10)'

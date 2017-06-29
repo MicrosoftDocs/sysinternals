@@ -1,6 +1,6 @@
 --- 
 TOCTitle: Whois
-title: Whois - Windows Sysinternals | Microsoft Docs
+title: Whois
 description: See who owns an Internet address.
 ms:assetid: '31fa42da-10ab-4cb3-a206-72be17333805'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897435(v=MSDN.10)'

@@ -1,6 +1,6 @@
 --- 
 TOCTitle: LogonSessions
-title: LogonSessions - Windows Sysinternals | Microsoft Docs
+title: LogonSessions
 description: List the active logon sessions on a system.
 ms:assetid: 'b7415eea-e897-49ba-b304-dd6879718a74'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896769(v=MSDN.10)'

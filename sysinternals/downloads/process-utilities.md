@@ -1,6 +1,6 @@
 ---
 TOCTitle: Process Utilities 
-title: Sysinternals Process Utilities - Windows Sysinternals | Microsoft Docs
+title: Sysinternals Process Utilities
 description: Windows Sysinternals process utilities
 ms:assetid: 'cb56073f-62a3-4ed8-9dd6-40c84cb9e2f5' 
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb795533(v=MSDN.10)' 

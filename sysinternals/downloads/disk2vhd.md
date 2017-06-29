@@ -1,6 +1,6 @@
 --- 
 TOCTitle: Disk2vhd
-title: Disk2vhd - Windows Sysinternals | Microsoft Docs
+title: Disk2vhd
 description: Disk2vhd simplifies the migration of physical systems into virtual machines.
 ms:assetid: 'd2c9597c-1927-4ddc-9ec1-9e0f33166f90'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Ee656415(v=MSDN.10)'

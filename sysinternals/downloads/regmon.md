@@ -1,6 +1,6 @@
 --- 
 TOCTitle: RegMon
-title: RegMon for Windows - Windows Sysinternals | Microsoft Docs
+title: RegMon for Windows
 description: This monitoring tool lets you see all Registry activity in real-time.
 ms:assetid: '531bc878-a910-4238-89bb-5831687e85d4'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896652(v=MSDN.10)'

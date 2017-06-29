@@ -1,6 +1,6 @@
 --- 
 TOCTitle: Portmon
-title: Portmon for Windows - Windows Sysinternals | Microsoft Docs
+title: Portmon for Windows
 description: Monitor serial and parallel port activity with this advanced monitoring tool. It knows about all standard serial and parallel IOCTLs and even shows you a portion of the data being sent and received. Version 3.x has powerful new UI enhancements and advanced filtering capabilities.
 ms:assetid: 'f989ac38-afd3-4e14-ad47-85af3c4f8ded'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896644(v=MSDN.10)'

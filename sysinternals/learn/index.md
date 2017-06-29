@@ -1,6 +1,6 @@
 ---
 TOCTitle: Learn Sysinternals
-title: Learn Sysinternals - Windows Sysinternals | Microsoft Docs
+title: Learn Sysinternals
 ms:assetid: '07f84be7-5808-4b75-a29c-437b8e935d78'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb469930(v=MSDN.10)'
 ms.date: 07/22/2016

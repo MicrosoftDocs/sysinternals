@@ -1,6 +1,6 @@
 ---
 TOCTitle: System Information Utilities 
-title: Sysinternals System Information Utilities - Windows Sysinternals | Microsoft Docs
+title: Sysinternals System Information Utilities
 description: Windows Sysinternals system information utilities
 ms:assetid: '86a95979-23f8-45f5-9480-f4ed9dab3aab'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb795535(v=MSDN.10)'

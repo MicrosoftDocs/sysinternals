@@ -1,13 +1,12 @@
 ---
-title: Inside Native Applications - Windows Sysinternals | Microsoft Docs
-author: Your github alias
-ms.author: Your MSFT alias. Can be a DL alias
-ms.date: It's the date you last time reviewed the content and confirmed its accuracy and relevance. Format mm/dd/yyyy
+title: Inside Native Applications
+author: markruss
+ms.author: markruss
+ms.date: 11/01/2006
 ms.topic: conceptual
 ms.prod: windows-sysinternals
 ms.technology: system-utilities
-description: SEO related, check the SEO cheatsheet for more information.
-keywords: SEO related, check the SEO cheatsheet for more information.
+description: In this article I'm going to describe how native applications are built and how they work.
 ---
 Inside Native Applications
 ==========================

@@ -1,6 +1,6 @@
 ---
 TOCTitle: Networking Utilities
-title: Sysinternals Networking Utilities - Windows Sysinternals | Microsoft Docs 
+title: Sysinternals Networking Utilities 
 description: Windows Sysinternals networking utilities
 ms:assetid: '677683af-3f5e-42ea-8116-9c92acd2c271' 
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb795532(v=MSDN.10)' 

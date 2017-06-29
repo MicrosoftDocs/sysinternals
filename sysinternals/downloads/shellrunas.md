@@ -1,6 +1,6 @@
 --- 
 TOCTitle: ShellRunas
-title: ShellRunas - Windows Sysinternals | Microsoft Docs
+title: ShellRunas
 description: Launch programs as a different user via a convenient shell context-menu entry.
 ms:assetid: 'd3e6e430-46f4-48ba-8860-4e2daa38024f'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Cc300361(v=MSDN.10)'

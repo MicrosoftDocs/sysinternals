@@ -1,6 +1,6 @@
 --- 
 TOCTitle: PsKill
-title: PsKill - Windows Sysinternals | Microsoft Docs
+title: PsKill
 description: Terminate local or remote processes.
 ms:assetid: '12798522-e5f1-494c-8824-38db3162eea7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896683(v=MSDN.10)'

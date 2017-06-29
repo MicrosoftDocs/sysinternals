@@ -1,6 +1,6 @@
 --- 
 TOCTitle: ListDLLs
-title: ListDLLs - Windows Sysinternals | Microsoft Docs
+title: ListDLLs
 description: List all the DLLs that are currently loaded, including where they are loaded and their version numbers.
 ms:assetid: 'b4a511a2-c7d8-4fda-9319-8048718a09eb'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896656(v=MSDN.10)'

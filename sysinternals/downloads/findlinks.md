@@ -1,6 +1,6 @@
 --- 
 TOCTitle: FindLinks
-title: FindLinks - Windows Sysinternals | Microsoft Docs
+title: FindLinks
 description: FindLinks reports the file index and any hard links (alternate file paths on the same volume) that exist for the specified file.  A file's data remains allocated so long as at it has at least one file name referencing it.
 ms:assetid: 'f3fb08e4-d0af-4191-b09d-08bf44694281'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Hh290814(v=MSDN.10)'

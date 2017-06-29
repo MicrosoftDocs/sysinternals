@@ -1,6 +1,6 @@
 --- 
 TOCTitle: AccessEnum
-title: AccessEnum - Windows Sysinternals | Microsoft Docs
+title: AccessEnum
 description: This simple yet powerful security tool shows you who has what access to directories, files and Registry keys on your systems. Use it to find holes in your permissions.
 ms:assetid: 'dd3ac121-4a4b-48b4-98a7-8b0dfeda3007'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897332(v=MSDN.10)'

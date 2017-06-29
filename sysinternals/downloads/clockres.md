@@ -1,6 +1,6 @@
 --- 
 TOCTitle: ClockRes
-title: ClockRes - Windows Sysinternals | Microsoft Docs
+title: ClockRes
 description: View the resolution of the system clock, which is also the maximum timer resolution.
 ms:assetid: '7fca750c-c71b-4c85-8275-80e6d4067b7c'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897568(v=MSDN.10)'

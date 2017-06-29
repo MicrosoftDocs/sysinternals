@@ -1,6 +1,6 @@
 --- 
 TOCTitle: AD Explorer
-title: AD Explorer - Windows Sysinternals | Microsoft Docs
+title: AD Explorer
 description: Active Directory Explorer is an advanced Active Directory (AD) viewer and editor.
 ms:assetid: 'da300ae9-b58f-4acc-a169-ce3b39867bc8'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963907(v=MSDN.10)'

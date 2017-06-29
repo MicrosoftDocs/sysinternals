@@ -1,6 +1,6 @@
 --- 
 TOCTitle: Coreinfo
-title: Coreinfo - Windows Sysinternals | Microsoft Docs
+title: Coreinfo
 description: Coreinfo is a new command-line utility that shows you the mapping between logical processors and the physical processor, NUMA node, and socket on which they reside, as well as the cache’s assigned to each logical processor.
 ms:assetid: 'c5e117b5-d674-4409-914d-17bcac43f1fd'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Cc835722(v=MSDN.10)'

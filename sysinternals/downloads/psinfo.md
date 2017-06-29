@@ -1,6 +1,6 @@
 --- 
 TOCTitle: PsInfo
-title: PsInfo - Windows Sysinternals | Microsoft Docs
+title: PsInfo
 description: Obtain information about a system.
 ms:assetid: '5b454ec8-9d69-44bb-b3fe-c7c252929439'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897550(v=MSDN.10)'

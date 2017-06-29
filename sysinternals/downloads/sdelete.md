@@ -1,6 +1,6 @@
 --- 
 TOCTitle: SDelete
-title: SDelete - Windows Sysinternals | Microsoft Docs
+title: SDelete
 description: Securely overwrite your sensitive files and cleanse your free space of previously deleted files using this DoD-compliant secure delete program.
 ms:assetid: '5cc3991b-5a50-4784-a795-185e4ac84603'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897443(v=MSDN.10)'

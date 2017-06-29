@@ -1,6 +1,6 @@
 --- 
 TOCTitle: PsSuspend
-title: PsSuspend - Windows Sysinternals | Microsoft Docs
+title: PsSuspend
 description: Suspend and resume processes.
 ms:assetid: '148ead94-34cd-47f1-83e2-f3fb3486ef7d'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897540(v=MSDN.10)'

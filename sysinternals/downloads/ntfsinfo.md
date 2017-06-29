@@ -1,6 +1,6 @@
 --- 
 TOCTitle: NTFSInfo
-title: NTFSInfo - Windows Sysinternals | Microsoft Docs
+title: NTFSInfo
 description: Use NTFSInfo to see detailed information about NTFS volumes, including the size and location of the Master File Table (MFT) and MFT-zone, as well as the sizes of the NTFS meta-data files.
 ms:assetid: 'a0e927ac-8cca-409b-bb5c-f93567b65ea7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897424(v=MSDN.10)'

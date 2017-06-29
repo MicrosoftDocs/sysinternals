@@ -1,6 +1,6 @@
 --- 
 TOCTitle: Autoruns
-title: Autoruns for Windows - Windows Sysinternals | Microsoft Docs
+title: Autoruns for Windows
 description: See what programs are configured to startup automatically when your system boots and you login. Autoruns also shows you the full list of Registry and file locations where applications can configure auto-start settings.
 ms:assetid: 'b13af0f4-f0a1-4cc5-b940-20be546c1179'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963902(v=MSDN.10)'

@@ -1,6 +1,6 @@
 --- 
 TOCTitle: DebugView
-title: DebugView - Windows Sysinternals | Microsoft Docs
+title: DebugView
 description: This program intercepts calls made to DbgPrint by device drivers and OutputDebugString made by Win32 programs. It allows for viewing and recording of debug session output on your local machine or across the Internet without an active debugger.
 ms:assetid: 'e20c3b02-fe03-4067-82e9-f5c01398b804'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896647(v=MSDN.10)'

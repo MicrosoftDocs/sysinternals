@@ -1,6 +1,6 @@
 --- 
 TOCTitle: LoadOrder
-title: LoadOrder - Windows Sysinternals | Microsoft Docs
+title: LoadOrder
 description: See the order in which devices are loaded on your WinNT/2K system.
 ms:assetid: 'aa33a64d-d96b-4895-9724-dedb81f17581'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897416(v=MSDN.10)'

@@ -1,6 +1,6 @@
 --- 
 TOCTitle: PsService
-title: PsService - Windows Sysinternals | Microsoft Docs
+title: PsService
 description: View and control services.
 ms:assetid: 'b634454d-e5d3-410b-9fe1-f1b4b4dc14dd'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897542(v=MSDN.10)'

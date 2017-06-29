@@ -1,6 +1,6 @@
 --- 
 TOCTitle: PsFile
-title: PsFile - Windows Sysinternals | Microsoft Docs
+title: PsFile
 description: See what files are opened remotely.
 ms:assetid: '01e9104e-4b10-4fec-a69d-a521dcc1b1e3'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897552(v=MSDN.10)'

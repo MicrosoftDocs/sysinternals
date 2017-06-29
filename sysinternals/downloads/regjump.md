@@ -1,6 +1,6 @@
 --- 
 TOCTitle: RegJump
-title: RegJump - Windows Sysinternals | Microsoft Docs
+title: RegJump
 description: Jump to the registry path you specify in Regedit.
 ms:assetid: 'ff151201-32cc-4b44-b314-3ccb19171a2a'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963880(v=MSDN.10)'

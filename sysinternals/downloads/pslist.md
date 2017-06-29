@@ -1,6 +1,6 @@
 --- 
 TOCTitle: PsList
-title: PsList - Windows Sysinternals | Microsoft Docs
+title: PsList
 description: Show information about processes and threads.
 ms:assetid: '3922c630-462d-4c3a-8b02-532865f37df4'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896682(v=MSDN.10)'

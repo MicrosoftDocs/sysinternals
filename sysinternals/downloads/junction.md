@@ -1,6 +1,6 @@
 --- 
 TOCTitle: Junction
-title: Junction - Windows Sysinternals | Microsoft Docs
+title: Junction
 description: Create Win2K NTFS symbolic links.
 ms:assetid: '16f763c0-cb78-4d67-a865-63e79bef0c58'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896768(v=MSDN.10)'
