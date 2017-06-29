@@ -1,7 +1,5 @@
 ---
 title: Inside Native Applications
-author: markruss
-ms.author: markruss
 ms.date: 11/01/2006
 ms.topic: conceptual
 ms.prod: windows-sysinternals
