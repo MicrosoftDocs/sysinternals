@@ -1,9 +1,13 @@
 ---
-TOCTitle: Inside Native Applications
 title: Inside Native Applications - Windows Sysinternals | Microsoft Docs
-ms:assetid: 'e6d81ff5-0abe-4834-a8d6-73f0b49de2d4'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897447(v=MSDN.10)'
-ms.date: 07/22/2016
+author: Your github alias
+ms.author: Your MSFT alias. Can be a DL alias
+ms.date: It's the date you last time reviewed the content and confirmed its accuracy and relevance. Format mm/dd/yyyy
+ms.topic: conceptual
+ms.prod: windows-sysinternals
+ms.technology: system-utilities
+description: SEO related, check the SEO cheatsheet for more information.
+keywords: SEO related, check the SEO cheatsheet for more information.
 ---
 Inside Native Applications
 ==========================
