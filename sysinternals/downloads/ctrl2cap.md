@@ -1,7 +1,7 @@
 --- 
 TOCTitle: Ctrl2cap
 title: Ctrl2cap
-description: This is a kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver in order to turn caps-locks into control keys. Filtering at this level allows conversion and hiding of keys before NT even "sees" them. Ctrl2cap also shows how to use NtDisplayString() to print messages to the initialization blue-screen.
+description: This is a kernel-mode driver that demonstrates keyboard input filtering in order to turn caps-locks into control keys. 
 ms:assetid: 'e0dcb713-f196-4e45-a2f8-e7bf3f692ac9'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897578(v=MSDN.10)'
 ms.date: 11/01/2006

@@ -1,7 +1,7 @@
 --- 
 TOCTitle: BlueScreen
 title: BlueScreen
-description: This screen saver not only accurately simulates Blue Screens, but simulated reboots as well (complete with CHKDSK), and works on Windows NT 4, Windows 2000, Windows XP, Server 2003 and Windows 95 and 98.
+description: This screen saver not only accurately simulates Blue Screens, but simulated reboots as well.
 ms:assetid: '2682b9a8-04c3-44ab-9a5c-71c8650b5a2e'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897558(v=MSDN.10)'
 ms.date: 11/01/2006

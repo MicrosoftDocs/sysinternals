@@ -1,7 +1,7 @@
 --- 
 TOCTitle: PsTools
 title: PsTools
-description: The PsTools suite includes command-line utilities for listing the processes running on local or remote computers, running processes remotely, rebooting computers, dumping event logs, and more.
+description: Command-line utilities for listing the processes running on local or remote computers, running processes, rebooting computers, and more.
 ms:assetid: '559ea946-3d7d-47bb-821c-b47fd078dfb7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896649(v=MSDN.10)'
 ms.date: 07/04/2016

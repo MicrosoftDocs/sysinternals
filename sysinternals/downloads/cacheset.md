@@ -1,7 +1,7 @@
 --- 
 TOCTitle: CacheSet
 title: CacheSet
-description: CacheSet is a program that allows you to control the Cache Manager's working set size using functions provided by NT. It's compatible with all versions of NT.
+description: CacheSet is a program that allows you to control the Cache Manager's working set size using functions provided by NT.
 ms:assetid: '1e957b54-014b-4ec9-9dbb-39b7ef6d5899'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897561(v=MSDN.10)'
 ms.date: 11/01/2006
