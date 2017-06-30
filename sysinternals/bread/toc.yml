@@ -53,9 +53,15 @@
           - name: DiskView
             tocHref: /sysinternals/downloads/diskview/
             topicHref: /sysinternals/downloads/diskview
+          - name: FindLinks
+            tocHref: /sysinternals/downloads/findlinks/
+            topicHref: /sysinternals/downloads/findlinks   
           - name: EFSDump
             tocHref: /sysinternals/downloads/efsdump/
             topicHref: /sysinternals/downloads/efsdump
+          - name: Junction
+            tocHref: /sysinternals/downloads/junction/
+            topicHref: /sysinternals/downloads/junction
           - name: LDMDump
             tocHref: /sysinternals/downloads/ldmdump/
             topicHref: /sysinternals/downloads/ldmdump
@@ -194,7 +200,7 @@
           - name: PsLogList
             tocHref: /sysinternals/downloads/psloglist/
             topicHref: /sysinternals/downloads/psloglist
-          - name: RootkitRevealer
+          - name: Rootkit Revealer
             tocHref: /sysinternals/downloads/rootkit-revealer/
             topicHref: /sysinternals/downloads/rootkit-revealer
           - name: Sysmon
