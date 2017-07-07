@@ -35,7 +35,8 @@
             "ms.prod": "windows-sysinternals",
             "ms.technology": "system-utilities",
             "ms.topic": "system-utilities",
-            "titleSuffix": "Windows Sysinternals"
+            "titleSuffix": "Windows Sysinternals",
+            "uhfHeaderId": "MSDocsHeader-Sysinternals"
         },
         "fileMetadata": {},
         "template": [],
