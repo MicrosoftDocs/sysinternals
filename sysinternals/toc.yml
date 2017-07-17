@@ -18,7 +18,6 @@
     items:
     - name: File and Disk Utilities
       href: downloads/file-and-disk-utilities.md
-      expanded: true
       items:
       - name: AccessChk
         href: downloads/accesschk.md
