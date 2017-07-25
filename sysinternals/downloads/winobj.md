@@ -14,7 +14,8 @@ WinObj v2.22
 
 Published: February 14, 2011
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(447 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(447 KB)**  
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 
 ## Introduction
@@ -61,10 +62,8 @@ Object Manager name space, and Mark's October 1997 [WindowsITPro
 Magazine](http://www.windowsitpro.com/) column, "Inside the Object
 Manager", is (of course) an excellent overview.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(447 KB)**
-
-[**Run WinObj**](https://live.sysinternals.com/Winobj.exe) now from
-Live.Sysinternals.com
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(447 KB)**  
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 **Runs on:**
 

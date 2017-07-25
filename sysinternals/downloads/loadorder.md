@@ -15,7 +15,8 @@ LoadOrder v1.01
 Published: July 4, 2016
 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(318 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(318 KB)**  
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 
 ## Introduction
@@ -28,7 +29,7 @@ enumeration.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(318 KB)**
 
-[**Run LoadOrder**](https://live.sysinternals.com/LoadOrd.exe) now from Live.Sysinternals.com
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 
 **Runs on:**

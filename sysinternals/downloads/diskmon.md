@@ -14,7 +14,8 @@ DiskMon for Windows v2.01
 
 Published: November 1, 2006
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DiskMon.zip) [**Download Diskmon**](https://download.sysinternals.com/files/DiskMon.zip) **(80 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DiskMon.zip) [**Download Diskmon**](https://download.sysinternals.com/files/DiskMon.zip) **(80 KB)**  
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 ## Introduction
 
@@ -58,4 +59,4 @@ which *DiskMon* is based.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DiskMon.zip) [**Download Diskmon**](https://download.sysinternals.com/files/DiskMon.zip) **(80 KB)** 
 
-[**Run Diskmon**](https://live.sysinternals.com/Diskmon.exe) now from Live.Sysinternals.com
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).

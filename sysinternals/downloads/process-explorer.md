@@ -15,7 +15,7 @@ Process Explorer v16.21
 Published: May 16, 2017
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(1.8 MB)**  
-[**Run Process Explorer**](https://live.sysinternals.com/procexp.exe) now from Live.Sysinternals.com
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 ## Introduction
 
@@ -58,7 +58,7 @@ into the way Windows and applications work.
 ## Download 
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(1.8 MB)**  
-[**Run Process Explorer**](https://live.sysinternals.com/procexp.exe) now from Live.Sysinternals.com
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 **Runs on:**
 -   Client: Windows Vista and higher (Including IA64).

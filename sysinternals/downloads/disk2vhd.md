@@ -14,7 +14,8 @@ Disk2vhd v2.01
 
 Published: January 21, 2014
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**  
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 
 ## Introduction
@@ -93,5 +94,5 @@ Example: **disk2vhd \* c:\\vhd\\snapshot.vhd**
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**
 
-[**Run Disk2vhd**](https://live.sysinternals.com/Disk2vhd.exe) now from Live.Sysinternals.com.
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
