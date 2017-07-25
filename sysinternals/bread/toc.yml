@@ -1,0 +1,297 @@
+- name: Home
+  tocHref: /sysinternals/
+  topicHref: /sysinternals/index
+  items:
+  - name: Learn
+    tocHref: /sysinternals/learn/
+    topicHref: /sysinternals/learn/index
+    items:
+      - name: Mark's Webcasts
+        tocHref: /sysinternals/learn/webcasts/
+        topicHref: /sysinternals/learn/webcasts
+      - name: Windows Internals Book
+        tocHref: /sysinternals/learn/windows-internals/
+        topicHref: /sysinternals/learn/windows-internals
+      - name: Troubleshooting with the Windows Sysinternals Tools
+        tocHref: /sysinternals/learn/troubleshooting-book/
+        topicHref: /sysinternals/learn/troubleshooting-book
+      - name: Inside Native Applications
+        tocHref: /sysinternals/learn/inside-native-applications/
+        topicHref: /sysinternals/learn/inside-native-applications
+  - name: Downloads
+    tocHref: /sysinternals/downloads/
+    topicHref: /sysinternals/downloads/index
+    items:
+      - name: File and Disk Utilities
+        tocHref: /sysinternals/downloads/file-and-disk-utilities/
+        topicHref: /sysinternals/downloads/file-and-disk-utilities
+        items:
+          - name: AccessChk
+            tocHref: /sysinternals/downloads/accesschk/
+            topicHref: /sysinternals/downloads/accesschk
+          - name: AccessEnum
+            tocHref: /sysinternals/downloads/accessenum/
+            topicHref: /sysinternals/downloads/accessenum
+          - name: CacheSet
+            tocHref: /sysinternals/downloads/cacheset/
+            topicHref: /sysinternals/downloads/cacheset
+          - name: Contig
+            tocHref: /sysinternals/downloads/contig/
+            topicHref: /sysinternals/downloads/contig
+          - name: Disk2vhd
+            tocHref: /sysinternals/downloads/disk2vhd/
+            topicHref: /sysinternals/downloads/disk2vhd
+          - name: DiskExt
+            tocHref: /sysinternals/downloads/diskext/
+            topicHref: /sysinternals/downloads/diskext
+          - name: DiskMon
+            tocHref: /sysinternals/downloads/diskmon/
+            topicHref: /sysinternals/downloads/diskmon
+          - name: Disk Usage
+            tocHref: /sysinternals/downloads/du/
+            topicHref: /sysinternals/downloads/du
+          - name: DiskView
+            tocHref: /sysinternals/downloads/diskview/
+            topicHref: /sysinternals/downloads/diskview
+          - name: FindLinks
+            tocHref: /sysinternals/downloads/findlinks/
+            topicHref: /sysinternals/downloads/findlinks   
+          - name: EFSDump
+            tocHref: /sysinternals/downloads/efsdump/
+            topicHref: /sysinternals/downloads/efsdump
+          - name: Junction
+            tocHref: /sysinternals/downloads/junction/
+            topicHref: /sysinternals/downloads/junction
+          - name: LDMDump
+            tocHref: /sysinternals/downloads/ldmdump/
+            topicHref: /sysinternals/downloads/ldmdump
+          - name: MoveFile
+            tocHref: /sysinternals/downloads/movefile/
+            topicHref: /sysinternals/downloads/movefile
+          - name: NTFSInfo
+            tocHref: /sysinternals/downloads/ntfsinfo/
+            topicHref: /sysinternals/downloads/ntfsinfo
+          - name: PageDefrag
+            tocHref: /sysinternals/downloads/pagedefrag/
+            topicHref: /sysinternals/downloads/pagedefrag
+          - name: PendMoves
+            tocHref: /sysinternals/downloads/pendmoves/
+            topicHref: /sysinternals/downloads/pendmoves
+          - name: RegMon
+            tocHref: /sysinternals/downloads/regmon/
+            topicHref: /sysinternals/downloads/regmon
+          - name: SDelete
+            tocHref: /sysinternals/downloads/sdelete/
+            topicHref: /sysinternals/downloads/sdelete
+          - name: Sigcheck
+            tocHref: /sysinternals/downloads/sigcheck/
+            topicHref: /sysinternals/downloads/sigcheck
+          - name: Streams
+            tocHref: /sysinternals/downloads/streams/
+            topicHref: /sysinternals/downloads/streams
+          - name: Sync
+            tocHref: /sysinternals/downloads/sync/
+            topicHref: /sysinternals/downloads/sync
+          - name: VolumeID
+            tocHref: /sysinternals/downloads/volumeid/
+            topicHref: /sysinternals/downloads/volumeid
+      - name: Networking Utilities
+        tocHref: /sysinternals/downloads/networking-utilities/
+        topicHref: /sysinternals/downloads/networking-utilities
+        items:
+          - name: Active Directory Explorer
+            tocHref: /sysinternals/downloads/adexplorer/
+            topicHref: /sysinternals/downloads/adexplorer
+          - name: Insight for Active Directory
+            tocHref: /sysinternals/downloads/adinsight/
+            topicHref: /sysinternals/downloads/adinsight
+          - name: AdRestore
+            tocHref: /sysinternals/downloads/adrestore/
+            topicHref: /sysinternals/downloads/adrestore
+          - name: PipeList
+            tocHref: /sysinternals/downloads/pipelist/
+            topicHref: /sysinternals/downloads/pipelist
+          - name: PsFile
+            tocHref: /sysinternals/downloads/psfile/
+            topicHref: /sysinternals/downloads/psfile
+          - name: PsPing
+            tocHref: /sysinternals/downloads/psping/
+            topicHref: /sysinternals/downloads/psping/
+          - name: PsTools
+            tocHref: /sysinternals/downloads/pstools/
+            topicHref: /sysinternals/downloads/pstools/
+          - name: ShareEnum
+            tocHref: /sysinternals/downloads/shareenum/
+            topicHref: /sysinternals/downloads/shareenum/
+          - name: TCPView
+            tocHref: /sysinternals/downloads/tcpview/
+            topicHref: /sysinternals/downloads/tcpview/
+          - name: Whois
+            tocHref: /sysinternals/downloads/whois/
+            topicHref: /sysinternals/downloads/whois/
+      - name: Process Utilities
+        tocHref: /sysinternals/downloads/process-utilities/
+        topicHref: /sysinternals/process-utilities/
+        items:
+          - name: AutoRuns
+            tocHref: /sysinternals/downloads/autoruns/
+            topicHref: /sysinternals/downloads/autoruns/
+          - name: Handle
+            tocHref: /sysinternals/downloads/handle/
+            topicHref: /sysinternals/downloads/handle/
+          - name: ListDLLs
+            tocHref: /sysinternals/downloads/listdlls/
+            topicHref: /sysinternals/downloads/listdlls/
+          - name: Portmon
+            tocHref: /sysinternals/downloads/portmon/
+            topicHref: /sysinternals/downloads/portmon/
+          - name: ProcDump
+            tocHref: /sysinternals/downloads/procdump/
+            topicHref: /sysinternals/downloads/procdump/
+          - name: Process Explorer
+            tocHref: /sysinternals/downloads/process-explorer/
+            topicHref: /sysinternals/downloads/process-explorer/
+          - name: Process Monitor
+            tocHref: /sysinternals/downloads/procmon/
+            topicHref: /sysinternals/downloads/procmon/
+          - name: PsExec
+            tocHref: /sysinternals/downloads/psexec/
+            topicHref: /sysinternals/downloads/psexec/
+          - name: PsGetSid
+            tocHref: /sysinternals/downloads/psgetsid/
+            topicHref: /sysinternals/downloads/psgetsid
+          - name: PsKill  
+            tocHref: /sysinternals/downloads/pskill/
+            topicHref: /sysinternals/downloads/pskill
+          - name: PsList
+            tocHref: /sysinternals/downloads/pslist/
+            topicHref: /sysinternals/downloads/pslist
+          - name: PsService
+            tocHref: /sysinternals/downloads/psservice/
+            topicHref: /sysinternals/downloads/psservice
+          - name: PsSuspend
+            tocHref: /sysinternals/downloads/pssuspend/
+            topicHref: /sysinternals/downloads/pssuspend
+          - name: PsTools
+            tocHref: /sysinternals/downloads/pstools/
+            topicHref: /sysinternals/downloads/pstools
+          - name: ShellRunas
+            tocHref: /sysinternals/downloads/shellrunas/
+            topicHref: /sysinternals/downloads/shellrunas
+          - name: VMMap
+            tocHref: /sysinternals/downloads/vmmap/
+            topicHref: /sysinternals/downloads/vmmap
+      - name: Security Utilities
+        tocHref: /sysinternals/downloads/security-utilities/
+        topicHref: /sysinternals/downloads/security-utilities
+        items:
+          - name: Autologon
+            tocHref: /sysinternals/downloads/autologon/
+            topicHref: /sysinternals/downloads/autologon
+          - name: LogonSessions
+            tocHref: /sysinternals/downloads/logonsessions/
+            topicHref: /sysinternals/downloads/logonsessions
+          - name: NewSID
+            tocHref: /sysinternals/downloads/newsid/
+            topicHref: /sysinternals/downloads/newsid
+          - name: PsLoggedOn
+            tocHref: /sysinternals/downloads/psloggedon/
+            topicHref: /sysinternals/downloads/psloggedon
+          - name: PsLogList
+            tocHref: /sysinternals/downloads/psloglist/
+            topicHref: /sysinternals/downloads/psloglist
+          - name: Rootkit Revealer
+            tocHref: /sysinternals/downloads/rootkit-revealer/
+            topicHref: /sysinternals/downloads/rootkit-revealer
+          - name: Sysmon
+            tocHref: /sysinternals/downloads/sysmon/
+            topicHref: /sysinternals/downloads/sysmon/
+      - name: System Information
+        tocHref: /sysinternals/downloads/system-information/
+        topicHref: /sysinternals/downloads/system-information
+        items:
+          - name: ClockRes
+            tocHref: /sysinternals/downloads/clockres/
+            topicHref: /sysinternals/downloads/clockres
+          - name: Coreinfo
+            tocHref: /sysinternals/downloads/coreinfo/
+            topicHref: /sysinternals/downloads/coreinfo
+          - name: LiveKd
+            tocHref: /sysinternals/downloads/livekd/
+            topicHref: /sysinternals/downloads/livekd
+          - name: LoadOrder
+            tocHref: /sysinternals/downloads/loadorder/
+            topicHref: /sysinternals/downloads/loadorder
+          - name: ProcFeatures
+            tocHref: /sysinternals/downloads/procfeatures/
+            topicHref: /sysinternals/downloads/procfeatures
+          - name: PsInfo
+            tocHref: /sysinternals/downloads/psinfo/
+            topicHref: /sysinternals/downloads/psinfo
+          - name: RAMMap
+            tocHref: /sysinternals/downloads/rammap/
+            topicHref: /sysinternals/downloads/rammap
+          - name: WinObj
+            tocHref: /sysinternals/downloads/winobj/
+            topicHref: /sysinternals/downloads/winobj
+      - name: Miscellaneous Utilities
+        tocHref: /sysinternals/downloads/misc-utilities/
+        topicHref: /sysinternals/downloads/misc-utilities
+        items:
+          - name: BgInfo
+            tocHref: /sysinternals/downloads/bginfo/
+            topicHref: /sysinternals/downloads/bginfo
+          - name: BlueScreen Screen Saver
+            tocHref: /sysinternals/downloads/bluescreen/
+            topicHref: /sysinternals/downloads/bluescreen
+          - name: Ctrl2Cap
+            tocHref: /sysinternals/downloads/ctrl2cap/
+            topicHref: /sysinternals/downloads/ctrl2cap
+          - name: DebugView
+            tocHref: /sysinternals/downloads/debugview/
+            topicHref: /sysinternals/downloads/debugview
+          - name: Desktops
+            tocHref: /sysinternals/downloads/desktops/
+            topicHref: /sysinternals/downloads/desktops
+          - name: Hex2dec
+            tocHref: /sysinternals/downloads/hex2dec/
+            topicHref: /sysinternals/downloads/hex2dec
+          - name: NotMyFault
+            tocHref: /sysinternals/downloads/notmyfault/
+            topicHref: /sysinternals/downloads/notmyfault
+          - name: PsPasswd
+            tocHref: /sysinternals/downloads/pspasswd/
+            topicHref: /sysinternals/downloads/pspasswd
+          - name: PsShutdown
+            tocHref: /sysinternals/downloads/psshutdown/
+            topicHref: /sysinternals/downloads/psshutdown
+          - name: RegDelNull
+            tocHref: /sysinternals/downloads/regdelnull/
+            topicHref: /sysinternals/downloads/regdelnull
+          - name: Registry Usage
+            tocHref: /sysinternals/downloads/ru/
+            topicHref: /sysinternals/downloads/ru
+          - name: Reghide
+            tocHref: /sysinternals/downloads/reghide/
+            topicHref: /sysinternals/downloads/reghide
+          - name: RegJump
+            tocHref: /sysinternals/downloads/regjump/
+            topicHref: /sysinternals/downloads/regjump
+          - name: Strings
+            tocHref: /sysinternals/downloads/strings/
+            topicHref: /sysinternals/downloads/strings
+          - name: ZoomIt
+            tocHref: /sysinternals/downloads/zoomit/
+            topicHref: /sysinternals/downloads/zoomit
+      - name: Sysinternals Suite
+        tocHref: /sysinternals/downloads/sysinternals-suite/
+        topicHref: /sysinternals/downloads/sysinternals-suite
+  - name: Community
+    tocHref: /sysinternals/community/
+    topicHref: /sysinternals/community
+  - name: Sysinternals Software License Terms
+    tocHref: /sysinternals/license-terms/
+    topicHref: /sysinternals/license-terms
+  - name: Licensing FAQ
+    tocHref: /sysinternals/license-faq/
+    topicHref: /sysinternals/license-faq
