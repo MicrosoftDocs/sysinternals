@@ -13,7 +13,7 @@ AccessEnum v1.32
 Published: November 1, 2006
 
 [![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/AccessEnum.zip)  [**Download AccessEnum**](https://download.sysinternals.com/files/AccessEnum.zip) **(51 KB)**  
-[**Run AccessEnum**](file://live.sysinternals.com/accessenum.exe) now from Live.Sysinternals.com.
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 ## Introduction
 While the flexible security model employed by Windows NT-based systems allows full control over security and file permissions, managing permissions so that users have appropriate access to files, directories and Registry keys can be difficult. There's no built-in way to quickly view user accesses to a tree of directories or keys. *AccessEnum* gives you a full view of your file system and Registry security settings in seconds, making it the ideal tool for helping you for security holes and lock down permissions where necessary.
@@ -23,6 +23,6 @@ While the flexible security model employed by Windows NT-based systems allows fu
 ## How It Works
 *AccessEnum* uses standard Windows security APIs to populate its listview with read, write and deny access information.
 
-[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/AccessEnum.zip)  [**Download AccessEnum**](https://download.sysinternals.com/files/AccessEnum.zip) **(51 KB)** 
+[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/AccessEnum.zip)  [**Download AccessEnum**](https://download.sysinternals.com/files/AccessEnum.zip) **(51 KB)**  
 
-[**Run AccessEnum**](file://live.sysinternals.com/accessenum.exe) now from Live.Sysinternals.com.
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).

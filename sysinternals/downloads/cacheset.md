@@ -14,7 +14,8 @@ CacheSet v1.0
 
 Published: November 1, 2006
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(44 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(44 KB)**  
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 
 ## Introduction
@@ -103,7 +104,7 @@ releasing all pages from the application's working set.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(44 KB)**
 
-[**Run CacheSet**](https://live.sysinternals.com/Cacheset.exe) now from Live.Sysinternals.com
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 **Runs on:**
 

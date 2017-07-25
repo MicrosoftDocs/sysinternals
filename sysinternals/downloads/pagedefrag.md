@@ -14,7 +14,8 @@ PageDefrag v2.32
 
 Published: November 1, 2006
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PageDefrag.zip) [**Download PageDefrag**](https://download.sysinternals.com/files/PageDefrag.zip) **(70 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PageDefrag.zip) [**Download PageDefrag**](https://download.sysinternals.com/files/PageDefrag.zip) **(70 KB)**  
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 
 ## Introduction
@@ -86,5 +87,4 @@ option for the setting you want:
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PageDefrag.zip) [**Download PageDefrag**](https://download.sysinternals.com/files/PageDefrag.zip) **(70 KB)**
 
-[**Run PageDefrag**](https://live.sysinternals.com/pagedfrg.exe) now
-from Live.Sysinternals.com
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).

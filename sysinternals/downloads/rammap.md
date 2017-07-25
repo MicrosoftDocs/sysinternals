@@ -14,7 +14,8 @@ RAMMap v1.5
 
 Published: February 2, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(291 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(291 KB)**  
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 
 Have you ever wondered exactly how Windows is assigning physical memory,
@@ -60,7 +61,7 @@ Edition](~/learn/windows-internals.md).
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(291 KB)**
 
-[**Run RAMMap**](https://live.sysinternals.com/rammap.exe) now from Live.Sysinternals.com
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 **Runs on:**
 
