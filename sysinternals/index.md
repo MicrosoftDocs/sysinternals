@@ -21,7 +21,7 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
-## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/ ## 
+## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
 ### What's New (May 16, 2017) ###
   - [ProcDump v9.0](~/downloads/procdump.md)  
