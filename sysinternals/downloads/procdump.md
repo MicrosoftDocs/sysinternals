@@ -4,7 +4,7 @@ title: ProcDump
 description: This command-line utility is aimed at capturing process dumps of otherwise difficult to isolate and reproduce CPU spikes.
 ms:assetid: 'f4201936-3609-4255-8d1e-93601e34aa34'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd996900(v=MSDN.10)'
-ms.date: 16/05/2017
+ms.date: 05/16/2017
 ---
 
  
