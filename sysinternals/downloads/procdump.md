@@ -12,7 +12,7 @@ ms.date: 05/16/2017
 ProcDump v9.0
 =============
 
-**By Mark Russinovich**
+**By Mark Russinovich and Andrew Richards**
 
 Published: May 16, 2017
 
