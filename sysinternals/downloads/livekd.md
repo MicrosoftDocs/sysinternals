@@ -10,7 +10,7 @@ ms.date: 05/16/2017
 LiveKd v5.62
 ============
 
-**By Mark Russinovich and Andrew Richards**
+**By Mark Russinovich and Ken Johnson**
 
 Published: May 16, 2017
 
