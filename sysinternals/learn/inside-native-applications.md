@@ -43,10 +43,10 @@ Native applications have ".exe" file extensions but you cannot run them like Win
 The <Application Name> application cannot be run in Windows NT mode.
 
 ## Inside a Native Application
-Instead of **winmain** or **main**, the entry point for native applications is **NtProcessStartup**. Also unlike the other Win32 entry points, native applications must reach into a data structure passed as its sole parameter to locate command-line arguments.
+Instead of **WinMain** or **main**, the entry point for native applications is **NtProcessStartup**. Also unlike the other Win32 entry points, native applications must reach into a data structure passed as its sole parameter to locate command-line arguments.
 
 The majority of a native application's runtime environment is provided by NTDLL.DLL, NT's native API export library. Native applications must create their own heap from which to allocate storage by using **RtlCreateHeap**, a NTDLL function. Memory is allocated from a heap with **RtlAllocateHeap** and freed with **RtlFreeHeap**. If a native application wishes to print something to the screen it must use the function **NtDisplayString**, which will output to the initialization Blue Screen.
 
-Native applications don't simply return from their startup function like Win32 programs, since there is no runtime code to return to. Instead, they must terminate themselves by calling **NtProcessTerminate**.
+Native applications don't simply return from their startup function like Win32 programs, since there is no runtime code to return to. Instead, they must terminate themselves by calling **NtTerminateProcess**.
 
 The NTDLL runtime consists of hundreds of functions that allow native applications to perform file I/O, interact with device drivers, and perform interprocess communications. Unfortunately, as I stated earlier, the vast majority of these functions are undocumented.
