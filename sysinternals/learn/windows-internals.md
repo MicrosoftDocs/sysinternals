@@ -1,124 +1,45 @@
---- 
-TOCTitle: Windows Internals Book
-title: Windows Internals Book
-ms:assetid: '11dfe484-4785-45a8-9b2f-863cdbd83be6'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963901(v=MSDN.10)'
-ms.date: 02/07/2017
----
+---- 
+-TOCTitle: Windows Internals Book
+-title: Windows Internals Book
+-ms:assetid: '11dfe484-4785-45a8-9b2f-863cdbd83be6'
+-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963901(v=MSDN.10)'
+-ms.date: 02/07/2017
+----
+**Windows Internals 7th edition (Part 1)** covers the architecture and core internals of Windows 10 and Windows Sever 2016. This book helps you:
 
-Windows Internals Book
-======================
+*	Understand the Windows system architecture and its general components
+*	Explore internal data structures using tools like the kernel debugger
+*	Understand how Windows uses processes for management and isolation
+*	Understand and view thread scheduling and how CPU resources are managed
+*	Dig into the Windows security model including recent advances in security mitigations
+*	Understand how Windows manages virtual and physical memory
+*	Understand how the I/O system manages physical devices and device drivers
+	
 
-***Windows Internals, 6th edition*** covers the internals of the core
-kernel components of the Windows 7 and Windows Server 2008 R2 operating
-systems. This classic book will help you:
--   Understand how the core system and management mechanisms work—from
-    the object manager to services to the registry
--   Explore internal system data structures using tools like the kernel
-    debugger
--   Grasp the scheduler’s priority and CPU placement algorithms
--   Go inside the Windows security model to see how it authorizes access
-    to data
--   Understand how Windows manages physical and virtual memory
--   Tour the Windows networking stack from top to bottom—including APIs,
-    protocol drivers, and network adapter drivers
--   Troubleshoot file-system access problems and system boot problems
--   Learn how to analyze crashes
+The 7th edition was written by Pavel Yosifovich, Alex Ionescu, Mark Russinovich and David Solomon. New material has been added since the 6th edition (which covered Windows 7 and Windows Server 2008 R2).
+Since the 7th edition’s part 2 is not yet available, the Windows Internals 6th edition (written by Mark Russinovich, David Solomon and Alex Ionescu) is an invaluable resource on missing topics from the first part of the 7th edition. These include system mechanisms, management mechanisms, networking, file systems, cache management and troubleshooting system crashes.
 
-Sixth in the series, this edition was again written by Mark Russinovich,
-a Technical Fellow in Microsoft’s Azure Group, [David
-Solomon](http://www.solsem.com/), an operating systems expert and
-Windows internals teacher, and Alex Ionescu, Chief Architect at
-CrowdStrike and specializing in OS internals and security. Besides
-updates for changes in Windows, there are many new experiments and
-examples that highlight the use of both existing and new Sysinternals
-tools.
+### Table of contents of the 7th edition, part 1:
+*	Chapter 1: Concepts and Tools
+*	Chapter 2: System Architecture
+*	Chapter 3: Processes and Jobs
+*	Chapter 4: Threads
+*	Chapter 5: Memory Management
+*	Chapter 6: I/O System
+*	Chapter 7: Security
 
-## Table of Contents
+The book is available for purchase on the Microsoft Press site (7th edition Part 1; 6th Edition Part 1; 6th Edition Part 2).
 
-**Part 1:**  
-**Chapter 1** Concepts and Tools   
-**Chapter 2** System Architecture   
-**Chapter 3** System Mechanisms   
-**Chapter 4** Management Mechanisms   
-**Chapter 5** Processes, Threads, and Jobs   
-**Chapter 6** Security   
-**Chapter 7** Networking  
-**Part 2:**  
-**Chapter 8**  I/O System  
-**Chapter 9**  Storage Management  
-**Chapter 10** Memory Management  
-**Chapter 11** Cache Manager  
-**Chapter 12** File Systems  
-**Chapter 13** Startup and Shutdown  
-**Chapter 14** Crash Dump Analysis
+### History of the Book
+This is the seventh edition of a book that was originally called Inside Windows NT (Microsoft Press, 1992), written by Helen Custer (prior to the initial release of Microsoft Windows NT 3.1). Inside Windows NT was the first book ever published about Windows NT and provided key insights into the architecture and design of the system. Inside Windows NT, Second Edition (Microsoft Press, 1998) was written by David Solomon. It updated the original book to cover Windows NT 4.0 and had a greatly increased level of technical depth. 
+Inside Windows 2000, Third Edition (Microsoft Press, 2000) was authored by David Solomon and Mark Russinovich. It added many new topics, such as startup and shutdown, service internals, registry internals, file-system drivers, and networking. It also covered kernel changes in Windows 2000, such as the Windows Driver Model (WDM), Plug and Play, power management, Windows Management Instrumentation (WMI), encryption, the job object, and Terminal Services. Windows Internals, Fourth Edition was the Windows XP and Windows Server 2003 update and added more content focused on helping IT professionals make use of their knowledge of Windows internals, such as using key tools from Windows Sysinternals (www.microsoft.com/technet/sysinternals) and analyzing crash dumps.
 
-## Sample Chapter
+Windows Internals, Fifth Edition was the update for Windows Vista and Windows Server 2008. It saw Mark Russinovich move on to a full-time job at Microsoft (where he is now the Azure CTO) and the addition of a new co-author, Alex Ionescu. New content included the image loader, user-mode debugging facility, Advanced Local Procedure Call (ALPC), and Hyper-V. The last release, Windows Internals, Sixth Edition, was fully updated to address the many kernel changes in Windows 7 and Windows Server 2008 R2, with many new hands-on experiments to reflect changes in the tools as well.
 
-You can download a PDF that includes the full table of contents, Chapter 5 (Processes, Threads, and Jobs), and Chapter 6 (Security)
-[here](https://download.microsoft.com/download/1/4/0/14045a9e-c978-47d1-954b-92b9fd877995/97807356648739_samplechapters.pdf).
+### Seventh Edition Changes
+Since this series’ last update, Windows has gone through several releases, coming up to Windows 10 and Windows Server 2016. Windows 10 itself, being the current going-forward name for Windows, has had several releases since its initial Release-to-Manufacturing, or RTM, each labeled with a 4-digit version number indicating year and month of release, such as Windows 10, version 1703 that was completed in March 2017. The above implies that Windows has gone through at least 6 versions since Windows 7.
+Starting with Windows 8, Microsoft began a process of OS convergence, which is beneficial from a development perspective as well as for the Windows engineering team itself. Windows 8 and Windows Phone 8 had converged kernels, with modern app convergence arriving in Windows 8.1 and Windows Phone 8.1. The convergence story was complete with Windows 10, which runs on desktops/laptops, servers, XBOX One, phones (Windows Mobile 10), HoloLens, and various Internet of Things (IoT) devices.
+With this grand unification completed, the time was right for a new edition of the series, which could now finally catch up with almost half a decade of changes, in what will now be a more stabilized kernel architecture going forward. As such, this latest book covers aspects of Windows from Windows 8 to Windows 10, version 1703. Additionally, this edition welcomes Pavel Yosifovich as its new co-author.
 
-## Ordering the Book
-
-The book is available for purchase on the Microsoft Press site ([6th Edition Part 1](https://www.microsoftpressstore.com/store/windows-internals-part-1-9780735648739);
-[6th Edition Part 2](https://www.microsoftpressstore.com/store/windows-internals-part-2-9780735665873),
-or the [5th Edition](https://www.microsoftpressstore.com/store/windows-internals-9780735630277)).
-
-## History of the Book 
-
-This is the sixth edition of a book that was originally called *Inside
-Windows NT* (Microsoft Press, 1992), written by Helen Custer (prior to
-the initial release of Microsoft Windows NT 3.1). *Inside Windows
-NT* was the first book ever published about Windows NT and provided key
-insights into the architecture and design of the system. *Inside Windows
-NT, Second Edition* (Microsoft Press, 1998) was written by David
-Solomon. It updated the original book to cover Windows NT 4.0 and had a
-greatly increased level of technical depth.
-
-*Inside Windows 2000, Third Edition* (Microsoft Press, 2000) was
-authored by David Solomon and Mark Russinovich. It added many new
-topics, such as startup and shutdown, service internals, registry
-internals, file-system drivers, and networking. It also covered kernel
-changes in Windows 2000, such as the Windows Driver Model (WDM), Plug
-and Play, power management, Windows Management Instrumentation (WMI),
-encryption, the job object, and Terminal Services. *Windows Internals,
-Fourth Edition* was the Windows XP and Windows Server 2003 update and
-added more content focused on helping IT professionals make use of their
-knowledge of Windows internals, such as using key tools from ([Windows
-Sysinternals](~/index.md))
-and analyzing crash dumps. *Windows Internals, Fifth Edition* was the
-update for Windows Vista and Windows Server 2008. New content included
-the image loader, user-mode debugging facility, and Hyper-V.
-
-## Book Tools
-
-Tools referenced in the book and hosted but not referenced on
-Sysinternals include:
-
--   [Cpustres](https://download.sysinternals.com/files/CPUSTRES.zip):
-    This tool is used in the Processes, Threads and Jobs chapter to
-    demonstrate relative thread priorities and priority boosting. It has
-    a UI thread and you can direct it to create up to four worker
-    threads at a specified priority and activity level.
--   [NotMyFault](https://download.sysinternals.com/files/NotMyFault.zip):
-    Use this executable and driver to crash your system in several
-    different ways. Chapter 7 uses Notmyfault to demonstrate pool leak
-    troubleshooting and Chapter 14 uses it for crash analysis examples.
-    The download includes x86 (in the exe\\release directory) and x64
-    versions (in the exe\\relamd directory) as well as full source.
--   [Testlimit](https://download.sysinternals.com/files/TestLimit.zip):
-    Chapter 3 uses Testlimit to demonstrate the operating system's
-    per-process limit on the number of concurrently opened handles, but
-    the tool's command-line options also let you test limits of process
-    and thread creation.
--   [Accvio](https://download.sysinternals.com/files/AccVio.zip): This
-    executable generates a user mode access violation by trying to
-    reference virtual address zero, which by default, is marked no
-    access. Chapter 3 uses it to demonstrate the behavior of Windows
-    when an application triggers an unhandled exception.
--   [Iopriority](https://download.sysinternals.com/files/iopriority.zip):
-    This tool is used in Chapter 7 to demonstrate the preference the
-    system gives to high priority I/O over low priority I/O. It does so
-    by creating two threads and having one issue high and the other low
-    priority I/O's. It was written by Jeffrey Richter
-    of [Wintellect](http://wintellect.com/).
+### Book tools
+Several tools have been specifically written for the book, and they are available with full source code at http://github.com/zodiacon/WindowsInternals.
