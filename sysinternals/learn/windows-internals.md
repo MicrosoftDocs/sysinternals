@@ -5,6 +5,9 @@ ms:assetid: '11dfe484-4785-45a8-9b2f-863cdbd83be6'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963901(v=MSDN.10)'
 ms.date: 02/07/2017
 ---
+Windows Internals Book
+======================
+ 
 **Windows Internals 7th edition (Part 1)** covers the architecture and core internals of Windows 10 and Windows Sever 2016. This book helps you:
 
 *	Understand the Windows system architecture and its general components
