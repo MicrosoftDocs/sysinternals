@@ -31,7 +31,7 @@ Since the 7th edition’s part 2 is not yet available, the Windows Internals 6th
 *	Chapter 6: I/O System
 *	Chapter 7: Security
 
-The book is available for purchase on the Microsoft Press site ([https://www.microsoftpressstore.com/store/windows-internals-part-1-system-architecture-processes-9780735684188](7th edition Part 1); (https://www.microsoftpressstore.com/store/windows-internals-part-1-9780735648739)[6th Edition Part 1]; (https://www.microsoftpressstore.com/store/windows-internals-part-2-9780735665873)[6th Edition Part 2]).
+The book is available for purchase on the Microsoft Press site ([7th edition Part 1](https://www.microsoftpressstore.com/store/windows-internals-part-1-system-architecture-processes-9780735684188); [6th Edition Part 1](https://www.microsoftpressstore.com/store/windows-internals-part-1-9780735648739); [6th Edition Part 2](https://www.microsoftpressstore.com/store/windows-internals-part-2-9780735665873)).
 
 ### History of the Book
 This is the seventh edition of a book that was originally called Inside Windows NT (Microsoft Press, 1992), written by Helen Custer (prior to the initial release of Microsoft Windows NT 3.1). Inside Windows NT was the first book ever published about Windows NT and provided key insights into the architecture and design of the system. Inside Windows NT, Second Edition (Microsoft Press, 1998) was written by David Solomon. It updated the original book to cover Windows NT 4.0 and had a greatly increased level of technical depth. 
