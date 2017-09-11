@@ -14,7 +14,7 @@ Autoruns for Windows v13.8
 
 Published: September 11, 2017
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.21 MB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 ## Introduction
@@ -136,6 +136,6 @@ Autorunsc is the command-line version of Autoruns. Its usage syntax is:
 
 ## Download
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.21 MB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
