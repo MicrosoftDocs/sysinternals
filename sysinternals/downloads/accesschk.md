@@ -7,14 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb664922(v=MSDN.10)'
 ms.date: 02/17/2017
 ---
 
-AccessChk v6.1
-==============
+AccessChk v6.11
+===============
 
 **By Mark Russinovich**
 
-Published: February 17, 2017
+Published: September 11, 2017
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(359 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(369 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 ## Introduction
@@ -103,5 +103,5 @@ To see all global objects that Everyone can modify:
 **accesschk -wuo everyone \\basednamedobjects**
 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(359 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(369 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/).
