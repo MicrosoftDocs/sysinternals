@@ -7,14 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963902(v=MSDN.10)'
 ms.date: 05/16/2017
 ---
 
-Autoruns for Windows v13.71
-===========================
+Autoruns for Windows v13.8
+==========================
 
 **By Mark Russinovich**
 
-Published: May 16, 2017
+Published: September 11, 2017
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.21 MB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 
 ## Introduction
@@ -119,8 +119,8 @@ Autorunsc is the command-line version of Autoruns. Its usage syntax is:
 |  **-t**      |   Show timestamps in normalized UTC (YYYYMMDD-hhmmss).|
 |  **-u**      |   If VirusTotal check is enabled, show files that are unknown by VirusTotal or have non-zero detection, otherwise show only unsigned files.|
 |  **-x**      |   Print output as XML.|
-|  **-v\[rs\]**|   Query VirusTotal (www.virustotal.com) for malware based on file hash. Add 'r' to open reports for files with non-zero detection. Files reported as not previously scanned will be uploaded to VirusTotal if the 's' option is specified. Note scan results may not be available for five or more minutes.|
-|  **-vt**     |   Before using VirusTotal features, you must accept VirusTotal terms of service. See: https://www.virustotal.com/en/about/terms-of-service/ If you haven't accepted the terms and you omit this option, you will be interactively prompted.|
+|  **-v\[rs\]**|   Query [VirusTotal](https://www.virustotal.com/) for malware based on file hash. Add 'r' to open reports for files with non-zero detection. Files reported as not previously scanned will be uploaded to VirusTotal if the 's' option is specified. Note scan results may not be available for five or more minutes.|
+|  **-vt**     |   Before using VirusTotal features, you must accept the VirusTotal [terms of service](https://www.virustotal.com/en/about/terms-of-service/). If you haven't accepted the terms and you omit this option, you will be interactively prompted.|
 |  **-z**      |   Specifies the offline Windows system to scan.|
 |  **user**    |   Specifies the name of the user account for which autorun items will be shown. Specify '\*' to scan all user profiles. |
  
@@ -136,6 +136,6 @@ Autorunsc is the command-line version of Autoruns. Its usage syntax is:
 
 ## Download
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.21 MB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/).
 

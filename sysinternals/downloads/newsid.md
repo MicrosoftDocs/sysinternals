@@ -147,7 +147,7 @@ users. All resources, including files and Registry keys, that one user
 has access to, the other will as well.
 
 Another instance where duplicate SIDs can cause problems is where there
-is removable media formated with NTFS, and local account security
+is removable media formatted with NTFS, and local account security
 attributes are applied to files and directories. If such a media is
 moved to a different computer that has the same SID, then local accounts
 that otherwise would not be able to access the files might be able to if

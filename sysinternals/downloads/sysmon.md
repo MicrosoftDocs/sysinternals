@@ -7,14 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dn798348(v=MSDN.10)'
 ms.date: 05/22/2017
 ---
 
-Sysmon v6.02
-============
+Sysmon v6.1
+===========
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: May 22, 2017
+Published: September 11, 2017
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.4 MB)**
 
 ## Introduction
 
@@ -292,6 +292,29 @@ configuration settings via browser downloads, and this event is aimed at
 capturing that based on the browser attaching a Zone.Identifier “mark of
 the web” stream.
 
+### Event ID 17: PipeEvent (Pipe Created)
+
+This event generates when a named pipe is created. Malware often uses named 
+pipes for interprocess communication. 
+
+### Event ID 18: PipeEvent (Pipe Connected)
+
+This event logs when a named pipe connection is made between a client and a 
+server.
+
+### Event ID 19: WmiEvent (WmiEventFilter activity detected)
+
+When a WMI event filter is registered, which is a method used by malware to 
+execute, this event logs the WMI namespace, filter name and filter expression. 
+
+### Event ID 20: WmiEvent (WmiEventConsumer activity detected)
+
+This event logs the registration of WMI consumers, recording the consumer name, 
+log, and destination. 
+
+### Event ID 21: WmiEvent (WmiEventConsumerToFilter activity detected)
+When a consumer binds to a filter, this event logs the consumer name and filter path. 
+
 ### Event ID 255: Error
 
 This event is generated when an error occurred within Sysmon. They can
@@ -420,7 +443,7 @@ activity to port 80 and 443 by all processes except those that have
 iexplore.exe in their name.
 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.4 MB)**
   
 **Runs on:**
 

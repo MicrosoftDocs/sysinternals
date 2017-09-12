@@ -23,6 +23,14 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
+### What's New (September 11, 2017) ###
+  - [Sysmon v6.1](~/downloads/sysmon.md)  
+    This update to Sysmon, a background monitor that records activity to the event log for use in security incident detection and forensics, adds monitoring of WMI filters and consumers, an autostart mechanism commonly used by malware, and fixes a bug in image load filtering. 
+  - [Process Monitor v3.4](~/downloads/procmon.md)
+    Process Monitor, a file system registry, process and network real-time monitor, now includes a /runtime switch for terminating monitoring after a specified amount of time, when in hexadecimal mode shows process tree process IDs in hexadecimal, and fixes a bug in automated boot log conversion. 
+  - [Autoruns v13.8](~/downloads/autoruns.md) 
+    This release of Autoruns, a utility for viewing and managing autostart execution points (ASEPs), adds additional autostart entry points, has asynchronous file saving, fixes a bug parsing 32-bit paths on 64-bit Windows, shows the display name for drivers and services, and fixes a bug in offline Virus Total scanning. 
+
 ### What's New (May 16, 2017) ###
   - [ProcDump v9.0](~/downloads/procdump.md)  
     This major update to ProcDump, a utility that enables process dump capture based on a variety of triggers, introduces the ability to take capture multiple dumps sizes. This is particularly useful when capturing crash dumps of applications susceptible to termination due to unresponsiveness (e.g. IIS Ping killing w3wp.exe). This release also adds support for an associated Kernel Dump of the process that includes the kernel stacks of the process.</li>

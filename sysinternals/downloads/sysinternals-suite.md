@@ -13,8 +13,8 @@ Sysinternals Suite
 
 **By Mark Russinovich**  
 Updated: June 14, 2017  
-[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (21.3 MB)  
-[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (4.6 MB)
+[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (22.6 MB)  
+[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (4.7 MB)
 
 ## Introduction
 The Sysinternals Troubleshooting Utilities have been rolled up into a
@@ -44,6 +44,6 @@ Utilities:
 | [VolumeID](volumeid.md)  | [WhoIs](whois.md)  | [WinObj](winobj.md)  | [ZoomIt](zoomit.md) |  |
 
 
-[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (21.3 MB)  
-[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (4.6 MB)  
+[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (22.6 MB)  
+[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (4.7 MB)  
 
