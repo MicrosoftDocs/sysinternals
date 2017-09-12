@@ -4,15 +4,15 @@ title: Process Monitor
 description: Monitor file system, Registry, process, thread and DLL activity in real-time.
 ms:assetid: '37225635-4ad0-4b08-aa5e-4bba665b1d89'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896645(v=MSDN.10)'
-ms.date: 05/16/2017
+ms.date: 09/12/2017
 ---
 
-Process Monitor v3.33
+Process Monitor v3.34
 =====================
 
 **By Mark Russinovich**
 
-Published: May 16, 2017
+Published: September 12, 2017
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(981 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/).

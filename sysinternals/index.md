@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb545021(v=MSDN.10)'
-ms.date: 05/16/2017
+ms.date: 09/12/2017
 ---
 
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
@@ -26,9 +26,9 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ### What's New (September 11, 2017) ###
   - [Sysmon v6.1](~/downloads/sysmon.md)  
     This update to Sysmon, a background monitor that records activity to the event log for use in security incident detection and forensics, adds monitoring of WMI filters and consumers, an autostart mechanism commonly used by malware, and fixes a bug in image load filtering. 
-  - [Process Monitor v3.4](~/downloads/procmon.md)
+  - [Process Monitor v3.4](~/downloads/procmon.md)  
     Process Monitor, a file system registry, process and network real-time monitor, now includes a /runtime switch for terminating monitoring after a specified amount of time, when in hexadecimal mode shows process tree process IDs in hexadecimal, and fixes a bug in automated boot log conversion. 
-  - [Autoruns v13.8](~/downloads/autoruns.md) 
+  - [Autoruns v13.8](~/downloads/autoruns.md)  
     This release of Autoruns, a utility for viewing and managing autostart execution points (ASEPs), adds additional autostart entry points, has asynchronous file saving, fixes a bug parsing 32-bit paths on 64-bit Windows, shows the display name for drivers and services, and fixes a bug in offline Virus Total scanning. 
 
 ### What's New (May 16, 2017) ###
