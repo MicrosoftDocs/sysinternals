@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896645(v=MSDN.10)'
 ms.date: 05/16/2017
 ---
 
-Process Monitor v3.33
+Process Monitor v3.40
 =====================
 
 **By Mark Russinovich**
 
-Published: May 16, 2017
+Published: September 11, 2017
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(981 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/).
