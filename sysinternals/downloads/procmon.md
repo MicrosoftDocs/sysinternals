@@ -7,12 +7,20 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896645(v=MSDN.10)'
 ms.date: 09/12/2017
 ---
 
+<<<<<<< HEAD
 Process Monitor v3.34
+=======
+Process Monitor v3.40
+>>>>>>> 5121f1fe2c080dc60f820d8f61d4800acfaa3ffb
 =====================
 
 **By Mark Russinovich**
 
+<<<<<<< HEAD
 Published: September 12, 2017
+=======
+Published: September 11, 2017
+>>>>>>> 5121f1fe2c080dc60f820d8f61d4800acfaa3ffb
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(981 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/).
