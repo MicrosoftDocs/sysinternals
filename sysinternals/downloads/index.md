@@ -17,7 +17,7 @@ The entire set of Sysinternals Utilities rolled up into a single download.
 Sysinternals Utilities for Nano Server in a single download.
 
 [AccessChk](accesschk.md)  
-*v6.1 (February 17, 2017)*  
+*v6.10 (September 11, 2017)*  
 AccessChk is a command-line tool for viewing the effective permissions
 on files, registry keys, services, processes, kernel objects, and more.
 
@@ -46,7 +46,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v13.71 (May 16, 2017)*  
+*v13.80 (September 11, 2017)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -224,7 +224,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.33 (May 16, 2017)*  
+*v3.40 (September 11, 2017)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -337,7 +337,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v6.01 (March 13, 2017)*  
+*v6.10 (September 11, 2017)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
