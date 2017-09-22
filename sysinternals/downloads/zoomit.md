@@ -15,7 +15,7 @@ ZoomIt v4.5
 Published: June 20, 2013
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(296 KB)**  
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/tools/zoomit.exe).
 
 
 ## Introduction
@@ -46,5 +46,5 @@ by clicking on the ZoomIt tray icon.
 ![ZoomIt](/media/landing/sysinternals/20130618_Zoomit_v4.5.jpg)  
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(296 KB)**  
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/tools/zoomit.exe).
 
