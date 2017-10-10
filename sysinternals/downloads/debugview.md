@@ -15,7 +15,7 @@ DebugView v4.81
 Published: December 4, 2012
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(287 KB)**  
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/Dbgview.exe).
 
 
 ## Introduction
@@ -158,7 +158,7 @@ remote system. Note the presence of a highlighting filter.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(287 KB)**
 
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/Dbgview.exe).
 
   
 

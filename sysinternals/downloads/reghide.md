@@ -13,7 +13,7 @@ Reghide
 Published: November 1, 2006
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RegHide.zip) [**Download RegHide**](https://download.sysinternals.com/files/RegHide.zip) **(38 KB)** 
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/Reghide.exe).
 
 
 ## Introduction
@@ -30,7 +30,7 @@ Native API, but that cannot be described using the Win32 API.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RegHide.zip) [**Download RegHide**](https://download.sysinternals.com/files/RegHide.zip) **(38 KB)**
 
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/Reghide.exe).
 
 **Runs on:**
 

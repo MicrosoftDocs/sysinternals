@@ -15,7 +15,7 @@ BgInfo v4.22
 Published: May 16, 2017
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip)] **(974 KB)**  
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/Bginfo.exe).
 
 
 ## Introduction
@@ -189,7 +189,7 @@ the limit is 16K, while on NT/2000/XP systems the limit is 64K.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip)] **(974 KB)**
 
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/Bginfo.exe).
 
 **Runs on:**
 

@@ -16,7 +16,7 @@ Published: July 4, 2016
 
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(318 KB)**  
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/LoadOrd.exe).
 
 
 ## Introduction
@@ -29,7 +29,7 @@ enumeration.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(318 KB)**
 
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/LoadOrd.exe).
 
 
 **Runs on:**
