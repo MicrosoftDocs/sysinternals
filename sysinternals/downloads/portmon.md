@@ -15,7 +15,7 @@ Portmon for Windows v3.03
 Published: January 12, 2012
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PortMon.zip) [**Download Portmon**](https://download.sysinternals.com/files/PortMon.zip) **(226 KB)**  
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/portmon.exe).
 
 
 ## Introduction
@@ -116,4 +116,4 @@ port selection like on NT.
   
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PortMon.zip) [**Download Portmon**](https://download.sysinternals.com/files/PortMon.zip) **(226 KB)** 
 
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/portmon.exe).

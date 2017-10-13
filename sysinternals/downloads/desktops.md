@@ -15,7 +15,7 @@ Desktops v2.0
 Published: October 17, 2012
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Desktops.zip) [**Download Desktops**](https://download.sysinternals.com/files/Desktops.zip) **(61 KB)**  
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/Desktops.exe).
 
 
 ## Introduction
@@ -67,7 +67,7 @@ Tray Desktop Switch Window
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Desktops.zip) [**Download Desktops**](https://download.sysinternals.com/files/Desktops.zip) **(61 KB)**
 
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/Desktops.exe).
 
 **Runs on:**
 
