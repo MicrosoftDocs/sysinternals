@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dn798348(v=MSDN.10)'
 ms.date: 05/22/2017
 ---
 
-Sysmon v6.10
+Sysmon v6.20
 ============
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: September 11, 2017
+Published: November 19, 2017
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.4 MB)**
 
