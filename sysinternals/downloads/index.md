@@ -17,7 +17,7 @@ The entire set of Sysinternals Utilities rolled up into a single download.
 Sysinternals Utilities for Nano Server in a single download.
 
 [AccessChk](accesschk.md)  
-*v6.10 (September 11, 2017)*  
+*v6.20 (November 19, 2017)*  
 AccessChk is a command-line tool for viewing the effective permissions
 on files, registry keys, services, processes, kernel objects, and more.
 
@@ -320,7 +320,7 @@ Launch programs as a different user via a convenient shell context-menu
 entry.
 
 [Sigcheck](sigcheck.md)  
-*v2.54 (August 29, 2016)*  
+*v2.60 (November 19, 2017)*  
 Dump file version information and verify that images on your system are
 digitally signed.
 
@@ -337,7 +337,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v6.10 (September 11, 2017)*  
+*v6.20 (November 19, 2017)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
@@ -353,7 +353,7 @@ VMMap is a process virtual and physical memory analysis utility.
 Set Volume ID of FAT or NTFS drives.
 
 [Whois](whois.md)  
-*v1.14 (July 4, 2016)*  
+*v1.20 (November 19, 2017)*  
 See who owns an Internet address.
 
 [WinObj](winobj.md)  
