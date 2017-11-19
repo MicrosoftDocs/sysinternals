@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897435(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
-Whois v1.14
+Whois v1.20
 ===========
 
 **By Mark Russinovich**
 
-Published: July 4, 2016
+Published: November 19, 2017
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WhoIs.zip) [**Download Whois**](https://download.sysinternals.com/files/WhoIs.zip) **(158 KB)**
 
