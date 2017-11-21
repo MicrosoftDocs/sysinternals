@@ -72,7 +72,7 @@ nor does it attempt to protect or hide itself from attackers.
 Uses Sysmon simple command-line options to install and uninstall it, as
 well as to check and modify Sysmon’s configuration:
 
-**Sysinternals Sysmon v6.00 - System activity monitor  
+**Sysinternals Sysmon v6.20 - System activity monitor  
 Copyright (C) 2014-2017 Mark Russinovich and Thomas Garnier  
 Sysinternals - www.sysinternals.com**
 
@@ -94,6 +94,7 @@ Usage:
 |Parameter  |Description  |
 |---------|---------|
 |  **-c** |  Update configuration of an installed Sysmon driver or dump the current configuration if no other argument is provided. Optionally take a configuration file.|
+|  **-d** |  Specify the name of the installed device driver image. Configuration entry: DriverName. The service image and service name will be the same.|
 |  **-h** |  Specify the hash algorithms used for image identification (default is SHA1). It supports multiple algorithms at the same time. Configuration entry: HashAlgorithms.|
 |  **-i** |  Install service and driver. Optionally take a configuration file.|
 |  **-l** |  Log loading of modules. Optionally take a list of processes to track.|
