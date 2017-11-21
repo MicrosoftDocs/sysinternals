@@ -23,6 +23,13 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
+### What's New (November 19, 2017) ###
+  - [Sysmon v6.20](~/downloads/sysmon.md)  
+    This Sysmon release adds the ability to change the Sysmon service and driver names to foil malware that use them to detect its presence. 
+    
+  - [Whois v1.20](~/downloads/whois.md)  
+    Whois, a command-line utility that reports domain registration information for the specified domain, works with new whois registry server redirects.  
+
 ### What's New (September 11, 2017) ###
   - [Sysmon v6.10](~/downloads/sysmon.md)  
     This update to Sysmon, a background monitor that records activity to the event log for use in security incident detection and forensics, adds monitoring of WMI filters and consumers, an autostart mechanism commonly used by malware, and fixes a bug in image load filtering. 
@@ -44,7 +51,3 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
     Autoruns, an autostart entry point management utility, now reports print providers, registrations in the WMI\Default namespace, fixes a KnownDLLs enumeration bug, and has improved toolbar usability on high-DPI displays.
   - [AccessChk v6.1](~/downloads/accesschk.md)  
     This update to AccessChk, a command-line utility that shows effective and actual permissions for file, registry, service, process object manager, and event logs, now reports Windows 10 process trust access control entries and token security attributes.
-
-### What's New (November 28, 2016) ###
-  - Announcing a new book, [Troubleshooting with the Windows Sysinternals Tools](~/learn/troubleshooting-book.md)  
-    Become a Windows troubleshooting master and get the most out of the Sysinternals tools. Completely updated and expanded, this book by Sysinternals co-creator Mark Russinovich and Windows expert Aaaron Margosis covers all the tools, with full chapters on the major tools like Process Explorer, Process Monitor, Autoruns, and has 45 “case of the unexplained…” examples of the tools solving real-world problems.
