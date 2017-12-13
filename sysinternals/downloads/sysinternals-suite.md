@@ -12,7 +12,7 @@ Sysinternals Suite
   
 
 **By Mark Russinovich**  
-Updated: June 14, 2017  
+Updated: December 12, 2017  
 [**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (22.6 MB)  
 [**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (4.7 MB)
 
@@ -24,9 +24,7 @@ the BSOD Screen Saver or NotMyFault.
 
 The Suite is a bundling of the following selected Sysinternals
 Utilities:
-|         |         |         |         |         |
-|---------|---------|---------|---------|---------|
-| [AccessChk](accesschk.md)  | [AccessEnum](accessenum.md)  | [AdExplorer](adexplorer.md)  | [AdInsight](adinsight.md)  | [AdRestore](adrestore.md)  |
+[AccessChk](accesschk.md)  | [AccessEnum](accessenum.md)  | [AdExplorer](adexplorer.md)  | [AdInsight](adinsight.md)  | [AdRestore](adrestore.md)  |
 | [Autologon](autologon.md)  | [Autoruns](autoruns.md)  | [BgInfo](bginfo.md)  | [BlueScreen](bluescreen.md)  | [CacheSet](cacheset.md)  |
 | [ClockRes](clockres.md)  | [Contig](contig.md)  | [Coreinfo](coreinfo.md)  | [Ctrl2Cap](ctrl2cap.md)  | [DebugView](debugview.md)  |
 | [Desktops](desktops.md)  | [Disk2vhd](disk2vhd.md)  | [DiskExt](diskext.md)  | [DiskMon](diskmon.md)  | [DiskView](diskview.md)  |
@@ -41,7 +39,7 @@ Utilities:
 | [RegHide](reghide.md)  | [RegJump](regjump.md)  | [RegMon](regmon.md)  | [Rootkit Revealer](rootkit-revealer.md)  | [Registry Usage (RU)](ru.md)  |
 | [SDelete](sdelete.md)  | [ShareEnum](shareenum.md)  | [ShellRunas](shellrunas.md)  | [Sigcheck](sigcheck.md)  | [Streams](streams.md)  |
 | [Strings](strings.md)  | [Sync](sync.md)  | [Sysmon](sysmon.md)  | [TCPView](tcpview.md)  | [VMMap](vmmap.md)  |
-| [VolumeID](volumeid.md)  | [WhoIs](whois.md)  | [WinObj](winobj.md)  | [ZoomIt](zoomit.md) |  |
+| [VolumeID](volumeid.md)  | [WhoIs](whois.md)  | [WinObj](winobj.md)  | [ZoomIt](zoomit.md) | 
 
 
 [**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (22.6 MB)  

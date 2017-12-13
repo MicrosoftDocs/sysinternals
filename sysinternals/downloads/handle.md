@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896655(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
-Handle v4.1
-===========
+Handle v4.11
+============
 
 **By Mark Russinovich**
 
-Published: July 4, 2016
+Published: December 12, 2017
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(310 KB)**
 
