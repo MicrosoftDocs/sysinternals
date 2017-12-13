@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963902(v=MSDN.10)'
 ms.date: 05/16/2017
 ---
 
-Autoruns for Windows v13.80
+Autoruns for Windows v13.81
 ===========================
 
 **By Mark Russinovich**
 
-Published: September 11, 2017
+Published: December 12, 2017
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/autoruns.exe).
