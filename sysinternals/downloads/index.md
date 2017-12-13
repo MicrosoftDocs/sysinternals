@@ -46,14 +46,14 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v13.80 (September 11, 2017)*  
+*v13.81 (December 12, 2017)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
 settings.
 
 [BgInfo](bginfo.md)  
-*v4.22 (May 16, 2017)*  
+*v4.23 (December 12, 2017)*  
 This fully-configurable program automatically generates desktop
 backgrounds that include important information about the system
 including IP addresses, computer name, network adapters, and more.
@@ -143,7 +143,7 @@ data remains allocated so long as at it has at least one file name
 referencing it.
 
 [Handle](handle.md)  
-*v4.1 (July 4, 2016)*  
+*v4.11 (December 12, 2017)*  
 This handy command-line utility will show you what files are open by
 which processes, and much more.
 
