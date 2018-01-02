@@ -23,6 +23,10 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
+### What's New (January 2, 2018) ###
+  - [Sysmon v7.0](~/downloads/sysmon.md)  
+    Sysmon now logs file version information, and the option to dump the configuration schema adds the ability to dump an older schema or dump all historical schemas. 
+    
 ### What's New (November 19, 2017) ###
   - [Sysmon v6.20](~/downloads/sysmon.md)  
     This Sysmon release adds the ability to change the Sysmon service and driver names to foil malware that use them to detect its presence. 
