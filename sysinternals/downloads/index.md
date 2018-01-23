@@ -53,7 +53,7 @@ Registry and file locations where applications can configure auto-start
 settings.
 
 [BgInfo](bginfo.md)  
-*v4.24 (December 30, 2017)*  
+*v4.25 (January 18, 2018)*  
 This fully-configurable program automatically generates desktop
 backgrounds that include important information about the system
 including IP addresses, computer name, network adapters, and more.
@@ -337,7 +337,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*7.0 (January 2, 2018)*  
+*7.01 (January 5, 2018)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
