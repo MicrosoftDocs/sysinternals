@@ -46,7 +46,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v13.81 (December 12, 2017)*  
+*v13.82 (February 13, 2018)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -128,7 +128,7 @@ disk activity light in your system tray.
 Graphical disk sector utility.
 
 [Disk Usage (DU.md)](du.md)  
-*v1.6 (July 4, 2016)*  
+*v1.61 (February 13, 2018)*  
 View disk usage by directory.
 
 [EFSDump](efsdump.md)  
@@ -224,7 +224,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.40 (September 11, 2017)*  
+*v3.50 (Febryary 13, 2018)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -305,7 +305,7 @@ View the registry space usage for the specified registry key.
 Jump to the registry path you specify in Regedit.
 
 [SDelete](sdelete.md)  
-*v2.0 (July 4, 2016)*  
+*v2.01 (February 13, 2018)*  
 Securely overwrite your sensitive files and cleanse your free space of
 previously deleted files using this DoD-compliant secure delete program.
 
