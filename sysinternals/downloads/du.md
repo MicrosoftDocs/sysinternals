@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896651(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
-Disk Usage v1.6
-===============
+Disk Usage v1.61
+================
 
 **By Mark Russinovich**
 
-Published: July 4, 2016
+Published: February 13, 2017
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DU.zip)] [**Download Du**](https://download.sysinternals.com/files/DU.zip) **(174 KB)**
 
