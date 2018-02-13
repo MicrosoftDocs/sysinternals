@@ -24,10 +24,10 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
 ### What's New (February 13, 2018) ###
-  - [Autoruns v13.82](~/downloads/sysmon.md)  
+  - [Autoruns v13.82](~/downloads/autoruns.md)  
     This Autoruns release shows Onenote addins and fixes several bugs. 
 
-  - [Process Monitor v3.50](~/downloads/sysmon.md)  
+  - [Process Monitor v3.50](~/downloads/procmon.md)  
     Process Monitor now includes a /runtime switch to control headless capture duration, correctly shows picoprocesses, displays details for file system APIs introduced in Windows 10, and includes numerous minor improvements and bug fixes. 
 
 ### What's New (January 2, 2018) ###
