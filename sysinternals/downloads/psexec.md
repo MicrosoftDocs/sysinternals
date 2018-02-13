@@ -48,14 +48,14 @@ advanced usage of PsExec.
 
 **Usage: psexec \[\\\\computer\[,computer2\[,...\] | @file\]\]\[-u user
 \[-p psswd\]\[-n s\]\[-r servicename\]\[-h\]\[-l\]\[-s|-e\]\[-x\]\[-i
-\[session\]\]\[-c \[-f|-v\]\]\[-w
+\[session\]\]\[-c executable \[-f|-v\]\]\[-w
 directory\]\[-d\]\[-&lt;priority&gt;\]\[-a n,n,...\] cmd \[arguments\]**
 
  
 |Parameter  |Description  |
 |---------|---------|
 |  **-a**           | Separate processors on which the application can run with commas where 1 is the lowest numbered CPU. For example, to run the application on CPU 2 and CPU 4, enter: "-a 2,4"|
-|  **-c**           | Copy the specified program to the remote system for execution. If you omit this option the application must be in the system path on the remote system.|
+|  **-c**           | Copy the specified executable to the remote system for execution. If you omit this option the application must be in the system path on the remote system.|
 |  **-d**           | Don't wait for process to terminate (non-interactive).|
 |  **-e**           | Does not load the specified account’s profile.|
 |  **-f**           | Copy the specified program even if the file already exists on the remote system.|
