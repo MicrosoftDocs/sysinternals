@@ -33,10 +33,10 @@ cache output with a map of shared by cores 3 and 4.
 
 |Parameter  |Description  |
 |---------|---------|
-| **-c ** | Dump information on cores. |
+| **-c** | Dump information on cores. |
 | **-f** | Dump core feature information. |
 | **-g** | Dump information on groups. |
-| **-l ** | Dump information on caches. |
+| **-l** | Dump information on caches. |
 | **-n** | Dump information on NUMA nodes. |
 | **-s** | Dump information on sockets. |
 | **-m** | Dump NUMA access cost. |
