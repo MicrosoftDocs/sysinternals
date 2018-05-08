@@ -72,7 +72,7 @@ To delete a junction, use the –d switch:
 
 ## Return codes
 **0**  - on success  
-**-1** - on failed creation of new junction 
+**-1** - on failed creation of new junction  
 **0**  - on failed deletion of junction  (e.g. if file not found)  
 **0**  - on the check if a file is a junction fails (e.g. if file not found)  
 
