@@ -30,7 +30,7 @@ applications make in the Wldap32.dll library, which is the standard
 library underlying Active Directory APIs such ldap and ADSI. Unlike
 network monitoring tools, ADInsight intercepts and interprets all
 client-side APIs, including those that do not result in transmission to
-a server. ADInsight monitors any process into which it can load it’s
+a server. ADInsight monitors any process into which it can load its
 tracing DLL, which means that it does not require administrative
 permissions, however, if run with administrative rights, it will also
 monitor system processes, including windows services.
