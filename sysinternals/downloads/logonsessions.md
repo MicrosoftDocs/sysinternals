@@ -35,9 +35,9 @@ running in each session.
 
 ## Example output
 ```Shell
-C:\\&gt;logonsessions -p 
-… 
-\[13\] Logon session 00000000:6a6d6160:
+C:\>logonsessions -p 
+
+[13] Logon session 00000000:6a6d6160:
     User name:    NTDEV\markruss
     Auth package: Kerberos
     Logon type:   RemoteInteractive
