@@ -287,7 +287,7 @@ processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
 
 [RAMMap](rammap.md)  
-*v1.5 (February 2, 2016)*  
+*v1.51 (May 31, 2018)*  
 An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
