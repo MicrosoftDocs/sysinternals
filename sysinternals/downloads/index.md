@@ -287,7 +287,7 @@ processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
 
 [RAMMap](rammap.md)  
-*v1.5 (February 2, 2016)*  
+*v1.51 (May 31, 2018)*  
 An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
@@ -337,7 +337,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*7.02 (April 29, 2018)*  
+*7.03 (May 14, 2018)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
