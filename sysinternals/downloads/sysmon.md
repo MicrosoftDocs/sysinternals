@@ -12,7 +12,7 @@ Sysmon v8.0
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: June 25, 2018
+Published: July 5, 2018
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.4 MB)**
 
