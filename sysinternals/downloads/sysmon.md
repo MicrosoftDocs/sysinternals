@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dn798348(v=MSDN.10)'
 ms.date: 05/22/2017
 ---
 
-Sysmon v7.03
-============
+Sysmon v8.0
+===========
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: May 14, 2018
+Published: June 25, 2018
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.4 MB)**
 
@@ -443,6 +443,11 @@ networking filter uses both an include and exclude rule to capture
 activity to port 80 and 443 by all processes except those that have
 iexplore.exe in their name.
 
+To have Sysmon report which rule match resulted in an event being logged, add names to rules:
+
+&lt;NetworkConnect onmatch="exclude"&gt; &lt;Image
+name="network iexplore" condition="contains"&gt;iexplore.exe&lt;/Image&gt;
+&lt;/NetworkConnect&gt;
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.4 MB)**
   
