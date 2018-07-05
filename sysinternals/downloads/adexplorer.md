@@ -15,7 +15,7 @@ Active Directory Explorer v1.44
 Published: November 15, 2012
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdExplorer.zip)  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(244 KB)**  
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/ADExplorer.exe).
 
 
 ## Introduction
@@ -38,4 +38,4 @@ permissions changed between them.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdExplorer.zip)  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(244 KB)**
 
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/ADExplorer.exe).

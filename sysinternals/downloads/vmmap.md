@@ -15,7 +15,7 @@ VMMap v3.21
 Published: July 20, 2015
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(586 KB)**  
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/vmmap.exe).
 
 
 ## Introduction
@@ -54,7 +54,7 @@ optimize their application's memory resource usage.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(586 KB)**
 
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/vmmap.exe).
 
 **Runs on:**
 

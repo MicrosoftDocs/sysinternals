@@ -15,7 +15,7 @@ ShareEnum v1.6
 Published: November 1, 2006
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ShareEnum.zip) [**Download ShareEnum**](https://download.sysinternals.com/files/ShareEnum.zip) **(94 KB)**  
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/ShareEnum.exe).
 
 
 ## Introduction
@@ -43,7 +43,7 @@ computers.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ShareEnum.zip) [**Download ShareEnum**](https://download.sysinternals.com/files/ShareEnum.zip) **(94 KB)**
 
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/ShareEnum.exe).
 
 **Runs on:**
 

@@ -10,6 +10,7 @@ ms.date: 09/12/2017
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
 The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows systems and applications.
 -   Read the official guide to the Sysinternals tools, [Troubleshooting with the Windows Sysinternals Tools](~/learn/troubleshooting-book.md)
+-   Read the [Sysinernals Blog](https://blogs.technet.microsoft.com/sysinternals) for a detailed change feed of tool updates
 -   Watch Mark’s top-rated [Case-of-the-Unexplained](~/learn/webcasts.md) troubleshooting presentations and other webcasts
 -   Read [Mark’s Blog](https://blogs.technet.microsoft.com/markrussinovich/) which highlight use of the tools to solve real problems
 -   Check out the Sysinternals [Learning Resources](~/learn/index.md) page
@@ -22,6 +23,24 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
+
+### What's New (February 13, 2018) ###
+  - [Autoruns v13.82](~/downloads/autoruns.md)  
+    This Autoruns release shows Onenote addins and fixes several bugs. 
+
+  - [Process Monitor v3.50](~/downloads/procmon.md)  
+    Process Monitor now includes a /runtime switch to control headless capture duration, correctly shows picoprocesses, displays details for file system APIs introduced in Windows 10, and includes numerous minor improvements and bug fixes. 
+
+### What's New (January 2, 2018) ###
+  - [Sysmon v7.0](~/downloads/sysmon.md)  
+    Sysmon now logs file version information, and the option to dump the configuration schema adds the ability to dump an older schema or dump all historical schemas. 
+    
+### What's New (November 19, 2017) ###
+  - [Sysmon v6.20](~/downloads/sysmon.md)  
+    This Sysmon release adds the ability to change the Sysmon service and driver names to foil malware that use them to detect its presence. 
+    
+  - [Whois v1.20](~/downloads/whois.md)  
+    Whois, a command-line utility that reports domain registration information for the specified domain, works with new whois registry server redirects.  
 
 ### What's New (September 11, 2017) ###
   - [Sysmon v6.10](~/downloads/sysmon.md)  
@@ -44,7 +63,3 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
     Autoruns, an autostart entry point management utility, now reports print providers, registrations in the WMI\Default namespace, fixes a KnownDLLs enumeration bug, and has improved toolbar usability on high-DPI displays.
   - [AccessChk v6.1](~/downloads/accesschk.md)  
     This update to AccessChk, a command-line utility that shows effective and actual permissions for file, registry, service, process object manager, and event logs, now reports Windows 10 process trust access control entries and token security attributes.
-
-### What's New (November 28, 2016) ###
-  - Announcing a new book, [Troubleshooting with the Windows Sysinternals Tools](~/learn/troubleshooting-book.md)  
-    Become a Windows troubleshooting master and get the most out of the Sysinternals tools. Completely updated and expanded, this book by Sysinternals co-creator Mark Russinovich and Windows expert Aaaron Margosis covers all the tools, with full chapters on the major tools like Process Explorer, Process Monitor, Autoruns, and has 45 “case of the unexplained…” examples of the tools solving real-world problems.

@@ -15,7 +15,7 @@ FindLinks v1.1
 Published: July 4, 2016
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/FindLinks.zip) [**Download FindLinks**](https://download.sysinternals.com/files/FindLinks.zip) **(153 KB)**  
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/FindLinks.exe).
 
 
 ## Introduction
@@ -54,7 +54,7 @@ C:\Windows\System32\notepad.exe
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/FindLinks.zip) [**Download FindLinks**](https://download.sysinternals.com/files/FindLinks.zip) **(153 KB)**
 
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/FindLinks.exe).
 
 **Runs on:**
 

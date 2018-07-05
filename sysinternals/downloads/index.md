@@ -17,7 +17,7 @@ The entire set of Sysinternals Utilities rolled up into a single download.
 Sysinternals Utilities for Nano Server in a single download.
 
 [AccessChk](accesschk.md)  
-*v6.10 (September 11, 2017)*  
+*v6.20 (November 19, 2017)*  
 AccessChk is a command-line tool for viewing the effective permissions
 on files, registry keys, services, processes, kernel objects, and more.
 
@@ -46,14 +46,14 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v13.80 (September 11, 2017)*  
+*v13.82 (February 13, 2018)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
 settings.
 
 [BgInfo](bginfo.md)  
-*v4.22 (May 16, 2017)*  
+*v4.25 (January 18, 2018)*  
 This fully-configurable program automatically generates desktop
 backgrounds that include important information about the system
 including IP addresses, computer name, network adapters, and more.
@@ -128,7 +128,7 @@ disk activity light in your system tray.
 Graphical disk sector utility.
 
 [Disk Usage (DU.md)](du.md)  
-*v1.6 (July 4, 2016)*  
+*v1.61 (February 13, 2018)*  
 View disk usage by directory.
 
 [EFSDump](efsdump.md)  
@@ -143,7 +143,7 @@ data remains allocated so long as at it has at least one file name
 referencing it.
 
 [Handle](handle.md)  
-*v4.1 (July 4, 2016)*  
+*v4.11 (December 12, 2017)*  
 This handy command-line utility will show you what files are open by
 which processes, and much more.
 
@@ -224,7 +224,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.40 (September 11, 2017)*  
+*v3.50 (Febryary 13, 2018)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -287,7 +287,7 @@ processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
 
 [RAMMap](rammap.md)  
-*v1.5 (February 2, 2016)*  
+*v1.51 (May 31, 2018)*  
 An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
@@ -305,7 +305,7 @@ View the registry space usage for the specified registry key.
 Jump to the registry path you specify in Regedit.
 
 [SDelete](sdelete.md)  
-*v2.0 (July 4, 2016)*  
+*v2.01 (February 13, 2018)*  
 Securely overwrite your sensitive files and cleanse your free space of
 previously deleted files using this DoD-compliant secure delete program.
 
@@ -320,7 +320,7 @@ Launch programs as a different user via a convenient shell context-menu
 entry.
 
 [Sigcheck](sigcheck.md)  
-*v2.54 (August 29, 2016)*  
+*v2.60 (November 19, 2017)*  
 Dump file version information and verify that images on your system are
 digitally signed.
 
@@ -337,7 +337,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v6.10 (September 11, 2017)*  
+*7.03 (May 14, 2018)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
@@ -353,7 +353,7 @@ VMMap is a process virtual and physical memory analysis utility.
 Set Volume ID of FAT or NTFS drives.
 
 [Whois](whois.md)  
-*v1.14 (July 4, 2016)*  
+*v1.20 (November 19, 2017)*  
 See who owns an Internet address.
 
 [WinObj](winobj.md)  

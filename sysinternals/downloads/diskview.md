@@ -15,7 +15,7 @@ DiskView v2.4
 Published: March 25, 2010
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DiskView.zip) [**Download DiskView**](https://download.sysinternals.com/files/DiskView.zip) **(288 KB)**  
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/DiskView.exe).
 
 
 ## Introduction
@@ -29,5 +29,5 @@ file to which a cluster is allocated.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DiskView.zip) [**Download DiskView**](https://download.sysinternals.com/files/DiskView.zip) **(288 KB)**
 
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/DiskView.exe).
 

@@ -15,7 +15,7 @@ Insight for Active Directory v1.2
 Published: October 26, 2015
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdInsight.zip) [**Download AdInsight**](https://download.sysinternals.com/files/AdInsight.zip) **(113 KB)**  
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/ADInsight.exe).
 
 ## Introduction
 
@@ -40,7 +40,7 @@ monitor system processes, including windows services.
  
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdInsight.zip) [**Download AdInsight**](https://download.sysinternals.com/files/AdInsight.zip) **(113 KB)**
 
-**Run now** from [Sysinternals Live](https://live.sysinternals.com/).
+**Run now** from [Sysinternals Live](https://live.sysinternals.com/ADInsight.exe).
 
 **Runs on:**
 
