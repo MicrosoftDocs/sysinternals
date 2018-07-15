@@ -46,7 +46,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v13.82 (February 13, 2018)*  
+*v13.90 (July 5, 2018)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -287,7 +287,7 @@ processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
 
 [RAMMap](rammap.md)  
-*v1.5 (February 2, 2016)*  
+*v1.51 (May 31, 2018)*  
 An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
@@ -337,7 +337,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*7.03 (May 14, 2018)*  
+*8.0 (July 5, 2018)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
