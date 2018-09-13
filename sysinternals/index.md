@@ -24,6 +24,13 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
+### What's New (July 5, 2018) ###
+  - [Sysmon v8.0](~/downloads/sysmon.md)  
+    Sysmon now includes the ability to tag rules so that event log entries include the rule tag that generated them, as well as several bug fixes.  
+    
+  - [Autoruns v13.90](~/downloads/autoruns.md)  
+    Autoruns now includes Runonce\*\Depend entries, adds GPO logon and logoff locations, and fixes a bug in WMI path parsing.    
+    
 ### What's New (February 13, 2018) ###
   - [Autoruns v13.82](~/downloads/autoruns.md)  
     This Autoruns release shows Onenote addins and fixes several bugs. 
