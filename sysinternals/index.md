@@ -24,6 +24,10 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
+### What's New (September 17, 2018) ###
+  - [TLS 1.1 deprecation](~/Announce/TLSDeprecation.md)  
+
+
 ### What's New (July 5, 2018) ###
   - [Sysmon v8.0](~/downloads/sysmon.md)  
     Sysmon now includes the ability to tag rules so that event log entries include the rule tag that generated them, as well as several bug fixes.  
