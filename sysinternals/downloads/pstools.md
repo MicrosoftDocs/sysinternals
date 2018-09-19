@@ -82,4 +82,4 @@ None of the tools requires any special installation. You don't even need to inst
 If you have questions or problems, please visit the [Sysinternals PsTools Forum](http://forum.sysinternals.com/forum_topics.asp?FID=8).
 
 ###Related Links
-[Introduction to the PsTools](https://www.microsoft.com/technet/technetmag/issues/2007/03/DesktopFiles/default.aspx): Wes Miller gives a high-level overview of the Sysinternals PsTools in the March column of his TechNet Magazine column.
+[Introduction to the PsTools](https://technet.microsoft.com/en-us/library/2007.03.desktopfiles.aspx): Wes Miller gives a high-level overview of the Sysinternals PsTools in the March column of his TechNet Magazine column.
