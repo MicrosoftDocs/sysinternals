@@ -17,7 +17,7 @@ The entire set of Sysinternals Utilities rolled up into a single download.
 Sysinternals Utilities for Nano Server in a single download.
 
 [AccessChk](accesschk.md)  
-*v6.20 (November 19, 2017)*  
+*v6.12 (November 19, 2017)*  
 AccessChk is a command-line tool for viewing the effective permissions
 on files, registry keys, services, processes, kernel objects, and more.
 
