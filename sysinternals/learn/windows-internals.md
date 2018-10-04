@@ -8,7 +8,7 @@ ms.date: 02/07/2017
 Windows Internals Book
 ======================
  
-**Windows Internals 7th edition (Part 1)** covers the architecture and core internals of Windows 10 and Windows Sever 2016. This book helps you:
+**Windows Internals 7th edition (Part 1)** covers the architecture and core internals of Windows 10 and Windows Server 2016. This book helps you:
 
 *	Understand the Windows system architecture and its general components
 *	Explore internal data structures using tools like the kernel debugger
