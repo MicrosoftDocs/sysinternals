@@ -10,6 +10,7 @@ ms.date: 09/12/2017
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
 The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows systems and applications.
 -   Read the official guide to the Sysinternals tools, [Troubleshooting with the Windows Sysinternals Tools](~/learn/troubleshooting-book.md)
+-   Read the [Sysinternals Blog](https://blogs.technet.microsoft.com/sysinternals) for a detailed change feed of tool updates
 -   Watch Mark’s top-rated [Case-of-the-Unexplained](~/learn/webcasts.md) troubleshooting presentations and other webcasts
 -   Read [Mark’s Blog](https://blogs.technet.microsoft.com/markrussinovich/) which highlight use of the tools to solve real problems
 -   Check out the Sysinternals [Learning Resources](~/learn/index.md) page
@@ -23,6 +24,17 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
+### What's New (September 17, 2018) ###
+  - [TLS 1.1 deprecation](~/Announce/TLSDeprecation.md)  
+
+
+### What's New (July 5, 2018) ###
+  - [Sysmon v8.0](~/downloads/sysmon.md)  
+    Sysmon now includes the ability to tag rules so that event log entries include the rule tag that generated them, as well as several bug fixes.  
+    
+  - [Autoruns v13.90](~/downloads/autoruns.md)  
+    Autoruns now includes Runonce\*\Depend entries, adds GPO logon and logoff locations, and fixes a bug in WMI path parsing.    
+    
 ### What's New (February 13, 2018) ###
   - [Autoruns v13.82](~/downloads/autoruns.md)  
     This Autoruns release shows Onenote addins and fixes several bugs. 
