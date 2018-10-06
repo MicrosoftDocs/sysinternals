@@ -44,10 +44,10 @@ optimize their application's memory resource usage.
 ## Related Links
 
 -   [**Windows Internals Book**](~/learn/windows-internals.md)  
-    **The official updates and errata page for the definitive book on
+    The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
--   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)The
-    official guide to the Sysinternals utilities by Mark Russinovich and
+-   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)
+    The official guide to the Sysinternals utilities by Mark Russinovich and
     Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
