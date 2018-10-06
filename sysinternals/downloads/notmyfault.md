@@ -25,7 +25,7 @@ identify and diagnose device driver and hardware problems, and you can
 also use it to generate blue screen dump files on misbehaving systems.
 The download file includes 32-bit and 64-bit versions, as well as a
 command-line version that works on Nano Server. Chapter 7 in Windows
-Internals uses Notmyfault to o demonstrate pool leak troubleshooting and
+Internals uses Notmyfault to demonstrate pool leak troubleshooting and
 Chapter 14 uses it for crash analysis examples.
 
 
