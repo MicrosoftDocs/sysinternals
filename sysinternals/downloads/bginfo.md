@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897557(v=MSDN.10)'
 ms.date: 05/16/2017
 ---
 
-BgInfo v4.25
+BgInfo v4.26
 ============
 
 **By Mark Russinovich**
 
-Published: January 19, 2018
+Published: October 17, 2018
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip)] **(974 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Bginfo.exe).
