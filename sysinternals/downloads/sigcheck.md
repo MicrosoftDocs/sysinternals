@@ -12,7 +12,7 @@ Sigcheck v2.70
 
 **By Mark Russinovich**
 
-Published: October 17, 2017
+Published: October 17, 2018
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(514 KB)**
 
