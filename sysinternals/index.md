@@ -25,8 +25,8 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
 ### What's New (October 17, 2018) ###
-  - [Sigcheck v2.7](~/downloads/sigcheck.md)
-    Windows WinVerifyTrust function reports signed MSI files that have malware appended to them as signed, so Sigcheck now indicates when appended conent is present. 
+  - [Sigcheck v2.7](~/downloads/sigcheck.md)  
+     Windows WinVerifyTrust function reports signed MSI files that have malware appended to them as signed, so Sigcheck now indicates when appended conent is present. 
 
 ### What's New (September 17, 2018) ###
   - [TLS 1.1 deprecation](~/Announce/TLSDeprecation.md)  
