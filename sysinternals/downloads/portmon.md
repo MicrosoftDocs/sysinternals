@@ -113,6 +113,22 @@ intercept all accesses to VCOMM's functions. Like its NT device driver,
 *Portmon*'s VxD interprets requests to display them in a friendly
 format. On Windows 95 and 98 *Portmon* monitors all ports so there is no
 port selection like on NT.  
+
+## Supported operating systems
+
+| System               | Supported|
+|-----------------------|------|
+| Windows 95            | Yes  |
+| Windows 98            | Yes  |
+| Winwdows ME           | Yes  |
+| Windows 2000          | Yes  |
+| Windows XP 32 bits    | No   |
+| Windows XP 64 bits    | No   |
+| Windows Vista 32 bits | Yes  |
+| Windows Vista 64 bits | Yes  |
+| Windows 7 32 bits     | Yes  |
+| Windows 7 64 bits     | No   |
+| Windows 10            | No   |
   
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PortMon.zip) [**Download Portmon**](https://download.sysinternals.com/files/PortMon.zip) **(226 KB)** 
 
