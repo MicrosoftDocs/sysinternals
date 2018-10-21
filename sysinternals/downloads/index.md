@@ -53,7 +53,7 @@ Registry and file locations where applications can configure auto-start
 settings.
 
 [BgInfo](bginfo.md)  
-*v4.25 (January 18, 2018)*  
+*v4.26 (October 19, 2018)*  
 This fully-configurable program automatically generates desktop
 backgrounds that include important information about the system
 including IP addresses, computer name, network adapters, and more.
@@ -320,7 +320,7 @@ Launch programs as a different user via a convenient shell context-menu
 entry.
 
 [Sigcheck](sigcheck.md)  
-*v2.60 (November 19, 2017)*  
+*v2.70 (October 19, 2018)*  
 Dump file version information and verify that images on your system are
 digitally signed.
 
@@ -345,7 +345,7 @@ Monitors and reports key system activity via the Windows event log.
 Active socket command-line viewer.
 
 [VMMap](vmmap.md)  
-*v3.21 (July 20, 2015)*  
+*v3.22 (October 19, 2018)*  
 VMMap is a process virtual and physical memory analysis utility.
 
 [VolumeId](volumeid.md)  
