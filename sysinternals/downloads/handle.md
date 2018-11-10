@@ -35,7 +35,7 @@ privilege to run *Handle*.
 
 ## Usage
 
-*Handle* is targetted at searching for open file references, so if you
+*Handle* is targeted at searching for open file references, so if you
 do not specify any command-line parameters it will list the values of
 all the handles in the system that refer to open files and the names of
 the files. It also takes several parameters that modify this behavior.
