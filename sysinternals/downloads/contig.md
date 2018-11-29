@@ -64,16 +64,16 @@ to optimize execution of your frequently used files.
 *Contig* can also analyze and defragment the following NTFS metadata
 files:
 
--        \$Mft
--        \$LogFile
--        \$Volume
--        \$AttrDef
--        \$Bitmap
--        \$Boot
--        \$BadClus
--        \$Secure
--        \$UpCase
--        \$Extend
+- \$Mft
+- \$LogFile
+- \$Volume
+- \$AttrDef
+- \$Bitmap
+- \$Boot
+- \$BadClus
+- \$Secure
+- \$UpCase
+- \$Extend
 
 ## How it Works
 

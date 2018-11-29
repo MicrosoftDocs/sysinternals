@@ -26,7 +26,7 @@ own. Strings just scans the file you pass it for UNICODE (or ASCII)
 strings of a default length of 3 or more UNICODE (or ASCII) characters.
 Note that it works under Windows 95 as well.
 
- 
+ 
 
 ## Using Strings
 

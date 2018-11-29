@@ -65,16 +65,16 @@ nor does it attempt to protect or hide itself from attackers.
 
 ![EventViewer](/media/landing/sysinternals/event-screen-optimized.png "EventViewer")
 
- 
+ 
 
 ## Usage
 
 Uses Sysmon simple command-line options to install and uninstall it, as
 well as to check and modify Sysmon’s configuration:
 
-**Sysinternals Sysmon v6.20 - System activity monitor  
+<strong>Sysinternals Sysmon v6.20 - System activity monitor  
 Copyright (C) 2014-2017 Mark Russinovich and Thomas Garnier  
-Sysinternals - www.sysinternals.com**
+Sysinternals - www.sysinternals.com</strong>
 
 Usage:
 
@@ -84,9 +84,9 @@ Usage:
 \[-l (&lt;process,...&gt;)\]**
 
 **Configure:**  **Sysmon.exe -c &lt;configfile&gt;**  
-              **\[--|\[-h &lt;\[sha1|md5|sha256|imphash|\*\],...&gt;\]
+              **\[--|\[-h &lt;\[sha1|md5|sha256|imphash|\*\],...&gt;\]
 \[-n \[&lt;process,...&gt;\]\]  
-               \[-l \[&lt;process,...&gt;\]\]\]**
+               \[-l \[&lt;process,...&gt;\]\]\]**
 
 **Uninstall:**  **Sysmon.exe -u**
 
@@ -104,7 +104,7 @@ Usage:
 |  **-s** |  Print configuration schema definition.|
 |  **-u** |  Uninstall service and driver.|
 
- 
+ 
 
 The service logs events immediately and the driver installs as a
 boot-start driver to capture activity from early in the boot that the
@@ -396,7 +396,7 @@ configuration file:
 |  **17**   PipeEvent             | Named pipe created |
 |  **18**   PipeEvent             | Named pipe connected |
 
- 
+ 
 
 You can also find these tags in the event viewer on the task name.
 
@@ -425,7 +425,7 @@ insensitive):
 |  **less than**   | Lexicographical comparison is less than zero |
 |  **more than**   | Lexicographical comparison is more than zero |
 |  **Image**       | Match an image path (full path or only image name). For example: lsass.exe will match c:\\windows\\system32\\lsass.exe |
- 
+ 
 
 You can use a different condition by specifying it as an attribute. This
 excludes network activity from processes with iexplore.exe in their

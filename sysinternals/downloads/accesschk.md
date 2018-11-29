@@ -71,7 +71,7 @@ AccessChk prints R if the account has read access, W for write access,
 and nothing if it has neither. The -v switch has AccessChk dump the
 specific accesses granted to an account.
 
- 
+ 
 ## Examples
 
 The following command reports the accesses that the Power Users account
@@ -82,7 +82,7 @@ has to files and directories in \\Windows\\System32:
 This command shows which Windows services members of the Users group
 have write access to:
 
-**accesschk users -cw \***
+**accesschk users -cw \\***
 
 To see what Registry keys under HKLM\\CurrentUser a specific account has
 no access to:

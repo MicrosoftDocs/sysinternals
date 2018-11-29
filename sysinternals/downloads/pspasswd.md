@@ -30,14 +30,14 @@ administrator password.
 PsPasswd uses Windows password reset APIs, so does not send passwords
 over the network in the clear.
 
- 
+
 
 ## Installation
 
 Just copy *PsPasswd* onto your executable path, and type "pspasswd" with
 the command-line syntax shown below..
 
- 
+
 
 ## Using PsPasswd
 
@@ -47,16 +47,15 @@ account on the local or a remote computer.
 **usage: pspasswd \[\[\\\\computer\[,computer\[,..\] | @file \[-u user
 \[-p psswd\]\]\] Username \[NewPassword\]**
 
- 
-|Parameter  |Description  |
-|---------|---------|
-|  **computer**    |   Perform the command on the remote computer or computers specified. If you omit the computer name the command runs on the local system, and if you specify a wildcard (\\\\\*), the command runs on all computers in the current domain.|
-|  **@file**       |   Run the command on each computer listed in the text file specified.|
-|  **-u**          |   Specifies optional user name for login to remote computer.|
-|  **-p**          |   Specifies optional password for user name. If you omit this you will be prompted to enter a hidden password.|
-|  **Username**    |   Specifies name of account for password change.|
-|  **NewPassword** |   New password. If ommitted a NULL password is applied.|
-  
+
+|       Parameter        |                                                                                                               Description                                                                                                               |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      **computer**      | Perform the command on the remote computer or computers specified. If you omit the computer name the command runs on the local system, and if you specify a wildcard (\\\\\*), the command runs on all computers in the current domain. |
+| <strong>@file</strong> |                                                                                   Run the command on each computer listed in the text file specified.                                                                                   |
+|         **-u**         |                                                                                       Specifies optional user name for login to remote computer.                                                                                        |
+|         **-p**         |                                                              Specifies optional password for user name. If you omit this you will be prompted to enter a hidden password.                                                               |
+|      **Username**      |                                                                                             Specifies name of account for password change.                                                                                              |
+|    **NewPassword**     |                                                                                          New password. If ommitted a NULL password is applied.                                                                                          |
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 

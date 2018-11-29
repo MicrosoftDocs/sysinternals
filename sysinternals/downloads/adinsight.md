@@ -37,7 +37,7 @@ monitor system processes, including windows services.
 
 ![ADInsight](/media/landing/sysinternals/adinsight.jpg)  
 
- 
+ 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdInsight.zip) [**Download AdInsight**](https://download.sysinternals.com/files/AdInsight.zip) **(113 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ADInsight.exe).
