@@ -21,7 +21,7 @@ Published: July 4, 2016
 ## Introduction
 
 FindLinks reports the file index and any hard links (alternate file
-paths on the same volume) that exist for the specified file.  A file's
+paths on the same volume) that exist for the specified file.  A file's
 data remains allocated so long as at it has at least one file name
 referencing it.
 
@@ -42,14 +42,13 @@ Copyright (C) 2011 Mark Russinovich
 Sysinternals -www.sysinternals.com  
 
 c:\\windows\\notepad.exe  
-        Index:  0x000057D9  
-        Links:  3**
+        Index:  0x000057D9  
+        Links:  3**
 
 Linking files:
 C:\Windows\winsxs\amd64_microsoft-windows-notepadwin_31bf3856ad364e35_6.1.7600.16385_none_9ebebe8614be1470\notepad.exe
 C:\Windows\winsxs\amd64_microsoft-windows-notepad_31bf3856ad364e35_6.1.7600.16385_none_cb0f7f2289b0c21a\notepad.exe
 C:\Windows\System32\notepad.exe
-
 ```
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/FindLinks.zip) [**Download FindLinks**](https://download.sysinternals.com/files/FindLinks.zip) **(153 KB)**

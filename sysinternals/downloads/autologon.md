@@ -36,7 +36,7 @@ username, domain and password as command-line arguments:
 **Note:** When Exchange Activesync password restrictions are in place,
 Windows will not process the autologon configuration.
 
- 
+ 
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AutoLogon.zip) [**Download Autologon**](https://download.sysinternals.com/files/AutoLogon.zip) **(70 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Autologon.exe).

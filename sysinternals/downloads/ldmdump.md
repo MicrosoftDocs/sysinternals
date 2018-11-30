@@ -58,7 +58,7 @@ is completely undocumented. *LDMDump* was developed based on study of
 LDM database contents on a variety of different systems and under
 changing conditions.
 
- 
+ 
 
 ## More Information
 

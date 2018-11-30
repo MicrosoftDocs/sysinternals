@@ -25,7 +25,7 @@ undeleteable using standard Registry-editing tools. Note: deleting
 Registry keys may cause the applications they are associated with to
 fail.
 
- 
+ 
 
 ## Using RegDelNull
 

@@ -1,47 +1,51 @@
 {
-    "build": {
-        "content": [{
-            "files": [
-                "**/*.md",
-                "**/*.yml"
-            ],
-            "exclude": [
-                "**/obj/**",
-                "**/includes/**",
-                "README.md",
-                "LICENSE",
-                "LICENSE-CODE",
-                "ThirdPartyNotices"
-            ]
-        }],
-        "resource": [{
-            "files": [
-                "**/*.png",
-                "**/*.gif",
-                "**/*.jpg"
-            ],
-            "exclude": [
-                "**/obj/**",
-                "**/includes/**"
-            ]
-        }],
-        "overwrite": [],
-        "externalReference": [],
-        "globalMetadata": {
-            "uhfHeaderId": "MSDocsHeader-Sysinternals", 
-            "layout": "Conceptual",
-            "breadcrumb_path": "~/bread/toc.yml",
-            "author": "markruss",
-            "ms.author": "markruss",
-            "ms.prod": "windows-sysinternals",
-            "ms.technology": "system-utilities",
-            "ms.topic": "system-utilities",
-            "titleSuffix": "Windows Sysinternals",
-            "uhfHeaderId": "MSDocsHeader-Sysinternals",
-            "hide_comments": true
-        },
-        "fileMetadata": {},
-        "template": [],
-        "dest": "sysinternals"
-    }
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.gif",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "uhfHeaderId": "MSDocsHeader-Sysinternals",
+      "layout": "Conceptual",
+      "breadcrumb_path": "~/bread/toc.yml",
+      "author": "markruss",
+      "ms.author": "markruss",
+      "ms.prod": "windows-sysinternals",
+      "ms.technology": "system-utilities",
+      "ms.topic": "system-utilities",
+      "titleSuffix": "Windows Sysinternals",
+      "hide_comments": true
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "sysinternals",
+    "markdownEngineName": "markdig"
+  }
 }
