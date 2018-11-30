@@ -82,7 +82,7 @@ has to files and directories in \\Windows\\System32:
 This command shows which Windows services members of the Users group
 have write access to:
 
-**accesschk users -cw \\***
+**accesschk users -cw \***
 
 To see what Registry keys under HKLM\\CurrentUser a specific account has
 no access to:
