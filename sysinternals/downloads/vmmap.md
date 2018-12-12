@@ -7,14 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd535533(v=MSDN.10)'
 ms.date: 07/20/2015
 ---
 
-VMMap v3.22
+VMMap v3.25
 ===========
 
 **By Mark Russinovich**
 
-Published: October 17, 2018
+Published: December 11, 2018
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(586 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(626 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/vmmap.exe).
 
 
