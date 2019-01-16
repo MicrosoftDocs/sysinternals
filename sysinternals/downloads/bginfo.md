@@ -14,7 +14,7 @@ BgInfo v4.26
 
 Published: October 17, 2018
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip)] **(974 KB)**  
+[**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip) **(974 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Bginfo.exe).
 
 
