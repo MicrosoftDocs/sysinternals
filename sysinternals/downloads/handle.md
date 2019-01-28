@@ -52,7 +52,7 @@ the files. It also takes several parameters that modify this behavior.
 | **-s** | Print count of each type of handle open. |
 | **-u** | Show the owning user name when searching for handles. |
 | **-p** | Instead of examining all the handles in the system, this parameter narrows Handle's scan to those processes that begin with the name process. Thus:<br /> **handle -p exp**<br /> would dump the open files for all processes that start with "exp", which would include Explorer. |
-| **name** | This parameter is present so that you can direct Handle to search for references to an object with a particular name.<br /> For example, if you wanted to now which process (if any) has "c:\windows\system32" open you could type:<br /> **handle windows\system**<br />The name match is case-insensitive and the fragment specified can be anywhere in the paths you are interested in. |
+| **name** | This parameter is present so that you can direct Handle to search for references to an object with a particular name.<br /> For example, if you wanted to know which process (if any) has "c:\windows\system32" open you could type:<br /> **handle windows\system**<br />The name match is case-insensitive and the fragment specified can be anywhere in the paths you are interested in. |
 
 ## Handle Output
 
