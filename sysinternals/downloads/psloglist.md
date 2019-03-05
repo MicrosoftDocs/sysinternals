@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897544(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
-PsLogList v2.8
+PsLogList v2.81
 ===============
 
 **By Mark Russinovich**
 
-Published: June 29, 2016
+Published: March 05, 2019
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
