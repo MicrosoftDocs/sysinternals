@@ -46,8 +46,6 @@ memory, handles, processes, threads and other system objects.
 |  **-v**      |       VirtualLock memory in specified MBs (default is 1)|
 |  **-w**      |       Reset working set minimum to highest possible value|
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Testlimit.zip) [**Download Testlimit**](https://download.sysinternals.com/files/Testlimit.zip) **(514 KB)**
-
 **Runs on:**
 
 -   Client: Windows Vista and higher
