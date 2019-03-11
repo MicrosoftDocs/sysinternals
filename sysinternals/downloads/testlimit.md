@@ -1,10 +1,9 @@
 --- 
 TOCTitle: Testlimit
 title: Testlimit
-description: Dump file version information and verify that images on your system are digitally signed.
-ms:assetid: 'fe633cd0-b369-4ca5-a9ae-c64e2d52acac'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897441(v=MSDN.10)'
-ms.date: 05/22/2017
+description: Windows Stress test utility.
+ms:assetid: '2a241f34-ffa4-4102-88f4-8fcfdfc28e09'
+ms.date: 03/11/2019
 ---
 
 Testlimit v5.24
