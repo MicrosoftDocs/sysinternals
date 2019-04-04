@@ -466,7 +466,7 @@ termination of ping.exe and timeout.exe.
     &lt;/RuleGroup&gt;
     &lt;RuleGroup groupRelation="or"&gt;
       &lt;ProcessTerminate onmatch="include"&gt;
-        &lt;Image condition="contians"&gt;timeout.exe&lt;/Image&gt;
+        &lt;Image condition="contains"&gt;timeout.exe&lt;/Image&gt;
         &lt;Image condition="contains"&gt;ping.exe&lt;/Image&gt;
       &lt;/ProcessTerminate&gt;        
     &lt;/RuleGroup&gt;
