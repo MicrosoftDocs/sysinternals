@@ -40,14 +40,14 @@ show you as logged on via resource share to remote computers that you
 query because a logon is required for *PsLoggedOn* to access the
 Registry of a remote system.  
 
- 
+ 
 
 ## Installation
 
 Just copy *PsLoggedOn* onto your executable path, and type
 "psloggedon".  
 
- 
+ 
 
 ## Using PsLoggedOn
 

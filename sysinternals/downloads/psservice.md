@@ -40,7 +40,7 @@ index" in order to obtain a complete listing of service information.&gt;
 
 Just copy *PsService* onto your executable path, and type "psservice".
 
- 
+ 
 
 ## Using PsService
 

@@ -71,7 +71,7 @@ AccessChk prints R if the account has read access, W for write access,
 and nothing if it has neither. The -v switch has AccessChk dump the
 specific accesses granted to an account.
 
- 
+ 
 ## Examples
 
 The following command reports the accesses that the Power Users account

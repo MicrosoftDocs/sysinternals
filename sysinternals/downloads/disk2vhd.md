@@ -60,7 +60,7 @@ Diskpart utilities.
 > signature of the VHD’s source disk. Windows references disks in the
 > boot configuration database (BCD) by disk signature, so when that
 > happens Windows booted in a VM will fail to locate the boot disk.
-
+> 
 > Disk2vhd does not support the conversion of volumes with Bitlocker enabled. If you wish to create a VHD for such a volume, turn off Bitlocker and wait for the volume to be fully decrypted first. 
 
 

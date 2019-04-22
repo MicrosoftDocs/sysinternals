@@ -26,14 +26,14 @@ to use. Rather than kill the process that's consuming the resource,
 suspending permits you to let it continue operation at some later point
 in time.
 
- 
+ 
 
 ## Installation
 
 Copy *PsSuspend* onto your executable path and type "pssuspend" with
 command-line options defined below.
 
- 
+ 
 
 ## Using PsSuspend
 
