@@ -41,7 +41,8 @@
       "ms.technology": "system-utilities",
       "ms.topic": "system-utilities",
       "titleSuffix": "Windows Sysinternals",
-      "hide_comments": true
+      "hide_comments": true,
+      "contributors_to_exclude": ["v-kents"]
     },
     "fileMetadata": {},
     "template": [],
