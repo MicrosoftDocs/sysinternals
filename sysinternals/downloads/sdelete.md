@@ -7,14 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897443(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
-SDelete v2.01
+SDelete v2.02
 =============
 
 **By Mark Russinovich**
 
-Published: February 13, 2018
+Published: December 11, 2018
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(151 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(221 KB)**
 
 
 ## Introduction

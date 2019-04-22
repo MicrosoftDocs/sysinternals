@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897557(v=MSDN.10)'
 ms.date: 05/16/2017
 ---
 
-BgInfo v4.25
+BgInfo v4.26
 ============
 
 **By Mark Russinovich**
 
-Published: January 19, 2018
+Published: October 17, 2018
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip)] **(974 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Bginfo.exe).
@@ -63,7 +63,7 @@ settings on other systems by adding the **/I&lt;path&gt;** or
 
 ![BgInfo default configuration](/media/landing/sysinternals/BGInfo-Dialog.jpg)
 
- 
+ 
 
 ## Using BgInfo
 
@@ -81,7 +81,7 @@ specify the name of the file on the command line:
   
 BGInfo MyConfig.bgi  
 
- 
+ 
 
 ## Appearance Buttons
 
@@ -118,7 +118,7 @@ running Terminal Services.
 **Preview:** Displays the background as it will appear when applied to
 your system.  
 
- 
+ 
 
 ## Configuration Menu Items
 
@@ -171,7 +171,7 @@ registry and Windows limits the size of registry values you may
 encounter errors when inserting larger images. On Windows 9x/Me systems
 the limit is 16K, while on NT/2000/XP systems the limit is 64K.  
 
- 
+ 
 
 ## Command Line Options
 

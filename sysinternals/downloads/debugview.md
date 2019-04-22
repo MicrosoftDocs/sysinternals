@@ -59,49 +59,49 @@ Features new to version 4.5:
 
 Features new to version 4.4:
 
--   **Support for Windows Server 2003 64-bit Edition and Windows XP
-    64-bit Edition for x64:***DebugView* now captures kernel-mode debug
-    output on 64-bit versions of Windows.
--   **Clock-time toggle:** you can now toggle between clock time and
-    elapsed time modes.
+- <strong>Support for Windows Server 2003 64-bit Edition and Windows XP
+  64-bit Edition for x64:</strong>*DebugView* now captures kernel-mode debug
+  output on 64-bit versions of Windows.
+- **Clock-time toggle:** you can now toggle between clock time and
+  elapsed time modes.
 
 Features new to version 4.3:
 
--   **Support for Windows XP SP2:***DebugView* now captures kernel-mode
-    debug output on Windows XP SP2.
--   **More highlighting filters:** Many people have asked for more
-    highlighting filters.
--   **Log file wrapping:** A new log file option has *DebugView* wrap
-    around to the start of the log file when the specified size limit is
-    reached.
--   **Larger buffers:** Larger Win32 and kernel-mode buffers lessen the
-    chance of dropped debug output.
--   **Clear-output string:** When *DebugView* sees the special debug
-    output string "DBGVIEWCLEAR" it clears the output.
--   **Client minimize-to-tray:** You can now run the client minimized in
-    the tray.
+- **Support for Windows XP SP2:**<em>DebugView</em> now captures kernel-mode
+  debug output on Windows XP SP2.
+- **More highlighting filters:** Many people have asked for more
+  highlighting filters.
+- **Log file wrapping:** A new log file option has *DebugView* wrap
+  around to the start of the log file when the specified size limit is
+  reached.
+- **Larger buffers:** Larger Win32 and kernel-mode buffers lessen the
+  chance of dropped debug output.
+- **Clear-output string:** When *DebugView* sees the special debug
+  output string "DBGVIEWCLEAR" it clears the output.
+- **Client minimize-to-tray:** You can now run the client minimized in
+  the tray.
 
 Features new to version 4.2:
 
--   **Kernel-hook bug fixed:***DebugView* sometimes mistakenly report
-    that it couldn't hook kernel-mode debug output on Windows XP and
-    Server 2003.
--   **Client global-capture option:** A new option allows the client to
-    capture console Win32 debug output on Terminal Server systems when
-    run from a non-console session.
--   **Filtering improved:** Filters can be much longer and now apply to
-    Win32 process IDs when process IDs are included in the output.
--   **Crash-dump support improved:** Several bugs related to extracting
-    kernel-mode output from crash dumps are fixed and *DebugView* now
-    loads resulting log files.
--   **More highlight filters:***DebugView* now has 10 highlight filters,
-    up from 5.
--   **Insert comments:** A new menu item lets you insert comments into
-    output.
--   **New switches:** New command-line switches allow you to specify
-    history depth and load log files.
--   **Better balloon tips:** If an output line is wider than the screen
-    its mouse hover balloon tip word wraps.
+- **Kernel-hook bug fixed:**<em>DebugView</em> sometimes mistakenly report
+  that it couldn't hook kernel-mode debug output on Windows XP and
+  Server 2003.
+- **Client global-capture option:** A new option allows the client to
+  capture console Win32 debug output on Terminal Server systems when
+  run from a non-console session.
+- **Filtering improved:** Filters can be much longer and now apply to
+  Win32 process IDs when process IDs are included in the output.
+- **Crash-dump support improved:** Several bugs related to extracting
+  kernel-mode output from crash dumps are fixed and *DebugView* now
+  loads resulting log files.
+- **More highlight filters:**<em>DebugView</em> now has 10 highlight filters,
+  up from 5.
+- **Insert comments:** A new menu item lets you insert comments into
+  output.
+- **New switches:** New command-line switches allow you to specify
+  history depth and load log files.
+- **Better balloon tips:** If an output line is wider than the screen
+  its mouse hover balloon tip word wraps.
 
 Features new to version 4.1:
 
@@ -115,27 +115,27 @@ Features new to version 4.1:
 
 Here is a list highlighting some of *DebugView*'s other features:
 
--   **Remote monitoring:** Capture kernel-mode and/or Win32 debug output
-    from any computer accessible via TCP/IP - even across the Internet.
-    You can monitor multiple remote computers simultaneously.
-    *DebugView* will even install its client software itself if you are
-    running it on a Windows 2000 system and are capturing from another
-    Windows 2000 system in the same Network Neighborhood.
--   **Most-recent-filter lists:***DebugView* remembers your most recent
-    filter selections, with an interface that makes it easy to reselect
-    them.
--   **Process ID option:** Toggle the display of process IDs for Win32
-    debug output.
--   **Clipboard copy:** Select multiple lines in the output window and
-    copy their contents to the clipboard.
--   **Log-to-file:** Write debug output to a file as its being captured.
--   **Printing:** Print all or part of captured debug output to a
-    printer.
--   **One-file payload:***DebugView* is implemented as one file.
--   **Crash-Dump Support:***DebugView* can recover its buffers from a
-    crash dump and save the output to a log file so that users can send
-    you the output your Windows driver generated right up to the time of
-    a crash.
+- **Remote monitoring:** Capture kernel-mode and/or Win32 debug output
+  from any computer accessible via TCP/IP - even across the Internet.
+  You can monitor multiple remote computers simultaneously.
+  *DebugView* will even install its client software itself if you are
+  running it on a Windows 2000 system and are capturing from another
+  Windows 2000 system in the same Network Neighborhood.
+- **Most-recent-filter lists:**<em>DebugView</em> remembers your most recent
+  filter selections, with an interface that makes it easy to reselect
+  them.
+- **Process ID option:** Toggle the display of process IDs for Win32
+  debug output.
+- **Clipboard copy:** Select multiple lines in the output window and
+  copy their contents to the clipboard.
+- **Log-to-file:** Write debug output to a file as its being captured.
+- **Printing:** Print all or part of captured debug output to a
+  printer.
+- **One-file payload:**<em>DebugView</em> is implemented as one file.
+- **Crash-Dump Support:**<em>DebugView</em> can recover its buffers from a
+  crash dump and save the output to a log file so that users can send
+  you the output your Windows driver generated right up to the time of
+  a crash.
 
 The on-line help file describes all these features, and more, in
 detail.  

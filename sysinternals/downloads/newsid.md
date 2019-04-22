@@ -30,9 +30,9 @@ Microsoft has not tested NewSID for all deployment cloning options.
 For more information on Microsoft's official policy, please see the
 following Knowledge Base article:
 
--   [**The Microsoft policy concerning disk duplication of Windows XP
-    installations**  
-    ](http://support.microsoft.com/default.aspx?scid=kb;en-us;314828)
+- [<strong>The Microsoft policy concerning disk duplication of Windows XP
+  installations</strong>  
+  ](http://support.microsoft.com/default.aspx?scid=kb;en-us;314828)
 
 
 ## Introduction
@@ -196,9 +196,9 @@ computer's Registry keys, which typically means that you must be logged
 in as a domain administrator to use this feature.
 
 Note that when you run *NewSID* that the size of the Registry will grow,
-so make sure that the maximum Registry size will accomodate growth. We
+so make sure that the maximum Registry size will accommodate growth. We
 have found that this growth has no perceptible impact on system
-performace. The reason the Registry grows is that it becomes fragmented
+performance. The reason the Registry grows is that it becomes fragmented
 as temporary security settings are applied by *NewSID*. When the
 settings are removed the Registry is not compacted.
 

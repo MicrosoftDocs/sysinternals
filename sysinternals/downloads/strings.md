@@ -14,7 +14,7 @@ Strings v2.53
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [** Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(150 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [**Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(150 KB)**
 
 
 ## Introduction
@@ -26,7 +26,7 @@ own. Strings just scans the file you pass it for UNICODE (or ASCII)
 strings of a default length of 3 or more UNICODE (or ASCII) characters.
 Note that it works under Windows 95 as well.
 
- 
+ 
 
 ## Using Strings
 
@@ -52,7 +52,7 @@ using strings use a command like this:
 
 **strings \* | findstr /i TextToSearchFor**
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [** Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(150 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [**Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(150 KB)**
 
 **Runs on:**
 

@@ -28,5 +28,5 @@ This MS KB article describes the use of AdRestore:
 memberships in Active
 Directory](http://support.microsoft.com/?kbid=840001)
 
- 
+ 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ADRestore.zip)  [**Download AdRestore**](https://download.sysinternals.com/files/ADRestore.zip) **(42 KB)**
