@@ -46,8 +46,8 @@ cache output with a map of shared by cores 3 and 4.
 All options except -v are selected by default.
 
 **Coreinfo Output:**
-```xml
-<code class="xml" id="c_98b3359c5cb147c6898297da1a7cb27d">Coreinfo v3.03 - Dump information on system CPU and memory topology
+```shell
+Coreinfo v3.03 - Dump information on system CPU and memory topology
 Copyright (C) 2008-2011 Mark Russinovich
 Sysinternals - www.sysinternals.com
 
@@ -160,7 +160,7 @@ Logical Processor to Cache Map:
 ****  Unified Cache       4, Level 3,    8 MB, Assoc  16, LineSize  64
 
 Logical Processor to Group Map:
-****  Group 0</code>
+****  Group 0
 ```
 
 [![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(192 KB)**
