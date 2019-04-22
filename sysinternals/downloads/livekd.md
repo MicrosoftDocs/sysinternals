@@ -34,7 +34,7 @@ Windows Vista and Server 2008, LiveKD enables more functionality, such
 as viewing thread stacks with the !thread command, than Windbg and Kd's
 own live kernel debugging facility.
 
- 
+ 
 
 ## Installation
 
@@ -58,7 +58,7 @@ symbol server).
 for LIVEKDD.SYS. This is expected, since I have not made symbols for
 LIVEKDD.SYS available, and does not affect the behavior of the debugger.
 
- 
+ 
 
 ## Using LiveKd
 
@@ -66,9 +66,9 @@ LIVEKDD.SYS available, and does not affect the behavior of the debugger.
 
 **  liveKd \[\[-w\]|\[-k &lt;debugger&gt;\]|\[-o filename\]\] \[-vsym\]
 \[-m\[flags\] \[\[-mp process\]|\[pid\]\]\]\[debugger options\]  
-  liveKd \[\[-w\]|\[-k &lt;debugger&gt;\]|\[-o filename\]\] -ml
+  liveKd \[\[-w\]|\[-k &lt;debugger&gt;\]|\[-o filename\]\] -ml
 \[debugger options\]  
-  liveKd \[\[-w\]|\[-k &lt;debugger&gt;\]|\[-o filename\]\]
+  liveKd \[\[-w\]|\[-k &lt;debugger&gt;\]|\[-o filename\]\]
 \[\[-hl\]|\[-hv &lt;VM name&gt; \[\[-p\]|\[-hvd\]\]\]\] \[debugger
 options\]**
 
