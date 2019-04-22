@@ -54,7 +54,7 @@ you how to:
 -   Use Process Monitor to capture low-level system events, and quickly
     filter the output to narrow down root causes
 -   List, categorize, and manage software that runs when you start or
-    sign in to to your computer, or when you run Microsoft Office or
+    sign in to your computer, or when you run Microsoft Office or
     Internet Explorer
 -   Verify digital signatures of files, of running programs, and of the
     modules loaded in those programs
