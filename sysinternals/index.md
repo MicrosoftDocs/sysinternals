@@ -24,6 +24,14 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
+### What's New (February 18, 2019) ###
+  - [Sysmon v9.0](~/downloads/sysmon.md)  
+     Sysmon v9.0 introduces rule groups that enable the specification of AND or OR matching logic across a set of rules. It also fixes a memory leak in signature verification. 
+     
+### What's New (December 18, 2018) ###
+  - [Sysmon v8.04](~/downloads/sysmon.md)  
+     This release reverted the filtering change made in 8.02 as this broke a number of configuration files. We are planning to revisit and enhance the filtering in the new year. It also fixed a BSOD in legacy named pipe filter used on Windows 7 and earlier, and a kernel memory leak that occurred when the configuration is reloaded.
+     
 ### What's New (October 17, 2018) ###
   - [Sigcheck v2.7](~/downloads/sigcheck.md)  
      Windows WinVerifyTrust function reports signed MSI files that have malware appended to them as signed, so Sigcheck now indicates when appended conent is present. 

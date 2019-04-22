@@ -51,5 +51,5 @@ system that are open by remote systems. Typing a command followed by "-
 ## How it Works
 
 *PsFile* uses the NET API, which is documented in the Platform SDK.
- 
+ 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(1.6 MB)**
