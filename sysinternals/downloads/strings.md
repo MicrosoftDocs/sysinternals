@@ -14,7 +14,7 @@ Strings v2.53
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [** Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(150 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [**Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(150 KB)**
 
 
 ## Introduction
@@ -52,7 +52,7 @@ using strings use a command like this:
 
 **strings \* | findstr /i TextToSearchFor**
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [** Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(150 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [**Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(150 KB)**
 
 **Runs on:**
 
