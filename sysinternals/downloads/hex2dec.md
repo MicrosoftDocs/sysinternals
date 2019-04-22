@@ -19,7 +19,7 @@ Published: July 4, 2016
 
 ## Introduction
 
-Tired of running Calc everytime you want to convert a hexadecimal number
+Tired of running Calc every time you want to convert a hexadecimal number
 to decimal Now you can convert hex to decimal and vice versa with this
 simple command-line utility.
 
