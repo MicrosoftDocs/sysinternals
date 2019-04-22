@@ -196,7 +196,7 @@ computer's Registry keys, which typically means that you must be logged
 in as a domain administrator to use this feature.
 
 Note that when you run *NewSID* that the size of the Registry will grow,
-so make sure that the maximum Registry size will accomodate growth. We
+so make sure that the maximum Registry size will accommodate growth. We
 have found that this growth has no perceptible impact on system
 performance. The reason the Registry grows is that it becomes fragmented
 as temporary security settings are applied by *NewSID*. When the
