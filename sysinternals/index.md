@@ -14,7 +14,7 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 -   Watch Mark’s top-rated [Case-of-the-Unexplained](~/learn/webcasts.md) troubleshooting presentations and other webcasts
 -   Read [Mark’s Blog](https://blogs.technet.microsoft.com/markrussinovich/) which highlight use of the tools to solve real problems
 -   Check out the Sysinternals [Learning Resources](~/learn/index.md) page
--   Post your questions in the [Sysinternals Forum](http://forum.sysinternals.com/)
+-   Post your questions in the [Sysinternals Forum](https://social.technet.microsoft.com/Forums/en-US/home?category=sysinternals&amp;filter=alltypes&amp;sort=lastpostdesc)
 
 ---
 ## Sysinternals Live ##
@@ -24,11 +24,13 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
+### What's New (February 18, 2019) ###
+  - [Sysmon v9.0](~/downloads/sysmon.md)  
+     Sysmon v9.0 introduces rule groups that enable the specification of AND or OR matching logic across a set of rules. It also fixes a memory leak in signature verification. 
+     
 ### What's New (December 18, 2018) ###
   - [Sysmon v8.04](~/downloads/sysmon.md)  
-     - Reverted the filtering change made in 8.02 as this broke a number of configuration files. We are planning to revisit and enhance the filtering in the new year
-     - Fixed BSOD in legacy named pipe filter used on Windows 7 and earlier
-     - Fixed kernel memory leak that occurred when the configuration is reloaded
+     This release reverted the filtering change made in 8.02 as this broke a number of configuration files. We are planning to revisit and enhance the filtering in the new year. It also fixed a BSOD in legacy named pipe filter used on Windows 7 and earlier, and a kernel memory leak that occurred when the configuration is reloaded.
      
 ### What's New (October 17, 2018) ###
   - [Sigcheck v2.7](~/downloads/sigcheck.md)  
