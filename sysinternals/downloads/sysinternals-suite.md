@@ -12,9 +12,9 @@ Sysinternals Suite
   
 
 **By Mark Russinovich**  
-Updated: July 5, 2018  
-[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (22.6 MB)  
-[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (4.7 MB)
+Updated: April 4, 2019  
+[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (24.3 MB)  
+[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (4.6 MB)
 
 ## Introduction
 The Sysinternals Troubleshooting Utilities have been rolled up into a
@@ -39,8 +39,3 @@ Utilities:
 [SDelete](sdelete.md), [ShareEnum](shareenum.md), [ShellRunas](shellrunas.md), [Sigcheck](sigcheck.md), [Streams](streams.md), 
 [Strings](strings.md), [Sync](sync.md), [Sysmon](sysmon.md), [TCPView](tcpview.md), [VMMap](vmmap.md), 
 [VolumeID](volumeid.md), [WhoIs](whois.md), [WinObj](winobj.md), [ZoomIt](zoomit.md)
-
-
-[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (22.6 MB)  
-[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (4.7 MB)  
-

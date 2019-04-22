@@ -34,7 +34,7 @@ paging files and Registry hives are, and to defragment them. In
 addition, it defragments event log files and Windows 2000/XP hibernation
 files (where system memory is saved when you hibernate a laptop).
 
- 
+ 
 
 ## Installing and Using PageDefrag
 
@@ -68,7 +68,7 @@ fragmented. For the best results you should use *PageDefrag* in
 conjunction with a commercial defragmentation utility or my free [Contig
 defragmenter](contig.md).
 
- 
+ 
 
 ## Command-Line Options
 

@@ -83,9 +83,9 @@ Check out Mark’s  Channel 9 interview where he  talks about how he  got starte
 
 ## Defrag Tools
 
- - [Defrag Tools Shows](http://channel9.msdn.com/shows/defrag-tools)  
-Episodes 1 – 12 of the *Defrag Tools* shows focus on Sysinternals tools. Each episode covers a specific tool used on the tech support show [Defrag](http://channel9.msdn.com/shows/the-defrag-show), covering when
-and why to use the tools, and providing tips on how to get the most out of them:
+- [Defrag Tools Shows](http://channel9.msdn.com/shows/defrag-tools)  
+  Episodes 1 – 12 of the *Defrag Tools* shows focus on Sysinternals tools. Each episode covers a specific tool used on the tech support show [Defrag](http://channel9.msdn.com/shows/the-defrag-show), covering when
+  and why to use the tools, and providing tips on how to get the most out of them:
   - [Defrag Tools: #1 - Building your USB thumbdrive](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-building-your-usb-thumbdrive)
   - [Defrag Tools: #2 - Process Explorer](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-2-process-explorer)
   - [Defrag Tools: #3 - Process Monitor](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-3-process-monitor)
@@ -97,4 +97,4 @@ and why to use the tools, and providing tips on how to get the most out of them:
   - [Defrag Tools: #9 - ProcDump](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-9-procdump)
   - [Defrag Tools: #10 - ProcDump - Triggers](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-10-procdump-triggers)
   - [Defrag Tools: #11 - ProcDump - Windows 8 & Process Monitor](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-11-procdump-windows-8--process-monitor)
-- [Defrag Tools: #12 - TaskMgr and ResMon](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-12-taskmgr-and-resmon)
+  - [Defrag Tools: #12 - TaskMgr and ResMon](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-12-taskmgr-and-resmon)

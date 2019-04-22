@@ -31,24 +31,24 @@ system or application configurations.
 Version 3.x of *Portmon* marks the introduction of a number of powerful
 features.
 
--   **Remote monitoring:** Capture kernel-mode and/or Win32 debug output
-    from any computer accessible via TCP/IP - even across the Internet.
-    You can monitor multiple remote computers simultaneously. *Portmon*
-    will even install its client software itself if you are running it
-    on a Windows NT/2K system and are capturing from another Windows
-    NT/2K system in the same Network Neighborhood.
--   **Most-recent-filter lists:***Portmon* has been extended with
-    powerful filtering capabilities and it remembers your most recent
-    filter selections, with an interface that makes it easy to reselect
-    them.
--   **Clipboard copy:** Select multiple lines in the output window and
-    copy their contents to the clipboard.
--   **Highlighting:** Highlight debug output that matches your
-    highlighting filter, and even customize the highlighting colors.
--   **Log-to-file:** Write debug output to a file as its being captured.
--   **Printing:** Print all or part of captured debug output to a
-    printer.
--   **One-file payload:***Portmon* is now implemented as one file.
+- **Remote monitoring:** Capture kernel-mode and/or Win32 debug output
+  from any computer accessible via TCP/IP - even across the Internet.
+  You can monitor multiple remote computers simultaneously. *Portmon*
+  will even install its client software itself if you are running it
+  on a Windows NT/2K system and are capturing from another Windows
+  NT/2K system in the same Network Neighborhood.
+- **Most-recent-filter lists:**<em>Portmon</em> has been extended with
+  powerful filtering capabilities and it remembers your most recent
+  filter selections, with an interface that makes it easy to reselect
+  them.
+- **Clipboard copy:** Select multiple lines in the output window and
+  copy their contents to the clipboard.
+- **Highlighting:** Highlight debug output that matches your
+  highlighting filter, and even customize the highlighting colors.
+- **Log-to-file:** Write debug output to a file as its being captured.
+- **Printing:** Print all or part of captured debug output to a
+  printer.
+- **One-file payload:**<em>Portmon</em> is now implemented as one file.
 
 The on-line help-file describes all these features, and more, in detail.
 
