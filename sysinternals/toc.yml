@@ -160,6 +160,8 @@
         href: downloads/bginfo.md
       - name: BlueScreen Screen Saver
         href: downloads/bluescreen.md
+      - name: CpuStres
+        href: downloads/cpustres.md
       - name: Ctrl2Cap
         href: downloads/ctrl2cap.md
       - name: DebugView
@@ -184,6 +186,8 @@
         href: downloads/regjump.md
       - name: Strings
         href: downloads/strings.md
+      - name: Testlimit
+        href: downloads/testlimit.md
       - name: ZoomIt
         href: downloads/zoomit.md
     - name: Sysinternals Suite

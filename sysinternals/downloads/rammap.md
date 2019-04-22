@@ -7,14 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Ff700229(v=MSDN.10)'
 ms.date: 02/02/2016
 ---
 
-RAMMap v1.51
+RAMMap v1.52
 ============
 
 **By Mark Russinovich**
 
-Published: May 31, 2018
+Published: April 04, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(291 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(319 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RAMMap.exe).
 
 
@@ -59,7 +59,7 @@ Edition](~/learn/windows-internals.md).
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(291 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(319 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RAMMap.exe).
 
