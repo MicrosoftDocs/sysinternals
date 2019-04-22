@@ -16,10 +16,10 @@ Published: July 4, 2016
 
 
 ## Introduction
-There are several applications,  such as service packs and  hotfixes, that must replace a file that's in use and is unable to. Windows therefore provides the MoveFileEx API to rename or  delete a file and allows the caller to specify that they want the operation to take place the  next time the system boots,before the files are referenced. Session Manager performs this task by reading the registered rename and delete commands from  the HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\PendingFileRenameOperations value. 
+There are several applications, such as service packs and hotfixes, that must replace a file that's in use and is unable to. Windows therefore provides the MoveFileEx API to rename or  delete a file and allows the caller to specify that they want the operation to take place the next time the system boots, before the files are referenced. Session Manager performs this task by reading the registered rename and delete commands from  the HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\PendingFileRenameOperations value. 
 
 ## PendMoves Usage 
-This applet dumps the contents ofthe pending rename/delete value  and also reports an error when the source file is notaccessible. 
+This applet dumps the contents ofthe pending rename/delete value  and also reports an error when the source file is not accessible. 
 
 **Usage: pendmoves**  
 Here is example output that showsa temporary installation file is scheduled for deletion at the next reboot:
