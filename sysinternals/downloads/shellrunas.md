@@ -49,7 +49,7 @@ shellrunas \[/netonly\] &lt;*program*&gt; \[*arguments*\]**
 |  **&lt;program&gt;**        |  Runs program with specified credentials and parameters
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ShellRunas.zip) [**Download ShellRunas**](https://download.sysinternals.com/files/ShellRunas.zip) **(50 KB)**
- 
+ 
 **Runs on:**
 
 -   Client: Windows Vista and higher.

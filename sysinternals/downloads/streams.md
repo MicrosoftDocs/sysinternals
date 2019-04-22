@@ -40,17 +40,19 @@ of any named streams it encounters within those files. Streams makes use
 of an undocumented native function for retrieving file stream
 information.
 
- 
+
 
 ## Using Streams
 
 **Usage: streams \[-s\] \[-d\] &lt;file or directory&gt;**
 
-|Parameter  |Description  |
-|---------|---------|
-|  **-s** |  Recurse subdirectories.|
-|  **-d** |  Delete streams.  
-           Streams takes wildcards e.g. 'streams \*.txt'.|
+
+|                         Parameter                         |       Description       |
+|-----------------------------------------------------------|-------------------------|
+|                          **-s**                           | Recurse subdirectories. |
+|                          **-d**                           |     Delete streams.     |
+|            Streams takes wildcards e.g. 'streams \*.txt'. |                         |
+
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Streams.zip) [**Download Streams**](https://download.sysinternals.com/files/Streams.zip) **(140 KB)**
 
 **Runs on:**

@@ -7,14 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dn798348(v=MSDN.10)'
 ms.date: 05/22/2017
 ---
 
-Sysmon v8.0
-===========
+Sysmon v9.0
+==========
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: July 5, 2018
+Published: February 18, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.4 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.5 MB)**
 
 ## Introduction
 
@@ -65,16 +65,16 @@ nor does it attempt to protect or hide itself from attackers.
 
 ![EventViewer](/media/landing/sysinternals/event-screen-optimized.png "EventViewer")
 
- 
+ 
 
 ## Usage
 
 Uses Sysmon simple command-line options to install and uninstall it, as
 well as to check and modify Sysmon’s configuration:
 
-**Sysinternals Sysmon v6.20 - System activity monitor  
+<strong>Sysinternals Sysmon v6.20 - System activity monitor  
 Copyright (C) 2014-2017 Mark Russinovich and Thomas Garnier  
-Sysinternals - www.sysinternals.com**
+Sysinternals - www.sysinternals.com</strong>
 
 Usage:
 
@@ -84,9 +84,9 @@ Usage:
 \[-l (&lt;process,...&gt;)\]**
 
 **Configure:**  **Sysmon.exe -c &lt;configfile&gt;**  
-              **\[--|\[-h &lt;\[sha1|md5|sha256|imphash|\*\],...&gt;\]
+              **\[--|\[-h &lt;\[sha1|md5|sha256|imphash|\*\],...&gt;\]
 \[-n \[&lt;process,...&gt;\]\]  
-               \[-l \[&lt;process,...&gt;\]\]\]**
+               \[-l \[&lt;process,...&gt;\]\]\]**
 
 **Uninstall:**  **Sysmon.exe -u**
 
@@ -104,7 +104,7 @@ Usage:
 |  **-s** |  Print configuration schema definition.|
 |  **-u** |  Uninstall service and driver.|
 
- 
+ 
 
 The service logs events immediately and the driver installs as a
 boot-start driver to capture activity from early in the boot that the
@@ -353,14 +353,17 @@ configuration schema, including event tags as well as the field names
 and types for each event. For example, here’s the schema for the
 RawAccessRead event type:
 
+<pre>
 &lt;event name="SYSMON\_RAWACCESS\_READ" value="9" level="Informational"
 template="RawAccessRead detected" rulename="RawAccessRead"
-version="2"&gt; &lt;data name="UtcTime" inType="win:UnicodeString"
-outType="xs:string" /&gt; &lt;data name="ProcessGuid" inType="win:GUID"
-/&gt; &lt;data name="ProcessId" inType="win:UInt32" outType="win:PID"
-/&gt; &lt;data name="Image" inType="win:UnicodeString"
-outType="xs:string" /&gt; &lt;data name="Device"
-inType="win:UnicodeString" outType="xs:string" /&gt; &lt;/event&gt;
+version="2"&gt;  
+  &lt;data name="UtcTime" inType="win:UnicodeString" outType="xs:string"/&gt;  
+  &lt;data name="ProcessGuid" inType="win:GUID"/&gt;  
+  &lt;data name="ProcessId" inType="win:UInt32" outType="win:PID"/&gt;  
+  &lt;data name="Image" inType="win:UnicodeString" outType="xs:string"/&gt;  
+  &lt;data name="Device" inType="win:UnicodeString" outType="xs:string"/&gt;  
+&lt;/event&gt;  
+</pre>
 
 Event filtering entries
 -----------------------
@@ -396,7 +399,7 @@ configuration file:
 |  **17**   PipeEvent             | Named pipe created |
 |  **18**   PipeEvent             | Named pipe connected |
 
- 
+ 
 
 You can also find these tags in the event viewer on the task name.
 
@@ -425,7 +428,7 @@ insensitive):
 |  **less than**   | Lexicographical comparison is less than zero |
 |  **more than**   | Lexicographical comparison is more than zero |
 |  **Image**       | Match an image path (full path or only image name). For example: lsass.exe will match c:\\windows\\system32\\lsass.exe |
- 
+ 
 
 You can use a different condition by specifying it as an attribute. This
 excludes network activity from processes with iexplore.exe in their
@@ -435,19 +438,41 @@ path:
 condition="contains"&gt;iexplore.exe&lt;/Image&gt;
 &lt;/NetworkConnect&gt;
 
-You can use both include and exclude rules for the same tag, where
-exclude rules override include rules. Within a rule, filter conditions
-on the same field have OR behavior, whereas conditions on different
-fields have AND behavior. In the sample configuration shown earlier, the
-networking filter uses both an include and exclude rule to capture
-activity to port 80 and 443 by all processes except those that have
-iexplore.exe in their name.
-
 To have Sysmon report which rule match resulted in an event being logged, add names to rules:
 
 &lt;NetworkConnect onmatch="exclude"&gt; &lt;Image
 name="network iexplore" condition="contains"&gt;iexplore.exe&lt;/Image&gt;
 &lt;/NetworkConnect&gt;
+
+You can use both include and exclude rules for the same tag, where exclude rules override include rules. Within a
+rule, filter conditions have OR behavior,  In the sample configuration shown earlier, the networking filter uses both
+an include and exclude rule to capture activity to port 80 and 443 by all processes except those that have
+iexplore.exe in their name.
+
+It is also possible to override the way that rules are combined by using a rule group which allows the rule combine
+type for one or more events to be set explicity to AND or OR.
+
+The following example demonstrates this usage. In the first rule group, a process create event will generate when
+timeout.exe is executed only with a command - line argument of "100", but a process terminate event will generate for
+termination of ping.exe and timeout.exe.
+
+<pre>
+  &lt;EventFiltering&gt;
+    &lt;RuleGroup name="group 1" groupRelation="and"&gt;
+      &lt;ProcessCreate onmatch="include"&gt;
+        &lt;Image condition="contains"&gt;timeout.exe&lt;/Image&gt;
+        &lt;CommandLine condition="contains"&gt;100&lt;/CommandLine&gt;
+      &lt;/ProcessCreate&gt;
+    &lt;/RuleGroup&gt;
+    &lt;RuleGroup groupRelation="or"&gt;
+      &lt;ProcessTerminate onmatch="include"&gt;
+        &lt;Image condition="contains"&gt;timeout.exe&lt;/Image&gt;
+        &lt;Image condition="contains"&gt;ping.exe&lt;/Image&gt;
+      &lt;/ProcessTerminate&gt;        
+    &lt;/RuleGroup&gt;
+    &lt;ImageLoad onmatch="include"/&gt;
+  &lt;/EventFiltering&gt;
+</pre>
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.4 MB)**
   

@@ -44,7 +44,7 @@ service, object&gt;**
 |  **-a** |  Name is a Windows account right. Specify "\*" as the name to show all rights assigned to a user. Note that when you specify a specific right, only groups and accounts directly assigned to the right are displayed.|
 |  **-c** |  Name is a Windows Service, e.g. ssdpsrv. Specify "\*" as the name to show all services and "scmanager" to check the security of the Service Control Manager.|
 |  **-d** |  Only process directories or top-level keys|
-|  **-e** |  Only show explicitly set-Integrity Levels (Windows Vista Vista and higher only)|
+|  **-e** |  Only show explicitly set-Integrity Levels (Windows Vista and higher only)|
 |  **-f** |  If following -p, shows full process token information including groups and privileges. Otherwise is a list of comma-separated accounts to filter from the output.|
 |  **-h** |  Name is a file or printer share. Specify '\*' as the name to show all shares.|
 |  **-i** |  Ignore objects with only inherited ACEs when dumping full access control lists.|
@@ -71,7 +71,7 @@ AccessChk prints R if the account has read access, W for write access,
 and nothing if it has neither. The -v switch has AccessChk dump the
 specific accesses granted to an account.
 
- 
+ 
 ## Examples
 
 The following command reports the accesses that the Power Users account
