@@ -198,7 +198,7 @@ in as a domain administrator to use this feature.
 Note that when you run *NewSID* that the size of the Registry will grow,
 so make sure that the maximum Registry size will accommodate growth. We
 have found that this growth has no perceptible impact on system
-performace. The reason the Registry grows is that it becomes fragmented
+performance. The reason the Registry grows is that it becomes fragmented
 as temporary security settings are applied by *NewSID*. When the
 settings are removed the Registry is not compacted.
 
