@@ -30,9 +30,9 @@ Microsoft has not tested NewSID for all deployment cloning options.
 For more information on Microsoft's official policy, please see the
 following Knowledge Base article:
 
--   [**The Microsoft policy concerning disk duplication of Windows XP
-    installations**  
-    ](http://support.microsoft.com/default.aspx?scid=kb;en-us;314828)
+- [<strong>The Microsoft policy concerning disk duplication of Windows XP
+  installations</strong>  
+  ](http://support.microsoft.com/default.aspx?scid=kb;en-us;314828)
 
 
 ## Introduction

@@ -60,7 +60,7 @@ logoff.
 ![Configuration Dialog](/media/landing/sysinternals/desktops.png "Configuration Dialog")  
 Configuration Dialog
 
- 
+ 
 
 ![Tray Desktop Switch Window](/media/landing/sysinternals/desktops2.png "Tray Desktop Switch Window")  
 Tray Desktop Switch Window

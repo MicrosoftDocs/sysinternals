@@ -24,7 +24,7 @@ can protect their sensitive data. Several new APIs make their debut to
 support this factility, including one-QueryUsersOnEncryptedFile-that
 lets you see who has access to encrypted files. This applet uses the API
 to show you what accounts are authorized to access encrypted files.
- 
+ 
 
 ## Using EFSDump
 

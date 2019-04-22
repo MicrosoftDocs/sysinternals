@@ -77,9 +77,9 @@ usage information for all the tools.
   - Server: Windows Server 2008 and higher
   - Nano Server: 2016 and higher
 
-###Installation
+### Installation
 None of the tools requires any special installation. You don't even need to install any client software on the remote computers at which you target them. Run them by typing their name and any command-line options you want. To show complete usage information, specify the "-? " command-line option.
 If you have questions or problems, please visit the [Sysinternals PsTools Forum](http://forum.sysinternals.com/forum_topics.asp?FID=8).
 
-###Related Links
+### Related Links
 [Introduction to the PsTools](https://technet.microsoft.com/en-us/library/2007.03.desktopfiles.aspx): Wes Miller gives a high-level overview of the Sysinternals PsTools in the March column of his TechNet Magazine column.

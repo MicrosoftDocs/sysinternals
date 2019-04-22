@@ -31,7 +31,7 @@ functionality.
 
 ![TCP View screenshot](/media/landing/sysinternals/tcpview.jpg)
 
- 
+ 
 
 ## Using TCPView
 
@@ -55,7 +55,7 @@ the resulting context menu.
 You can save TCPView's output window to a file using the **Save** menu
 item.  
 
- 
+ 
 
 ## Using Tcpvcon
 
@@ -69,7 +69,7 @@ utility:
 |  **-a**  | Show all endpoints (default is to show established TCP connections).|
 |  **-c**  | Print output as CSV.|
 |  **-n**  | Don't resolve addresses.|
- 
+ 
 
 ## Microsoft TCPView KB Article
 
