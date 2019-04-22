@@ -14,7 +14,7 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 -   Watch Mark’s top-rated [Case-of-the-Unexplained](~/learn/webcasts.md) troubleshooting presentations and other webcasts
 -   Read [Mark’s Blog](https://blogs.technet.microsoft.com/markrussinovich/) which highlight use of the tools to solve real problems
 -   Check out the Sysinternals [Learning Resources](~/learn/index.md) page
--   Post your questions in the [Sysinternals Forum](http://forum.sysinternals.com/)
+-   Post your questions in the [Sysinternals Forum](https://social.technet.microsoft.com/Forums/en-US/home?category=sysinternals&amp;filter=alltypes&amp;sort=lastpostdesc)
 
 ---
 ## Sysinternals Live ##
