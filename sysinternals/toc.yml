@@ -1,200 +1,203 @@
-- name: Home
-  href: index.md
+- name: Docs
+  href: /
   items:
-  - name: Learn
-    href: learn/index.md
+  - name: Sysinternals
+    href: index.md
     items:
-    - name: Mark's Webcasts
-      href: learn/webcasts.md
-    - name: Windows Internals Book
-      href: learn/windows-internals.md
-    - name: Troubleshooting with the Windows Sysinternals Tools
-      href: learn/troubleshooting-book.md
-    - name: Inside Native Applications
-      href: learn/inside-native-applications.md
-  - name: Downloads
-    href: downloads/index.md
-    expanded: true
-    items:
-    - name: File and Disk Utilities
-      href: downloads/file-and-disk-utilities.md
+    - name: Learn
+      href: learn/index.md
       items:
-      - name: AccessChk
-        href: downloads/accesschk.md
-      - name: AccessEnum
-        href: downloads/accessenum.md
-      - name: CacheSet
-        href: downloads/cacheset.md
-      - name: Contig
-        href: downloads/contig.md
-      - name: Disk2vhd
-        href: downloads/disk2vhd.md
-      - name: DiskExt
-        href: downloads/diskext.md
-      - name: DiskMon
-        href: downloads/diskmon.md
-      - name: Disk Usage
-        href: downloads/du.md
-      - name: DiskView
-        href: downloads/diskview.md
-      - name: EFSDump
-        href: downloads/efsdump.md
-      - name: LDMDump
-        href: downloads/ldmdump.md
-      - name: MoveFile
-        href: downloads/movefile.md
-      - name: NTFSInfo
-        href: downloads/ntfsinfo.md
-      - name: PageDefrag
-        href: downloads/pagedefrag.md
-      - name: PendMoves
-        href: downloads/pendmoves.md
-      - name: RegMon
-        href: downloads/regmon.md
-      - name: SDelete
-        href: downloads/sdelete.md
-      - name: Sigcheck
-        href: downloads/sigcheck.md
-      - name: Streams
-        href: downloads/streams.md
-      - name: Sync
-        href: downloads/sync.md
-      - name: VolumeID
-        href: downloads/volumeid.md
-    - name: Networking Utilities
-      href: downloads/networking-utilities.md
+      - name: Mark's Webcasts
+        href: learn/webcasts.md
+      - name: Windows Internals Book
+        href: learn/windows-internals.md
+      - name: Troubleshooting with the Windows Sysinternals Tools
+        href: learn/troubleshooting-book.md
+      - name: Inside Native Applications
+        href: learn/inside-native-applications.md
+    - name: Downloads
+      href: downloads/index.md
+      expanded: true
       items:
-      - name: Active Directory Explorer
-        href: downloads/adexplorer.md
-      - name: Insight for Active Directory
-        href: downloads/adinsight.md
-      - name: AdRestore
-        href: downloads/adrestore.md
-      - name: PipeList
-        href: downloads/pipelist.md
-      - name: PsFile
-        href: downloads/psfile.md
-      - name: PsPing
-        href: downloads/psping.md
-      - name: ShareEnum
-        href: downloads/shareenum.md
-      - name: TCPView
-        href: downloads/tcpview.md
-      - name: Whois
-        href: downloads/whois.md
-    - name: Process Utilities
-      href: downloads/process-utilities.md
-      items:
-      - name: AutoRuns
-        href: downloads/autoruns.md
-      - name: Handle
-        href: downloads/handle.md
-      - name: ListDLLs
-        href: downloads/listdlls.md
-      - name: Portmon
-        href: downloads/portmon.md
-      - name: ProcDump
-        href: downloads/procdump.md
-      - name: Process Explorer
-        href: downloads/process-explorer.md
-      - name: Process Monitor
-        href: downloads/procmon.md
-      - name: PsExec
-        href: downloads/psexec.md
-      - name: PsGetSid
-        href: downloads/psgetsid.md
-      - name: PsKill
-        href: downloads/pskill.md
-      - name: PsList
-        href: downloads/pslist.md
-      - name: PsService
-        href: downloads/psservice.md
-      - name: PsSuspend
-        href: downloads/pssuspend.md
-      - name: PsTools
-        href: downloads/pstools.md
-      - name: ShellRunas
-        href: downloads/shellrunas.md
-      - name: VMMap
-        href: downloads/vmmap.md
-    - name: Security Utilities
-      href: downloads/security-utilities.md
-      items:
-      - name: Autologon
-        href: downloads/autologon.md
-      - name: LogonSessions
-        href: downloads/logonsessions.md
-      - name: NewSID
-        href: downloads/newsid.md
-      - name: PsLoggedOn
-        href: downloads/psloggedon.md
-      - name: PsLogList
-        href: downloads/psloglist.md
-      - name: RootkitRevealer
-        href: downloads/rootkit-revealer.md
-      - name: Sysmon
-        href: downloads/sysmon.md
-    - name: System Information
-      href: downloads/system-information.md
-      items:
-      - name: ClockRes
-        href: downloads/clockres.md
-      - name: Coreinfo
-        href: downloads/coreinfo.md
-      - name: LiveKd
-        href: downloads/livekd.md
-      - name: LoadOrder
-        href: downloads/loadorder.md
-      - name: ProcFeatures
-        href: downloads/procfeatures.md
-      - name: PsInfo
-        href: downloads/psinfo.md
-      - name: RAMMap
-        href: downloads/rammap.md
-      - name: WinObj
-        href: downloads/winobj.md
-    - name: Miscellaneous
-      href: downloads/misc-utilities.md
-      items:
-      - name: BgInfo
-        href: downloads/bginfo.md
-      - name: BlueScreen Screen Saver
-        href: downloads/bluescreen.md
-      - name: CpuStres
-        href: downloads/cpustres.md
-      - name: Ctrl2Cap
-        href: downloads/ctrl2cap.md
-      - name: DebugView
-        href: downloads/debugview.md
-      - name: Desktops
-        href: downloads/desktops.md
-      - name: Hex2dec
-        href: downloads/hex2dec.md
-      - name: NotMyFault
-        href: downloads/notmyfault.md
-      - name: PsPasswd
-        href: downloads/pspasswd.md
-      - name: PsShutdown
-        href: downloads/psshutdown.md
-      - name: RegDelNull
-        href: downloads/regdelnull.md
-      - name: Registry Usage
-        href: downloads/ru.md
-      - name: Reghide
-        href: downloads/reghide.md
-      - name: RegJump
-        href: downloads/regjump.md
-      - name: Strings
-        href: downloads/strings.md
-      - name: Testlimit
-        href: downloads/testlimit.md
-      - name: ZoomIt
-        href: downloads/zoomit.md
-    - name: Sysinternals Suite
-      href: downloads/sysinternals-suite.md
-  - name: Community
-    href: community.md
-  - name: Software License Terms
-    href: license-terms.md
-  - name: Licensing FAQ
-    href: license-faq.md
+      - name: File and Disk Utilities
+        href: downloads/file-and-disk-utilities.md
+        items:
+        - name: AccessChk
+          href: downloads/accesschk.md
+        - name: AccessEnum
+          href: downloads/accessenum.md
+        - name: CacheSet
+          href: downloads/cacheset.md
+        - name: Contig
+          href: downloads/contig.md
+        - name: Disk2vhd
+          href: downloads/disk2vhd.md
+        - name: DiskExt
+          href: downloads/diskext.md
+        - name: DiskMon
+          href: downloads/diskmon.md
+        - name: Disk Usage
+          href: downloads/du.md
+        - name: DiskView
+          href: downloads/diskview.md
+        - name: EFSDump
+          href: downloads/efsdump.md
+        - name: LDMDump
+          href: downloads/ldmdump.md
+        - name: MoveFile
+          href: downloads/movefile.md
+        - name: NTFSInfo
+          href: downloads/ntfsinfo.md
+        - name: PageDefrag
+          href: downloads/pagedefrag.md
+        - name: PendMoves
+          href: downloads/pendmoves.md
+        - name: RegMon
+          href: downloads/regmon.md
+        - name: SDelete
+          href: downloads/sdelete.md
+        - name: Sigcheck
+          href: downloads/sigcheck.md
+        - name: Streams
+          href: downloads/streams.md
+        - name: Sync
+          href: downloads/sync.md
+        - name: VolumeID
+          href: downloads/volumeid.md
+      - name: Networking Utilities
+        href: downloads/networking-utilities.md
+        items:
+        - name: Active Directory Explorer
+          href: downloads/adexplorer.md
+        - name: Insight for Active Directory
+          href: downloads/adinsight.md
+        - name: AdRestore
+          href: downloads/adrestore.md
+        - name: PipeList
+          href: downloads/pipelist.md
+        - name: PsFile
+          href: downloads/psfile.md
+        - name: PsPing
+          href: downloads/psping.md
+        - name: ShareEnum
+          href: downloads/shareenum.md
+        - name: TCPView
+          href: downloads/tcpview.md
+        - name: Whois
+          href: downloads/whois.md
+      - name: Process Utilities
+        href: downloads/process-utilities.md
+        items:
+        - name: AutoRuns
+          href: downloads/autoruns.md
+        - name: Handle
+          href: downloads/handle.md
+        - name: ListDLLs
+          href: downloads/listdlls.md
+        - name: Portmon
+          href: downloads/portmon.md
+        - name: ProcDump
+          href: downloads/procdump.md
+        - name: Process Explorer
+          href: downloads/process-explorer.md
+        - name: Process Monitor
+          href: downloads/procmon.md
+        - name: PsExec
+          href: downloads/psexec.md
+        - name: PsGetSid
+          href: downloads/psgetsid.md
+        - name: PsKill
+          href: downloads/pskill.md
+        - name: PsList
+          href: downloads/pslist.md
+        - name: PsService
+          href: downloads/psservice.md
+        - name: PsSuspend
+          href: downloads/pssuspend.md
+        - name: PsTools
+          href: downloads/pstools.md
+        - name: ShellRunas
+          href: downloads/shellrunas.md
+        - name: VMMap
+          href: downloads/vmmap.md
+      - name: Security Utilities
+        href: downloads/security-utilities.md
+        items:
+        - name: Autologon
+          href: downloads/autologon.md
+        - name: LogonSessions
+          href: downloads/logonsessions.md
+        - name: NewSID
+          href: downloads/newsid.md
+        - name: PsLoggedOn
+          href: downloads/psloggedon.md
+        - name: PsLogList
+          href: downloads/psloglist.md
+        - name: RootkitRevealer
+          href: downloads/rootkit-revealer.md
+        - name: Sysmon
+          href: downloads/sysmon.md
+      - name: System Information
+        href: downloads/system-information.md
+        items:
+        - name: ClockRes
+          href: downloads/clockres.md
+        - name: Coreinfo
+          href: downloads/coreinfo.md
+        - name: LiveKd
+          href: downloads/livekd.md
+        - name: LoadOrder
+          href: downloads/loadorder.md
+        - name: ProcFeatures
+          href: downloads/procfeatures.md
+        - name: PsInfo
+          href: downloads/psinfo.md
+        - name: RAMMap
+          href: downloads/rammap.md
+        - name: WinObj
+          href: downloads/winobj.md
+      - name: Miscellaneous
+        href: downloads/misc-utilities.md
+        items:
+        - name: BgInfo
+          href: downloads/bginfo.md
+        - name: BlueScreen Screen Saver
+          href: downloads/bluescreen.md
+        - name: CpuStres
+          href: downloads/cpustres.md
+        - name: Ctrl2Cap
+          href: downloads/ctrl2cap.md
+        - name: DebugView
+          href: downloads/debugview.md
+        - name: Desktops
+          href: downloads/desktops.md
+        - name: Hex2dec
+          href: downloads/hex2dec.md
+        - name: NotMyFault
+          href: downloads/notmyfault.md
+        - name: PsPasswd
+          href: downloads/pspasswd.md
+        - name: PsShutdown
+          href: downloads/psshutdown.md
+        - name: RegDelNull
+          href: downloads/regdelnull.md
+        - name: Registry Usage
+          href: downloads/ru.md
+        - name: Reghide
+          href: downloads/reghide.md
+        - name: RegJump
+          href: downloads/regjump.md
+        - name: Strings
+          href: downloads/strings.md
+        - name: Testlimit
+          href: downloads/testlimit.md
+        - name: ZoomIt
+          href: downloads/zoomit.md
+      - name: Sysinternals Suite
+        href: downloads/sysinternals-suite.md
+    - name: Community
+      href: community.md
+    - name: Software License Terms
+      href: license-terms.md
+    - name: Licensing FAQ
+      href: license-faq.md
