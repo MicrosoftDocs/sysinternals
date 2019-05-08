@@ -41,7 +41,25 @@ includes a break timer feature that remains active even when you tab
 away from the timer window and allows you to return to the timer window
 by clicking on the ZoomIt tray icon.  
   
+### Shortcuts
 
+ZoomIt offers a number of shortcuts which can extend its usage greatly.
+
+|  Function | Shortcut  |
+|---|---|
+|  Begin Zoom In Mode |  Ctrl+1  |
+| Zoom In | Up Key |
+| Zoom Out | Down Key |
+|  Begin Drawing (While zoomed) | Left-Click  |
+|  Begin Drawing (While not zoomed) | Ctrl+2  |
+|  Red Pen Color | R |
+| Blue Pen Color | B | 
+| Yellow Pen Color | Y |
+| Green Pen Color | G | 
+| Show Meeting Timer | Ctrl + 3 |
+| Live Zoom Mode | Ctrl + 4 |
+| Zoom In (Live mode) | Ctrl + Up |
+| Zoom Out (Live mode) | Ctrl + Down |
 
 ![ZoomIt](/media/landing/sysinternals/20130618_Zoomit_v4.5.jpg)  
 
