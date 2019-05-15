@@ -9,6 +9,7 @@
         "exclude": [
           "**/obj/**",
           "**/includes/**",
+          "**/_themes/**",
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
@@ -25,7 +26,8 @@
         ],
         "exclude": [
           "**/obj/**",
-          "**/includes/**"
+          "**/includes/**",
+          "**/_themes/**"
         ]
       }
     ],

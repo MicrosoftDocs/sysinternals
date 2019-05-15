@@ -40,12 +40,16 @@
     "live": [
       "Publish",
       "Pdf"
+    ],
+    "master": [
+      "Publish",
+      "PDF"
     ]
   },
   "need_generate_pdf_url_template": true,
-  "Targets": {  
+  "targets": {  
     "Pdf": {  
       "template_folder": "_themes.pdf"  
     }
-  }
+    }
 }
