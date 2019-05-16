@@ -282,7 +282,7 @@ partially visible to Registry tools like Regedit. The
 [Reghide](reghide.md) sample code
 at Sysinternals demonstrates this technique, which is used by both
 malware and rootkits to hide Registry data. Use the Sysinternals
-[Regdellnull](regdelnull.md)
+[RegDelNull](regdelnull.md)
 utility to delete keys with embedded nulls.
 
 **Data mismatch between Windows API and raw hive data.**  

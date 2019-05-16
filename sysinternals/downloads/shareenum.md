@@ -29,9 +29,9 @@ you to lock down file shares in your network.
 
 When you run *ShareEnum* it uses NetBIOS enumeration to scan all the
 computers within the domains accessible to it, showing file and print
-shares and their security settings. Because only a domain adminstrator
+shares and their security settings. Because only a domain administrator
 has the ability to view all network resources, *ShareEnum* is most
-effective when you run it from a domain adminstrator account.
+effective when you run it from a domain administrator account.
 
 ![ShareEnum](/media/landing/sysinternals/ShareEnum.gif)  
 
