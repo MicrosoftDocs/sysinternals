@@ -1,4 +1,4 @@
---- 
+---
 TOCTitle: Sysmon
 title: Sysmon
 description: Monitors and reports key system activity via the Windows event log.
@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dn798348(v=MSDN.10)'
 ms.date: 05/22/2017
 ---
 
-Sysmon v9.0
+Sysmon v9.1
 ==========
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: February 18, 2019
+Published: June 11, 2019
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.5 MB)**
 
@@ -72,13 +72,13 @@ nor does it attempt to protect or hide itself from attackers.
 Uses Sysmon simple command-line options to install and uninstall it, as
 well as to check and modify Sysmon’s configuration:
 
-<strong>Sysinternals Sysmon v6.20 - System activity monitor  
-Copyright (C) 2014-2017 Mark Russinovich and Thomas Garnier  
+<strong>System Monitor v9.10 - System activity monitor  
+Copyright (C) 2014-2019 Mark Russinovich and Thomas Garnier  
 Sysinternals - www.sysinternals.com</strong>
 
 Usage:
 
-**Install:**    **Sysmon.exe -i &lt;configfile&gt;  
+**Install:**    **Sysmon.exe -accepteula -i &lt;configfile&gt;  
 \[-h &lt;\[sha1|md5|sha256|imphash|\*\],...&gt;\] \[-n
 \[&lt;process,...&gt;\]\]  
 \[-l (&lt;process,...&gt;)\]**
@@ -90,7 +90,7 @@ Usage:
 
 **Uninstall:**  **Sysmon.exe -u**
 
- 
+
 |Parameter  |Description  |
 |---------|---------|
 |  **-c** |  Update configuration of an installed Sysmon driver or dump the current configuration if no other argument is provided. Optionally take a configuration file.|
@@ -264,7 +264,7 @@ autostart locations, or specific malware registry modifications.
 Sysmon uses abbreviated versions of Registry root key names, with the
 following mappings:
 
- 
+
 |Key name  | Abbreviation  |
 |---------|---------|
 |  HKEY\_LOCAL\_MACHINEHKLM                     | HKEY |
@@ -315,6 +315,10 @@ log, and destination.
 
 ### Event ID 21: WmiEvent (WmiEventConsumerToFilter activity detected)
 When a consumer binds to a filter, this event logs the consumer name and filter path. 
+
+### Event ID 22: DnsQuery
+
+When a process queries DNS, the request and the result will be logged in this event, along with the requesting process information
 
 ### Event ID 255: Error
 
@@ -377,29 +381,32 @@ host reducing the data to collect.
 Each event has its own filter tag under the EventFiltering node in a
 configuration file:
 
- 
+
 |ID  |Tag  | Event |
 |---------|---------|---------|
-|  **1**    ProcessCreate         | Process Create |
-|  **2**    FileCreateTime        | File creation time |
-|  **3**    NetworkConnect        | Network connection detected |
-|  **4**    n/a                   | Sysmon service state change (cannot be filtered) |
-|  **5**    ProcessTerminate      | Process terminated |
-|  **6**    DriverLoad            | Driver Loaded |
-|  **7**    ImageLoad             | Image loaded |
-|  **8**    CreateRemoteThread    | CreateRemoteThread detected |
-|  **9**    RawAccessRead         | RawAccessRead detected |
-|  **10**   ProcessAccess         | Process accessed |
-|  **11**   FileCreate            | File created |
-|  **12**   RegistryEvent         | Registry object added or deleted |
-|  **13**   RegistryEvent         | Registry value set |
-|  **14**   RegistryEvent         | Registry object renamed |
-|  **15**   FileCreateStreamHash  | File stream created |
-|  **16**   n/a                   | Sysmon configuration change (cannot be filtered) |
-|  **17**   PipeEvent             | Named pipe created |
-|  **18**   PipeEvent             | Named pipe connected |
+|  **1**    ProcessCreate         | Process Create | |
+|  **2**    FileCreateTime        | File creation time ||
+|  **3**    NetworkConnect        | Network connection detected ||
+|  **4**    n/a                   | Sysmon service state change (cannot be filtered) ||
+|  **5**    ProcessTerminate      | Process terminated ||
+|  **6**    DriverLoad            | Driver Loaded ||
+|  **7**    ImageLoad             | Image loaded ||
+|  **8**    CreateRemoteThread    | CreateRemoteThread detected ||
+|  **9**    RawAccessRead         | RawAccessRead detected ||
+|  **10**   ProcessAccess         | Process accessed ||
+|  **11**   FileCreate            | File created ||
+|  **12**   RegistryEvent         | Registry object added or deleted | CreateKey|
+|  **13**   RegistryEvent         | Registry value set |SetValue|
+|  **14**   RegistryEvent         | Registry object renamed |RenameKey|
+|  **15**   FileCreateStreamHash  | File stream created ||
+|  **16**   n/a                   | Sysmon configuration change (cannot be filtered) ||
+|  **17**   PipeEvent             | Named pipe created |CreatePipe|
+|  **18**   PipeEvent             | Named pipe connected |CreatePipe|
+|  **19**   PipeEvent             | WmiEventFilter activity detected |WmiFilterEvent|
+|  **20**   PipeEvent             | WmiEventConsumer activity detected |WmiConsumerEvent|
+|  **21**   PipeEvent             | WmiEventConsumerToFilter activity detected |WmiBindingEvent|
+| **22**   DnsQuery | DNS query ||
 
- 
 
 You can also find these tags in the event viewer on the task name.
 
@@ -428,7 +435,7 @@ insensitive):
 |  **less than**   | Lexicographical comparison is less than zero |
 |  **more than**   | Lexicographical comparison is more than zero |
 |  **Image**       | Match an image path (full path or only image name). For example: lsass.exe will match c:\\windows\\system32\\lsass.exe |
- 
+
 
 You can use a different condition by specifying it as an attribute. This
 excludes network activity from processes with iexplore.exe in their
@@ -475,7 +482,7 @@ termination of ping.exe and timeout.exe.
 </pre>
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.4 MB)**
-  
+
 **Runs on:**
 
 -   Client: Windows 7 and higher.
