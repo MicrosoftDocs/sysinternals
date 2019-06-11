@@ -7,14 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd535533(v=MSDN.10)'
 ms.date: 07/20/2015
 ---
 
-VMMap v3.21
+VMMap v3.25
 ===========
 
 **By Mark Russinovich**
 
-Published: July 20, 2015
+Published: December 11, 2018
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(586 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(626 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/vmmap.exe).
 
 
@@ -44,10 +44,10 @@ optimize their application's memory resource usage.
 ## Related Links
 
 -   [**Windows Internals Book**](~/learn/windows-internals.md)  
-    **The official updates and errata page for the definitive book on
+    The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
--   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)The
-    official guide to the Sysinternals utilities by Mark Russinovich and
+-   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)
+    The official guide to the Sysinternals utilities by Mark Russinovich and
     Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example
     real-world cases of their use.

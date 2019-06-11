@@ -70,6 +70,12 @@ To delete a junction, use the –d switch:
 
 **junction -d c:\\Program-Files**
 
+## Return codes
+**0**  - on success  
+**-1** - on failed creation of new junction  
+**0**  - on failed deletion of junction  (e.g. if file not found)  
+**0**  - on the check if a file is a junction fails (e.g. if file not found)  
+
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(212 KB)**
 

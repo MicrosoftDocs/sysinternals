@@ -25,7 +25,7 @@ identify and diagnose device driver and hardware problems, and you can
 also use it to generate blue screen dump files on misbehaving systems.
 The download file includes 32-bit and 64-bit versions, as well as a
 command-line version that works on Nano Server. Chapter 7 in Windows
-Internals uses Notmyfault to o demonstrate pool leak troubleshooting and
+Internals uses Notmyfault to demonstrate pool leak troubleshooting and
 Chapter 14 uses it for crash analysis examples.
 
 
@@ -42,23 +42,23 @@ Usage:
 
 **notmyfaultc.exe crash crash\_type\_num**
 ```Shell
-    crash type:
-      0x01: High IRQL fault (Kernel-mode)
-      0x02: Buffer overflow
-      0x03: Code overwrite
-      0x04: Stack trash
-      0x05: High IRQL fault (User-mode)
-      0x06: Stack overflow
-      0x07: Hardcoded breakpoint
-      0x08: Double Free
+    crash type:
+      0x01: High IRQL fault (Kernel-mode)
+      0x02: Buffer overflow
+      0x03: Code overwrite
+      0x04: Stack trash
+      0x05: High IRQL fault (User-mode)
+      0x06: Stack overflow
+      0x07: Hardcoded breakpoint
+      0x08: Double Free
 ```
 
 Or  **notmyfaultc.exe hang hang\_type\_num**
 
 ```Shell
-    hang type:
-      0x01: Hang with IRP
-      0x02: Hang with DPC
+    hang type:
+      0x01: Hang with IRP
+      0x02: Hang with DPC
 ```
- 
+ 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(524 KB)**
