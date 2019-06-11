@@ -46,7 +46,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v13.94 (February 18, 2019)*  
+*v13.95 (June 11, 2019)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -337,7 +337,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v9.0 (February 18, 2019)*  
+*v10.0 (June 11, 2019)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
@@ -345,7 +345,7 @@ Monitors and reports key system activity via the Windows event log.
 Active socket command-line viewer.
 
 [VMMap](vmmap.md)  
-*v3.22 (October 19, 2018)*  
+*v3.26 (June 11, 2019)*  
 VMMap is a process virtual and physical memory analysis utility.
 
 [VolumeId](volumeid.md)  
