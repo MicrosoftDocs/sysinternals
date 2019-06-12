@@ -65,7 +65,7 @@ All memory values are displayed in KB.
 **PsTools**
 
 *PsList* is part of a growing kit of Sysinternals command-line tools
-that aid in the adminstration of local and remote systems named
+that aid in the administration of local and remote systems named
 *PsTools*.
 
 **Runs on:**

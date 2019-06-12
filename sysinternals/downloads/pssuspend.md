@@ -56,7 +56,7 @@ password\]\] &lt;process name | process id&gt;**
 |  **process name**  | Specifies the process name of the process or processes you want to suspend or resume.
 
 *PsSuspend* is part of a growing kit of Sysinternals command-line tools
-that aid in the adminstration of local and remote systems named
+that aid in the administration of local and remote systems named
 *PsTools*.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
@@ -64,7 +64,7 @@ that aid in the adminstration of local and remote systems named
 **PsTools**
 
 *PsSuspend* is part of a growing kit of Sysinternals command-line tools
-that aid in the adminstration of local and remote systems named
+that aid in the administration of local and remote systems named
 *PsTools*.
 
 **Runs on:**
