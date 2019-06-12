@@ -7,14 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896645(v=MSDN.10)'
 ms.date: 09/12/2017
 ---
 
-Process Monitor v3.50
+Process Monitor v3.52
 =====================
 
 **By Mark Russinovich**
 
-Published: February 13, 2018
+Published: March 24, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(981 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(1029 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Procmon.exe).
 
 
@@ -84,7 +84,7 @@ options on a live system.
 
 ## Download 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(981 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(1029 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Procmon.exe).
 
