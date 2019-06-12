@@ -23,7 +23,7 @@ Windows 2000 introduces a new type of disk partitioning scheme that is
 managed by a component called the Logical Disk Manager (LDM). Basic
 disks implement standard DOS-style partition tables, whereas Dynamic
 disks use LDM partitioning. LDM partitioning offers several advantages
-over DOS partitioing including replication across disks, on-disk storage
+over DOS partitioning including replication across disks, on-disk storage
 of advanced volume configuration (spanned volume, mirrored volumes,
 striped volumes and RAID-5 volumes). My March/April two-part series on
 Windows NT/2000 storage management in *Windows 2000 Magazine* describes
@@ -52,7 +52,7 @@ To use *LDMDump* simply pass it the identifier of a disk.
 
 ## How it Works
 
-There are no published APIs available for obtiaining detailed
+There are no published APIs available for obtaining detailed
 information about a disk's LDM partitioning, and the LDM database format
 is completely undocumented. *LDMDump* was developed based on study of
 LDM database contents on a variety of different systems and under

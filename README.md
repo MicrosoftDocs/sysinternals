@@ -1,6 +1,6 @@
 # Windows Sysinternals Documentation
 
-This is the source repsitory for https://docs.microsoft.com/sysinternals/
+This is the source repository for https://docs.microsoft.com/sysinternals/
 
 ## Contributing
 

@@ -224,7 +224,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.50 (Febryary 13, 2018)*  
+*v3.50 (February 13, 2018)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 

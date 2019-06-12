@@ -50,7 +50,7 @@ name|\*&gt;**
 |  **-l**      |       Traverse symbolic links and directory junctions|
 |  **-m**      |       Dump manifest|
 |  **-n**      |       Only show file version number|
-|  **-o**      |       Performs Virus Total lookups of hashes captured in a CSV file previously captured by Sighcheck when using the -h option. This usage is intended for scans of offline systems.|
+|  **-o**      |       Performs Virus Total lookups of hashes captured in a CSV file previously captured by Sigcheck when using the -h option. This usage is intended for scans of offline systems.|
 |  **-q**      |       Quiet (no banner)|
 |  **-r**      |       Disable check for certificate revocation|
 |  **-s**      |       Recurse subdirectories|

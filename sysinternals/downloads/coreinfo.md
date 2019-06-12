@@ -96,12 +96,12 @@ OSXSAVE         -       Supports XSETBV/XGETBV instructions
 CMOV            *       Supports CMOVcc instruction
 CLFSH           *       Supports CLFLUSH instruction
 CX8             *       Supports compare and exchange 8-byte instructions
-CX16            *       Supprots CMPXCHG16B instruction
+CX16            *       Supports CMPXCHG16B instruction
 DCA             -       Supports prefetch from memory-mapped device
 F16C            -       Supports half-precision instruction
 FXSR            *       Supports FXSAVE/FXSTOR instructions
 FFXSR           -       Supports optimized FXSAVE/FSRSTOR instruction
-MONITOR         -       Supports MONITOR and MWAIT isntructions
+MONITOR         -       Supports MONITOR and MWAIT instructions
 MOVBE           -       Supports MOVBE instruction
 PCLULDQ         -       Supports PCLMULDQ instruction
 POPCNT          *       Supports POPCNT instruction

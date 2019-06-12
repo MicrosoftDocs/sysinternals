@@ -18,7 +18,7 @@ Published: July 4, 2016
 ## Introduction 
 
 Did you know that the device driver that implements named pipes is
-actually a file system driver" In fact, the driver's name is NPFS.SYS,
+actually a file system driver? In fact, the driver's name is NPFS.SYS,
 for "Named Pipe File System". What you might also find surprising is
 that its possible to obtain a directory listing of the named pipes
 defined on a system. This fact is not documented, nor is it possible to
