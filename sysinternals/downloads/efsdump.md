@@ -21,7 +21,7 @@ Published: November 1, 2006
 
 Windows 2000 introduces the Encrypting File System (EFS) so that users
 can protect their sensitive data. Several new APIs make their debut to
-support this factility, including one-QueryUsersOnEncryptedFile-that
+support this facility, including one-QueryUsersOnEncryptedFile-that
 lets you see who has access to encrypted files. This applet uses the API
 to show you what accounts are authorized to access encrypted files.
  
