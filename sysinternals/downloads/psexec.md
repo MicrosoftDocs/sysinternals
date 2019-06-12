@@ -43,7 +43,7 @@ usage syntax.
 ## Using PsExec
 
 See the July 2004 issue of *Windows IT Pro Magazine* for [Mark's
-article](http://windowsitpro.com/systems-management/psexec) that covers
+article](https://www.itprotoday.com/compute-engines/psexec) that covers
 advanced usage of PsExec.
 
 <strong>Usage: psexec \[\\\\computer\[,computer2\[,...\] | @file\]\]\[-u user
@@ -98,7 +98,7 @@ execute, not PsExec.
 ## Examples
 
 This article I wrote [describes how PsExec
-works](http://windowsitpro.com/systems-management/psexec) and gives tips
+works](https://www.itprotoday.com/compute-engines/psexec) and gives tips
 on how to use it:
 
 The following command launches an interactive command prompt on
