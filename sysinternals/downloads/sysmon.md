@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dn798348(v=MSDN.10)'
 ms.date: 05/22/2017
 ---
 
-Sysmon v9.0
-==========
+Sysmon v10.0
+===========
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: February 18, 2019
+Published: June 11, 2019
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.5 MB)**
 
@@ -72,8 +72,8 @@ nor does it attempt to protect or hide itself from attackers.
 Uses Sysmon simple command-line options to install and uninstall it, as
 well as to check and modify Sysmon’s configuration:
 
-<strong>Sysinternals Sysmon v6.20 - System activity monitor  
-Copyright (C) 2014-2017 Mark Russinovich and Thomas Garnier  
+<strong>Sysinternals Sysmon v10.0 - System activity monitor  
+Copyright (C) 2014-2019 Mark Russinovich and Thomas Garnier  
 Sysinternals - www.sysinternals.com</strong>
 
 Usage:
@@ -88,7 +88,7 @@ Usage:
 \[-n \[&lt;process,...&gt;\]\]  
                \[-l \[&lt;process,...&gt;\]\]\]**
 
-**Uninstall:**  **Sysmon.exe -u**
+**Uninstall:**  **Sysmon.exe -u \[force\]**
 
  
 |Parameter  |Description  |
@@ -102,7 +102,7 @@ Usage:
 |  **-n** |  Log network connections. Optionally take a list of processes to track.|
 |  **-r** |  Check for signature certificate revocation.  <br />Configuration entry: CheckRevocation.|
 |  **-s** |  Print configuration schema definition.|
-|  **-u** |  Uninstall service and driver.|
+|  **-u** |  Uninstall service and driver. Adding force causes uninstall to proceed even when some components are not installed.|
 
  
 
@@ -267,7 +267,7 @@ following mappings:
  
 |Key name  | Abbreviation  |
 |---------|---------|
-|  HKEY\_LOCAL\_MACHINEHKLM                     | HKEY |
+|  HKEY\_LOCAL\_MACHINE                         | HKLM |
 |  HKEY\_USERS                                  | HKU |
 |  HKEY\_LOCAL\_MACHINE\\System\\ControlSet00x  | HKLM\\System\\CurrentControlSet |
 |  HKEY\_LOCAL\_MACHINE\\Classes                | HKCR |
@@ -314,7 +314,12 @@ This event logs the registration of WMI consumers, recording the consumer name,
 log, and destination. 
 
 ### Event ID 21: WmiEvent (WmiEventConsumerToFilter activity detected)
+
 When a consumer binds to a filter, this event logs the consumer name and filter path. 
+
+### Event ID 22: DNSEvent (DNS query)
+
+This event generates when a process executes a DNS query, whether the result is successful or fails, cached or not. 
 
 ### Event ID 255: Error
 
@@ -398,8 +403,11 @@ configuration file:
 |  **16**   n/a                   | Sysmon configuration change (cannot be filtered) |
 |  **17**   PipeEvent             | Named pipe created |
 |  **18**   PipeEvent             | Named pipe connected |
+|  **19**   WmiEvent              | WMI filter |
+|  **20**   WmiEvent              | WMI consumer |
+|  **21**   WmiEvent              | WMI consumer filter |
+|  **22**   DNSQuery              | DNS query |
 
- 
 
 You can also find these tags in the event viewer on the task name.
 
