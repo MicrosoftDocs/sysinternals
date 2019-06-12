@@ -22,7 +22,7 @@ Published: July 18, 2018
 Cpustres is a utility that can be used to simulate CPU activity by running 
 up to 64 threads in a tight loop.
 
-Each thread can be started, paused or stopped indpendently and can be configured with the following parameters:
+Each thread can be started, paused or stopped independently and can be configured with the following parameters:
 
 - **Activity Level**  This can be Low, Medium, Busy or Maximum which controls how long the thread sleepss between cycles. Setting this value to Maximum causes the thread to run continuously.
 - **Priority**  This controls the thread priority. Refer to Windows Internals by Mark Russinovich for details on thread priorities

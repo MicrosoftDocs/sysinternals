@@ -42,7 +42,7 @@ crash from Window's 2000/XP crash dump files if *DebugView* was
 capturing at the time of the crash.  
   
 
-## DebugView Capabilites
+## DebugView Capabilities
 
 *DebugView* has a powerful array of features for controlling and
 managing debug output.
