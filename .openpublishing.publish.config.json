@@ -1,5 +1,5 @@
 {
-  "need_generate_pdf": false,
+  "need_generate_pdf": true,
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
@@ -29,6 +29,12 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master",
+      "branch_mapping": {}
     }
   ],
   "branch_target_mapping": {
@@ -37,5 +43,10 @@
       "Pdf"
     ]
   },
-  "need_generate_pdf_url_template": true
+  "need_generate_pdf_url_template": true,
+  "targets": {
+    "pdf": {
+      "template_folder": "_themes.pdf"
+    }
+  }
 }
