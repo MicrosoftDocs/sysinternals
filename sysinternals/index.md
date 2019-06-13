@@ -27,7 +27,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ### What's New (June 11, 2019) ###
   - [Sysmon v10.0](~/downloads/sysmon.md)  
      This release of Sysmon adds DNS query logging, reports OriginalFileName in process create and load image events, adds ImageName to named pipe events, logs pico process creates and terminates, and fixes several bugs. 
-  - [Autoruns v13.95](~/downloads/sysmon.md)  
+  - [Autoruns v13.95](~/downloads/autoruns.md)  
      This Autoruns updates adds support for redirected user Shell folders. 
      
 ### What's New (February 18, 2019) ###
