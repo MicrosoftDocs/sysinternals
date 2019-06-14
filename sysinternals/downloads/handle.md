@@ -4,17 +4,17 @@ title: Handle
 description: This handy command-line utility will show you what files are open by which processes, and much more.
 ms:assetid: '05600b13-e4c8-473d-bb5d-d36a881686e5'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896655(v=MSDN.10)'
-ms.date: 07/04/2016
+ms.date: 06/14/2019
 ---
 
-Handle v4.21
+Handle v4.22
 ============
 
 **By Mark Russinovich**
 
-Published: December 11, 2018
+Published: June 14, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(418 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(701 KB)**
 
 
 ## Introduction
@@ -88,4 +88,4 @@ troubleshooting various problems:
     Handles](http://support.microsoft.com/kb/276525)  
       
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(310 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(701 KB)**

@@ -4,17 +4,17 @@ title: NotMyFault
 description: Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system.
 ms:assetid: 'fc881ee6-6e6a-480f-95d2-83458e2d09b7'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Mt742033(v=MSDN.10)'
-ms.date: 11/18/2016
+ms.date: 06/14/2019
 ---
 
-NotMyFault v4.01
+NotMyFault v4.20
 ================
 
 **By Mark Russinovich**
 
-Published: November 18, 2016
+Published: June 14, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(524 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(1 MB)**
 
 
 ## Introduction
@@ -61,4 +61,4 @@ Or  **notmyfaultc.exe hang hang\_type\_num**
       0x02: Hang with DPC
 ```
  
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(524 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(1 MB)**
