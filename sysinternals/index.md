@@ -24,6 +24,9 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
+### What's New (June 20, 2019) ###
+  - [SHA1 deprecation](~/Announce/SHA1Deprecation.md)  
+
 ### What's New (June 11, 2019) ###
   - [Sysmon v10.0](~/downloads/sysmon.md)  
      This release of Sysmon adds DNS query logging, reports OriginalFileName in process create and load image events, adds ImageName to named pipe events, logs pico process creates and terminates, and fixes several bugs. 
