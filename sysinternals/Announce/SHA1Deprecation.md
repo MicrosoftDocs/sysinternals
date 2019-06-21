@@ -4,7 +4,7 @@ title: Preparing for the mandatory use of SHA1
 ms.date: 06/20/2019
 ---
 
-Preparing for the deprecation of SHA1 signatures
+Preparing for the deprecation of SHA-1 signatures
 ===========
 
 **By Mark Cook**
@@ -14,7 +14,7 @@ Published: June 20, 2019
 
 ## Summary
 
-In support of our promise to provide best-in-class encryption to our customers, Microsoft are planning to discontinue support for SHA1 code signing certificates. 
+In support of our promise to provide best-in-class security to our customers, Microsoft are planning to discontinue support for SHA1 code signing certificates. 
 Background details on the reasons for this and how it will affect you are available at [2019 SHA-2 Code Signing Support requirement for Windows and WSUS](https://support.microsoft.com/en-us/help/4472027/2019-sha-2-code-signing-support-requirement-for-windows-and-wsus).
 
 ## More Information
