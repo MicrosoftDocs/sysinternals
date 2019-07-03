@@ -320,6 +320,7 @@ When a consumer binds to a filter, this event logs the consumer name and filter 
 ### Event ID 22: DNSEvent (DNS query)
 
 This event generates when a process executes a DNS query, whether the result is successful or fails, cached or not. 
+The telemetry for this event was added for Windows 8.1 so it is not available on Windows 7 and earlier.
 
 ### Event ID 255: Error
 
