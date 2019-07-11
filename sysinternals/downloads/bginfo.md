@@ -7,14 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897557(v=MSDN.10)'
 ms.date: 05/16/2017
 ---
 
-BgInfo v4.26
+BgInfo v4.27
 ============
 
 **By Mark Russinovich**
 
-Published: October 17, 2018
+Published: March 18, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip) **(974 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip) **(3208 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Bginfo.exe).
 
 
@@ -187,7 +187,7 @@ the limit is 16K, while on NT/2000/XP systems the limit is 64K.
 |  **/rtf**               |   Causes *BGInfo* to write its output text to an RTF file. All formatting information and colors are included.|
 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip)] **(974 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip)] **(3208 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Bginfo.exe).
 
