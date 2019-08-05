@@ -43,19 +43,26 @@ file&gt; | -u | -x &lt;dump file&gt; &lt;image file&gt; \[arguments\]
 |Parameter  |Description  |
 |---------|---------|
 | **-a** | Avoid outage. Requires -r. If the trigger will cause the target to suspend for a prolonged time due to an exceeded concurrent dump   limit, the trigger will be skipped. |
+| **-at** |  Avoid outage at Timeout. Cancel the trigger's collection at N seconds. |
 | **-b** | Treat debug breakpoints as exceptions (otherwise ignore them). |
 | **-c** | CPU threshold at which to create a dump of the process. |
 | **-cl** | CPU threshold below which to create a dump of the process. |
 | **-d** | Invoke the minidump callback routine named MiniDumpCallbackRoutine of the specified DLL. |
 | **-e** | Write a dump when the process encounters an unhandled exception. Include the 1 to create dump on first chance exceptions. |
 | **-f** | Filter the first chance exceptions. Wildcards (\*) are supported. To just display the   names without dumping, use a blank ("") filter. |
+| **-fx** | Filter (exclude) on the content of exceptions and debug logging. Wildcards are supported. | 
 | **-g** | Run as a native debugger in a managed process (no interop). |
 | **-h** | Write dump if process has a hung window (does not respond to window messages for at least 5 seconds). |
 | **-i** | Install ProcDump as the AeDebug postmortem debugger. Only -ma, -mp, -d and -r are supported as  additional options. |
+| **-k** | Kill the process after cloning (-r), or at the end of dump collection |
 | **-l** | Display the debug logging of the process. |
 | **-m** | Memory commit threshold in MB at which to create a dump. |
 | **-ma** | Write a dump file with all process memory. The default dump format only includes thread and  handle information. |
+| **-mc** | Write a custom dump file. Include memory defined by the specified MINIDUMP_TYPE mask (Hex). |
+| **-md** | Write a Callback dump file. Included memory defined by the MiniDumpWriteDump callback routine named MiniDumpCallbackRoutine of the specified DLL. |
+| **-mk** | Also write a Kernel dump file. Includes the kernel stacks of the threads in the process. OS doesn't support a kernel dump (-mk) when using a clone (-r). When using multiple dump sizes, a kernel dump is taken for each dump size. |
 | **-ml** | Trigger when memory commit drops below specified MB value. |
+| **-mm** | Write a mini dump file (default). |
 | **-mp** | Write a dump file with thread and handle information, and all read/write process memory. To minimize dump size, memory areas larger than 512MB are searched   for, and if found, the largest area is excluded. A memory area  is the collection of same sized  memory allocation areas. The removal of this (cache) memory reduces Exchange and SQL Server  dumps by over 90%. |
 | **-n** | Number of dumps to write before  exiting. |
 | **-o** | Overwrite an existing dump file.  |
@@ -66,6 +73,7 @@ file&gt; | -u | -x &lt;dump file&gt; &lt;image file&gt; \[arguments\]
 | **-t** | Write a dump when the process terminates. |
 | **-u** | Treat CPU usage relative to a single core (used with -c).<br />As the only option, Uninstalls ProcDump as the postmortem debugger. |
 | **-w** | Wait for the specified process to launch if it's not running. |
+| **-wer** | Qieu the (largest) dump to Windows Error Reporting. |
 | **-x** | Launch the specified image with  optional arguments. If it is a Store Application or Package, ProcDump will start on the next  activation (only). |
 | **-64** | By default ProcDump will capture a 32-bit dump of a 32-bit process when running on 64-bit Windows.  This option overrides to create a 64-bit dump. Only use for WOW64  subsystem debugging. |
 | **-?** | Use -? -e to see example command lines. |
