@@ -73,7 +73,7 @@ file&gt; | -u | -x &lt;dump file&gt; &lt;image file&gt; \[arguments\]
 | **-t** | Write a dump when the process terminates. |
 | **-u** | Treat CPU usage relative to a single core (used with -c).<br />As the only option, Uninstalls ProcDump as the postmortem debugger. |
 | **-w** | Wait for the specified process to launch if it's not running. |
-| **-wer** | Qieu the (largest) dump to Windows Error Reporting. |
+| **-wer** | Queue the (largest) dump to Windows Error Reporting. |
 | **-x** | Launch the specified image with  optional arguments. If it is a Store Application or Package, ProcDump will start on the next  activation (only). |
 | **-64** | By default ProcDump will capture a 32-bit dump of a 32-bit process when running on 64-bit Windows.  This option overrides to create a 64-bit dump. Only use for WOW64  subsystem debugging. |
 | **-?** | Use -? -e to see example command lines. |
