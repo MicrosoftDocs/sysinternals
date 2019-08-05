@@ -59,7 +59,7 @@ file&gt; | -u | -x &lt;dump file&gt; &lt;image file&gt; \[arguments\]
 | **-m** | Memory commit threshold in MB at which to create a dump. |
 | **-ma** | Write a dump file with all process memory. The default dump format only includes thread and  handle information. |
 | **-mc** | Write a custom dump file. Include memory defined by the specified MINIDUMP_TYPE mask (Hex). |
-| **-md** | Write a Callback dump file. Included memory defined by the MiniDumpWriteDump callback routine named MiniDumpCallbackRoutine of the specified DLL. |
+| **-md** | Write a Callback dump file. Include memory defined by the MiniDumpWriteDump callback routine named MiniDumpCallbackRoutine of the specified DLL. |
 | **-mk** | Also write a Kernel dump file. Includes the kernel stacks of the threads in the process. OS doesn't support a kernel dump (-mk) when using a clone (-r). When using multiple dump sizes, a kernel dump is taken for each dump size. |
 | **-ml** | Trigger when memory commit drops below specified MB value. |
 | **-mm** | Write a mini dump file (default). |
