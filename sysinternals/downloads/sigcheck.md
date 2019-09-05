@@ -7,14 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897441(v=MSDN.10)'
 ms.date: 05/22/2017
 ---
 
-Sigcheck v2.72
+Sigcheck v2.73
 ==============
 
 **By Mark Russinovich**
 
-Published: March 05, 2019
+Published: September 05, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(514 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(799 KB)**
 
 
 ## Introduction
@@ -66,7 +66,7 @@ One way to use the tool is to check for unsigned files in your
 
 You should investigate the purpose of any files that are not signed.  
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(514 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(799 KB)**
 
 **Runs on:**
 
