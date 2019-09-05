@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dn798348(v=MSDN.10)'
 ms.date: 06/28/2019
 ---
 
-Sysmon v10.2
+Sysmon v10.4
 ===========
 
 **By Mark Russinovich and Thomas Garnier**
