@@ -25,10 +25,10 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
 ### What's New (September 05, 2019) ###
-  - [Sysmon v10.4](~/downloads/sysmon.md)\
+  - [Sysmon v10.4](~/downloads/sysmon.md)  
     This major update to Sysmon, a security event monitoring service, adds nested rule support to rule groups and “contains any” and “contains all” rule conditions for more flexible filtering, as well as several bug fixes.
 
-  - [Process Explorer v16.30](~/downloads/process-explorer)\
+  - [Process Explorer v16.30](~/downloads/process-explorer)  
     This update to Process Explorer adds a Shared Commit column to the process view, fixes a bug that caused it to terminate when it is configured to run at logon and the system went to battery, and fixes bugs that prevented the system CPU graph from correctly showing multiple sockets.
 
 ### What's New (June 20, 2019) ###
