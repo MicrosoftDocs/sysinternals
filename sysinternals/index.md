@@ -24,6 +24,10 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
+### What's New (September 16, 2019) ###
+  - [Sysmon v10.41](~/downloads/sysmon.md)  
+  Resolves a config parsing issue with 10.4.
+
 ### What's New (September 05, 2019) ###
   - [Sysmon v10.4](~/downloads/sysmon.md)  
     This major update to Sysmon, a security event monitoring service, adds nested rule support to rule groups and “contains any” and “contains all” rule conditions for more flexible filtering, as well as several bug fixes.
