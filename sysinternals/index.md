@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb545021(v=MSDN.10)'
-ms.date: 09/12/2017
+ms.date: 09/05/2019
 ---
 
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
@@ -23,6 +23,17 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
+
+### What's New (September 16, 2019) ###
+  - [Sysmon v10.41](~/downloads/sysmon.md)  
+  Resolves a config parsing issue with 10.4.
+
+### What's New (September 05, 2019) ###
+  - [Sysmon v10.4](~/downloads/sysmon.md)  
+    This major update to Sysmon, a security event monitoring service, adds nested rule support to rule groups and “contains any” and “contains all” rule conditions for more flexible filtering, as well as several bug fixes.
+
+  - [Process Explorer v16.30](~/downloads/process-explorer.md)  
+    This update to Process Explorer adds a Shared Commit column to the process view, fixes a bug that caused it to terminate when it is configured to run at logon and the system went to battery, and fixes bugs that prevented the system CPU graph from correctly showing multiple sockets.
 
 ### What's New (June 20, 2019) ###
   - [SHA1 deprecation](~/Announce/SHA1Deprecation.md)  

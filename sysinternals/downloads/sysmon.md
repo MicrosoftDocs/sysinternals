@@ -7,14 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dn798348(v=MSDN.10)'
 ms.date: 06/28/2019
 ---
 
-Sysmon v10.2
+Sysmon v10.41
 ===========
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: June 28, 2019
+Published: September 16, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.4 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.7 MB)**
 
 ## Introduction
 
@@ -483,7 +483,7 @@ termination of ping.exe and timeout.exe.
   &lt;/EventFiltering&gt;
 </pre>
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.4 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.7 MB)**
   
 **Runs on:**
 
