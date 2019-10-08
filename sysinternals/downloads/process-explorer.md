@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896653(v=MSDN.10)'
 ms.date: 06/28/2019
 ---
 
-Process Explorer v16.26
+Process Explorer v16.30
 =======================
 
 **By Mark Russinovich**
 
-Published: June 28, 2019
+Published: September 05, 2019
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(1.9 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
