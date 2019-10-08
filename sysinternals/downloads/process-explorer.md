@@ -69,8 +69,7 @@ into the way Windows and applications work.
 Simply run *Process Explorer* (procexp.exe).
 
 The help file describes *Process Explorer* operation and usage. If you
-have problems or questions please visit the [Sysinternals Process
-Explorer Forum](http://forum.sysinternals.com).  
+have problems or questions please visit the [Process Explorer forum on Technet](https://social.technet.microsoft.com/Forums/en-US/home?forum=procexplorer).  
 
 
 
