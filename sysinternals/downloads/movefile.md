@@ -12,7 +12,7 @@ PendMoves v1.02 and MoveFile v1.01
 **By Mark Russinovich**
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/PendMoves.zip) [**Download PendMovesand MoveFile**](https://download.sysinternals.com/files/PendMoves.zip) **(284 KB)**
+[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/PendMoves.zip) [**Download PendMoves and MoveFile**](https://download.sysinternals.com/files/PendMoves.zip) **(284 KB)**
 
 
 ## Introduction
@@ -43,4 +43,4 @@ Specifying an empty destination  ("") deletes the source at boot. An example tha
 movefile test.exe ""  
 ```
 
-[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/PendMoves.zip) [**Download PendMovesand MoveFile**](https://download.sysinternals.com/files/PendMoves.zip) **(284 KB)**
+[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/PendMoves.zip) [**Download PendMoves and MoveFile**](https://download.sysinternals.com/files/PendMoves.zip) **(284 KB)**
