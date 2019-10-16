@@ -37,9 +37,10 @@ catalog file\] &lt;file or directory&gt;**
 **usage: sigcheck -t\[u\]\[v\] \[-i\] \[-c|-ct\] &lt;certificate store
 name|\*&gt;**
 
-|Parameter  |Description  |
+|Parameter&nbsp;&nbsp;&nbsp;  |Description  |
 |---------|---------|
 |  **-a**      |       Show extended version information. The entropy measure reported is the bits per byte of information of the file's contents.|
+|  **-accepteula**  |  Silently accept the Sigcheck EULA (no interactive prompt)
 |  **-c**      |       CSV output with comma delimiter|
 |  **-ct**     |       CSV output with tab delimiter|
 |  **-d**      |       Dump contents of a catalog file|
