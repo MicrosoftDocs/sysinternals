@@ -43,9 +43,9 @@ command line parameters are defined as follows:
 |  **-f**  | File offset at which to start scanning. |
 |  **-o**  | Print offset in file string was located |
 |  **-n**  | Minimum string length (default is 3) |
-|  **-q**  | Quiet (no banner) |
 |  **-s**  | Recurse subdirectories |
 |  **-u**  | Unicode-only search (Unicode and Ascii is default) | 
+|  **-nobanner**  | Do not display the startup banner and copyright message. |
 
 To search one or more files for the presence of a particular string
 using strings use a command like this:
