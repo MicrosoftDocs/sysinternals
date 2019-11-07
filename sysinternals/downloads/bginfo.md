@@ -42,10 +42,10 @@ other applications.
 ## Installation and Use
 
 See Mark's *Windows IT Pro Magazine* [Power Tools
-article](http://windowsitpro.com/systems-management/bginfo) for a primer
+article](https://www.itprotoday.com/programming-languages/bginfo) for a primer
 on using *BgInfo*. If you have questions or problems, please visit the
-[Sysinternals BgInfo
-Forum](http://forum.sysinternals.com/forum_topics.asp?fid=5).
+[Microsoft TechNet BgInfo
+Forum](https://social.technet.microsoft.com/Forums/en-US/home?forum=bginfo).
 
 By placing *BGInfo* in your **Startup** folder, you can ensure that the
 system information being displayed is up to date each time you boot.
