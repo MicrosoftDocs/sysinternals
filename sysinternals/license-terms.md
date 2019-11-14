@@ -12,7 +12,7 @@ ms.date: 09/28/2009
 These license terms are an agreement between Sysinternals (a wholly
 owned subsidiary of Microsoft Corporation) and you. Please read them.
 They apply to the software you are downloading from
-technet.microsoft.com/sysinternals, which includes the media on which
+https://docs.microsoft.com/sysinternals, which includes the media on which
 you received it, if any. The terms also apply to any Sysinternals
 
 -   updates,
@@ -76,7 +76,7 @@ The software is subject to United States export laws and regulations.
 You must comply with all domestic and international export laws and
 regulations that apply to the software. These laws include restrictions
 on destinations, end users and end use. For additional information, see
-www.microsoft.com/exporting .
+https://www.microsoft.com/exporting .
 
 
 
