@@ -3,7 +3,7 @@ TOCTitle: PsList
 title: PsList
 description: Show information about processes and threads.
 ms:assetid: '3922c630-462d-4c3a-8b02-532865f37df4'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896682(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896682(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
@@ -72,6 +72,3 @@ that aid in the administration of local and remote systems named
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-

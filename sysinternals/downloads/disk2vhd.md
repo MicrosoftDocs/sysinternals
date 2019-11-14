@@ -3,7 +3,7 @@ TOCTitle: Disk2vhd
 title: Disk2vhd
 description: Disk2vhd simplifies the migration of physical systems into virtual machines.
 ms:assetid: 'd2c9597c-1927-4ddc-9ec1-9e0f33166f90'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Ee656415(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Ee656415(v=MSDN.10)'
 ms.date: 01/21/2014
 ---
 
@@ -95,4 +95,3 @@ Example: **disk2vhd \* c:\\vhd\\snapshot.vhd**
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/disk2vhd.exe).
-

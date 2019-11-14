@@ -3,7 +3,7 @@ TOCTitle: LogonSessions
 title: LogonSessions
 description: List the active logon sessions on a system.
 ms:assetid: 'b7415eea-e897-49ba-b304-dd6879718a74'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896769(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896769(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
@@ -61,6 +61,3 @@ C:\>logonsessions -p
 -   Client: Windows Vista (32-bit)and higher
 -   Server: Windows Server 2008 and higher
 -   Nano Server: 2016 and higher
-
-
-

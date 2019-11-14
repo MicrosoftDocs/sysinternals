@@ -3,7 +3,7 @@ TOCTitle: Handle
 title: Handle
 description: This handy command-line utility will show you what files are open by which processes, and much more.
 ms:assetid: '05600b13-e4c8-473d-bb5d-d36a881686e5'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896655(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896655(v=MSDN.10)'
 ms.date: 06/14/2019
 ---
 

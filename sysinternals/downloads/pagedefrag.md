@@ -3,7 +3,7 @@ TOCTitle: PageDefrag
 title: PageDefrag
 description: Defragment your paging files and Registry hives.
 ms:assetid: '104b3934-81cc-4c7e-b874-6fd19127ed99'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897426(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897426(v=MSDN.10)'
 ms.date: 11/01/2006
 ---
 

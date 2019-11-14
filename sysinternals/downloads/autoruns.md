@@ -3,7 +3,7 @@ TOCTitle: Autoruns
 title: Autoruns for Windows
 description: See what programs are configured to startup automatically when your system boots and you login.
 ms:assetid: 'b13af0f4-f0a1-4cc5-b940-20be546c1179'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963902(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb963902(v=MSDN.10)'
 ms.date: 06/28/2019
 ---
 
@@ -138,4 +138,3 @@ Autorunsc is the command-line version of Autoruns. Its usage syntax is:
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(1.6 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/autoruns.exe).
-

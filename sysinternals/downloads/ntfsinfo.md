@@ -3,7 +3,7 @@ TOCTitle: NTFSInfo
 title: NTFSInfo
 description: Use NTFSInfo to see detailed information about NTFS volumes.
 ms:assetid: 'a0e927ac-8cca-409b-bb5c-f93567b65ea7'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897424(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897424(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
@@ -76,6 +76,3 @@ along with a directory dump of NTFS meta-data files.
 -   Client: Windows Vista and higher
 -   Server: Windows Server 2008 and higher
 -   Nano Server: 2016 and higher
-
-
-

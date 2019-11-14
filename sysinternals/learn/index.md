@@ -2,7 +2,7 @@
 TOCTitle: Learn Sysinternals
 title: Learn Sysinternals
 ms:assetid: '07f84be7-5808-4b75-a29c-437b8e935d78'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb469930(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb469930(v=MSDN.10)'
 ms.date: 07/22/2016
 ---
 
@@ -17,11 +17,11 @@ The official guide to the Sysinternals utilities by Mark Russinovich and Aaron M
 
 ## Articles
 
--   [Inside the Windows Vista Kernel: Part 1](https://technet.microsoft.com/en-us/magazine/cc162494.aspx)
--   [Inside the Windows Vista Kernel: Part 2](https://technet.microsoft.com/en-us/magazine/cc162480.aspx)
--   [Inside the Windows Vista Kernel: Part 3](https://technet.microsoft.com/en-us/magazine/cc162458.aspx)
--   [Inside Windows Vista User Account Control](https://technet.microsoft.com/en-us/magazine/cc138019.aspx)
--   [Inside Windows Server 2008 Kernel Changes](https://technet.microsoft.com/en-us/magazine/cc194386.aspx)
+-   [Inside the Windows Vista Kernel: Part 1](https://technet.microsoft.com/magazine/cc162494.aspx)
+-   [Inside the Windows Vista Kernel: Part 2](https://technet.microsoft.com/magazine/cc162480.aspx)
+-   [Inside the Windows Vista Kernel: Part 3](https://technet.microsoft.com/magazine/cc162458.aspx)
+-   [Inside Windows Vista User Account Control](https://technet.microsoft.com/magazine/cc138019.aspx)
+-   [Inside Windows Server 2008 Kernel Changes](https://technet.microsoft.com/magazine/cc194386.aspx)
 
 ## Videos and Webcasts
 

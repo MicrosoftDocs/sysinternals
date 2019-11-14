@@ -3,7 +3,7 @@ TOCTitle: PsShutdown
 title: PsShutdown
 description: Shuts down and optionally reboots a computer.
 ms:assetid: 'ba3665e1-fbac-45a1-b1c3-575d83832987'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897541(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897541(v=MSDN.10)'
 ms.date: 12/04/2006
 ---
 

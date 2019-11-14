@@ -3,7 +3,7 @@ TOCTitle: Sync
 title: Sync
 description: Flush cached data to disk.
 ms:assetid: 'c37d73b0-a75b-40ff-9b31-0d0dae62849e'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897438(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897438(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
@@ -49,6 +49,3 @@ flushing those drives.
 -   Client: Windows Vista and higher
 -   Server: Windows Server 2008 and higher
 -   Nano Server: 2016 and higher
-
-
-

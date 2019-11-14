@@ -3,7 +3,7 @@ TOCTitle: VolumeID
 title: VolumeID
 description: Set Volume ID of FAT or NTFS drives.
 ms:assetid: '2073ab9a-ad2e-4c86-96b9-4b4d520b8a1d'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897436(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897436(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
@@ -44,6 +44,3 @@ drives.
 -   Client: Windows Vista and higher
 -   Server: Windows Server 2008 and higher
 -   Nano Server: 2016 and higher
-
-
-

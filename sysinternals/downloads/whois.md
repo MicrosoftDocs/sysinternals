@@ -3,7 +3,7 @@ TOCTitle: Whois
 title: Whois
 description: See who owns an Internet address.
 ms:assetid: '31fa42da-10ab-4cb3-a206-72be17333805'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897435(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897435(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
@@ -40,6 +40,3 @@ address (e.g. 66.193.254.46).
 -   Client: Windows Vista and higher
 -   Server: Windows Server 2008 and higher
 -   Nano Server: 2016 and higher
-
-
-

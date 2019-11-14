@@ -3,7 +3,7 @@ TOCTitle: Streams
 title: Streams
 description: Reveal NTFS alternate streams.
 ms:assetid: '5e6c8d3a-0865-4e4d-9f23-bd4c431a27c3'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897440(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897440(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
@@ -60,6 +60,3 @@ information.
 -   Client: Windows Vista and higher
 -   Server: Windows Server 2008 and higher
 -   Nano Server: 2016 and higher
-
-
-

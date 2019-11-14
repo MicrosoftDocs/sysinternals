@@ -3,7 +3,7 @@ TOCTitle: PsFile
 title: PsFile
 description: See what files are opened remotely.
 ms:assetid: '01e9104e-4b10-4fec-a69d-a521dcc1b1e3'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897552(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897552(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 

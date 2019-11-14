@@ -3,7 +3,7 @@ TOCTitle: Desktops
 title: Desktops
 description: This utility enables you to create up to four virtual desktops and easily switch between them.
 ms:assetid: 'a6144f44-1b00-4308-94c0-6bf6e6a1aaee'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Cc817881(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Cc817881(v=MSDN.10)'
 ms.date: 10/17/2012
 ---
 
@@ -73,6 +73,3 @@ Tray Desktop Switch Window
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-

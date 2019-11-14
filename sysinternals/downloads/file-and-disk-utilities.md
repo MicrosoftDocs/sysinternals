@@ -3,7 +3,7 @@ TOCTitle: File and Disk Utilities
 title: File and Disk Utilities
 description: Windows Sysinternals file and disk utilities
 ms:assetid: '17988fd8-ed7b-4f90-95bd-e4d23baf441c'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb545046(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb545046(v=MSDN.10)'
 ms.date: 07/22/2016
 ---
 # Sysinternals File and Disk Utilities

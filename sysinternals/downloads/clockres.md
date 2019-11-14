@@ -3,7 +3,7 @@ TOCTitle: ClockRes
 title: ClockRes
 description: View the resolution of the system clock, which is also the maximum timer resolution.
 ms:assetid: '7fca750c-c71b-4c85-8275-80e6d4067b7c'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897568(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897568(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
@@ -32,6 +32,3 @@ the *ClockRes* applet performs the function and shows you the result.
 -   Client: Windows Vista and higher
 -   Server: Windows Server 2008 and higher
 -   Nano Server: 2016 and higher
-
-
-

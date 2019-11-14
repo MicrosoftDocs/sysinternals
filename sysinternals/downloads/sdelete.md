@@ -3,7 +3,7 @@ TOCTitle: SDelete
 title: SDelete
 description: Securely overwrite your sensitive files and cleanse your free space of previously deleted files using this DoD-compliant secure delete program.
 ms:assetid: '5cc3991b-5a50-4784-a795-185e4ac84603'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897443(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897443(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
@@ -161,6 +161,3 @@ allocating this free space so that it can securely overwrite it.
 -   Client: Windows Vista and higher
 -   Server: Windows Server 2008 and higher
 -   Nano Server: 2016 and higher
-
-
-
