@@ -24,9 +24,9 @@ reboots to monitor and log system activity to the Windows event log. It
 provides detailed information about process creations, network
 connections, and changes to file creation time. By collecting the events
 it generates using [Windows Event
-Collection](http://msdn.microsoft.com/en-us/library/windows/desktop/bb427443(v=vs.85).aspx)
+Collection](https://msdn.microsoft.com/en-us/library/windows/desktop/bb427443(v=vs.85).aspx)
 or
-[SIEM](http://en.wikipedia.org/wiki/security_information_and_event_management)
+[SIEM](https://en.wikipedia.org/wiki/security_information_and_event_management)
 agents and subsequently analyzing them, you can identify malicious or
 anomalous activity and understand how intruders and malware operate on
 your network.
@@ -489,4 +489,3 @@ termination of ping.exe and timeout.exe.
 
 -   Client: Windows 7 and higher.
 -   Server: Windows Server 2008 R2 and higher.
-

@@ -26,7 +26,7 @@ This MS KB article describes the use of AdRestore:
 
 [840001: How to restore deleted user accounts and their group
 memberships in Active
-Directory](http://support.microsoft.com/?kbid=840001)
+Directory](https://support.microsoft.com/?kbid=840001)
 
  
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ADRestore.zip)  [**Download AdRestore**](https://download.sysinternals.com/files/ADRestore.zip) **(42 KB)**

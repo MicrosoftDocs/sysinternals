@@ -91,7 +91,7 @@ available at Sysinternals:
 -   [PsKill](pskill.md) -
     local/remote command-line process killer
 -   [Defrag Tools: \#2 - Process
-    Explorer](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-2-process-explorer)  
+    Explorer](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-2-process-explorer)  
     In this episode of Defrag Tools, Andrew Richards and Larry Larsen
     show how to use Process Explorer to view the details of processes,
     both at a point in time and historically.

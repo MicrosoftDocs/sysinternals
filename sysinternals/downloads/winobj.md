@@ -59,7 +59,7 @@ objects located there, but the interfaces are undocumented.
 
 Helen Custer's *Inside Windows NT* provides a good overview of the
 Object Manager name space, and Mark's October 1997 [WindowsITPro
-Magazine](http://www.windowsitpro.com/) column, "Inside the Object
+Magazine](https://www.windowsitpro.com/) column, "Inside the Object
 Manager", is (of course) an excellent overview.
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(447 KB)**  
@@ -69,6 +69,3 @@ Manager", is (of course) an excellent overview.
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-

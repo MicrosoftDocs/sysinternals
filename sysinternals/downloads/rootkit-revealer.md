@@ -138,7 +138,7 @@ For best results exit all applications and keep the system otherwise
 idle during the RootkitRevealer scanning process.
 
 If you have questions or problems please visit the [Sysinternals
-RootkitRevealer Forum](http://forum.sysinternals.com).  
+RootkitRevealer Forum](https://forum.sysinternals.com).  
 
 ## Manual Scanning
 
@@ -304,30 +304,30 @@ The following Web sites and books are sources of more information on
 rootkits:
 
 [Sony, Rootkits and Digital Rights Management Gone Too
-Far](http://blogs.technet.com/markrussinovich)  
+Far](https://blogs.technet.com/markrussinovich)  
 Read Mark's blog entry on his discovery and analysis of a Sony rootkit
 on one of his computers.
 
-[Unearthing Rootkits](http://windowsitpro.com/windows)  
+[Unearthing Rootkits](https://windowsitpro.com/windows)  
 Mark's June *Windows IT Pro Magazine* article provides an overview of
 rootkit technologies and how RootkitRevealer works.
 
 [Rootkits: Subverting the Windows
-Kernel](http://www.amazon.com/rootkits-subverting-windows-greg-hoglund/dp/0321294319/sr=8-1/qid=1162397366/ref=pd_bbs_sr_1/103-0553948-5716666?ie=utf8&s=books)  
+Kernel](https://www.amazon.com/rootkits-subverting-windows-greg-hoglund/dp/0321294319/sr=8-1/qid=1162397366/ref=pd_bbs_sr_1/103-0553948-5716666?ie=utf8&s=books)  
 This book by Greg Hoglund and Jamie Butler is the most comprehensive
 treatment of rootkits available.
 
-[www.phrack.org](http://www.phrack.org/)  
+[www.phrack.org](https://www.phrack.org/)  
 This site stores the archive of *Phrack*, a cracker-oriented magazine
 where developers discuss flaws in security-related products, rootkit
 techniques, and other malware tricks.
 
 [The Art of Computer Virus Research and
-Defense](http://www.amazon.com/art-computer-virus-research-defense/dp/0321304543/sr=8-1/qid=1162397489/ref=pd_bbs_sr_1/103-0553948-5716666?ie=utf8&s=books),
+Defense](https://www.amazon.com/art-computer-virus-research-defense/dp/0321304543/sr=8-1/qid=1162397489/ref=pd_bbs_sr_1/103-0553948-5716666?ie=utf8&s=books),
 by Peter Szor
 
 [Malware: Fighting Malicious
-Code](http://www.amazon.com/malware-fighting-malicious-ed-skoudis/dp/0131014056/sr=1-2/qid=1162397556/ref=pd_bbs_sr_2/103-0553948-5716666?ie=utf8&s=books),
+Code](https://www.amazon.com/malware-fighting-malicious-ed-skoudis/dp/0131014056/sr=1-2/qid=1162397556/ref=pd_bbs_sr_2/103-0553948-5716666?ie=utf8&s=books),
 by Ed Skoudis and Lenny Zeltser
 
 *Windows Internals, 4th Edition*, by Mark Russinovich and Dave Solomon
@@ -337,4 +337,3 @@ architecture is helpful to understanding rootkits).
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RootkitRevealer.zip) [**Download RootkitRevealer**](https://download.sysinternals.com/files/RootkitRevealer.zip) **(231 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RootkitRevealer.exe).
-

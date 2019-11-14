@@ -45,4 +45,4 @@ Starting with Windows 8, Microsoft began a process of OS convergence, which is b
 With this grand unification completed, the time was right for a new edition of the series, which could now finally catch up with almost half a decade of changes, in what will now be a more stabilized kernel architecture going forward. As such, this latest book covers aspects of Windows from Windows 8 to Windows 10, version 1703. Additionally, this edition welcomes Pavel Yosifovich as its new co-author.
 
 ### Book tools
-Several tools have been specifically written for the book, and they are available with full source code at http://github.com/zodiacon/WindowsInternals.
+Several tools have been specifically written for the book, and they are available with full source code at https://github.com/zodiacon/WindowsInternals.

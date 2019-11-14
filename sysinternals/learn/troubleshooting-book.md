@@ -26,11 +26,11 @@ systems management skills to the next level.
 You can purchase the book from these online retailers:
 -   [Microsoft Press Store](https://www.microsoftpressstore.com/store/troubleshooting-with-the-windows-sysinternals-tools-9780735684447)
 -   [Amazon](https://www.amazon.com/troubleshooting-windows-sysinternals-tools-2nd/dp/0735684448/ref=sr_1_1?ie=utf8&qid=1476900936&sr=8-1&keywords=9780735684447)
--   [Barnes & Noble](http://www.barnesandnoble.com/w/troubleshooting-with-the-windows-sysinternals-tools-mark-russinovich/1124173500?ean=9780735684447)
--   [Independent booksellers](http://www.indiebound.org/book/9780735684447) – Shop local
+-   [Barnes & Noble](https://www.barnesandnoble.com/w/troubleshooting-with-the-windows-sysinternals-tools-mark-russinovich/1124173500?ean=9780735684447)
+-   [Independent booksellers](https://www.indiebound.org/book/9780735684447) – Shop local
 
 You can also read it online through
-[Safari](http://my.safaribooksonline.com/book/operating-systems-and-server-administration/microsoft-windows/9780133986549).
+[Safari](https://my.safaribooksonline.com/book/operating-systems-and-server-administration/microsoft-windows/9780133986549).
 
 ## Description of the Book
 
@@ -110,7 +110,3 @@ Amazon.com](https://www.amazon.com/troubleshooting-windows-sysinternals-tools-2n
 ## Errata
 
 See the Errata & Updates tab on the [Microsoft Press web site](https://www.microsoftpressstore.com/store/troubleshooting-with-the-windows-sysinternals-tools-9780735684447)
-
-
- 
-
