@@ -12,7 +12,7 @@ ms.date: 09/28/2009
 These license terms are an agreement between Sysinternals (a wholly
 owned subsidiary of Microsoft Corporation) and you. Please read them.
 They apply to the software you are downloading from
-https://docs.microsoft.com/sysinternals, which includes the media on which
+the [Sysinternals website](https://docs.microsoft.com/sysinternals), which includes the media on which
 you received it, if any. The terms also apply to any Sysinternals
 
 -   updates,
