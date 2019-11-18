@@ -3,7 +3,7 @@ TOCTitle: TCPView
 title: TCPView for Windows
 description: Active socket command-line viewer.
 ms:assetid: '0797e73a-a0c2-4266-b821-50bc561da3a6'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897437(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897437(v=MSDN.10)'
 ms.date: 07/25/2011
 ---
 
@@ -76,7 +76,7 @@ utility:
 This Microsoft KB article references TCPView:
 
 [816944: "Unexpected Error 0x8ffe2740 Occurred" Error Message When You
-Try to Start a Web Site](http://support.microsoft.com/kb/816944)
+Try to Start a Web Site](https://support.microsoft.com/kb/816944)
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(285 KB)**
 
@@ -86,6 +86,3 @@ Try to Start a Web Site](http://support.microsoft.com/kb/816944)
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-

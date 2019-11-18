@@ -3,7 +3,7 @@ TOCTitle: PsKill
 title: PsKill
 description: Terminate local or remote processes.
 ms:assetid: '12798522-e5f1-494c-8824-38db3162eea7'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896683(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896683(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
@@ -35,7 +35,7 @@ command-line options defined below.
 ## Using PsKill
 
 See the September 2004 issue of Windows IT Pro Magazine for [Mark's
-article](http://windowsitpro.com/search/results/mark%27s%20article?filters=ss_type:article)
+article](https://windowsitpro.com/search/results/mark%27s%20article?filters=ss_type:article)
 that covers advanced usage of *PsKill*.
 
 Running *PsKill* with a process ID directs it to kill the process of
@@ -61,7 +61,7 @@ This Microsoft KB article references *PsKill*:
 
 [810596: PSVR2002: "There Is No Information to Display in This View"
 Error Message When You Try to Access a Project
-View](http://support.microsoft.com/kb/810596)
+View](https://support.microsoft.com/kb/810596)
 
   
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
@@ -78,6 +78,3 @@ that aid in the administration of local and remote systems named
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-

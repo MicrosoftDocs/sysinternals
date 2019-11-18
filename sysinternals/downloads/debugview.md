@@ -3,7 +3,7 @@ TOCTitle: DebugView
 title: DebugView
 description: This program intercepts calls made to DbgPrint by device drivers and OutputDebugString made by Win32 programs. 
 ms:assetid: 'e20c3b02-fe03-4067-82e9-f5c01398b804'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896647(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896647(v=MSDN.10)'
 ms.date: 12/04/2012
 ---
 
@@ -159,6 +159,3 @@ remote system. Note the presence of a highlighting filter.
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(464 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Dbgview.exe).
-
-  
-

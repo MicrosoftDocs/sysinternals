@@ -3,7 +3,7 @@ TOCTitle: Sigcheck
 title: Sigcheck
 description: Dump file version information and verify that images on your system are digitally signed.
 ms:assetid: 'fe633cd0-b369-4ca5-a9ae-c64e2d52acac'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897441(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897441(v=MSDN.10)'
 ms.date: 05/22/2017
 ---
 
@@ -80,6 +80,3 @@ You should investigate the purpose of any files that are not signed.
     Tools](https://channel9.msdn.com/events/teched/northamerica/2013/atc-b308#fbid=mb6_bvqq9jj)  
     In this presentation, Mark shows how to use the Sysinternals tools
     to identify, analyze and clean malware.
-
-
-

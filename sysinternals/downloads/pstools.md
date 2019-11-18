@@ -3,7 +3,7 @@ TOCTitle: PsTools
 title: PsTools
 description: Command-line utilities for listing the processes running on local or remote computers, running processes, rebooting computers, and more.
 ms:assetid: '559ea946-3d7d-47bb-821c-b47fd078dfb7'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896649(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896649(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
@@ -79,7 +79,7 @@ usage information for all the tools.
 
 ### Installation
 None of the tools requires any special installation. You don't even need to install any client software on the remote computers at which you target them. Run them by typing their name and any command-line options you want. To show complete usage information, specify the "-? " command-line option.
-If you have questions or problems, please visit the [Sysinternals PsTools Forum](http://forum.sysinternals.com/forum_topics.asp?FID=8).
+If you have questions or problems, please visit the [Sysinternals PsTools Forum](https://forum.sysinternals.com/forum_topics.asp?FID=8).
 
 ### Related Links
-[Introduction to the PsTools](https://technet.microsoft.com/en-us/library/2007.03.desktopfiles.aspx): Wes Miller gives a high-level overview of the Sysinternals PsTools in the March column of his TechNet Magazine column.
+[Introduction to the PsTools](https://technet.microsoft.com/library/2007.03.desktopfiles.aspx): Wes Miller gives a high-level overview of the Sysinternals PsTools in the March column of his TechNet Magazine column.
