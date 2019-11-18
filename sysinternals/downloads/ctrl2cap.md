@@ -3,7 +3,7 @@ TOCTitle: Ctrl2cap
 title: Ctrl2cap
 description: This is a kernel-mode driver that demonstrates keyboard input filtering in order to turn caps-locks into control keys. 
 ms:assetid: 'e0dcb713-f196-4e45-a2f8-e7bf3f692ac9'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897578(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897578(v=MSDN.10)'
 ms.date: 11/01/2006
 ---
 
@@ -91,6 +91,3 @@ output), here are sources to check out:
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-

@@ -3,7 +3,7 @@ TOCTitle: ListDLLs
 title: ListDLLs
 description: List all the DLLs that are currently loaded, including where they are loaded and their version numbers.
 ms:assetid: 'b4a511a2-c7d8-4fda-9319-8048718a09eb'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896656(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896656(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
@@ -64,6 +64,3 @@ Show processes that have loaded MSO.DLL:
 -   Client: Windows Vista and higher
 -   Server: Windows Server 2008 and higher
 -   Nano Server: 2016 and higher
-
-
-

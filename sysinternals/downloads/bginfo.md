@@ -3,7 +3,7 @@ TOCTitle: BgInfo
 title: BgInfo
 description: This fully-configurable program automatically generates desktop backgrounds that include important information about the system.
 ms:assetid: '07f90217-c972-4992-beb1-7fb6c685e9de'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897557(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897557(v=MSDN.10)'
 ms.date: 05/16/2017
 ---
 
@@ -42,10 +42,10 @@ other applications.
 ## Installation and Use
 
 See Mark's *Windows IT Pro Magazine* [Power Tools
-article](http://windowsitpro.com/systems-management/bginfo) for a primer
+article](https://windowsitpro.com/systems-management/bginfo) for a primer
 on using *BgInfo*. If you have questions or problems, please visit the
 [Sysinternals BgInfo
-Forum](http://forum.sysinternals.com/forum_topics.asp?fid=5).
+Forum](https://forum.sysinternals.com/forum_topics.asp?fid=5).
 
 By placing *BGInfo* in your **Startup** folder, you can ensure that the
 system information being displayed is up to date each time you boot.

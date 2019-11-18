@@ -3,7 +3,7 @@ TOCTitle: Process Utilities
 title: Sysinternals Process Utilities
 description: Windows Sysinternals process utilities
 ms:assetid: 'cb56073f-62a3-4ed8-9dd6-40c84cb9e2f5' 
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb795533(v=MSDN.10)' 
+ms:mtpsurl: 'https://technet.microsoft.com/Bb795533(v=MSDN.10)' 
 ms.date: 07/22/2016
 ---
 
@@ -79,4 +79,3 @@ See a breakdown of a process's committed virtual memory types as well as
 the amount of physical memory (working set) assigned by the operating
 system to those types. Identify the sources of process memory usage and
 the memory cost of application features.
-
