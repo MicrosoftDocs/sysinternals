@@ -65,14 +65,14 @@ optimize their application's memory resource usage.
 ## Getting Help
 
 If you have problems or questions, please visit the [Sysinternals
-Forum](http://forum.sysinternals.com).  
+Forum](https://forum.sysinternals.com).  
 
 
 
 ## Learn More
 
 -   [Defrag Tools: \#7 -
-    VMMap](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-7-vmmap)  
+    VMMap](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-7-vmmap)  
     In this episode of Defrag Tools, Andrew Richards and Larry Larsen
     cover how to use VMMap to see how Virtual Memory is being used and
     if there have been any memory leaks.

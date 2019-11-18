@@ -31,4 +31,4 @@ download or license.
 ### Q: Is there technical support available for the Sysinternals tools?  
 **A:** No. All Sysinternals tools are offered 'as is' with no official
 Microsoft support. We do maintain a Sysinternals dedicated [community
-support forum](http://forum.sysinternals.com/): <http://forum.sysinternals.com/>
+support forum](https://forum.sysinternals.com/): <https://forum.sysinternals.com/>

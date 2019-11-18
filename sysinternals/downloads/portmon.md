@@ -59,7 +59,7 @@ The on-line help-file describes all these features, and more, in detail.
 Simply execute the *Portmon* program file (portmon.exe) and *Portmon*
 will immediately start capturing debug output. To run *Portmon* on
 Windows 95 you must get the [WinSock2
-update](http://support.microsoft.com/kb/177719) from Microsoft. Note
+update](https://support.microsoft.com/kb/177719) from Microsoft. Note
 that if you run *Portmon* on Windows NT/2K portmon.exe must be located
 on a non-network drive and you must have administrative privilege.
 Menus, hot-keys, or toolbar buttons can be used to clear the window,

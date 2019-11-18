@@ -19,7 +19,7 @@ Published: November 1, 2006
 **Note:** NewSID has been retired and is no longer available for
 download. Please see Mark Russinovich’s blog post: [NewSID Retirement
 and the Machine SID Duplication
-Myth](http://blogs.technet.com/markrussinovich/archive/2009/11/03/3291024.aspx)
+Myth](https://blogs.technet.com/markrussinovich/archive/2009/11/03/3291024.aspx)
 
 ## IMPORTANT:
 
@@ -32,7 +32,7 @@ following Knowledge Base article:
 
 - [<strong>The Microsoft policy concerning disk duplication of Windows XP
   installations</strong>  
-  ](http://support.microsoft.com/default.aspx?scid=kb;en-us;314828)
+  ](https://support.microsoft.com/default.aspx?scid=kb;en-us;314828)
 
 
 ## Introduction
@@ -95,9 +95,9 @@ the technique of disk cloning. A system administrator installs the base
 operating system and add-on software used in the company on a template
 computer. After configuring the machine for operation in the company
 network, automated disk or system duplication tools (such as
-[Symantec's](http://www.symantec.com/)*Ghost*,
-[PowerQuest's](http://www.powerquest.com/)*Image Drive*, and
-[Altiris'](http://www.altiris.com/)*RapiDeploy*) are used to copy the
+[Symantec's](https://www.symantec.com/)*Ghost*,
+[PowerQuest's](https://www.powerquest.com/)*Image Drive*, and
+[Altiris'](https://www.altiris.com/)*RapiDeploy*) are used to copy the
 template computer's drives onto tens or hundreds of computers. These
 clones are then given final tweaks, such as the assignment of unique
 names, and then used by company employees.

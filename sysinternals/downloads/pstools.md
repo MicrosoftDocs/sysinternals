@@ -79,7 +79,7 @@ usage information for all the tools.
 
 ### Installation
 None of the tools requires any special installation. You don't even need to install any client software on the remote computers at which you target them. Run them by typing their name and any command-line options you want. To show complete usage information, specify the "-? " command-line option.
-If you have questions or problems, please visit the [Sysinternals PsTools Forum](http://forum.sysinternals.com/forum_topics.asp?FID=8).
+If you have questions or problems, please visit the [Sysinternals PsTools Forum](https://forum.sysinternals.com/forum_topics.asp?FID=8).
 
 ### Related Links
 [Introduction to the PsTools](https://technet.microsoft.com/library/2007.03.desktopfiles.aspx): Wes Miller gives a high-level overview of the Sysinternals PsTools in the March column of his TechNet Magazine column.

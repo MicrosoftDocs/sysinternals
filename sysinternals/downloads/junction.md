@@ -35,7 +35,7 @@ mechanism on which NTFS junctions are based, and they are used by
 Windows' Remote Storage Service (RSS), as well as volume mount points.
 
 Please read this [Microsoft KB
-article](http://support.microsoft.com/?kbid=205524) for tips on using
+article](https://support.microsoft.com/?kbid=205524) for tips on using
 junctions.
 
 > Windows does not support junctions to directories on remote shares.
