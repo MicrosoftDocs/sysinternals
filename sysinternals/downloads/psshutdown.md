@@ -3,7 +3,7 @@ TOCTitle: PsShutdown
 title: PsShutdown
 description: Shuts down and optionally reboots a computer.
 ms:assetid: 'ba3665e1-fbac-45a1-b1c3-575d83832987'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897541(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897541(v=MSDN.10)'
 ms.date: 12/04/2006
 ---
 
@@ -38,7 +38,7 @@ with command-line options defined below.
 ## Using PsShutdown
 
 See the February 2005 issue of Windows IT Pro Magazine for [Mark's
-article](http://www.windowsitpro.com/article/articleid/44973/44973.html)
+article](https://www.windowsitpro.com/article/articleid/44973/44973.html)
 that covers advanced usage of *PsKill*.
 
 You can use *PsShutdown* to initiate a shutdown of the local or a remote
@@ -87,6 +87,3 @@ that aid in the administration of local and remote systems named
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-

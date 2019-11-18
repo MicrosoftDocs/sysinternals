@@ -40,13 +40,9 @@ Each thread can be started, paused or stopped independently and can be configure
 
 -   [**Windows Internals Book**](~/learn/windows-internals.md)  The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
--   [**Pavel's Blog**](http://blogs.microsoft.co.il/pavely/2016/06/11/enhanced-cpu-stress-tool/) Pavel Yosifovich's blog describing the tool
+-   [**Pavel's Blog**](https://blogs.microsoft.co.il/pavely/2016/06/11/enhanced-cpu-stress-tool/) Pavel Yosifovich's blog describing the tool
 
 ## Download
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/CPUSTRES.zip)[**Download Cpustres**](https://download.sysinternals.com/files/CPUSTRES.zip) **(10 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/cpustres.exe).
-
-
-
-

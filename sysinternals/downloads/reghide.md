@@ -2,7 +2,7 @@
 TOCTitle: Reghide
 title: Reghide
 ms:assetid: '2d5d1657-5dce-4ad3-8070-7e8882c9d1f7'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd581628(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Dd581628(v=MSDN.10)'
 ms.date: 01/11/2006
 
 ---
@@ -36,6 +36,3 @@ Native API, but that cannot be described using the Win32 API.
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-

@@ -3,7 +3,7 @@ TOCTitle: Process Monitor
 title: Process Monitor
 description: Monitor file system, Registry, process, thread and DLL activity in real-time.
 ms:assetid: '37225635-4ad0-4b08-aa5e-4bba665b1d89'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896645(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896645(v=MSDN.10)'
 ms.date: 09/12/2017
 ---
 
@@ -92,5 +92,3 @@ options on a live system.
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-

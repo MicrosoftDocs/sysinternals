@@ -3,7 +3,7 @@ TOCTitle: PsPing
 title: PsPing
 description: Measure network performance.
 ms:assetid: '80138356-ebe3-41cd-a14d-8aa7eae81c42'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/JJ729731(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/JJ729731(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 

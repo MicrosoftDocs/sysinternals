@@ -3,7 +3,7 @@ TOCTitle: Software License Terms
 title: Sysinternals Software License Terms
 description: These license terms are an agreement between Sysinternals (a wholly owned subsidiary of Microsoft Corporation) and you. Please read them.
 ms:assetid: '785a4c3d-df4e-4d58-a4b9-bcca685aa303'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb469936(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb469936(v=MSDN.10)'
 ms.date: 09/28/2009
 ---
 
@@ -76,7 +76,7 @@ The software is subject to United States export laws and regulations.
 You must comply with all domestic and international export laws and
 regulations that apply to the software. These laws include restrictions
 on destinations, end users and end use. For additional information, see
-www.microsoft.com/exporting .
+[www.microsoft.com/exporting](https://www.microsoft.com/exporting) .
 
 
 

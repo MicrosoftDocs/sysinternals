@@ -3,7 +3,7 @@ TOCTitle: RAMMap
 title: RAMMap
 description: An advanced physical memory usage analysis utility that presents usage information in different ways on its several different tabs.
 ms:assetid: 'e90bb927-b735-4888-bedc-588efd5fd7eb'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Ff700229(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Ff700229(v=MSDN.10)'
 ms.date: 06/28/2019
 ---
 
@@ -70,9 +70,7 @@ Edition](~/learn/windows-internals.md).
 
 ## Learn More
 
--   [Defrag Tools: \#6 -  RAMMap](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-6-rammap)  
+-   [Defrag Tools: \#6 -  RAMMap](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-6-rammap)  
     In this episode of Defrag Tools, Andrew Richards and Larry Larsen
     cover using RAMMap to see how RAM is being used and tell if there
     has been any memory pressure.
-
-

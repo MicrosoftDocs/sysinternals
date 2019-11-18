@@ -3,7 +3,7 @@ TOCTitle: PendMoves
 title: PendMoves and MoveFile
 description: Enumerate the list of file rename and delete commands that will be executed the next boot.
 ms:assetid: 'a49e9434-8fa3-4f2c-9ae1-8212360d4917'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897556(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897556(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 PendMoves v1.02 and MoveFile v1.01
