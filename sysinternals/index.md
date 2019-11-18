@@ -3,7 +3,7 @@ TOCTitle: 'Windows Sysinternals: Documentation, downloads and additional resourc
 title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb545021(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
 ms.date: 09/05/2019
 ---
 
@@ -14,7 +14,7 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 -   Watch Mark’s top-rated [Case-of-the-Unexplained](~/learn/webcasts.md) troubleshooting presentations and other webcasts
 -   Read [Mark’s Blog](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/bg-p/Windows-Blog-Archive/label-name/Mark%20Russinovich) which highlight use of the tools to solve real problems
 -   Check out the Sysinternals [Learning Resources](~/learn/index.md) page
--   Post your questions in the [Sysinternals Forum](https://social.technet.microsoft.com/Forums/en-US/home?category=sysinternals&amp;filter=alltypes&amp;sort=lastpostdesc)
+-   Post your questions in the [Sysinternals Forum](https://social.technet.microsoft.com/Forums/home?category=sysinternals&amp;filter=alltypes&amp;sort=lastpostdesc)
 
 ---
 ## Sysinternals Live ##

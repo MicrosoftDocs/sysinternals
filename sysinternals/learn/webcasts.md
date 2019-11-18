@@ -2,7 +2,7 @@
 TOCTitle: 'Mark''s Webcasts' 
 title: Mark's Webcasts 
 ms:assetid: '3b496bb4-d2ce-477f-8c9e-c3736ac61bfe' 
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963887(v=MSDN.10)' 
+ms:mtpsurl: 'https://technet.microsoft.com/Bb963887(v=MSDN.10)' 
 ms.date: 08/29/2016
 ---
 
@@ -25,7 +25,7 @@ users and our moderators.
  - [The Case of the Unexplained 2012](http://channel9.msdn.com/events/teched/northamerica/2012/wcl301)  
  - [The Case of the Unexplained 2011](http://channel9.msdn.com/events/teched/northamerica/2011/wcl304)  
  - [The Case of the Unexplained 2010](http://channel9.msdn.com/events/teched/northamerica/2010/wcl315)  
- - Mark’s  “The Case of…” [blog posts](http://technet.microsoft.com/en-us/sysinternals/bb963890.aspx) come alive in  these recorded webcasts of his #1-rated TechEd sessions. Learn how to troubleshoot the toughest Windows and application problems by watching Mark use Sysinternals and other advanced tools to solve real-world examples. Be sure to check out all webcasts since they include totally different troubleshooting examples and demonstrate different techniques. 
+ - Mark’s  “The Case of…” [blog posts](http://technet.microsoft.com/sysinternals/bb963890.aspx) come alive in  these recorded webcasts of his #1-rated TechEd sessions. Learn how to troubleshoot the toughest Windows and application problems by watching Mark use Sysinternals and other advanced tools to solve real-world examples. Be sure to check out all webcasts since they include totally different troubleshooting examples and demonstrate different techniques. 
 
 
 ## Microsoft Azure

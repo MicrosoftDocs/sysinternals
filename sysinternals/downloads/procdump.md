@@ -3,7 +3,7 @@ TOCTitle: ProcDump
 title: ProcDump
 description: This command-line utility is aimed at capturing process dumps of otherwise difficult to isolate and reproduce CPU spikes.
 ms:assetid: 'f4201936-3609-4255-8d1e-93601e34aa34'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd996900(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Dd996900(v=MSDN.10)'
 ms.date: 05/16/2017
 ---
 
@@ -222,6 +222,3 @@ See a list of example command lines (the examples are listed above):
     Monitor](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-11-procdump-windows-8--process-monitor)  
     This episode covers modern application support and Process Monitor
     logging support
-
-
-

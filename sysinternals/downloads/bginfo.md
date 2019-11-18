@@ -3,7 +3,7 @@ TOCTitle: BgInfo
 title: BgInfo
 description: This fully-configurable program automatically generates desktop backgrounds that include important information about the system.
 ms:assetid: '07f90217-c972-4992-beb1-7fb6c685e9de'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897557(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897557(v=MSDN.10)'
 ms.date: 05/16/2017
 ---
 

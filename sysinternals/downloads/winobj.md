@@ -3,7 +3,7 @@ TOCTitle: WinObj
 title: WinObj
 description: The ultimate Object Manager namespace viewer is here.
 ms:assetid: 'f5aabfba-811c-4b35-8d76-e64fd7083177'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896657(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896657(v=MSDN.10)'
 ms.date: 02/14/2011
 ---
 
@@ -69,6 +69,3 @@ Manager", is (of course) an excellent overview.
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-

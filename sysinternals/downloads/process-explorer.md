@@ -3,7 +3,7 @@ TOCTitle: Process Explorer
 title: Process Explorer
 description: Find out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more.
 ms:assetid: '32cbeee6-4335-44d5-b94b-160612b99738'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896653(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896653(v=MSDN.10)'
 ms.date: 06/28/2019
 ---
 
@@ -69,7 +69,7 @@ into the way Windows and applications work.
 Simply run *Process Explorer* (procexp.exe).
 
 The help file describes *Process Explorer* operation and usage. If you
-have problems or questions please visit the [Process Explorer forum on Technet](https://social.technet.microsoft.com/Forums/en-US/home?forum=procexplorer).  
+have problems or questions please visit the [Process Explorer forum on Technet](https://social.technet.microsoft.com/Forums/home?forum=procexplorer).  
 
 
 

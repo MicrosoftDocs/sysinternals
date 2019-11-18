@@ -3,7 +3,7 @@ TOCTitle: TCPView
 title: TCPView for Windows
 description: Active socket command-line viewer.
 ms:assetid: '0797e73a-a0c2-4266-b821-50bc561da3a6'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897437(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897437(v=MSDN.10)'
 ms.date: 07/25/2011
 ---
 
@@ -86,6 +86,3 @@ Try to Start a Web Site](http://support.microsoft.com/kb/816944)
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-

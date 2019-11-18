@@ -3,7 +3,7 @@ TOCTitle: PsKill
 title: PsKill
 description: Terminate local or remote processes.
 ms:assetid: '12798522-e5f1-494c-8824-38db3162eea7'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896683(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896683(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
@@ -78,6 +78,3 @@ that aid in the administration of local and remote systems named
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-
