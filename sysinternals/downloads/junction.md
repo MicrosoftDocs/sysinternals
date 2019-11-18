@@ -34,10 +34,7 @@ directories are actually reparse points. Reparse points are the
 mechanism on which NTFS junctions are based, and they are used by
 Windows' Remote Storage Service (RSS), as well as volume mount points.
 
-Please read this [Microsoft KB
-article](http://support.microsoft.com/?kbid=205524) for tips on using
-junctions.
-
+> [!NOTE]
 > Windows does not support junctions to directories on remote shares.
 
 ## Using Junction
@@ -84,6 +81,3 @@ To delete a junction, use the –d switch:
 -   Client: Windows Vista and higher
 -   Server: Windows Server 2008 and higher
 -   Nano Server: 2016 and higher
-
-
-
