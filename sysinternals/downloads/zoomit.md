@@ -7,12 +7,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
 ms.date: 06/20/2013
 ---
 
-ZoomIt v4.5
+ZoomIt v4.52
 ===========
 
 **By Mark Russinovich**
 
-Published: June 20, 2013
+Published: December 09, 2019
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(296 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
