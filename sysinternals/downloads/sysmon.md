@@ -7,14 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
 ms.date: 06/28/2019
 ---
 
-Sysmon v10.41
+Sysmon v10.42
 ===========
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: September 16, 2019
+Published: December 09, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.7 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.6 MB)**
 
 ## Introduction
 
@@ -430,8 +430,12 @@ insensitive):
 |---------|---------|
 |  **Is**          | Default, values are equals |
 |  **is not**      | Values are different |
-|  **Contains**    | The field contains this value |
-|  **Excludes**    | The field does not contain this value |
+|  **contains**    | The field contains this value |
+|  **contains any** | The field contains any of the ; delimited values |
+|  **contains all** | The field contains any of the ; delimited values |
+|  **excludes**    | The field does not contain this value |
+|  **excludes any** |The field does not contain one or more of the ; delimited values |
+|  **excludes all**   The field does not contain any of the ; delimited values |
 |  **begin with**  | The field begins with this value |
 |  **end with**    | The field ends with this value |
 |  **less than**   | Lexicographical comparison is less than zero |
@@ -483,7 +487,7 @@ termination of ping.exe and timeout.exe.
   &lt;/EventFiltering&gt;
 </pre>
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.7 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.6 MB)**
   
 **Runs on:**
 
