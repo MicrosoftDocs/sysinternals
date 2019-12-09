@@ -24,6 +24,13 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
+### What's New (December 09, 2019) ###
+  - [Sysmon v10.42](~/downloads/sysmon.md)  
+  This update to Sysmon addresses a number of memory leaks, introduces the "Excludes Any" and "Excludes All" filtering conditions and resolves a number of bugs.
+
+  - [Zoomit v4.52](~/downloads/zoomit.md)  
+  This update to Zoomit resolves a number of dual-monitor related issues.
+
 ### What's New (September 16, 2019) ###
   - [Sysmon v10.41](~/downloads/sysmon.md)  
   Resolves a config parsing issue with 10.4.
