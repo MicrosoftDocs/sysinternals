@@ -428,19 +428,19 @@ insensitive):
 
 |  **Condition**   | **Description** |
 |---------|---------|
-|  **Is**          | Default, values are equals |
+|  **is**          | Default, values are equals |
 |  **is not**      | Values are different |
 |  **contains**    | The field contains this value |
 |  **contains any** | The field contains any of the ; delimited values |
 |  **contains all** | The field contains any of the ; delimited values |
 |  **excludes**    | The field does not contain this value |
 |  **excludes any** |The field does not contain one or more of the ; delimited values |
-|  **excludes all**   The field does not contain any of the ; delimited values |
+|  **excludes all** |The field does not contain any of the ; delimited values |
 |  **begin with**  | The field begins with this value |
 |  **end with**    | The field ends with this value |
 |  **less than**   | Lexicographical comparison is less than zero |
 |  **more than**   | Lexicographical comparison is more than zero |
-|  **Image**       | Match an image path (full path or only image name). For example: lsass.exe will match c:\\windows\\system32\\lsass.exe |
+|  **image**       | Match an image path (full path or only image name). For example: lsass.exe will match c:\\windows\\system32\\lsass.exe |
  
 
 You can use a different condition by specifying it as an attribute. This
