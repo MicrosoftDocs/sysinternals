@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 09/05/2019
+ms.date: 12/11/2019
 ---
 
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
@@ -24,12 +24,16 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
-### What's New (December 09, 2019) ###
+### What's New (December 11, 2019) ###
   - [Sysmon v10.42](~/downloads/sysmon.md)  
   This update to Sysmon addresses a number of memory leaks, introduces the "Excludes Any" and "Excludes All" filtering conditions and resolves a number of bugs.
 
   - [Zoomit v4.52](~/downloads/zoomit.md)  
   This update to Zoomit resolves a number of dual-monitor related issues.
+  
+  - [Whois v1.21](~/downloads/whois.md)  
+  This refresh of Whois contains various bug fixes.
+  
 
 ### What's New (September 16, 2019) ###
   - [Sysmon v10.41](~/downloads/sysmon.md)  
