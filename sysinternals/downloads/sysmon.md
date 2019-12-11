@@ -4,7 +4,7 @@ title: Sysmon
 description: Monitors and reports key system activity via the Windows event log.
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
-ms.date: 06/28/2019
+ms.date: 12/11/2019
 ---
 
 Sysmon v10.42
@@ -12,7 +12,7 @@ Sysmon v10.42
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: December 09, 2019
+Published: December 11, 2019
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.7 MB)**
 
