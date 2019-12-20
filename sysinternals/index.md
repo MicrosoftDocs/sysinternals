@@ -24,6 +24,9 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
+### What's New (December 20, 2019) ###
+- [Scheduled livesite maintenance](~/Announce/SiteUpgradeDec2019.md) 
+
 ### What's New (December 11, 2019) ###
   - [Sysmon v10.42](~/downloads/sysmon.md)  
   This update to Sysmon addresses a number of memory leaks, introduces the "Excludes Any" and "Excludes All" filtering conditions and resolves a number of bugs.
