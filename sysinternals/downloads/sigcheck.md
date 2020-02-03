@@ -51,7 +51,7 @@ name|\*&gt;**
 |  **-m**      |       Dump manifest|
 |  **-n**      |       Only show file version number|
 |  **-o**      |       Performs Virus Total lookups of hashes captured in a CSV file previously captured by Sigcheck when using the -h option. This usage is intended for scans of offline systems.|
-|  **-q**      |       Quiet (no banner)|
+|  **-nobanner**      |       Quiet (no banner)|
 |  **-r**      |       Disable check for certificate revocation|
 |  **-s**      |       Recurse subdirectories|
 |  **-t\[u\]\[v\]** |  Dump contents of specified certificate store ('\*' for all stores).<br />Specify -tu to query the user store (machine store is the default).<br />Append '-v' to have Sigcheck download the trusted Microsoft root certificate list and only output valid certificates not rooted to a certificate on that list. If the site is not accessible, authrootstl.cab or authroot.stl in the current directory are used instead, if present.|
