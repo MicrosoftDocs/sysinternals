@@ -42,7 +42,7 @@ other applications.
 ## Installation and Use
 
 See Mark's *Windows IT Pro Magazine* [Power Tools
-article](https://windowsitpro.com/systems-management/bginfo) for a primer
+article](https://web.archive.org/web/20170806013538/https://windowsitpro.com/systems-management/bginfo) for a primer
 on using *BgInfo*. If you have questions or problems, please visit the
 [Sysinternals BgInfo
 Forum](https://forum.sysinternals.com/forum_topics.asp?fid=5).
