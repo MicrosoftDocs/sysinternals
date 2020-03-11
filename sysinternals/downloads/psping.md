@@ -3,7 +3,7 @@ TOCTitle: PsPing
 title: PsPing
 description: Measure network performance.
 ms:assetid: '80138356-ebe3-41cd-a14d-8aa7eae81c42'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/JJ729731(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/JJ729731(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
@@ -67,7 +67,7 @@ for each test type:
 For high-speed ping tests use -q and -i 0.
 
 **TCP ping usage:**  
-** psping \[\[-6\]|\[-4\]\] \[-h \[buckets |
+**psping \[\[-6\]|\[-4\]\] \[-h \[buckets |
 &lt;val1&gt;,&lt;val2&gt;,...\]\] \[-i &lt;interval&gt;\] \[-l
 &lt;requestsize&gt;\[k|m\] \[-q\] \[-t|-n &lt;count&gt;\] \[-w
 &lt;count&gt;\] &lt;destination:destport&gt;**

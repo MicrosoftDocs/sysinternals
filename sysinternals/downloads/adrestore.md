@@ -3,7 +3,7 @@ TOCTitle: AdRestore
 title: AdRestore
 description: Undelete Server 2003 Active Directory objects.
 ms:assetid: '8de4d67f-98dc-4222-ab3c-88844ac78ccb'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb963906(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb963906(v=MSDN.10)'
 ms.date: 11/01/2006
 ---
 
@@ -26,7 +26,7 @@ This MS KB article describes the use of AdRestore:
 
 [840001: How to restore deleted user accounts and their group
 memberships in Active
-Directory](http://support.microsoft.com/?kbid=840001)
+Directory](https://support.microsoft.com/?kbid=840001)
 
  
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ADRestore.zip)  [**Download AdRestore**](https://download.sysinternals.com/files/ADRestore.zip) **(42 KB)**

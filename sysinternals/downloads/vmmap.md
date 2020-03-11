@@ -3,7 +3,7 @@ TOCTitle: VMMap
 title: VMMap
 description: VMMap is a process virtual and physical memory analysis utility.
 ms:assetid: '0b5217b3-99e1-4742-b502-7574bb478a16'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dd535533(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Dd535533(v=MSDN.10)'
 ms.date: 07/20/2015
 ---
 
@@ -65,17 +65,14 @@ optimize their application's memory resource usage.
 ## Getting Help
 
 If you have problems or questions, please visit the [Sysinternals
-Forum](http://forum.sysinternals.com).  
+Forum](https://forum.sysinternals.com).  
 
 
 
 ## Learn More
 
 -   [Defrag Tools: \#7 -
-    VMMap](http://channel9.msdn.com/shows/defrag-tools/defrag-tools-7-vmmap)  
+    VMMap](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-7-vmmap)  
     In this episode of Defrag Tools, Andrew Richards and Larry Larsen
     cover how to use VMMap to see how Virtual Memory is being used and
     if there have been any memory leaks.
-
-
-

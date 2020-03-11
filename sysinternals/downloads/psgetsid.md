@@ -2,7 +2,7 @@
 TOCTitle: PsGetSid
 title: PsGetSid
 ms:assetid: 'f7eefa28-72dd-4dc7-a41e-02e7ac7e35ae'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897417(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897417(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
@@ -66,6 +66,3 @@ that aid in the administration of local and remote systems named
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-
