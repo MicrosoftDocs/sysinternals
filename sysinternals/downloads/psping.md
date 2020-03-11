@@ -67,7 +67,7 @@ for each test type:
 For high-speed ping tests use -q and -i 0.
 
 **TCP ping usage:**  
-** psping \[\[-6\]|\[-4\]\] \[-h \[buckets |
+**psping \[\[-6\]|\[-4\]\] \[-h \[buckets |
 &lt;val1&gt;,&lt;val2&gt;,...\]\] \[-i &lt;interval&gt;\] \[-l
 &lt;requestsize&gt;\[k|m\] \[-q\] \[-t|-n &lt;count&gt;\] \[-w
 &lt;count&gt;\] &lt;destination:destport&gt;**
