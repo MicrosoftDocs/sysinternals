@@ -3,7 +3,7 @@ TOCTitle: LiveKd
 title: LiveKd
 description: Use Microsoft kernel debuggers to examine a live system.
 ms:assetid: '9b0d30e0-be2b-41f0-a6b6-cee2ffb5f283'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897415(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897415(v=MSDN.10)'
 ms.date: 05/16/2017
 ---
 
@@ -23,7 +23,7 @@ Published: May 16, 2017
 2000, 3rd Edition*, is now freely available. *LiveKD* allows you to run
 the Kd and Windbg Microsoft kernel debuggers, which are part of the
 [Debugging Tools for Windows
-package](http://www.microsoft.com/whdc/devtools/debugging/default.mspx),
+package](https://www.microsoft.com/whdc/devtools/debugging/default.mspx),
 locally on a live system. Execute all the debugger commands that work on
 crash dump files to look deep inside the system. See the Debugging Tools
 for Windows documentation and our book for information on how to explore
@@ -41,7 +41,7 @@ own live kernel debugging facility.
 First download and install the Debugging Tools for Windows package from
 Microsoft's web site:
 
-[http://msdn.microsoft.com/library/windows/hardware/ff551063(v=vs.85).aspx](http://msdn.microsoft.com/en-us/library/windows/hardware/ff551063(v=vs.85).aspx)
+[https://msdn.microsoft.com/library/windows/hardware/ff551063(v=vs.85).aspx](https://msdn.microsoft.com/library/windows/hardware/ff551063(v=vs.85).aspx)
 
 If you install the tools to their default directory of \\Program
 Files\\Microsoft\\Debugging Tools for Windows, you can run *LiveKD* from
@@ -102,6 +102,3 @@ By default LiveKd runs kd.exe.
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-

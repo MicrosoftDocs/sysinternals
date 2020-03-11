@@ -3,7 +3,7 @@ TOCTitle: DiskView
 title: DiskView
 description: Graphical disk sector utility.
 ms:assetid: '3f42dea1-2beb-46ff-b818-9012ccc0260d'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896650(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896650(v=MSDN.10)'
 ms.date: 03/25/2010
 ---
 
@@ -30,4 +30,3 @@ file to which a cluster is allocated.
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DiskView.zip) [**Download DiskView**](https://download.sysinternals.com/files/DiskView.zip) **(288 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/DiskView.exe).
-

@@ -3,7 +3,7 @@ TOCTitle: Contig
 title: Contig
 description: Use Contig to optimize individual files, or to create new files that are contiguous.
 ms:assetid: '33371252-c217-4fc7-8d74-f9f0e20e0597'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897428(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897428(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
@@ -99,6 +99,3 @@ overview.
 -   Client: Windows Vista and higher
 -   Server: Windows Server 2008 and higher
 -   Nano Server: 2016 and higher
-
-
-

@@ -3,7 +3,7 @@ TOCTitle: Sigcheck
 title: Sigcheck
 description: Dump file version information and verify that images on your system are digitally signed.
 ms:assetid: 'fe633cd0-b369-4ca5-a9ae-c64e2d52acac'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897441(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897441(v=MSDN.10)'
 ms.date: 05/22/2017
 ---
 
@@ -52,7 +52,7 @@ name|\*&gt;**
 |  **-m**      |       Dump manifest|
 |  **-n**      |       Only show file version number|
 |  **-o**      |       Performs Virus Total lookups of hashes captured in a CSV file previously captured by Sigcheck when using the -h option. This usage is intended for scans of offline systems.|
-|  **-q**      |       Quiet (no banner)|
+|  **-nobanner**      |       Quiet (no banner)|
 |  **-r**      |       Disable check for certificate revocation|
 |  **-s**      |       Recurse subdirectories|
 |  **-t\[u\]\[v\]** |  Dump contents of specified certificate store ('\*' for all stores).<br />Specify -tu to query the user store (machine store is the default).<br />Append '-v' to have Sigcheck download the trusted Microsoft root certificate list and only output valid certificates not rooted to a certificate on that list. If the site is not accessible, authrootstl.cab or authroot.stl in the current directory are used instead, if present.|
@@ -81,6 +81,3 @@ You should investigate the purpose of any files that are not signed.
     Tools](https://channel9.msdn.com/events/teched/northamerica/2013/atc-b308#fbid=mb6_bvqq9jj)  
     In this presentation, Mark shows how to use the Sysinternals tools
     to identify, analyze and clean malware.
-
-
-
