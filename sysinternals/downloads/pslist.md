@@ -22,7 +22,7 @@ Published: June 29, 2016
  
 |Parameter  |Description  |
 |---------|---------|
-|  **pslist exp**   |  would show statistics for all the processes that start with "exp", which would include Explorer.|
+|  **pslist exp**   |  Show statistics for all the processes that start with "exp", which would include Explorer.|
 |  **-d**           |  Show thread detail.|
 |  **-m**           |  Show memory detail.|
 |  **-x**           |  Show processes, memory information and threads.|
