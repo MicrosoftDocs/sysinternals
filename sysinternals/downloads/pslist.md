@@ -30,7 +30,7 @@ Published: June 29, 2016
 |  **-s \[n\]**     |  Run in task-manager mode, for optional seconds specified. Press Escape to abort.|
 |  **-r n**         |  Task-manager mode refresh rate in seconds (default is 1).|
 |  **\\\\computer** |  Instead of showing process information for the local system, *PsList* will show information for the NT/Win2K system specified. Include the -u switch with a username and password to login to the remote system if your security credentials do not permit you to obtain performance counter information from the remote system.|
-|  **-u**           |  username If you want to kill a process on a remote system and the account you are executing in does not have administrative privileges on the remote system then you must login as an administrator using this command-line option. If you do not include the password with the -p option then *PsList* will prompt you for the password without echoing your input to the display.|
+|  **-u**           |  Specifies optional user name for login to remote computer.|
 |  **-p**           |  password This option lets you specify the login password on the command line so that you can use *PsList* from batch files. If you specify an account name and omit the -p option *PsList* prompts you interactively for a password.|
 |  **name**         |  Show information about processes that begin with the name specified.|
 |  **-e**           |  Exact match the process name.|
