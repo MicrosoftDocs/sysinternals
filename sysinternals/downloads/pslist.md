@@ -31,7 +31,7 @@ Published: June 29, 2016
 |  **-r n**         |  Task-manager mode refresh rate in seconds (default is 1).|
 |  **\\\\computer** |  Instead of showing process information for the local system, *PsList* will show information for the NT/Win2K system specified. Include the -u switch with a username and password to login to the remote system if your security credentials do not permit you to obtain performance counter information from the remote system.|
 |  **-u**           |  Specifies optional user name for login to remote computer.|
-|  **-p**           |  password This option lets you specify the login password on the command line so that you can use *PsList* from batch files. If you specify an account name and omit the -p option *PsList* prompts you interactively for a password.|
+|  **-p**           |  This option lets you specify the login password on the command line so that you can use *PsList* from batch files. If you specify an account name and omit the -p option *PsList* prompts you interactively for a password.|
 |  **name**         |  Show information about processes that begin with the name specified.|
 |  **-e**           |  Exact match the process name.|
 |  **pid**          |  Instead of listing all the running processes in the system, this parameter narrows *PsList's* scan to the process that has the specified PID. Thus:  <br />**pslist 53**  <br /> would dump statistics for the process with the PID 53. |
