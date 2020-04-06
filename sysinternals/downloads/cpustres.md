@@ -1,5 +1,5 @@
 --- 
-TOCTitle: Cpustres
+TOCTitle: CpuStres
 title: Testlimit
 description: Windows CPU Stress utility.
 ms:assetid: 'cfbb8960-ca2c-48c3-a05e-ecb1970d3648'
@@ -18,8 +18,8 @@ Published: July 18, 2018
 
 ## Introduction
 
-**Cpustres**  
-Cpustres is a utility that can be used to simulate CPU activity by running 
+**CpuStres**  
+CpuStres is a utility that can be used to simulate CPU activity by running 
 up to 64 threads in a tight loop.
 
 Each thread can be started, paused or stopped independently and can be configured with the following parameters:
