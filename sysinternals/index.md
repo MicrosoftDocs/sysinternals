@@ -24,6 +24,16 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
+### What's New (April 22, 2020) ###
+  - [Sysmon v11.0](~/downloads/sysmon.md)  
+  This update to Sysmon addresses a number of bugs and adds file delete monitoring
+
+  - [LiveKD v5.63](~/downloads/livekd.md)  
+  This update to LiveKD resolves issues with enumerating and dumping Hyper-V partitions
+  
+  - [Coreinfo v3.5](~/downloads/coreinfo.md)  
+  Adds support for restricted guest virtualization
+
 ### What's New (December 20, 2019) ###
 - [Scheduled livesite maintenance](~/Announce/SiteUpgradeDec2019.md) 
 
