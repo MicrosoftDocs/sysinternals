@@ -350,8 +350,35 @@ EventFiltering tag.
 Configuration Entries
 ---------------------
 
-Configuration entries are similar to command line switches. Command line
-switches have their configuration entry described in the Sysmon usage
+Configuration entries are similar to command line switches and include the following
+
+Configuration entries include the following:
+
+|  Entry             |   Value  |  Description|
+|--------------------|----------|-------------|
+| ArchiveDirectory   |  String  | Name of directories at volume roots into which copy-on-delete
+                                  files are moved. The directory is protected with a System ACL.
+                                  (you can use PsExec from Sysinternals to access the directory
+                                  using 'psexec -sid cmd').
+                                  Default: Sysmon |
+| CheckRevocation   |  Boolean | Controls signature revocation checks.
+                                  Default: True |
+|  CopyOnDeletePE   |  Boolean | Preserves deleted executable image files.
+                                  Default: False |
+|  CopyOnDeleteSIDs | Strings  | Comma-seperated list of account SIDs for
+                                  which file deletes will be preserved. |
+|  CopyOnDeleteExtensions | Strings  | Extensions for files that are preserved on
+                                      delete. |
+|  CopyOnDeleteProcesses  | Strings | Process name(s) for which file deletes will
+                                  be preserved. |
+|  DnsLookup     |   Boolean | Controls reverse DNS lookup.
+                                  Default: True |
+|  DriverName    |   String  | Uses specied name for driver and service images.  |
+| HashAlgorithms |   Strings  | Hash algorithm(s) to apply for hashing. Algorithms
+                                  supported include MD5, SHA1, SHA256, IMPHASH and * (all).
+                                  Default: None |
+
+Command line switches have their configuration entry described in the Sysmon usage
 output. Parameters are optional based on the tag. If a command line
 switch also enables an event, it needs to be configured though its
 filter tag. You can specify the -s switch to have Sysmon print the full
