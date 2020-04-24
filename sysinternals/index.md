@@ -26,13 +26,8 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ### What's New (April 22, 2020) ###
   - [Sysmon v11.0](~/downloads/sysmon.md)  
-  This update to Sysmon addresses a number of bugs and adds file delete monitoring
+This major update to Sysmon includes file delete monitoring and archive to help responders capture attacker tools, adds an option to disable reverse DNS lookup, replaces empty fields with ‘-‘ to work around a WEF bug, fixes an issue that caused some ProcessAccess events to drop, and doesn’t hash main data streams that are marked as being stored in the cloud. 
 
-  - [LiveKD v5.63](~/downloads/livekd.md)  
-  This update to LiveKD resolves issues with enumerating and dumping Hyper-V partitions
-  
-  - [Coreinfo v3.5](~/downloads/coreinfo.md)  
-  Adds support for restricted guest virtualization
 
 ### What's New (December 20, 2019) ###
 - [Scheduled livesite maintenance](~/Announce/SiteUpgradeDec2019.md) 
