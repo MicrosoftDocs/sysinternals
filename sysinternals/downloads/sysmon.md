@@ -359,7 +359,7 @@ Configuration entries include the following:
 | ArchiveDirectory   |  String  | Name of directories at volume roots into which copy-on-delete                                  files are moved. The directory is protected with a System ACL. (you can use PsExec from Sysinternals to access the directory                                 using 'psexec -sid cmd'). Default: Sysmon |
 | CheckRevocation   |  Boolean | Controls signature revocation checks. Default: True |
 |  CopyOnDeletePE   |  Boolean | Preserves deleted executable image files. Default: False |
-|  CopyOnDeleteSIDs | Strings  | Comma-seperated list of account SIDs for which file deletes will be preserved. |
+|  CopyOnDeleteSIDs | Strings  | Comma-separated list of account SIDs for which file deletes will be preserved. |
 |  CopyOnDeleteExtensions | Strings  | Extensions for files that are preserved on delete. |
 |  CopyOnDeleteProcesses  | Strings | Process name(s) for which file deletes will be preserved. |
 |  DnsLookup     |   Boolean | Controls reverse DNS lookup. Default: True |
