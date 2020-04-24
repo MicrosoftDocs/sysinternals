@@ -116,10 +116,6 @@ Install with default settings (process images hashed with sha1 and no
 network monitoring)  
 **sysmon -accepteula  –i**
 
-Install with md5 and sha256 hashing of process created and monitoring
-network connections  
-**sysmon -accepteula –i –h md5,sha256 –n**
-
 Install Sysmon with a configuration file (as described below)
 
 **sysmon –accepteula –i c:\\windows\\config.xml**
