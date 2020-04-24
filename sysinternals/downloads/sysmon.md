@@ -322,6 +322,10 @@ When a consumer binds to a filter, this event logs the consumer name and filter 
 This event generates when a process executes a DNS query, whether the result is successful or fails, cached or not. 
 The telemetry for this event was added for Windows 8.1 so it is not available on Windows 7 and earlier.
 
+### Event ID 23: FileDelete (A file delete was detected)
+
+A file was deleted
+
 ### Event ID 255: Error
 
 This event is generated when an error occurred within Sysmon. They can
@@ -423,6 +427,8 @@ configuration file:
 |  **20**   WmiEvent              | WMI consumer |
 |  **21**   WmiEvent              | WMI consumer filter |
 |  **22**   DNSQuery              | DNS query |
+|  **23**   FileDelete            | File Delete |
+
 
 
 You can also find these tags in the event viewer on the task name.
