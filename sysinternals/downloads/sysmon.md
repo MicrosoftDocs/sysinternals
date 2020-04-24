@@ -78,29 +78,17 @@ Sysinternals - www.sysinternals.com</strong>
 
 Usage:
 
-**Install:**    **Sysmon.exe -i &lt;configfile&gt;  
-\[-h &lt;\[sha1|md5|sha256|imphash|\*\],...&gt;\] \[-n
-\[&lt;process,...&gt;\]\]  
-\[-l (&lt;process,...&gt;)\]**
+Install:                 sysmon64 -i [&lt;configfile&gt;]  
+Update configuration:    sysmon64 -c [&lt;configfile&gt;]  
+Install event manifest:  sysmon64 -m  
+Print schema:            sysmon64 -s  
+Uninstall:               sysmon64 -u [force]  
 
-**Configure:**  **Sysmon.exe -c &lt;configfile&gt;**  
-              **\[--|\[-h &lt;\[sha1|md5|sha256|imphash|\*\],...&gt;\]
-\[-n \[&lt;process,...&gt;\]\]  
-               \[-l \[&lt;process,...&gt;\]\]\]**
-
-**Uninstall:**  **Sysmon.exe -u \[force\]**
-
- 
 |Parameter  |Description  |
 |---------|---------|
-|  **-c** |  Update configuration of an installed Sysmon driver or dump the current configuration if no other argument is provided. Optionally take a configuration file.|
-|  **-d** |  Specify the name of the installed device driver image. Configuration entry: DriverName. The service image and service name will be the same.|
-|  **-h** |  Specify the hash algorithms used for image identification (default is SHA1). It supports multiple algorithms at the same time. Configuration entry: HashAlgorithms.|
 |  **-i** |  Install service and driver. Optionally take a configuration file.|
-|  **-l** |  Log loading of modules. Optionally take a list of processes to track.|
+|  **-c** |  Update configuration of an installed Sysmon driver or dump the current configuration if no other argument is provided. Optionally take a configuration file.|
 |  **-m** |  Install the event manifest (done on service install as well).|
-|  **-n** |  Log network connections. Optionally take a list of processes to track.|
-|  **-r** |  Check for signature certificate revocation.  <br />Configuration entry: CheckRevocation.|
 |  **-s** |  Print configuration schema definition.|
 |  **-u** |  Uninstall service and driver. Adding force causes uninstall to proceed even when some components are not installed.|
 
