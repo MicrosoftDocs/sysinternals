@@ -126,10 +126,6 @@ Uninstall
 Dump the current configuration  
 **sysmon –c**
 
-Change the configuration to use all hashes, no network monitoring and
-monitoring of DLLs in Lsass  
-**sysmon –c –h \* –l lsass.exe**
-
 Change the configuration of sysmon with a configuration file (as
 described below)
 
