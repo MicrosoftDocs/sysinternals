@@ -72,8 +72,8 @@ nor does it attempt to protect or hide itself from attackers.
 Uses Sysmon simple command-line options to install and uninstall it, as
 well as to check and modify Sysmon’s configuration:
 
-<strong>Sysinternals Sysmon v10.0 - System activity monitor  
-Copyright (C) 2014-2019 Mark Russinovich and Thomas Garnier  
+<strong>Sysinternals Sysmon v11.0 - System activity monitor  
+Copyright (C) 2014-2020 Mark Russinovich and Thomas Garnier  
 Sysinternals - www.sysinternals.com</strong>
 
 Usage:
