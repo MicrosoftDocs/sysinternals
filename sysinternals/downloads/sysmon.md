@@ -356,11 +356,7 @@ Configuration entries include the following:
 
 |  Entry             |   Value  |  Description|
 |--------------------|----------|-------------|
-| ArchiveDirectory   |  String  | Name of directories at volume roots into which copy-on-delete
-                                  files are moved. The directory is protected with a System ACL.
-                                  (you can use PsExec from Sysinternals to access the directory
-                                  using 'psexec -sid cmd').
-                                  Default: Sysmon |
+| ArchiveDirectory   |  String  | Name of directories at volume roots into which copy-on-delete                                  files are moved. The directory is protected with a System ACL. (you can use PsExec from Sysinternals to access the directory                                 using 'psexec -sid cmd'). Default: Sysmon |
 | CheckRevocation   |  Boolean | Controls signature revocation checks.
                                   Default: True |
 |  CopyOnDeletePE   |  Boolean | Preserves deleted executable image files.
