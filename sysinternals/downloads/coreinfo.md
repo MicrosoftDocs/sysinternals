@@ -4,15 +4,15 @@ title: Coreinfo
 description: Coreinfo is a command-line utility that shows you the mapping between logical processors and the physical processor.
 ms:assetid: 'c5e117b5-d674-4409-914d-17bcac43f1fd'
 ms:mtpsurl: 'https://technet.microsoft.com/Cc835722(v=MSDN.10)'
-ms.date: 08/18/2014
+ms.date: 04/28/2020
 ---
-# Coreinfo v3.31
+# Coreinfo v3.5
 
 **By Mark Russinovich**
 
-Published: August 18, 2014
+Published: April 28, 2020
 
-[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(192 KB)**
+[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(367 KB)**
 
 ## Introduction
 
@@ -163,4 +163,4 @@ Logical Processor to Group Map:
 ****  Group 0
 ```
 
-[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(192 KB)**
+[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(367 KB)**
