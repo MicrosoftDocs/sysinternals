@@ -1,6 +1,6 @@
 --- 
 TOCTitle: Cpustres
-title: Testlimit
+title: Cpustres
 description: Windows CPU Stress utility.
 ms:assetid: 'cfbb8960-ca2c-48c3-a05e-ecb1970d3648'
 ms.date: 03/22/2019
