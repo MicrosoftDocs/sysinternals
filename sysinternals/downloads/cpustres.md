@@ -13,7 +13,7 @@ CpuStres v2.0
 
 Published: July 18, 2018
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/CPUSTRES.zip) [**Download Cpustres**](https://download.sysinternals.com/files/CPUSTRES.zip) **(2.2 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/CPUSTRES.zip) [**Download CpuStres**](https://download.sysinternals.com/files/CPUSTRES.zip) **(2.2 MB)**
 
 
 ## Introduction
@@ -43,5 +43,5 @@ Each thread can be started, paused or stopped independently and can be configure
 
 ## Download
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/CPUSTRES.zip)[**Download Cpustres**](https://download.sysinternals.com/files/CPUSTRES.zip) **(2.2 MB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/CPUSTRES.zip)[**Download CpuStres**](https://download.sysinternals.com/files/CPUSTRES.zip) **(2.2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/cpustres.exe).
