@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 04/22/2020
+ms.date: 04/28/2020
 ---
 
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
@@ -24,7 +24,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
-### What's New (April 22, 2020) ###
+### What's New (April 28, 2020) ###
   - [Sysmon v11.0](~/downloads/sysmon.md)  
 This major update to Sysmon includes file delete monitoring and archive to help responders capture attacker tools, adds an option to disable reverse DNS lookup, replaces empty fields with ‘-‘ to work around a WEF bug, fixes an issue that caused some ProcessAccess events to drop, and doesn’t hash main data streams that are marked as being stored in the cloud. 
 
