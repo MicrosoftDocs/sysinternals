@@ -3,20 +3,20 @@ TOCTitle: Coreinfo
 title: Coreinfo
 description: Coreinfo is a command-line utility that shows you the mapping between logical processors and the physical processor.
 ms:assetid: 'c5e117b5-d674-4409-914d-17bcac43f1fd'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Cc835722(v=MSDN.10)'
-ms.date: 08/18/2014
+ms:mtpsurl: 'https://technet.microsoft.com/Cc835722(v=MSDN.10)'
+ms.date: 04/28/2020
 ---
-# Coreinfo v3.31
+# Coreinfo v3.5
 
 **By Mark Russinovich**
 
-Published: August 18, 2014
+Published: April 28, 2020
 
-[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(192 KB)**
+[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(367 KB)**
 
 ## Introduction
 
-Coreinfo is a command-line utility that shows you the mapping between logical processors and the physical processor, NUMA node, and socket on which they reside, as well as the cache’s assigned to each logical processor. It uses the Windows’ [GetLogicalProcessorInformation](https://msdn.microsoft.com/en-us/library/ms683194.aspx) function to obtain this information and prints it to the screen, representing a mapping to a logical processor with an asterisk e.g. ‘*’. Coreinfo is useful for gaining insight into the processor and cache topology of your system.
+Coreinfo is a command-line utility that shows you the mapping between logical processors and the physical processor, NUMA node, and socket on which they reside, as well as the cache’s assigned to each logical processor. It uses the Windows’ [GetLogicalProcessorInformation](https://msdn.microsoft.com/library/ms683194.aspx) function to obtain this information and prints it to the screen, representing a mapping to a logical processor with an asterisk e.g. ‘*’. Coreinfo is useful for gaining insight into the processor and cache topology of your system.
 
 ## Installation
 
@@ -163,4 +163,4 @@ Logical Processor to Group Map:
 ****  Group 0
 ```
 
-[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(192 KB)**
+[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(367 KB)**

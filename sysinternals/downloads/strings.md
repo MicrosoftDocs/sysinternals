@@ -3,7 +3,7 @@ TOCTitle: Strings
 title: Strings
 description: Search for ANSI and UNICODE strings in binary images.
 ms:assetid: '516a3dc2-ae3c-48ea-9dd2-65d3635eee79'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897439(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897439(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
@@ -59,6 +59,3 @@ using strings use a command like this:
 -   Client: Windows Vista and higher
 -   Server: Windows Server 2008 and higher
 -   Nano Server: 2016 and higher
-
-
-

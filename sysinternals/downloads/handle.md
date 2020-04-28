@@ -3,7 +3,7 @@ TOCTitle: Handle
 title: Handle
 description: This handy command-line utility will show you what files are open by which processes, and much more.
 ms:assetid: '05600b13-e4c8-473d-bb5d-d36a881686e5'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896655(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896655(v=MSDN.10)'
 ms.date: 06/14/2019
 ---
 
@@ -83,9 +83,9 @@ The following Microsoft KB articles reference Handle for diagnosing or
 troubleshooting various problems:
 
 -   [245068: Err Msg: Access is Denied. You Don't Have Permissions or
-    the File is in Use](http://support.microsoft.com/kb/245068)
+    the File is in Use](https://support.microsoft.com/kb/245068)
 -   [276525: Your Computer May Stop Responding When You Monitor Open
-    Handles](http://support.microsoft.com/kb/276525)  
+    Handles](https://support.microsoft.com/kb/276525)  
       
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(701 KB)**

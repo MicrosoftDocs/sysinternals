@@ -2,7 +2,7 @@
 TOCTitle: Licensing FAQ 
 title: Sysinternals Licensing FAQ
 ms:assetid: '50ed3280-1fb1-42ce-86cc-b1fbdde1afd2' 
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb847944(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb847944(v=MSDN.10)'
 ms.date: 09/28/2009
 ---
 
@@ -31,4 +31,4 @@ download or license.
 ### Q: Is there technical support available for the Sysinternals tools?  
 **A:** No. All Sysinternals tools are offered 'as is' with no official
 Microsoft support. We do maintain a Sysinternals dedicated [community
-support forum](http://forum.sysinternals.com/): <http://forum.sysinternals.com/>
+support forum](https://forum.sysinternals.com/): <https://forum.sysinternals.com/>

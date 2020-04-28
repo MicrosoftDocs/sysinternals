@@ -3,7 +3,7 @@ TOCTitle: EFSDump
 title: EFSDump
 description: View information for encrypted files.
 ms:assetid: 'e6c7175a-2edd-48d6-bf40-d701aa597b01'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb896735(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb896735(v=MSDN.10)'
 ms.date: 11/01/2006
 ---
 
@@ -41,6 +41,3 @@ to show you what accounts are authorized to access encrypted files.
 
 -   Client: Windows Vista and higher.
 -   Server: Windows Server 2008 and higher.
-
-
-

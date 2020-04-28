@@ -3,16 +3,16 @@ TOCTitle: Sysmon
 title: Sysmon
 description: Monitors and reports key system activity via the Windows event log.
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Dn798348(v=MSDN.10)'
-ms.date: 06/28/2019
+ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
+ms.date: 04/28/2020
 ---
 
-Sysmon v10.41
+Sysmon v11.0
 ===========
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: September 16, 2019
+Published: April 28, 2020
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.7 MB)**
 
@@ -24,9 +24,9 @@ reboots to monitor and log system activity to the Windows event log. It
 provides detailed information about process creations, network
 connections, and changes to file creation time. By collecting the events
 it generates using [Windows Event
-Collection](http://msdn.microsoft.com/en-us/library/windows/desktop/bb427443(v=vs.85).aspx)
+Collection](https://msdn.microsoft.com/library/windows/desktop/bb427443(v=vs.85).aspx)
 or
-[SIEM](http://en.wikipedia.org/wiki/security_information_and_event_management)
+[SIEM](https://en.wikipedia.org/wiki/security_information_and_event_management)
 agents and subsequently analyzing them, you can identify malicious or
 anomalous activity and understand how intruders and malware operate on
 your network.
@@ -72,35 +72,23 @@ nor does it attempt to protect or hide itself from attackers.
 Uses Sysmon simple command-line options to install and uninstall it, as
 well as to check and modify Sysmon’s configuration:
 
-<strong>Sysinternals Sysmon v10.0 - System activity monitor  
-Copyright (C) 2014-2019 Mark Russinovich and Thomas Garnier  
+<strong>Sysinternals Sysmon v11.0 - System activity monitor  
+Copyright (C) 2014-2020 Mark Russinovich and Thomas Garnier  
 Sysinternals - www.sysinternals.com</strong>
 
 Usage:
 
-**Install:**    **Sysmon.exe -i &lt;configfile&gt;  
-\[-h &lt;\[sha1|md5|sha256|imphash|\*\],...&gt;\] \[-n
-\[&lt;process,...&gt;\]\]  
-\[-l (&lt;process,...&gt;)\]**
+Install:                 sysmon64 -i [&lt;configfile&gt;]  
+Update configuration:    sysmon64 -c [&lt;configfile&gt;]  
+Install event manifest:  sysmon64 -m  
+Print schema:            sysmon64 -s  
+Uninstall:               sysmon64 -u [force]  
 
-**Configure:**  **Sysmon.exe -c &lt;configfile&gt;**  
-              **\[--|\[-h &lt;\[sha1|md5|sha256|imphash|\*\],...&gt;\]
-\[-n \[&lt;process,...&gt;\]\]  
-               \[-l \[&lt;process,...&gt;\]\]\]**
-
-**Uninstall:**  **Sysmon.exe -u \[force\]**
-
- 
 |Parameter  |Description  |
 |---------|---------|
-|  **-c** |  Update configuration of an installed Sysmon driver or dump the current configuration if no other argument is provided. Optionally take a configuration file.|
-|  **-d** |  Specify the name of the installed device driver image. Configuration entry: DriverName. The service image and service name will be the same.|
-|  **-h** |  Specify the hash algorithms used for image identification (default is SHA1). It supports multiple algorithms at the same time. Configuration entry: HashAlgorithms.|
 |  **-i** |  Install service and driver. Optionally take a configuration file.|
-|  **-l** |  Log loading of modules. Optionally take a list of processes to track.|
+|  **-c** |  Update configuration of an installed Sysmon driver or dump the current configuration if no other argument is provided. Optionally take a configuration file.|
 |  **-m** |  Install the event manifest (done on service install as well).|
-|  **-n** |  Log network connections. Optionally take a list of processes to track.|
-|  **-r** |  Check for signature certificate revocation.  <br />Configuration entry: CheckRevocation.|
 |  **-s** |  Print configuration schema definition.|
 |  **-u** |  Uninstall service and driver. Adding force causes uninstall to proceed even when some components are not installed.|
 
@@ -128,10 +116,6 @@ Install with default settings (process images hashed with sha1 and no
 network monitoring)  
 **sysmon -accepteula  –i**
 
-Install with md5 and sha256 hashing of process created and monitoring
-network connections  
-**sysmon -accepteula –i –h md5,sha256 –n**
-
 Install Sysmon with a configuration file (as described below)
 
 **sysmon –accepteula –i c:\\windows\\config.xml**
@@ -141,10 +125,6 @@ Uninstall
 
 Dump the current configuration  
 **sysmon –c**
-
-Change the configuration to use all hashes, no network monitoring and
-monitoring of DLLs in Lsass  
-**sysmon –c –h \* –l lsass.exe**
 
 Change the configuration of sysmon with a configuration file (as
 described below)
@@ -322,6 +302,10 @@ When a consumer binds to a filter, this event logs the consumer name and filter 
 This event generates when a process executes a DNS query, whether the result is successful or fails, cached or not. 
 The telemetry for this event was added for Windows 8.1 so it is not available on Windows 7 and earlier.
 
+### Event ID 23: FileDelete (A file delete was detected)
+
+A file was deleted
+
 ### Event ID 255: Error
 
 This event is generated when an error occurred within Sysmon. They can
@@ -350,8 +334,23 @@ EventFiltering tag.
 Configuration Entries
 ---------------------
 
-Configuration entries are similar to command line switches. Command line
-switches have their configuration entry described in the Sysmon usage
+Configuration entries are similar to command line switches and include the following
+
+Configuration entries include the following:
+
+|  Entry             |   Value  |  Description|
+|--------------------|----------|-------------|
+| ArchiveDirectory   |  String  | Name of directories at volume roots into which copy-on-delete                                  files are moved. The directory is protected with a System ACL. (you can use PsExec from Sysinternals to access the directory                                 using 'psexec -sid cmd'). Default: Sysmon |
+| CheckRevocation   |  Boolean | Controls signature revocation checks. Default: True |
+|  CopyOnDeletePE   |  Boolean | Preserves deleted executable image files. Default: False |
+|  CopyOnDeleteSIDs | Strings  | Comma-separated list of account SIDs for which file deletes will be preserved. |
+|  CopyOnDeleteExtensions | Strings  | Extensions for files that are preserved on delete. |
+|  CopyOnDeleteProcesses  | Strings | Process name(s) for which file deletes will be preserved. |
+|  DnsLookup     |   Boolean | Controls reverse DNS lookup. Default: True |
+|  DriverName    |   String  | Uses specied name for driver and service images.  |
+| HashAlgorithms |   Strings  | Hash algorithm(s) to apply for hashing. Algorithms supported include MD5, SHA1, SHA256, IMPHASH and * (all). Default: None |
+
+Command line switches have their configuration entry described in the Sysmon usage
 output. Parameters are optional based on the tag. If a command line
 switch also enables an event, it needs to be configured though its
 filter tag. You can specify the -s switch to have Sysmon print the full
@@ -408,6 +407,8 @@ configuration file:
 |  **20**   WmiEvent              | WMI consumer |
 |  **21**   WmiEvent              | WMI consumer filter |
 |  **22**   DNSQuery              | DNS query |
+|  **23**   FileDelete            | File Delete |
+
 
 
 You can also find these tags in the event viewer on the task name.
@@ -428,15 +429,19 @@ insensitive):
 
 |  **Condition**   | **Description** |
 |---------|---------|
-|  **Is**          | Default, values are equals |
+|  **is**          | Default, values are equals |
 |  **is not**      | Values are different |
-|  **Contains**    | The field contains this value |
-|  **Excludes**    | The field does not contain this value |
+|  **contains**    | The field contains this value |
+|  **contains any**  | The field contains any of the ; delimited values |
+|  **contains all** | The field contains any of the ; delimited values |
+|  **excludes**    | The field does not contain this value |
+|  **excludes any**  |The field does not contain one or more of the ; delimited values |
+|  **excludes all** |The field does not contain any of the ; delimited values |
 |  **begin with**  | The field begins with this value |
 |  **end with**    | The field ends with this value |
 |  **less than**   | Lexicographical comparison is less than zero |
 |  **more than**   | Lexicographical comparison is more than zero |
-|  **Image**       | Match an image path (full path or only image name). For example: lsass.exe will match c:\\windows\\system32\\lsass.exe |
+|  **image**       | Match an image path (full path or only image name). For example: lsass.exe will match c:\\windows\\system32\\lsass.exe |
  
 
 You can use a different condition by specifying it as an attribute. This
@@ -489,4 +494,3 @@ termination of ping.exe and timeout.exe.
 
 -   Client: Windows 7 and higher.
 -   Server: Windows Server 2008 R2 and higher.
-

@@ -3,7 +3,7 @@ TOCTitle: PendMoves
 title: PendMoves and MoveFile
 description: Allows you to schedule move and delete commands for the next reboot.
 ms:assetid: 'a49e9434-8fa3-4f2c-9ae1-8212360d4917'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897556(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897556(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 PendMoves v1.02 and MoveFile v1.01
@@ -12,7 +12,7 @@ PendMoves v1.02 and MoveFile v1.01
 **By Mark Russinovich**
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/PendMoves.zip) [**Download PendMovesand MoveFile**](https://download.sysinternals.com/files/PendMoves.zip) **(284 KB)**
+[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/PendMoves.zip) [**Download PendMoves and MoveFile**](https://download.sysinternals.com/files/PendMoves.zip) **(284 KB)**
 
 
 ## Introduction
@@ -43,4 +43,4 @@ Specifying an empty destination  ("") deletes the source at boot. An example tha
 movefile test.exe ""  
 ```
 
-[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/PendMoves.zip) [**Download PendMovesand MoveFile**](https://download.sysinternals.com/files/PendMoves.zip) **(284 KB)**
+[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/PendMoves.zip) [**Download PendMoves and MoveFile**](https://download.sysinternals.com/files/PendMoves.zip) **(284 KB)**

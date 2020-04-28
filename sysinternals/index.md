@@ -3,8 +3,8 @@ TOCTitle: 'Windows Sysinternals: Documentation, downloads and additional resourc
 title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb545021(v=MSDN.10)'
-ms.date: 09/05/2019
+ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
+ms.date: 04/28/2020
 ---
 
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
@@ -14,7 +14,7 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 -   Watch Mark’s top-rated [Case-of-the-Unexplained](~/learn/webcasts.md) troubleshooting presentations and other webcasts
 -   Read [Mark’s Blog](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/bg-p/Windows-Blog-Archive/label-name/Mark%20Russinovich) which highlight use of the tools to solve real problems
 -   Check out the Sysinternals [Learning Resources](~/learn/index.md) page
--   Post your questions in the [Sysinternals Forum](https://social.technet.microsoft.com/Forums/en-US/home?category=sysinternals&amp;filter=alltypes&amp;sort=lastpostdesc)
+-   Post your questions in the [Sysinternals Forum](https://social.technet.microsoft.com/Forums/home?category=sysinternals&amp;filter=alltypes&amp;sort=lastpostdesc)
 
 ---
 ## Sysinternals Live ##
@@ -23,6 +23,27 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
+
+### What's New (April 28, 2020) ###
+  - [Sysmon v11.0](~/downloads/sysmon.md)  
+This major update to Sysmon includes file delete monitoring and archive to help responders capture attacker tools, adds an option to disable reverse DNS lookup, replaces empty fields with ‘-‘ to work around a WEF bug, fixes an issue that caused some ProcessAccess events to drop, and doesn’t hash main data streams that are marked as being stored in the cloud. 
+
+  - [Sysinternals April 27 Update Video](https://www.youtube.com/watch?v=_MUP4tgdM7s)  
+    Mark Russinovich covers what’s new in this update, with a demo of Sysmon’s new file delete monitoring and capture capability.
+
+### What's New (December 20, 2019) ###
+- [Scheduled livesite maintenance](~/Announce/SiteUpgradeDec2019.md) 
+
+### What's New (December 11, 2019) ###
+  - [Sysmon v10.42](~/downloads/sysmon.md)  
+  This update to Sysmon addresses a number of memory leaks, introduces the "Excludes Any" and "Excludes All" filtering conditions and resolves a number of bugs.
+
+  - [Zoomit v4.52](~/downloads/zoomit.md)  
+  This update to Zoomit resolves a number of dual-monitor related issues.
+  
+  - [Whois v1.21](~/downloads/whois.md)  
+  This refresh of Whois contains various bug fixes.
+  
 
 ### What's New (September 16, 2019) ###
   - [Sysmon v10.41](~/downloads/sysmon.md)  
