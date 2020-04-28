@@ -28,6 +28,8 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
   - [Sysmon v11.0](~/downloads/sysmon.md)  
 This major update to Sysmon includes file delete monitoring and archive to help responders capture attacker tools, adds an option to disable reverse DNS lookup, replaces empty fields with ‘-‘ to work around a WEF bug, fixes an issue that caused some ProcessAccess events to drop, and doesn’t hash main data streams that are marked as being stored in the cloud. 
 
+  - [Sysinternals April 27 Update Video](https://www.youtube.com/watch?v=_MUP4tgdM7s)  
+    Mark Russinovich covers what’s new in this update, with a demo of Sysmon’s new file delete monitoring and capture capability.
 
 ### What's New (December 20, 2019) ###
 - [Scheduled livesite maintenance](~/Announce/SiteUpgradeDec2019.md) 
