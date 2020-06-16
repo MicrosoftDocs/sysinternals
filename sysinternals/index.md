@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 04/29/2020
+ms.date: 06/15/2020
 ---
 
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
@@ -24,6 +24,14 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
+
+### What's New (June 15, 2020) ###
+  - [Sysmon v11.10](~/downloads/sysmon.md)  
+This update to Sysmon logs stream content for alternate data streams, introduces the `is-any` filter condition and includes a number of important bugfixes. 
+
+  - [Sigcheck v2.80](~/downloads/sigcheck.md)  
+This update introduces the -p option for specifying a trust GUID along with some minor bugfixes.
+
 
 ### What's New (April 28, 2020) ###
   - [Sysmon v11.0](~/downloads/sysmon.md)  
