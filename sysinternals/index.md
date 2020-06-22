@@ -30,8 +30,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 This update to Sysmon now captures stream content for alternate data streams into logged events, which is useful for investigating downloads tagged with ‘Mark of the Web’ (MOTW) streams, introduces an ‘is-any’ filter condition, and fixes several bugs. 
 
   - [Sigcheck v2.80](~/downloads/sigcheck.md)  
-Sigcheck, a flexible tool for showing file versions, file signatures, and certificate stores, introduces a -p option for specifying a trust GUID for signature verification. 
-
+Sigcheck, a flexible tool for showing file versions, file signatures, and certificate stores, introduces a -p option for specifying a trust GUID for signature verification, and it now shows certificate signing chains even when a certificate in the chain is untrusted. 
 
 ### What's New (April 28, 2020) ###
   - [Sysmon v11.0](~/downloads/sysmon.md)  
