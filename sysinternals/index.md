@@ -32,6 +32,9 @@ This update to Sysmon now captures stream content for alternate data streams int
   - [Sigcheck v2.80](~/downloads/sigcheck.md)  
 Sigcheck, a flexible tool for showing file versions, file signatures, and certificate stores, introduces a -p option for specifying a trust GUID for signature verification, and it now shows certificate signing chains even when a certificate in the chain is untrusted. 
 
+- [Sysinternals June 24 Update Video](https://www.youtube.com/watch?v=HCZlJDKUqn0&feature=youtu.be)
+Mark Russinovich covers what’s new in this update, with a demo of Sysmon’s alternate data stream content capture and new features in Sigcheck.
+
 ### What's New (April 28, 2020) ###
   - [Sysmon v11.0](~/downloads/sysmon.md)  
 This major update to Sysmon includes file delete monitoring and archive to help responders capture attacker tools, adds an option to disable reverse DNS lookup, replaces empty fields with ‘-‘ to work around a WEF bug, fixes an issue that caused some ProcessAccess events to drop, and doesn’t hash main data streams that are marked as being stored in the cloud. 
