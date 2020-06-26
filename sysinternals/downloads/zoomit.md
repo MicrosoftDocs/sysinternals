@@ -58,8 +58,9 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Green Pen Color | G | 
 | Show Meeting Timer | Ctrl + 3 |
 | Live Zoom Mode | Ctrl + 4 |
-| Zoom In (Live mode) | Ctrl + Up |
-| Zoom Out (Live mode) | Ctrl + Down |
+| Increase pointer size (Drawing mode) | Ctrl + Up |
+| Decrease pointer size (Drawing mode) | Ctrl + Down |
+
 
 ![ZoomIt](/media/landing/sysinternals/20130618_Zoomit_v4.5.jpg)  
 
