@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 04/29/2020
+ms.date: 06/24/2020
 ---
 
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
@@ -24,6 +24,16 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
+
+### What's New (June 24, 2020) ###
+  - [Sysmon v11.10](~/downloads/sysmon.md)  
+This update to Sysmon now captures stream content for alternate data streams into logged events, which is useful for investigating downloads tagged with ‘Mark of the Web’ (MOTW) streams, introduces an ‘is-any’ filter condition, and fixes several bugs. 
+
+  - [Sigcheck v2.80](~/downloads/sigcheck.md)  
+Sigcheck, a flexible tool for showing file versions, file signatures, and certificate stores, introduces a -p option for specifying a trust GUID for signature verification, and it now shows certificate signing chains even when a certificate in the chain is untrusted. 
+
+- [Sysinternals June 24 Update Video](https://youtu.be/HCZlJDKUqn0)  
+Mark Russinovich covers what’s new in this update, with demos of Sysmon’s alternate data stream content capture and new features in Sigcheck.
 
 ### What's New (April 28, 2020) ###
   - [Sysmon v11.0](~/downloads/sysmon.md)  
@@ -70,60 +80,3 @@ This major update to Sysmon includes file delete monitoring and archive to help 
   - [Sysmon v9.0](~/downloads/sysmon.md)  
      Sysmon v9.0 introduces rule groups that enable the specification of AND or OR matching logic across a set of rules. It also fixes a memory leak in signature verification. 
      
-### What's New (December 18, 2018) ###
-  - [Sysmon v8.04](~/downloads/sysmon.md)  
-     This release reverted the filtering change made in 8.02 as this broke a number of configuration files. We are planning to revisit and enhance the filtering in the new year. It also fixed a BSOD in legacy named pipe filter used on Windows 7 and earlier, and a kernel memory leak that occurred when the configuration is reloaded.
-     
-### What's New (October 17, 2018) ###
-  - [Sigcheck v2.7](~/downloads/sigcheck.md)  
-     Windows WinVerifyTrust function reports signed MSI files that have malware appended to them as signed, so Sigcheck now indicates when appended conent is present. 
-
-### What's New (September 17, 2018) ###
-  - [TLS 1.1 deprecation](~/Announce/TLSDeprecation.md)  
-
-### What's New (July 5, 2018) ###
-  - [Sysmon v8.0](~/downloads/sysmon.md)  
-    Sysmon now includes the ability to tag rules so that event log entries include the rule tag that generated them, as well as several bug fixes.  
-    
-  - [Autoruns v13.90](~/downloads/autoruns.md)  
-    Autoruns now includes Runonce\*\Depend entries, adds GPO logon and logoff locations, and fixes a bug in WMI path parsing.    
-    
-### What's New (February 13, 2018) ###
-  - [Autoruns v13.82](~/downloads/autoruns.md)  
-    This Autoruns release shows Onenote addins and fixes several bugs. 
-
-  - [Process Monitor v3.50](~/downloads/procmon.md)  
-    Process Monitor now includes a /runtime switch to control headless capture duration, correctly shows picoprocesses, displays details for file system APIs introduced in Windows 10, and includes numerous minor improvements and bug fixes. 
-
-### What's New (January 2, 2018) ###
-  - [Sysmon v7.0](~/downloads/sysmon.md)  
-    Sysmon now logs file version information, and the option to dump the configuration schema adds the ability to dump an older schema or dump all historical schemas. 
-    
-### What's New (November 19, 2017) ###
-  - [Sysmon v6.20](~/downloads/sysmon.md)  
-    This Sysmon release adds the ability to change the Sysmon service and driver names to foil malware that use them to detect its presence. 
-    
-  - [Whois v1.20](~/downloads/whois.md)  
-    Whois, a command-line utility that reports domain registration information for the specified domain, works with new whois registry server redirects.  
-
-### What's New (September 11, 2017) ###
-  - [Sysmon v6.10](~/downloads/sysmon.md)  
-    This update to Sysmon, a background monitor that records activity to the event log for use in security incident detection and forensics, adds monitoring of WMI filters and consumers, an autostart mechanism commonly used by malware, and fixes a bug in image load filtering. 
-
-  - [Process Monitor v3.40](~/downloads/procmon.md)  
-    Process Monitor, a file system registry, process and network real-time monitor, now includes a /runtime switch for terminating monitoring after a specified amount of time, when in hexadecimal mode shows process tree process IDs in hexadecimal, and fixes a bug in automated boot log conversion. 
-    
-  - [Autoruns v13.80](~/downloads/autoruns.md)  
-    This release of Autoruns, a utility for viewing and managing autostart execution points (ASEPs), adds additional autostart entry points, has asynchronous file saving, fixes a bug parsing 32-bit paths on 64-bit Windows, shows the display name for drivers and services, and fixes a bug in offline Virus Total scanning. 
-
-### What's New (May 16, 2017) ###
-  - [ProcDump v9.0](~/downloads/procdump.md)  
-    This major update to ProcDump, a utility that enables process dump capture based on a variety of triggers, introduces the ability to take capture multiple dumps sizes. This is particularly useful when capturing crash dumps of applications susceptible to termination due to unresponsiveness (e.g. IIS Ping killing w3wp.exe). This release also adds support for an associated Kernel Dump of the process that includes the kernel stacks of the process.</li>
-
-### What's New (February 17, 2017) ###
-  - [Sysmon v6](~/downloads/sysmon.md)  
-    This release of Sysmon, a background monitor that records activity to the event log for use in security incident detection and forensics, introduces an option that displays event schema, adds an event for Sysmon configuration changes, interprets and displays registry paths in their common format, and adds named pipe create and connection events (thanks to Giulia Biagini for the contribution). Check out the related presentation from Mark’s RSA Conference, “[How to Go From Responding to Hunting with Sysinternals Sysmon](https://www.rsaconference.com/events/us17/agenda/sessions/7516-How-to-Go-from-Responding-to-Hunting-with-Sysinternals-Sysmon).”
-  - [Autoruns v13.7](~/downloads/autoruns.md)  
-    Autoruns, an autostart entry point management utility, now reports print providers, registrations in the WMI\Default namespace, fixes a KnownDLLs enumeration bug, and has improved toolbar usability on high-DPI displays.
-  - [AccessChk v6.1](~/downloads/accesschk.md)  
-    This update to AccessChk, a command-line utility that shows effective and actual permissions for file, registry, service, process object manager, and event logs, now reports Windows 10 process trust access control entries and token security attributes.
