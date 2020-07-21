@@ -4,7 +4,7 @@ title: Sigcheck
 description: Dump file version information and verify that images on your system are digitally signed.
 ms:assetid: 'fe633cd0-b369-4ca5-a9ae-c64e2d52acac'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897441(v=MSDN.10)'
-ms.date: 06/15/2020
+ms.date: 06/24/2020
 ---
 
 Sigcheck v2.80
@@ -12,7 +12,7 @@ Sigcheck v2.80
 
 **By Mark Russinovich**
 
-Published: June 15, 2020
+Published: June 24, 2020
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(809 KB)**
 
