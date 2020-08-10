@@ -174,7 +174,7 @@ start when it is (manually) activated to monitor for exceptions:
 
   
 Register as the Just-in-Time (AeDebug) debugger. Makes full dumps in
-c:\\dumps.
+c:\\dumps:
 
 **C:\\&gt;procdump -ma -i c:\\dumps**
 
