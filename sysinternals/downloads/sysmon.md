@@ -45,10 +45,10 @@ nor does it attempt to protect or hide itself from attackers.
 -   Multiple hashes can be used at the same time.
 -   Includes a process GUID in process create events to allow for
     correlation of events even when Windows reuses process IDs.
--   Include a session GUID in each events to allow correlation of events
+-   Includes a session GUID in each event to allow correlation of events
     on same logon session.
 -   Logs loading of drivers or DLLs with their signatures and hashes.
--   Logs opens for raw read access of disks and volumes
+-   Logs opens for raw read access of disks and volumes.
 -   Optionally logs network connections, including each connection’s
     source process, IP addresses, port numbers, hostnames and port
     names.
