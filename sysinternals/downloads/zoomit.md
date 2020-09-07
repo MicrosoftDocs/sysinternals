@@ -52,14 +52,14 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Zoom Out | Down Key |
 |  Begin Drawing (While zoomed) | Left-Click  |
 |  Begin Drawing (While not zoomed) | Ctrl+2  |
-|  Red Pen Color | R |
+| Increase line and pointer size (Drawing mode) | Ctrl + Up |
+| Decrease line and pointer size (Drawing mode) | Ctrl + Down |
+| Red Pen Color | R |
 | Blue Pen Color | B | 
 | Yellow Pen Color | Y |
 | Green Pen Color | G | 
 | Show Meeting Timer | Ctrl + 3 |
 | Live Zoom Mode | Ctrl + 4 |
-| Increase pointer size (Drawing mode) | Ctrl + Up |
-| Decrease pointer size (Drawing mode) | Ctrl + Down |
 
 
 ![ZoomIt](/media/landing/sysinternals/20130618_Zoomit_v4.5.jpg)  
