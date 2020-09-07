@@ -1,6 +1,6 @@
 --- 
 TOCTitle: SHA1Deprecation
-title: Preparing for the mandatory use of SHA1
+title: Preparing for the deprecation of SHA-1
 ms.date: 06/20/2019
 ---
 

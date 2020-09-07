@@ -58,18 +58,19 @@ directories, or to cleanse the free space on a logical disk. *SDelete*
 accepts wild card characters as part of the directory or file specifier.
 
 
-**Usage: sdelete \[-p passes\] \[-s\] \[-q\] &lt;file or directory&gt;
-...**  
-**sdelete \[-p passes\] \[-z|-c\] \[drive letter\] ...**
+**Usage: sdelete \[-p passes\] \[-r\] \[-s\] \[-q\] &lt;file or directory&gt;
+\[...\]**  
+**sdelete \[-p passes\] \[-z|-c \[percent free\]\] &lt;drive letter \[...\]&gt;**
+**sdelete \[-p passes\] \[-z|-c\] &ltphysical disk number&gt;**
 
 |Parameter  |Description  |
 |---------|---------|
-|  **-a**           |  Remove Read-Only attribute.|
-|  **-c**           |  Clean free space.|
-|  **-p passes**    |  Specifies number of overwrite passes (default is 1).|
-|  **-q**           |  Don't print errors (Quiet).|
-|  **-s** or **-r** |  Recurse subdirectories.|
-|  **-z**           |  Zero free space (good for virtual disk optimization).|
+|  **-c**        |  Clean free space. Specify an option amount of space to leave free for use by a running system.|
+|  **-p**        |  Specifies number of overwrite passes (default is 1).|
+|  **-r**        |  Remove Read-Only attribute.|
+|  **-s**        |  Recurse subdirectories.|
+|  **-z**        |  Zero free space (good for virtual disk optimization).|
+|  **-nobanner** |  Do not display the startup banner and copyright message.|
 
 
 ## How SDelete Works
@@ -154,7 +155,7 @@ space containing deleted file names, but the free directory space is not
 available for allocation to other files. Hence, *SDelete* has no way of
 allocating this free space so that it can securely overwrite it.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(151 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(221 KB)**
 
 **Runs on:**
 
