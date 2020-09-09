@@ -114,25 +114,25 @@ Neither install nor uninstall requires a reboot.
 
 Install with default settings (process images hashed with sha1 and no
 network monitoring)  
-**sysmon -accepteula  –i**
+**sysmon -accepteula  -i**
 
 Install Sysmon with a configuration file (as described below)
 
-**sysmon –accepteula –i c:\\windows\\config.xml**
+**sysmon -accepteula -i c:\\windows\\config.xml**
 
 Uninstall  
-**sysmon –u**
+**sysmon -u**
 
 Dump the current configuration  
-**sysmon –c**
+**sysmon -c**
 
 Change the configuration of sysmon with a configuration file (as
 described below)
 
-**sysmon –c c:\\windows\\config.xml**
+**sysmon -c c:\\windows\\config.xml**
 
 Change the configuration to default settings  
-**sysmon –c --**
+**sysmon -c --**
 
 Show the configuration schema:  
 **sysmon -s**
