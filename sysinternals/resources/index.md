@@ -1,12 +1,13 @@
 ---
-TOCTitle: Learn Sysinternals
-title: Learn Sysinternals
+TOCTitle: Sysinternals Resources
+title: Sysinternals Resources
 ms:assetid: '07f84be7-5808-4b75-a29c-437b8e935d78'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb469930(v=MSDN.10)'
-ms.date: 07/22/2016
+ms.date: 09/09/2020
 ---
 
-# Sysinternals Learning Resources 
+# Sysinternals Resources
+
 ## Books
 
 [Windows Internals Book](windows-internals.md)  
@@ -17,29 +18,29 @@ The official guide to the Sysinternals utilities by Mark Russinovich and Aaron M
 
 ## Articles
 
--   [Inside the Windows Vista Kernel: Part 1](https://technet.microsoft.com/magazine/cc162494.aspx)
--   [Inside the Windows Vista Kernel: Part 2](https://technet.microsoft.com/magazine/cc162480.aspx)
--   [Inside the Windows Vista Kernel: Part 3](https://technet.microsoft.com/magazine/cc162458.aspx)
--   [Inside Windows Vista User Account Control](https://technet.microsoft.com/magazine/cc138019.aspx)
--   [Inside Windows Server 2008 Kernel Changes](https://technet.microsoft.com/magazine/cc194386.aspx)
+- [Inside the Windows Vista Kernel: Part 1](https://technet.microsoft.com/magazine/cc162494.aspx)
+- [Inside the Windows Vista Kernel: Part 2](https://technet.microsoft.com/magazine/cc162480.aspx)
+- [Inside the Windows Vista Kernel: Part 3](https://technet.microsoft.com/magazine/cc162458.aspx)
+- [Inside Windows Vista User Account Control](https://technet.microsoft.com/magazine/cc138019.aspx)
+- [Inside Windows Server 2008 Kernel Changes](https://technet.microsoft.com/magazine/cc194386.aspx)
 
 ## Videos and Webcasts
 
 [Defrag Tools Shows](https://channel9.msdn.com/shows/defrag-tools)  
 Episodes 1 – 12 of the *Defrag Tools* shows focus on Sysinternals tools. Each episode covers a specific tool used on the tech support show [Defrag](https://channel9.msdn.com/shows/the-defrag-show), covering when and why to use the tools, and providing tips on how to get the most out of them:
 
--   [Defrag Tools: \#1 - Building your USB thumbdrive](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-building-your-usb-thumbdrive)
--   [Defrag Tools: \#2 - Process Explorer](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-2-process-explorer)
--   [Defrag Tools: \#3 - Process Monitor](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-3-process-monitor)
--   [Defrag Tools: \#4 - Process Monitor - Examples](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-4-process-monitor)
--   [Defrag Tools: \#5 - Autoruns and MSConfig](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-5-autoruns)
--   [Defrag Tools: \#6 - RAMMap](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-6-rammap)
--   [Defrag Tools: \#7 - VMMap](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-7-vmmap)
--   [Defrag Tools: \#8 - Mark Russinovich](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-8-mark-russinovich)
--   [Defrag Tools: \#9 - ProcDump](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-9-procdump)
--   [Defrag Tools: \#10 - ProcDump - Triggers](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-10-procdump-triggers)
--   [Defrag Tools: \#11 - ProcDump - Windows 8 & Process Monitor](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-11-procdump-windows-8--process-monitor)
--   [Defrag Tools: \#12 - TaskMgr and ResMon](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-12-taskmgr-and-resmon)
+- [Defrag Tools: \#1 - Building your USB thumbdrive](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-building-your-usb-thumbdrive)
+- [Defrag Tools: \#2 - Process Explorer](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-2-process-explorer)
+- [Defrag Tools: \#3 - Process Monitor](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-3-process-monitor)
+- [Defrag Tools: \#4 - Process Monitor - Examples](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-4-process-monitor)
+- [Defrag Tools: \#5 - Autoruns and MSConfig](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-5-autoruns)
+- [Defrag Tools: \#6 - RAMMap](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-6-rammap)
+- [Defrag Tools: \#7 - VMMap](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-7-vmmap)
+- [Defrag Tools: \#8 - Mark Russinovich](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-8-mark-russinovich)
+- [Defrag Tools: \#9 - ProcDump](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-9-procdump)
+- [Defrag Tools: \#10 - ProcDump - Triggers](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-10-procdump-triggers)
+- [Defrag Tools: \#11 - ProcDump - Windows 8 & Process Monitor](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-11-procdump-windows-8--process-monitor)
+- [Defrag Tools: \#12 - TaskMgr and ResMon](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-12-taskmgr-and-resmon)
 
 [Mark's Webcasts](https://technet.microsoft.com/3b496bb4-d2ce-477f-8c9e-c3736ac61bfe)  
 Two dozen of Mark’s top-rated presentations on Sysinternals, Windows internals, and Windows Azure are available for on-demand viewing. Get tips and techniques on using the Sysinternals tools to troubleshoot directly from their author.
