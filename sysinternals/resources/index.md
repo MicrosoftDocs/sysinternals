@@ -1,6 +1,7 @@
 ---
 TOCTitle: Sysinternals Resources
 title: Sysinternals Resources
+description: Sysinternals resources and learning materials
 ms:assetid: '07f84be7-5808-4b75-a29c-437b8e935d78'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb469930(v=MSDN.10)'
 ms.date: 09/09/2020

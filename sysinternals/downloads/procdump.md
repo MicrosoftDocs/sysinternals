@@ -4,7 +4,7 @@ title: ProcDump
 description: This command-line utility is aimed at capturing process dumps of otherwise difficult to isolate and reproduce CPU spikes.
 ms:assetid: 'f4201936-3609-4255-8d1e-93601e34aa34'
 ms:mtpsurl: 'https://technet.microsoft.com/Dd996900(v=MSDN.10)'
-ms.date: 05/16/2017
+ms.date: 09/09/2020
 ---
 
 ProcDump v9.0
@@ -186,10 +186,10 @@ See a list of example command lines (the examples are listed above):
 
 ## Related Links
 
--   [**Windows Internals Book**](~/learn/windows-internals.md)  
+-   [**Windows Internals Book**](~/resources/windows-internals.md)  
     The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
--   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)  
+-   [**Windows Sysinternals Administrator's Reference**](~/resources/troubleshooting-book.md)  
     The official guide to the Sysinternals utilities by Mark Russinovich and
     Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example
