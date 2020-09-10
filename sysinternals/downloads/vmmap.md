@@ -39,7 +39,7 @@ optimize their application's memory resource usage.
 
 ## Screenshot
 
-![VMMap](/media/landing/sysinternals/vmmap.jpg)  
+![Screenshot of VMMap showing Explorer.EXE memory analysis](/media/landing/sysinternals/vmmap.jpg)
 
 ## Related Links
 

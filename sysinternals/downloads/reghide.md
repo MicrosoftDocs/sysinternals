@@ -1,9 +1,10 @@
 --- 
 TOCTitle: Reghide
 title: Reghide
+description: Reghide
 ms:assetid: '2d5d1657-5dce-4ad3-8070-7e8882c9d1f7'
 ms:mtpsurl: 'https://technet.microsoft.com/Dd581628(v=MSDN.10)'
-ms.date: 09/09/2020
+ms.date: 09/10/2020
 
 ---
 
