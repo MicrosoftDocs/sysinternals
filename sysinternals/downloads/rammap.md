@@ -42,7 +42,7 @@ snapshots.
 For definitions of the labels RAMMap uses as well as to learn about the
 physical-memory allocation algorithms used by the Windows memory
 manager, please see [Windows Internals, 5^th^
-Edition](~/learn/windows-internals.md).
+Edition](~/resources/windows-internals.md).
 
 ![RAMMap screenshot](/media/landing/sysinternals/rammap_thumb.jpg)
 
@@ -50,10 +50,10 @@ Edition](~/learn/windows-internals.md).
 
 ## Related Links
 
--   [**Windows Internals Book**](~/learn/windows-internals.md)  
+-   [**Windows Internals Book**](~/resources/windows-internals.md)  
     **The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
--   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)The
+-   [**Windows Sysinternals Administrator's Reference**](~/resources/troubleshooting-book.md)The
     official guide to the Sysinternals utilities by Mark Russinovich and
     Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example
