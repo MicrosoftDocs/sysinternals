@@ -1,17 +1,6 @@
 - name: Home
   href: index.md
   items:
-  - name: Learn
-    href: learn/index.md
-    items:
-    - name: Mark's Webcasts
-      href: learn/webcasts.md
-    - name: Windows Internals Book
-      href: learn/windows-internals.md
-    - name: Troubleshooting with the Windows Sysinternals Tools
-      href: learn/troubleshooting-book.md
-    - name: Inside Native Applications
-      href: learn/inside-native-applications.md
   - name: Downloads
     href: downloads/index.md
     expanded: true
@@ -194,6 +183,17 @@
       href: downloads/sysinternals-suite.md
   - name: Community
     href: community.md
+  - name: Resources
+    href: resources/index.md
+    items:
+    - name: Mark's Webcasts
+      href: resources/webcasts.md
+    - name: Windows Internals Book
+      href: resources/windows-internals.md
+    - name: Troubleshooting with the Windows Sysinternals Tools
+      href: resources/troubleshooting-book.md
+    - name: Inside Native Applications
+      href: resources/inside-native-applications.md
   - name: Software License Terms
     href: license-terms.md
   - name: Licensing FAQ

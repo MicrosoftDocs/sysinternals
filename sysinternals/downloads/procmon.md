@@ -4,7 +4,7 @@ title: Process Monitor
 description: Monitor file system, Registry, process, thread and DLL activity in real-time.
 ms:assetid: '37225635-4ad0-4b08-aa5e-4bba665b1d89'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896645(v=MSDN.10)'
-ms.date: 12/18/2019
+ms.date: 09/09/2020
 ---
 
 Process Monitor v3.53
@@ -25,7 +25,7 @@ Introduction
 real-time file system, Registry and process/thread activity. It combines
 the features of two legacy Sysinternals utilities, *Filemon* and
 *Regmon*, and adds an extensive list of enhancements including rich and
-non-destructive filtering, comprehensive event properties such session
+non-destructive filtering, comprehensive event properties such as session
 IDs and user names, reliable process information, full thread stacks
 with integrated symbol support for each operation, simultaneous logging
 to a file, and much more. Its uniquely powerful features will make
@@ -72,11 +72,11 @@ options on a live system.
 ## Related Links
 
 - [**Windows Internals Book**  
-  ](~/learn/windows-internals.md)The
+  ](~/resources/windows-internals.md)The
   official updates and errata page for the definitive book on Windows
   internals, by Mark Russinovich and David Solomon.
 - [**Windows Sysinternals Administrator's Reference**  
-  ](~/learn/troubleshooting-book.md)The
+  ](~/resources/troubleshooting-book.md)The
   official guide to the Sysinternals utilities by Mark Russinovich and
   Aaron Margosis, including descriptions of all the tools, their
   features, how to use them for troubleshooting, and example

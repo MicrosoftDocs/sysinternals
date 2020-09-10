@@ -4,17 +4,17 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 06/24/2020
+ms.date: 09/10/2020
 ---
 
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
 The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows systems and applications.
--   Read the official guide to the Sysinternals tools, [Troubleshooting with the Windows Sysinternals Tools](~/learn/troubleshooting-book.md)
+-   Read the official guide to the Sysinternals tools, [Troubleshooting with the Windows Sysinternals Tools](~/resources/troubleshooting-book.md)
 -   Read the [Sysinternals Blog](https://techcommunity.microsoft.com/t5/Sysinternals-Blog/bg-p/Sysinternals-Blog) for a detailed change feed of tool updates
 -   Watch Mark's [Sysinternals Update videos on YouTube](https://www.youtube.com/playlist?list=PLhFhDWFYccZ_GvdJ11NZwaBAhwDCWmni_)
--   Watch Mark’s top-rated [Case-of-the-Unexplained](~/learn/webcasts.md) troubleshooting presentations and other webcasts
+-   Watch Mark’s top-rated [Case-of-the-Unexplained](~/resources/webcasts.md) troubleshooting presentations and other webcasts
 -   Read [Mark’s Blog](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/bg-p/Windows-Blog-Archive/label-name/Mark%20Russinovich) which highlight use of the tools to solve real problems
--   Check out the Sysinternals [Learning Resources](~/learn/index.md) page
+-   Check out the Sysinternals [Learning Resources](~/resources/index.md) page
 -   Post your questions in the [Sysinternals Forum](https://social.technet.microsoft.com/Forums/en-US/home?category=sysinternals&sort=lastpostdesc)
 
 ---
@@ -23,7 +23,7 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
-## What's New [![RSS](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
+## What's New [![RSS icon](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
 
 ### What's New (June 24, 2020) ###
   - [Sysmon v11.10](~/downloads/sysmon.md)  

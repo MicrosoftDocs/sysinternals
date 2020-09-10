@@ -4,7 +4,7 @@ title: Process Explorer
 description: Find out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more.
 ms:assetid: '32cbeee6-4335-44d5-b94b-160612b99738'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896653(v=MSDN.10)'
-ms.date: 04/28/2020
+ms.date: 09/09/2020
 ---
 
 Process Explorer v16.32
@@ -45,11 +45,11 @@ into the way Windows and applications work.
 ## Related Links
 
 -   [Windows Internals
-    Book](~/learn/windows-internals.md)  
+    Book](~/resources/windows-internals.md)  
     The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
 -   [Windows Sysinternals Administrator's
-    Reference](~/learn/troubleshooting-book.md)  
+    Reference](~/resources/troubleshooting-book.md)  
     The official guide to the Sysinternals utilities by Mark Russinovich
     and Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example

@@ -1,9 +1,10 @@
 ---
 TOCTitle: Troubleshooting with the Windows Sysinternals Tools 
 title: Troubleshooting with the Windows Sysinternals Tools
+description: Troubleshooting with the Windows Sysinternals Tools book
 ms:assetid: '13386ead-8b0b-41ba-b926-c0d47079f737' 
 ms:mtpsurl: 'https://technet.microsoft.com/Hh290819(v=MSDN.10)' 
-ms.date: 11/28/2016
+ms.date: 09/09/2020
 ---
 
 Troubleshooting with the Windows Sysinternals Tools

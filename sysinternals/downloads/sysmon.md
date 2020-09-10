@@ -45,10 +45,10 @@ nor does it attempt to protect or hide itself from attackers.
 -   Multiple hashes can be used at the same time.
 -   Includes a process GUID in process create events to allow for
     correlation of events even when Windows reuses process IDs.
--   Include a session GUID in each events to allow correlation of events
+-   Includes a session GUID in each event to allow correlation of events
     on same logon session.
 -   Logs loading of drivers or DLLs with their signatures and hashes.
--   Logs opens for raw read access of disks and volumes
+-   Logs opens for raw read access of disks and volumes.
 -   Optionally logs network connections, including each connection’s
     source process, IP addresses, port numbers, hostnames and port
     names.
@@ -114,25 +114,25 @@ Neither install nor uninstall requires a reboot.
 
 Install with default settings (process images hashed with sha1 and no
 network monitoring)  
-**sysmon -accepteula  –i**
+**sysmon -accepteula  -i**
 
 Install Sysmon with a configuration file (as described below)
 
-**sysmon –accepteula –i c:\\windows\\config.xml**
+**sysmon -accepteula -i c:\\windows\\config.xml**
 
 Uninstall  
-**sysmon –u**
+**sysmon -u**
 
 Dump the current configuration  
-**sysmon –c**
+**sysmon -c**
 
 Change the configuration of sysmon with a configuration file (as
 described below)
 
-**sysmon –c c:\\windows\\config.xml**
+**sysmon -c c:\\windows\\config.xml**
 
 Change the configuration to default settings  
-**sysmon –c --**
+**sysmon -c --**
 
 Show the configuration schema:  
 **sysmon -s**
@@ -273,25 +273,30 @@ configuration settings via browser downloads, and this event is aimed at
 capturing that based on the browser attaching a Zone.Identifier “mark of
 the web” stream.
 
+### Event ID 16: ServiceConfigurationChange
+
+This event logs changes in the Sysmon configuration - for example when the
+filtering rules are updated.
+
 ### Event ID 17: PipeEvent (Pipe Created)
 
-This event generates when a named pipe is created. Malware often uses named 
-pipes for interprocess communication. 
+This event generates when a named pipe is created. Malware often uses named
+pipes for interprocess communication.
 
 ### Event ID 18: PipeEvent (Pipe Connected)
 
-This event logs when a named pipe connection is made between a client and a 
+This event logs when a named pipe connection is made between a client and a
 server.
 
 ### Event ID 19: WmiEvent (WmiEventFilter activity detected)
 
-When a WMI event filter is registered, which is a method used by malware to 
-execute, this event logs the WMI namespace, filter name and filter expression. 
+When a WMI event filter is registered, which is a method used by malware to
+execute, this event logs the WMI namespace, filter name and filter expression.
 
 ### Event ID 20: WmiEvent (WmiEventConsumer activity detected)
 
 This event logs the registration of WMI consumers, recording the consumer name, 
-log, and destination. 
+log, and destination.
 
 ### Event ID 21: WmiEvent (WmiEventConsumerToFilter activity detected)
 
@@ -299,7 +304,7 @@ When a consumer binds to a filter, this event logs the consumer name and filter 
 
 ### Event ID 22: DNSEvent (DNS query)
 
-This event generates when a process executes a DNS query, whether the result is successful or fails, cached or not. 
+This event generates when a process executes a DNS query, whether the result is successful or fails, cached or not.
 The telemetry for this event was added for Windows 8.1 so it is not available on Windows 7 and earlier.
 
 ### Event ID 23: FileDelete (A file delete was detected)

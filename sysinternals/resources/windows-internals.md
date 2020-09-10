@@ -1,9 +1,10 @@
 --- 
 TOCTitle: Windows Internals Book
 title: Windows Internals Book
+description: Windows Internals book
 ms:assetid: '11dfe484-4785-45a8-9b2f-863cdbd83be6'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb963901(v=MSDN.10)'
-ms.date: 02/07/2017
+ms.date: 09/09/2020
 ---
 Windows Internals Book
 ======================
