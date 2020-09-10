@@ -3,7 +3,7 @@ TOCTitle: Testlimit
 title: Testlimit
 description: Windows Stress test utility.
 ms:assetid: '2a241f34-ffa4-4102-88f4-8fcfdfc28e09'
-ms.date: 03/11/2019
+ms.date: 09/09/2020
 ---
 
 Testlimit v5.24
@@ -54,9 +54,9 @@ memory, handles, processes, threads and other system objects.
 
 ## Related Links
 
--   [**Windows Internals Book**](~/learn/windows-internals.md)  The official updates and errata page for the definitive book on
+-   [**Windows Internals Book**](~/resources/windows-internals.md)  The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
--   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)  The
+-   [**Windows Sysinternals Administrator's Reference**](~/resources/troubleshooting-book.md)  The
     official guide to the Sysinternals utilities by Mark Russinovich and
     Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example

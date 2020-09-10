@@ -4,7 +4,7 @@ title: Autoruns for Windows
 description: See what programs are configured to startup automatically when your system boots and you login.
 ms:assetid: 'b13af0f4-f0a1-4cc5-b940-20be546c1179'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb963902(v=MSDN.10)'
-ms.date: 06/24/2020
+ms.date: 09/09/2020
 ---
 
 Autoruns for Windows v13.98
@@ -126,9 +126,9 @@ Autorunsc is the command-line version of Autoruns. Its usage syntax is:
  
 ## Related Links
 
--   [**Windows Internals Book**](~/learn/windows-internals.md)  The official updates and errata page for the definitive book on
+-   [**Windows Internals Book**](~/resources/windows-internals.md)  The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
--   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)  The
+-   [**Windows Sysinternals Administrator's Reference**](~/resources/troubleshooting-book.md)  The
     official guide to the Sysinternals utilities by Mark Russinovich and
     Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example

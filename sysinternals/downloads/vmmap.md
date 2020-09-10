@@ -4,7 +4,7 @@ title: VMMap
 description: VMMap is a process virtual and physical memory analysis utility.
 ms:assetid: '0b5217b3-99e1-4742-b502-7574bb478a16'
 ms:mtpsurl: 'https://technet.microsoft.com/Dd535533(v=MSDN.10)'
-ms.date: 07/20/2015
+ms.date: 09/09/2020
 ---
 
 VMMap v3.26
@@ -43,10 +43,10 @@ optimize their application's memory resource usage.
 
 ## Related Links
 
--   [**Windows Internals Book**](~/learn/windows-internals.md)  
+-   [**Windows Internals Book**](~/resources/windows-internals.md)  
     The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
--   [**Windows Sysinternals Administrator's Reference**](~/learn/troubleshooting-book.md)
+-   [**Windows Sysinternals Administrator's Reference**](~/resources/troubleshooting-book.md)
     The official guide to the Sysinternals utilities by Mark Russinovich and
     Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example

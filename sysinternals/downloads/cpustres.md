@@ -3,7 +3,7 @@ TOCTitle: CpuStres
 title: CpuStres
 description: Windows CPU Stress utility.
 ms:assetid: 'cfbb8960-ca2c-48c3-a05e-ecb1970d3648'
-ms.date: 03/22/2019
+ms.date: 09/09/2020
 ---
 
 CpuStres v2.0
@@ -38,7 +38,7 @@ Each thread can be started, paused or stopped independently and can be configure
 
 ## Related Links
 
--   [**Windows Internals Book**](~/learn/windows-internals.md)  The official updates and errata page for the definitive book on
+-   [**Windows Internals Book**](~/resources/windows-internals.md)  The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
 
 ## Download
