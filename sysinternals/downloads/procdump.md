@@ -31,13 +31,49 @@ process dump utility that you can embed in other scripts.
 
 ## Using ProcDump
 
-**usage: procdump \[-a\] \[\[-c|-cl CPU usage\] \[-u\] \[-s seconds\]\]
-\[-n exceeds\] \[-e \[1 \[-b\]\] \[-f &lt;filter,...&gt;\] \[-g\] \[-h\]
-\[-l\] \[-m|-ml commit usage\] \[-ma | -mp\] \[-o\] \[-p|-pl counter
-threshold\] \[-r\] \[-t\] \[-d &lt;callback DLL&gt;\] \[-64\] &lt;\[-w\]
-&lt;process name or service name or PID&gt; \[dump file\] | -i &lt;dump
-file&gt; | -u | -x &lt;dump file&gt; &lt;image file&gt; \[arguments\]
-&gt;\] \[-? \[ -e\]**
+**Capture Usage:**  
+
+```cmd
+procdump.exe [-mm] [-ma] [-mp] [-mc Mask] [-md Callback_DLL] [-mk]
+             [-n Count]
+             [-s Seconds]
+             [-c|-cl CPU_Usage [-u]]
+             [-m|-ml Commit_Usage]
+             [-p|-pl Counter_Threshold]
+             [-h]
+             [-e [1 [-g] [-b]]]
+             [-l]
+             [-t]
+             [-f  Include_Filter, ...]
+             [-fx Exclude_Filter, ...]
+             [-o]
+             [-r [1..5] [-a]]
+             [-at Timeout]
+             [-wer]
+             [-64]
+             {
+                 {{[-w] Process_Name | Service_Name | PID} [Dump_File | Dump_Folder]}
+             |
+                 {-x Dump_Folder Image_File [Argument, ...]}
+             }
+```
+
+**Install Usage:**  
+
+```cmd
+procdump.exe -i [Dump_Folder]
+             [-mm] [-ma] [-mp] [-mc Mask] [-md Callback_DLL] [-mk]
+             [-r]
+             [-at Timeout]
+             [-k]
+             [-wer]
+```
+
+**Uninstall Usage:**  
+
+```cmd
+procdump.exe -u
+```
 
 | Parameter | Description                                                                                                                                                                                                                                                                                                                                                                    |
 |-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
