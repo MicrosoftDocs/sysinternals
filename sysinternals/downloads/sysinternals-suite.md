@@ -13,9 +13,9 @@ Sysinternals Suite
 **By Mark Russinovich**  
 Updated: September 17, 2020
 
-[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (29.7 MB)  
-[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (5.4 MB)  
-[**Download Sysinternals Suite for ARM64**](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip) (1.1 MB)  
+[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (34.5 MB)  
+[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (7.2 MB)  
+[**Download Sysinternals Suite for ARM64**](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip) (7.5 MB)  
 
 ## Introduction
 
