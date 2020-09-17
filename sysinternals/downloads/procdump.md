@@ -4,17 +4,17 @@ title: ProcDump
 description: This command-line utility is aimed at capturing process dumps of otherwise difficult to isolate and reproduce CPU spikes.
 ms:assetid: 'f4201936-3609-4255-8d1e-93601e34aa34'
 ms:mtpsurl: 'https://technet.microsoft.com/Dd996900(v=MSDN.10)'
-ms.date: 09/10/2020
+ms.date: 09/17/2020
 ---
 
-ProcDump v9.0
+ProcDump v10.0
 =============
 
 **By Mark Russinovich and Andrew Richards**
 
-Published: May 16, 2017
+Published: 09/17/2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(439 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(659 KB)**
 
 [**Download ProcDump for Linux (GitHub)**](https://github.com/Microsoft/ProcDump-for-Linux)
 
@@ -196,7 +196,7 @@ See a list of example command lines (the examples are listed above):
 
 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(439 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(659 KB)**
 
 [**Download ProcDump for Linux (GitHub)**](https://github.com/Microsoft/ProcDump-for-Linux)
   

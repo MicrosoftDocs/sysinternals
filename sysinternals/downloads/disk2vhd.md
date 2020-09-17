@@ -4,7 +4,7 @@ title: Disk2vhd
 description: Disk2vhd simplifies the migration of physical systems into virtual machines.
 ms:assetid: 'd2c9597c-1927-4ddc-9ec1-9e0f33166f90'
 ms:mtpsurl: 'https://technet.microsoft.com/Ee656415(v=MSDN.10)'
-ms.date: 01/21/2014
+ms.date: 09/17/2020
 ---
 
 Disk2vhd v2.01

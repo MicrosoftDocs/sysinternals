@@ -4,17 +4,17 @@ title: Process Monitor
 description: Monitor file system, Registry, process, thread and DLL activity in real-time.
 ms:assetid: '37225635-4ad0-4b08-aa5e-4bba665b1d89'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896645(v=MSDN.10)'
-ms.date: 09/09/2020
+ms.date: 09/17/2020
 ---
 
-Process Monitor v3.53
+Process Monitor v3.60
 =====================
 
 **By Mark Russinovich**
 
-Published: December 18, 2019
+Published: September 17, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(1.5 MB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Procmon.exe).
 
 
@@ -84,7 +84,7 @@ options on a live system.
 
 ## Download 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(1.5 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(2 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Procmon.exe).
 

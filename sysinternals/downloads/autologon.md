@@ -4,7 +4,7 @@ title: Autologon
 description: Bypass password screen during logon.
 ms:assetid: '121f300c-85cb-418d-8199-48e587d864c3'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb963905(v=MSDN.10)'
-ms.date: 08/29/2016
+ms.date: 09/17/2020
 ---
 
 Autologon v3.10
@@ -14,7 +14,7 @@ Autologon v3.10
 
 Published: August 29, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AutoLogon.zip) [**Download Autologon**](https://download.sysinternals.com/files/AutoLogon.zip) **(70 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AutoLogon.zip) [**Download Autologon**](https://download.sysinternals.com/files/AutoLogon.zip) **(495 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Autologon.exe).
 
 ## Introduction
@@ -38,5 +38,5 @@ Windows will not process the autologon configuration.
 
  
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AutoLogon.zip) [**Download Autologon**](https://download.sysinternals.com/files/AutoLogon.zip) **(70 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AutoLogon.zip) [**Download Autologon**](https://download.sysinternals.com/files/AutoLogon.zip) **(495 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Autologon.exe).

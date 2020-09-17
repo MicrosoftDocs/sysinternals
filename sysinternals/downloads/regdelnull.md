@@ -4,7 +4,7 @@ title: RegDelNull
 description: Scan for and delete Registry keys that contain embedded null-characters that are otherwise undeleteable by standard Registry-editing tools.
 ms:assetid: '8f4db30a-523f-4482-91d6-f6a68a11126c'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897448(v=MSDN.10)'
-ms.date: 07/04/2016
+ms.date: 09/17/2020
 ---
 
 RegDelNull v1.11
@@ -14,7 +14,7 @@ RegDelNull v1.11
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Regdelnull.zip) [**Download RegDelNull**](https://download.sysinternals.com/files/Regdelnull.zip) **(152 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Regdelnull.zip) [**Download RegDelNull**](https://download.sysinternals.com/files/Regdelnull.zip) **(511 KB)**
 
 
 ## Introduction
@@ -52,7 +52,7 @@ Delete (y/n) y
 Scan complete.
 ```
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Regdelnull.zip) [**Download RegDelNull**](https://download.sysinternals.com/files/Regdelnull.zip) **(152 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Regdelnull.zip) [**Download RegDelNull**](https://download.sysinternals.com/files/Regdelnull.zip) **(511 KB)**
 
 **Runs on:**
 

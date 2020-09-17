@@ -4,7 +4,7 @@ title: Junction
 description: Create Win2K NTFS symbolic links.
 ms:assetid: '16f763c0-cb78-4d67-a865-63e79bef0c58'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896768(v=MSDN.10)'
-ms.date: 07/04/2016
+ms.date: 09/17/2020
 ---
 
 Junction v1.07
@@ -14,7 +14,7 @@ Junction v1.07
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(212 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(504 KB)**
 
 
 ## Introduction
@@ -74,7 +74,7 @@ To delete a junction, use the –d switch:
 **0**  - on the check if a file is a junction fails (e.g. if file not found)  
 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(212 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(504 KB)**
 
 **Runs on:**
 

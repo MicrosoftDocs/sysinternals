@@ -4,15 +4,16 @@ title: PendMoves and MoveFile
 description: Enumerate the list of file rename and delete commands that will be executed the next boot.
 ms:assetid: 'a49e9434-8fa3-4f2c-9ae1-8212360d4917'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897556(v=MSDN.10)'
-ms.date: 07/04/2016
+ms.date: 09/17/2020
 ---
+
 PendMoves v1.02 and MoveFile v1.01
 ================================= 
 
 **By Mark Russinovich**
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/PendMoves.zip) [**Download PendMovesand MoveFile**](https://download.sysinternals.com/files/PendMoves.zip) **(284 KB)**
+[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/PendMoves.zip) [**Download PendMovesand MoveFile**](https://download.sysinternals.com/files/PendMoves.zip) **(988 KB)**
 
 
 ## Introduction
@@ -43,4 +44,4 @@ Specifying an empty destination  ("") deletes the source at boot. An example tha
 movefile test.exe ""  
 ```
 
-[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/PendMoves.zip) [**Download PendMovesand MoveFile**](https://download.sysinternals.com/files/PendMoves.zip) **(284 KB)**
+[![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/PendMoves.zip) [**Download PendMovesand MoveFile**](https://download.sysinternals.com/files/PendMoves.zip) **(988 KB)**

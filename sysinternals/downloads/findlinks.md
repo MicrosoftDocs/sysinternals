@@ -4,7 +4,7 @@ title: FindLinks
 description: FindLinks reports the file index and any hard links (alternate file paths on the same volume) that exist for the specified file.
 ms:assetid: 'f3fb08e4-d0af-4191-b09d-08bf44694281'
 ms:mtpsurl: 'https://technet.microsoft.com/Hh290814(v=MSDN.10)'
-ms.date: 07/04/2016
+ms.date: 09/17/2020
 ---
 
 FindLinks v1.1
@@ -14,7 +14,7 @@ FindLinks v1.1
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/FindLinks.zip) [**Download FindLinks**](https://download.sysinternals.com/files/FindLinks.zip) **(153 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/FindLinks.zip) [**Download FindLinks**](https://download.sysinternals.com/files/FindLinks.zip) **(271 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/FindLinks.exe).
 
 
@@ -51,7 +51,7 @@ C:\Windows\winsxs\amd64_microsoft-windows-notepad_31bf3856ad364e35_6.1.7600.1638
 C:\Windows\System32\notepad.exe
 ```
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/FindLinks.zip) [**Download FindLinks**](https://download.sysinternals.com/files/FindLinks.zip) **(153 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/FindLinks.zip) [**Download FindLinks**](https://download.sysinternals.com/files/FindLinks.zip) **(271 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/FindLinks.exe).
 

@@ -6,6 +6,7 @@ ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
 ms.date: 09/17/2020
 ---
+
 # Sysinternals Utilities Index
 
 [Sysinternals Suite](https://download.sysinternals.com/files/SysinternalsSuite.zip)  
@@ -47,7 +48,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v13.95 (June 11, 2019)*  
+*v13.98 (June 24, 2020)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -98,7 +99,7 @@ keys before NT even "sees" them. Ctrl2cap also shows how to use
 NtDisplayString() to print messages to the initialization blue-screen.
 
 [DebugView](debugview.md)  
-*v4.81 (December 4, 2012)*  
+*v4.9 (April 23, 2019)*  
 Another first from Sysinternals: This program intercepts calls made to
 DbgPrint by device drivers and OutputDebugString made by Win32 programs.
 It allows for viewing and recording of debug session output on your
@@ -144,7 +145,7 @@ data remains allocated so long as at it has at least one file name
 referencing it.
 
 [Handle](handle.md)  
-*v4.11 (December 12, 2017)*  
+*v4.22 (June 14, 2019)*  
 This handy command-line utility will show you what files are open by
 which processes, and much more.
 
@@ -211,7 +212,7 @@ shows you a portion of the data being sent and received. Version 3.x has
 powerful new UI enhancements and advanced filtering capabilities.
 
 [ProcDump](procdump.md)  
-*v9.0 (May 16, 2017)*  
+*v10.0 (September 17, 2020)*  
 This command-line utility is aimed at capturing process dumps of
 otherwise difficult to isolate and reproduce CPU spikes. It also serves
 as a general process dump creation utility and can also monitor and
@@ -219,13 +220,13 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)  
-*v16.21 (May 16, 2017)*  
+*v16.32 (April 28, 2020)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.50 (February 13, 2018)*  
+*v3.54 (September 17, 2020)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -321,7 +322,7 @@ Launch programs as a different user via a convenient shell context-menu
 entry.
 
 [Sigcheck](sigcheck.md)  
-*v2.70 (October 19, 2018)*  
+*v2.80 (June 24, 2020)*  
 Dump file version information and verify that images on your system are
 digitally signed.
 
@@ -330,7 +331,7 @@ digitally signed.
 Reveal NTFS alternate streams.
 
 [Strings](strings.md)  
-*v2.52 (June 20, 2013)*  
+*v2.53 (July 4, 2016)*  
 Search for ANSI and UNICODE strings in binary images.
 
 [Sync](sync.md)  
@@ -338,7 +339,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v11.12 (September 17, 2020)*  
+*v12.0 (September 17, 2020)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
@@ -354,7 +355,7 @@ VMMap is a process virtual and physical memory analysis utility.
 Set Volume ID of FAT or NTFS drives.
 
 [Whois](whois.md)  
-*v1.20 (November 19, 2017)*  
+*v1.20 (December 11, 2019)*  
 See who owns an Internet address.
 
 [WinObj](winobj.md)  
@@ -362,5 +363,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  
-*v4.5 (June 20, 2013)*  
+*v4.52 (December 11, 2019)*  
 Presentation utility for zooming and drawing on the screen.  
