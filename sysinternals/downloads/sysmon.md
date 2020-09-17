@@ -14,7 +14,7 @@ Sysmon v12.0
 
 Published: September 17, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.7 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.8 MB)**
 
 ## Introduction
 
@@ -494,7 +494,7 @@ termination of ping.exe and timeout.exe.
   &lt;/EventFiltering&gt;
 </pre>
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.7 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.8 MB)**
   
 **Runs on:**
 
