@@ -27,7 +27,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ### What's New (September 17, 2020)
 
-- [Sysmon v20.0](~/downloads/sysmon.md)  
+- [Sysmon v12.0](~/downloads/sysmon.md)  
 In addition to several bug fixes, this major update to Sysmon adds support for capturing clipboard operations to help incident responders retrieve attacker RDP file and command drops, including originating remote machine IP addresses.
 
 - [Process Monitor v3.60](~/downloads/processmonitor.md)  

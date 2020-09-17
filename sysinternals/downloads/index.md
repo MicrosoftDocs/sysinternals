@@ -99,7 +99,7 @@ keys before NT even "sees" them. Ctrl2cap also shows how to use
 NtDisplayString() to print messages to the initialization blue-screen.
 
 [DebugView](debugview.md)  
-*v4.9 (April 23, 2019)*  
+*v4.90 (April 23, 2019)*  
 Another first from Sysinternals: This program intercepts calls made to
 DbgPrint by device drivers and OutputDebugString made by Win32 programs.
 It allows for viewing and recording of debug session output on your
@@ -226,7 +226,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.54 (September 17, 2020)*  
+*v3.60 (September 17, 2020)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
