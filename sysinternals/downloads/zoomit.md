@@ -4,7 +4,7 @@ title: ZoomIt
 description: Presentation utility for zooming and drawing on the screen.
 ms:assetid: '0b6c4abc-9482-4759-a9cd-bf77cb961dd4'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
-ms.date: 12/11/2019
+ms.date: 09/17/2020
 ---
 
 ZoomIt v4.52
@@ -14,7 +14,7 @@ ZoomIt v4.52
 
 Published: December 11, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(448 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(917 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
 
 
@@ -64,5 +64,5 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 
 ![ZoomIt](/media/landing/sysinternals/20130618_Zoomit_v4.5.jpg)  
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(448 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(917 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
