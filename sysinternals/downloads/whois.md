@@ -4,7 +4,7 @@ title: Whois
 description: See who owns an Internet address.
 ms:assetid: '31fa42da-10ab-4cb3-a206-72be17333805'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897435(v=MSDN.10)'
-ms.date: 12/11/2019
+ms.date: 09/17/2020
 ---
 
 Whois v1.21
@@ -14,7 +14,7 @@ Whois v1.21
 
 Published: December 11, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WhoIs.zip) [**Download Whois**](https://download.sysinternals.com/files/WhoIs.zip) **(387 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WhoIs.zip) [**Download Whois**](https://download.sysinternals.com/files/WhoIs.zip) **(585 KB)**
 
 
 ## Introduction
@@ -33,7 +33,7 @@ that you specify.
 Domainname can be either a DNS name (e.g. www.sysinternals.com) or IP
 address (e.g. 66.193.254.46).
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WhoIs.zip) [**Download Whois**](https://download.sysinternals.com/files/WhoIs.zip) **(387 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WhoIs.zip) [**Download Whois**](https://download.sysinternals.com/files/WhoIs.zip) **(585 KB)**
 
 **Runs on:**
 

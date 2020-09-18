@@ -4,7 +4,7 @@ title: Process Explorer
 description: Find out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more.
 ms:assetid: '32cbeee6-4335-44d5-b94b-160612b99738'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896653(v=MSDN.10)'
-ms.date: 09/09/2020
+ms.date: 09/17/2020
 ---
 
 Process Explorer v16.32
@@ -14,7 +14,7 @@ Process Explorer v16.32
 
 Published: April 28, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(1.9 MB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(2.5 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
 
 ## Introduction
@@ -57,7 +57,7 @@ into the way Windows and applications work.
 
 ## Download 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(1.9 MB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(2.5 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
 
 **Runs on:**

@@ -4,7 +4,7 @@ title: AdInsight
 description: An LDAP (Light-weight Directory Access Protocol) real-time monitoring tool aimed at troubleshooting Active Directory client applications.
 ms:assetid: 'f3eb3300-3b79-45b4-bf1e-b4ae9fc68ca8'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897539(v=MSDN.10)'
-ms.date: 10/26/2015
+ms.date: 09/17/2020
 ---
 
 Insight for Active Directory v1.2
@@ -14,7 +14,7 @@ Insight for Active Directory v1.2
 
 Published: October 26, 2015
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdInsight.zip) [**Download AdInsight**](https://download.sysinternals.com/files/AdInsight.zip) **(113 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdInsight.zip) [**Download AdInsight**](https://download.sysinternals.com/files/AdInsight.zip) **(3.3 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ADInsight.exe).
 
 ## Introduction
@@ -38,7 +38,7 @@ monitor system processes, including windows services.
 ![ADInsight](/media/landing/sysinternals/adinsight.jpg)  
 
  
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdInsight.zip) [**Download AdInsight**](https://download.sysinternals.com/files/AdInsight.zip) **(113 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdInsight.zip) [**Download AdInsight**](https://download.sysinternals.com/files/AdInsight.zip) **(3.3 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ADInsight.exe).
 

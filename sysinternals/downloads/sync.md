@@ -4,7 +4,7 @@ title: Sync
 description: Flush cached data to disk.
 ms:assetid: 'c37d73b0-a75b-40ff-9b31-0d0dae62849e'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897438(v=MSDN.10)'
-ms.date: 07/04/2016
+ms.date: 09/17/2020
 ---
 
 Sync v2.2
@@ -14,7 +14,7 @@ Sync v2.2
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sync.zip) [**Download Sync**](https://download.sysinternals.com/files/Sync.zip)  **(145 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sync.zip) [**Download Sync**](https://download.sysinternals.com/files/Sync.zip)  **(500 KB)**
 
 
 ## Introduction
@@ -42,7 +42,7 @@ removable drives such as ZIP drives.
 Specifying specific drives (e.g. "c e") will result in Sync only
 flushing those drives.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sync.zip) [**Download Sync**](https://download.sysinternals.com/files/Sync.zip)  **(145 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sync.zip) [**Download Sync**](https://download.sysinternals.com/files/Sync.zip)  **(500 KB)**
 
 **Runs on:**
 

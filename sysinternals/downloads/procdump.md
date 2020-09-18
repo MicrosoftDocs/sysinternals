@@ -4,17 +4,17 @@ title: ProcDump
 description: This command-line utility is aimed at capturing process dumps of otherwise difficult to isolate and reproduce CPU spikes.
 ms:assetid: 'f4201936-3609-4255-8d1e-93601e34aa34'
 ms:mtpsurl: 'https://technet.microsoft.com/Dd996900(v=MSDN.10)'
-ms.date: 09/10/2020
+ms.date: 09/17/2020
 ---
 
-ProcDump v9.0
+ProcDump v10.0
 =============
 
 **By Mark Russinovich and Andrew Richards**
 
-Published: May 16, 2017
+Published: 09/17/2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(439 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(659 KB)**
 
 [**Download ProcDump for Linux (GitHub)**](https://github.com/Microsoft/ProcDump-for-Linux)
 
@@ -31,13 +31,49 @@ process dump utility that you can embed in other scripts.
 
 ## Using ProcDump
 
-**usage: procdump \[-a\] \[\[-c|-cl CPU usage\] \[-u\] \[-s seconds\]\]
-\[-n exceeds\] \[-e \[1 \[-b\]\] \[-f &lt;filter,...&gt;\] \[-g\] \[-h\]
-\[-l\] \[-m|-ml commit usage\] \[-ma | -mp\] \[-o\] \[-p|-pl counter
-threshold\] \[-r\] \[-t\] \[-d &lt;callback DLL&gt;\] \[-64\] &lt;\[-w\]
-&lt;process name or service name or PID&gt; \[dump file\] | -i &lt;dump
-file&gt; | -u | -x &lt;dump file&gt; &lt;image file&gt; \[arguments\]
-&gt;\] \[-? \[ -e\]**
+**Capture Usage:**  
+
+```cmd
+procdump.exe [-mm] [-ma] [-mp] [-mc Mask] [-md Callback_DLL] [-mk]
+             [-n Count]
+             [-s Seconds]
+             [-c|-cl CPU_Usage [-u]]
+             [-m|-ml Commit_Usage]
+             [-p|-pl Counter_Threshold]
+             [-h]
+             [-e [1 [-g] [-b]]]
+             [-l]
+             [-t]
+             [-f  Include_Filter, ...]
+             [-fx Exclude_Filter, ...]
+             [-o]
+             [-r [1..5] [-a]]
+             [-at Timeout]
+             [-wer]
+             [-64]
+             {
+                 {{[-w] Process_Name | Service_Name | PID} [Dump_File | Dump_Folder]}
+             |
+                 {-x Dump_Folder Image_File [Argument, ...]}
+             }
+```
+
+**Install Usage:**  
+
+```cmd
+procdump.exe -i [Dump_Folder]
+             [-mm] [-ma] [-mp] [-mc Mask] [-md Callback_DLL] [-mk]
+             [-r]
+             [-at Timeout]
+             [-k]
+             [-wer]
+```
+
+**Uninstall Usage:**  
+
+```cmd
+procdump.exe -u
+```
 
 | Parameter | Description                                                                                                                                                                                                                                                                                                                                                                    |
 |-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -196,7 +232,7 @@ See a list of example command lines (the examples are listed above):
 
 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(439 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(659 KB)**
 
 [**Download ProcDump for Linux (GitHub)**](https://github.com/Microsoft/ProcDump-for-Linux)
   

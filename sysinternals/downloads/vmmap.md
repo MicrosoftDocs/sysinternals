@@ -4,7 +4,7 @@ title: VMMap
 description: VMMap is a process virtual and physical memory analysis utility.
 ms:assetid: '0b5217b3-99e1-4742-b502-7574bb478a16'
 ms:mtpsurl: 'https://technet.microsoft.com/Dd535533(v=MSDN.10)'
-ms.date: 09/09/2020
+ms.date: 09/17/2020
 ---
 
 VMMap v3.26
@@ -14,7 +14,7 @@ VMMap v3.26
 
 Published: June 11, 2018
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(626 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(1.3 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/vmmap.exe).
 
 
@@ -52,7 +52,7 @@ optimize their application's memory resource usage.
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(586 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(1.3 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/vmmap.exe).
 
