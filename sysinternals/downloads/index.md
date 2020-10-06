@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 09/17/2020
+ms.date: 10/08/2020
 ---
 
 # Sysinternals Utilities Index
@@ -339,7 +339,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v12.0 (September 17, 2020)*  
+*v12.01 (October 8, 2020)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
