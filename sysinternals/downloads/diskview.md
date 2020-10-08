@@ -25,7 +25,7 @@ determine where a file is located or, by clicking on a cluster, seeing
 which file occupies it. Double-click to get more information about a
 file to which a cluster is allocated.
 
-![DiskView](/media/landing/sysinternals/diskview.gif)
+![DiskView screenshot](/media/landing/sysinternals/diskview.gif)
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DiskView.zip) [**Download DiskView**](https://download.sysinternals.com/files/DiskView.zip) **(288 KB)**
 
