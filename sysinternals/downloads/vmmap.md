@@ -4,15 +4,15 @@ title: VMMap
 description: VMMap is a process virtual and physical memory analysis utility.
 ms:assetid: '0b5217b3-99e1-4742-b502-7574bb478a16'
 ms:mtpsurl: 'https://technet.microsoft.com/Dd535533(v=MSDN.10)'
-ms.date: 09/17/2020
+ms.date: 10/14/2020
 ---
 
-VMMap v3.26
+VMMap v3.30
 ===========
 
 **By Mark Russinovich**
 
-Published: June 11, 2018
+Published: October 14, 2020
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(1.3 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/vmmap.exe).
