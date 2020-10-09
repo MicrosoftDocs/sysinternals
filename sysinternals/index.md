@@ -37,7 +37,21 @@ Security and bug fix release, resolves a PipeEvent processing issue and adds ext
 Fixed managed heap information for .NET Core 3.0 applications.
 
 - [ARM64 ports](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip)  
-In addition, AccessChk v6.13, DiskView v2.41 and VMMap v3.30 are being released for ARM64. Download all ARM64 tools in a single download with the [Sysinternals Suite for ARM64](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip).
+New ARM64 releases for AccessChk v6.13, DiskView v2.41 and VMMap v3.30. Download all ARM64 tools in a single download with the [Sysinternals Suite for ARM64](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip).
+
+### What's New (September 17, 2020)
+
+- [Sysmon v12.0](~/downloads/sysmon.md)  
+In addition to several bug fixes, this major update to Sysmon adds support for capturing clipboard operations to help incident responders retrieve attacker RDP file and command drops, including originating remote machine IP addresses.
+
+- [Process Monitor v3.60](~/downloads/procmon.md)  
+This update to Process Monitor, a utility that logs process file, network and registry activity, adds support for multiple filter item selection, as well as decoding for new file system control operations and error status codes.
+
+- [Procdump v10.0](~/downloads/procdump.md)  
+This release of Procdump, a flexible tool for manual and trigger-based process dump generation, adds support for dump cancellation and CoreCLR processes.
+
+- [ARM64 ports](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip)  
+In addition, several tools have been newly ported to and are now available for ARM64. These include: AdInsight v1.2, AutoLogon v3.1, Autoruns v13.98, ClockRes v2.1, DebugView v4.9, DiskExt v1.2, FindLinks v1.1, Handle v4.22, Hex2Dec v1.1, Junction v1.07, PendMoves v1.02, PipeList v1.02, Procdump v10.0, Process Explorer v16.32, RegDelNull v1.11, RU v1.2, Sigcheck v2.8, Streams v1.6, Sync v2.2, VMMap v3.26, WhoIs v1.21 and ZoomIt v4.52. Download all ARM64 tools in a single download with the [Sysinternals Suite for ARM64](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip).
 
 ### What's New (June 24, 2020) ###
   - [Sysmon v11.10](~/downloads/sysmon.md)  

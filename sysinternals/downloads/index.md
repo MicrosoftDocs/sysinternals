@@ -126,10 +126,10 @@ This utility captures all hard disk activity or acts like a software
 disk activity light in your system tray.
 
 [DiskView](diskview.md)  
-*v2.41 (October 14, 2020*.md)  
+*v2.41 (October 14, 2020*)  
 Graphical disk sector utility.
 
-[Disk Usage (DU.md)](du.md)  
+[Disk Usage (DU)](du.md)  
 *v1.61 (February 13, 2018)*  
 View disk usage by directory.
 
@@ -298,7 +298,7 @@ information in different ways on its several different tabs.
 Scan for and delete Registry keys that contain embedded null-characters
 that are otherwise undeleteable by standard Registry-editing tools.
 
-[Registry Usage (RU.md)](ru.md)  
+[Registry Usage (RU)](ru.md)  
 *v1.2 (July 4, 2016)*  
 View the registry space usage for the specified registry key.
 
