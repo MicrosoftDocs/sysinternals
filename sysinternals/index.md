@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 09/17/2020
+ms.date: 10/15/2020
 ---
 
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
@@ -24,6 +24,14 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
+
+### What's New (October 15, 2020)
+
+- [VMMap v3.30](~/downloads/vmmap.md)
+This update to VMMap, a utility that reports the virtual memory layout of a process, identifies .NET Core 3.0 managed heaps.
+
+- [RAMMap v1.60](~/downloads/rammap.md)
+This release to RAMMap, a utility that analyzes and displays physical memory usage, adds customizable map colors and a new command line option, -e, to empty the different types of system working sets.
 
 ### What's New (September 17, 2020)
 
