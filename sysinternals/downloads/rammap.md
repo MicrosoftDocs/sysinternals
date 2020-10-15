@@ -4,7 +4,7 @@ title: RAMMap
 description: An advanced physical memory usage analysis utility that presents usage information in different ways on its several different tabs.
 ms:assetid: 'e90bb927-b735-4888-bedc-588efd5fd7eb'
 ms:mtpsurl: 'https://technet.microsoft.com/Ff700229(v=MSDN.10)'
-ms.date: 10/13/2020
+ms.date: 10/15/2020
 ---
 
 RAMMap v1.60
@@ -12,7 +12,7 @@ RAMMap v1.60
 
 **By Mark Russinovich**
 
-Published: October 13, 2020
+Published: October 15, 2020
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(488 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RAMMap.exe).

@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 10/13/2020
+ms.date: 10/15/2020
 ---
 
 # Sysinternals Utilities Index
@@ -19,7 +19,7 @@ Sysinternals Utilities for Nano Server in a single download.
 Sysinternals Utilities for ARM64 in a single download.
 
 [AccessChk](accesschk.md)  
-*v6.13 (October 13, 2020)*  
+*v6.13 (October 15, 2020)*  
 AccessChk is a command-line tool for viewing the effective permissions
 on files, registry keys, services, processes, kernel objects, and more.
 
@@ -126,7 +126,7 @@ This utility captures all hard disk activity or acts like a software
 disk activity light in your system tray.
 
 [DiskView](diskview.md)  
-*v2.41 (October 13, 2020*)  
+*v2.41 (October 15, 2020*)  
 Graphical disk sector utility.
 
 [Disk Usage (DU)](du.md)  
@@ -289,7 +289,7 @@ processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
 
 [RAMMap](rammap.md)  
-*v1.60 (October 13, 2020)*  
+*v1.60 (October 15, 2020)*  
 An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
@@ -339,7 +339,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v12.01 (October 13, 2020)*  
+*v12.01 (October 15, 2020)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
@@ -347,7 +347,7 @@ Monitors and reports key system activity via the Windows event log.
 Active socket command-line viewer.
 
 [VMMap](vmmap.md)  
-*v3.30 (October 13, 2020)*  
+*v3.30 (October 15, 2020)*  
 VMMap is a process virtual and physical memory analysis utility.
 
 [VolumeId](volumeid.md)  

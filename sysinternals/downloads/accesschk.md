@@ -4,7 +4,7 @@ title: AccessChk
 description: AccessChk is a command-line tool for viewing the effective permissions on files, registry keys, services, processes, kernel objects, and more.
 ms:assetid: 'f15a6468-622f-4c89-98d7-94667c640675' 
 ms:mtpsurl: 'https://technet.microsoft.com/Bb664922(v=MSDN.10)' 
-ms.date: 10/13/2020
+ms.date: 10/15/2020
 ---
 
 AccessChk v6.13
@@ -12,7 +12,7 @@ AccessChk v6.13
 
 **By Mark Russinovich**
 
-Published: October 13, 2020
+Published: October 15, 2020
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(957 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/accesschk.exe).
