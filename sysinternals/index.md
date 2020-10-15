@@ -27,17 +27,11 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ### What's New (October 15, 2020)
 
-- [Sysmon v12.01](~/downloads/sysmon.md)  
-Security and bug fix release, resolves a PipeEvent processing issue and adds extra checks to kernel writes.
-
 - [VMMap v3.30](~/downloads/vmmap.md)
-Fixed managed heap information for .NET Core 3.0 applications.
+This update to VMMap, a utility that reports the virtual memory layout of a process, identifies .NET Core 3.0 managed heaps.
 
 - [RAMMap v1.60](~/downloads/rammap.md)
-This release brings customizable map colors and a new command line option (-E) for clearing the memory.
-
-- [ARM64 ports](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip)  
-New ARM64 releases for AccessChk v6.13, DiskView v2.41 and VMMap v3.30. Download all ARM64 tools in a single download with the [Sysinternals Suite for ARM64](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip).
+This release to RAMMap, a utility that analyzes and displays physical memory usage, adds customizable map colors and a new command line option, -e, to empty the different types of system working sets.
 
 ### What's New (September 17, 2020)
 
