@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 10/15/2020
+ms.date: 11/04/2020
 ---
 
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
@@ -24,6 +24,14 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](/media/landing/sysinternals/rss.gif)](https://blogs.technet.microsoft.com/sysinternals/feed/) ##
+
+### What's New (November 04, 2020)
+
+- [AdExplorer v1.50](~/downloads/adexplorer.md)
+This release of AdExplorer, an Active Directory (AD) viewer and editor, adds support for exporting data from the "Compare" dialog and also includes AMD64 and ARM64 versions.
+
+- [DU v1.62](~/downloads/du.md)
+This new release of DU, a tool for viewing disk usage information, now also accounts for the MFT (Master File Table), doesn't have the MAX_PATH limitation anymore and also runs on ARM64 processors.
 
 ### What's New (October 15, 2020)
 

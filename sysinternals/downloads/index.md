@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 10/15/2020
+ms.date: 11/04/2020
 ---
 
 # Sysinternals Utilities Index
@@ -30,7 +30,7 @@ directories, files and Registry keys on your systems. Use it to find
 holes in your permissions.
 
 [AdExplorer](adexplorer.md)  
-*v1.44 (November 15, 2012)*  
+*v1.50 (November 04, 2020)*  
 Active Directory Explorer is an advanced Active Directory (AD) viewer
 and editor.  
   
@@ -130,7 +130,7 @@ disk activity light in your system tray.
 Graphical disk sector utility.
 
 [Disk Usage (DU)](du.md)  
-*v1.61 (February 13, 2018)*  
+*v1.62 (November 04, 2020)*  
 View disk usage by directory.
 
 [EFSDump](efsdump.md)  
@@ -339,7 +339,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v12.01 (October 15, 2020)*  
+*v12.02 (November 04, 2020)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
@@ -347,7 +347,7 @@ Monitors and reports key system activity via the Windows event log.
 Active socket command-line viewer.
 
 [VMMap](vmmap.md)  
-*v3.30 (October 15, 2020)*  
+*v3.31 (November 04, 2020)*  
 VMMap is a process virtual and physical memory analysis utility.
 
 [VolumeId](volumeid.md)  

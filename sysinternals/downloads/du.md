@@ -4,15 +4,15 @@ title: Disk Usage
 description: View disk usage by directory.
 ms:assetid: '428a14a6-d688-41bc-a769-5d5052ead7a0' 
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896651(v=MSDN.10)' 
-ms.date: 07/04/2016
+ms.date: 11/04/2020
 ---
 
-Disk Usage v1.61
+Disk Usage v1.62
 ================
 
 **By Mark Russinovich**
 
-Published: February 13, 2017
+Published: November 11, 2020
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DU.zip)] [**Download Du**](https://download.sysinternals.com/files/DU.zip) **(174 KB)**
 
