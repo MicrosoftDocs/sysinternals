@@ -30,8 +30,8 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 - [AdExplorer v1.50](~/downloads/adexplorer.md)
 This release of AdExplorer, an Active Directory (AD) viewer and editor, adds support for exporting data from the "Compare" dialog and also includes AMD64 and ARM64 versions.
 
-- [DU v1.62](~/downloads/du.md)
-This new release of DU, a tool for viewing disk usage information, now also accounts for the MFT (Master File Table), doesn't have the MAX_PATH limitation anymore and also runs on ARM64 processors.
+- [Disk Usage (DU) v1.62](~/downloads/du.md)
+This new release of Disk Usage, a tool for viewing disk usage information, now also accounts for the MFT (Master File Table), doesn't have the MAX_PATH limitation anymore and also runs on ARM64 processors.
 
 ### What's New (October 15, 2020)
 
