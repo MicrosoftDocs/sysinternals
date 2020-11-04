@@ -12,7 +12,7 @@ Disk Usage v1.62
 
 **By Mark Russinovich**
 
-Published: November 11, 2020
+Published: November 04, 2020
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DU.zip)] [**Download Du**](https://download.sysinternals.com/files/DU.zip) **(1.62 MB)**
 
