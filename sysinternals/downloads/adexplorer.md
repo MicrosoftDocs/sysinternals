@@ -4,17 +4,17 @@ title: AD Explorer
 description: Active Directory Explorer is an advanced Active Directory (AD) viewer and editor.
 ms:assetid: 'da300ae9-b58f-4acc-a169-ce3b39867bc8'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb963907(v=MSDN.10)'
-ms.date: 11/15/2012
+ms.date: 11/04/2020
 ---
 
-Active Directory Explorer v1.44
+Active Directory Explorer v1.50
 ===============================
 
 **By Mark Russinovich**
 
-Published: November 15, 2012
+Published: November 04, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdExplorer.zip)  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(244 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdExplorer.zip)  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(1.2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ADExplorer.exe).
 
 
@@ -36,6 +36,6 @@ permissions changed between them.
 
 ![AD Explorer screenshot](/media/landing/sysinternals/adexplorer.jpg)
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdExplorer.zip)  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(244 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdExplorer.zip)  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(1.2 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ADExplorer.exe).
