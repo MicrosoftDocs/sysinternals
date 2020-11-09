@@ -120,7 +120,7 @@ Use the -accepteula command line option to automatically accept the
 Sysinternals license agreement.
 
 **Automated Termination:**  
-Setting an event with name "procdump-&lt;PID&gt;" is the same as typing Ctrl+C to gracefully terminate ProcDump
+Setting an event with name "ProcDump-&lt;PID&gt;" is the same as typing Ctrl+C to gracefully terminate ProcDump
 
 **Filename:**  
       Default dump filename: PROCESSNAME_YYMMDD_HHMMSS.dmp  
