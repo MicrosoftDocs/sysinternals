@@ -40,7 +40,7 @@ An LDAP (Light-weight Directory Access Protocol) real-time monitoring
 tool aimed at troubleshooting Active Directory client applications.
 
 [AdRestore](adrestore.md)  
-*v1.1 (November 1, 2006)*  
+*v1.2 (November 25, 2020)*  
 Undelete Server 2003 Active Directory objects.
 
 [Autologon](autologon.md)  
@@ -163,7 +163,7 @@ Dump the contents of the Logical Disk Manager's on-disk database, which
 describes the partitioning of Windows 2000 Dynamic disks.
 
 [ListDLLs](listdlls.md)  
-*v3.2 (July 4, 2016)*  
+*v3.3 (November 25, 2020)*  
 List all the DLLs that are currently loaded, including where they are
 loaded and their version numbers.
 
@@ -176,7 +176,7 @@ Use Microsoft kernel debuggers to examine a live system.
 See the order in which devices are loaded on your WinNT/2K system.
 
 [LogonSessions](logonsessions.md)  
-*v1.4 (July 4, 2016)*  
+*v1.41 (November 25, 2020)*  
 List the active logon sessions on a system.
 
 [MoveFile](movefile.md)  
@@ -307,7 +307,7 @@ View the registry space usage for the specified registry key.
 Jump to the registry path you specify in Regedit.
 
 [SDelete](sdelete.md)  
-*v2.01 (February 13, 2018)*  
+*v2.04 (November 25, 2020)*  
 Securely overwrite your sensitive files and cleanse your free space of
 previously deleted files using this DoD-compliant secure delete program.
 
@@ -359,7 +359,7 @@ Set Volume ID of FAT or NTFS drives.
 See who owns an Internet address.
 
 [WinObj](winobj.md)  
-*v2.22 (February 14, 2011)*  
+*v2.23 (November 25, 2020)*  
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  

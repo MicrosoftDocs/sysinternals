@@ -25,10 +25,6 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS icon](/media/landing/sysinternals/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
 
-### What's New (November 25, 2020)
-- [Sysmon v12.03](~/downloads/sysmon.md)
-This version of Sysmon fixes reporting and a possible crash condition for pipe and registry rules.
-
 ### What's New (November 04, 2020)
 
 - [AdExplorer v1.50](~/downloads/adexplorer.md)
