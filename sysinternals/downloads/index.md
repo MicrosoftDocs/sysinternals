@@ -163,7 +163,7 @@ Dump the contents of the Logical Disk Manager's on-disk database, which
 describes the partitioning of Windows 2000 Dynamic disks.
 
 [ListDLLs](listdlls.md)  
-*v3.3 (November 25, 2020)*  
+*v3.2 (July 4, 2016)*  
 List all the DLLs that are currently loaded, including where they are
 loaded and their version numbers.
 

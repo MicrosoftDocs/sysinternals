@@ -4,15 +4,15 @@ title: ListDLLs
 description: List all the DLLs that are currently loaded, including where they are loaded and their version numbers.
 ms:assetid: 'b4a511a2-c7d8-4fda-9319-8048718a09eb'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896656(v=MSDN.10)'
-ms.date: 11/25/2020
+ms.date: 07/04/2016
 ---
 
-ListDLLs v3.3
+ListDLLs v3.2
 =============
 
 **By Mark Russinovich**
 
-Published: November 25, 2020
+Published: July 4, 2016
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ListDlls.zip) [**Download ListDLLs**](https://download.sysinternals.com/files/ListDlls.zip) **(307 KB)**
 
