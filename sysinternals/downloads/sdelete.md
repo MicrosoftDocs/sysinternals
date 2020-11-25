@@ -14,7 +14,7 @@ SDelete v2.04
 
 Published: November 25, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(221 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(518 KB)**
 
 
 ## Introduction
@@ -155,7 +155,7 @@ space containing deleted file names, but the free directory space is not
 available for allocation to other files. Hence, *SDelete* has no way of
 allocating this free space so that it can securely overwrite it.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(221 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(518 KB)**
 
 **Runs on:**
 

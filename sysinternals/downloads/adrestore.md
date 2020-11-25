@@ -14,7 +14,7 @@ AdRestore v1.2
 
 Published: November 25, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ADRestore.zip)  [**Download AdRestore**](https://download.sysinternals.com/files/ADRestore.zip) **(42 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ADRestore.zip)  [**Download AdRestore**](https://download.sysinternals.com/files/ADRestore.zip) **(512 KB)**
 
 ## Introduction
 
@@ -29,4 +29,4 @@ memberships in Active
 Directory](https://support.microsoft.com/kb/840001)
 
  
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ADRestore.zip)  [**Download AdRestore**](https://download.sysinternals.com/files/ADRestore.zip) **(42 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ADRestore.zip)  [**Download AdRestore**](https://download.sysinternals.com/files/ADRestore.zip) **512 KB)**
