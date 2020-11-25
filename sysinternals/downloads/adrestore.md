@@ -4,17 +4,17 @@ title: AdRestore
 description: Undelete Server 2003 Active Directory objects.
 ms:assetid: '8de4d67f-98dc-4222-ab3c-88844ac78ccb'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb963906(v=MSDN.10)'
-ms.date: 11/01/2006
+ms.date: 11/25/2020
 ---
 
-AdRestore v1.1
+AdRestore v1.2
 ==============
 
 **By Mark Russinovich**
 
-Published: November 1, 2006
+Published: November 25, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ADRestore.zip)  [**Download AdRestore**](https://download.sysinternals.com/files/ADRestore.zip) **(42 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ADRestore.zip)  [**Download AdRestore**](https://download.sysinternals.com/files/ADRestore.zip) **(512 KB)**
 
 ## Introduction
 
@@ -29,4 +29,4 @@ memberships in Active
 Directory](https://support.microsoft.com/kb/840001)
 
  
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ADRestore.zip)  [**Download AdRestore**](https://download.sysinternals.com/files/ADRestore.zip) **(42 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ADRestore.zip)  [**Download AdRestore**](https://download.sysinternals.com/files/ADRestore.zip) **512 KB)**

@@ -4,17 +4,17 @@ title: LogonSessions
 description: List the active logon sessions on a system.
 ms:assetid: 'b7415eea-e897-49ba-b304-dd6879718a74'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896769(v=MSDN.10)'
-ms.date: 07/04/2016
+ms.date: 11/25/2020
 ---
 
-LogonSessions v1.4
+LogonSessions v1.41
 ==================
 
 **By Mark Russinovich**
 
-Published: July 4, 2016
+Published: November 25, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/logonSessions.zip) [**Download LogonSessions**](https://download.sysinternals.com/files/logonSessions.zip) **(237 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/logonSessions.zip) [**Download LogonSessions**](https://download.sysinternals.com/files/logonSessions.zip) **(667 KB)**
 
 
 ## Introduction
@@ -54,7 +54,7 @@ C:\>logonsessions -p
      6716: logonsessions.exe
 ```
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/logonSessions.zip) [**Download LogonSessions**](https://download.sysinternals.com/files/logonSessions.zip) **(237 KB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/logonSessions.zip) [**Download LogonSessions**](https://download.sysinternals.com/files/logonSessions.zip) **(667 KB)**
 
 **Runs on:**
 

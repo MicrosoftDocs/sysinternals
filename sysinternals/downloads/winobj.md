@@ -4,17 +4,17 @@ title: WinObj
 description: The ultimate Object Manager namespace viewer is here.
 ms:assetid: 'f5aabfba-811c-4b35-8d76-e64fd7083177'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896657(v=MSDN.10)'
-ms.date: 02/14/2011
+ms.date: 11/25/2020
 ---
 
-WinObj v2.22
+WinObj v2.23
 ============
 
 **By Mark Russinovich**
 
-Published: February 14, 2011
+Published: November 25, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(447 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.5 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Winobj.exe).
 
 
@@ -42,7 +42,7 @@ editors.
 There is no device driver component to WinObj, so you can run it like
 any Win32 program.
 
-![WinObj](/media/landing/sysinternals/WinObj.png) 
+![WinObj screenshot](/media/landing/sysinternals/WinObj.png) 
   
 
 ## How it Works
@@ -62,7 +62,7 @@ Object Manager name space, and Mark's October 1997 [WindowsITPro
 Magazine](https://www.windowsitpro.com/) column, "Inside the Object
 Manager", is (of course) an excellent overview.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(447 KB)**  
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.5 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Winobj.exe).
 
 **Runs on:**
