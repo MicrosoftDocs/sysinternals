@@ -84,29 +84,4 @@ This major update to Sysmon includes file delete monitoring and archive to help 
   
   - [Whois v1.21](~/downloads/whois.md)  
   This refresh of Whois contains various bug fixes.
-  
 
-### What's New (September 16, 2019) ###
-  - [Sysmon v10.41](~/downloads/sysmon.md)  
-  Resolves a config parsing issue with 10.4.
-
-### What's New (September 05, 2019) ###
-  - [Sysmon v10.4](~/downloads/sysmon.md)  
-    This major update to Sysmon, a security event monitoring service, adds nested rule support to rule groups and “contains any” and “contains all” rule conditions for more flexible filtering, as well as several bug fixes.
-
-  - [Process Explorer v16.30](~/downloads/process-explorer.md)  
-    This update to Process Explorer adds a Shared Commit column to the process view, fixes a bug that caused it to terminate when it is configured to run at logon and the system went to battery, and fixes bugs that prevented the system CPU graph from correctly showing multiple sockets.
-
-### What's New (June 20, 2019) ###
-  - [SHA1 deprecation](~/Announce/SHA1Deprecation.md)  
-
-### What's New (June 11, 2019) ###
-  - [Sysmon v10.0](~/downloads/sysmon.md)  
-     This release of Sysmon adds DNS query logging, reports OriginalFileName in process create and load image events, adds ImageName to named pipe events, logs pico process creates and terminates, and fixes several bugs. 
-  - [Autoruns v13.95](~/downloads/autoruns.md)  
-     This Autoruns updates adds support for redirected user Shell folders. 
-     
-### What's New (February 18, 2019) ###
-  - [Sysmon v9.0](~/downloads/sysmon.md)  
-     Sysmon v9.0 introduces rule groups that enable the specification of AND or OR matching logic across a set of rules. It also fixes a memory leak in signature verification. 
-     
