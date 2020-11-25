@@ -42,7 +42,7 @@ editors.
 There is no device driver component to WinObj, so you can run it like
 any Win32 program.
 
-![WinObj](/media/landing/sysinternals/WinObj.png) 
+![WinObj screenshot](/media/landing/sysinternals/WinObj.png) 
   
 
 ## How it Works
