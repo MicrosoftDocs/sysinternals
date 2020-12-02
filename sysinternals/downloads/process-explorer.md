@@ -72,7 +72,7 @@ The help file describes *Process Explorer* operation and usage. If you
 have problems or questions please visit the [Process Explorer forum on Technet](https://social.technet.microsoft.com/Forums/home?forum=procexplorer).  
 
 ## Note on use of symbols:
-When you configure the path to DBGHELP.DLL and the symbol path uses the symbol server, the location of DBGHELP.DLL also has to contain the SYMSRV.DLL supporting the server paths used. See [SymSrv documentation](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/symsrv) or more information on how to use symbol servers.
+When you configure the path to DBGHELP.DLL and the symbol path uses the symbol server, the location of DBGHELP.DLL also has to contain the SYMSRV.DLL supporting the server paths used. See [SymSrv documentation](https://docs.microsoft.com/windows-hardware/drivers/debugger/symsrv) or more information on how to use symbol servers.
 
 ## Learn More
 
