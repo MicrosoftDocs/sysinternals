@@ -47,19 +47,37 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 
 |  Function | Shortcut  |
 |---|---|
-|  Begin Zoom In Mode |  Ctrl+1  |
-| Zoom In | Up Key |
-| Zoom Out | Down Key |
-|  Begin Drawing (While zoomed) | Left-Click  |
-|  Begin Drawing (While not zoomed) | Ctrl+2  |
-| Increase line and pointer size (Drawing mode) | Ctrl + Up |
-| Decrease line and pointer size (Drawing mode) | Ctrl + Down |
-| Red Pen Color | R |
-| Blue Pen Color | B | 
-| Yellow Pen Color | Y |
-| Green Pen Color | G | 
-| Show Meeting Timer | Ctrl + 3 |
+| Zoom Mode | Ctrl + 1 |
+| Zoom In | Mouse Scroll Up or Up Arrow |
+| Zoom Out | Mouse Scroll Down or Down Arrow |
+| Start Drawing (While In Zoom Mode) | Left-Click  |
+| Start Drawing (While Not In Zoom Mode) | Ctrl + 2  |
+| Increase/Decrease Line And Cursor Size (Drawing Mode) | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
+| Center The Cursor (Drawing Mode) | Space Bar |
+| Whiteboard (Drawing Mode) | W |
+| Blackboard (Drawing Mode) | K |
+| Type in Text | T |
+| Increase/Decrease Font Size (Typing Mode) | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
+| Red Pen | R |
+| Green Pen | G |
+| Blue Pen | B | 
+| Yellow Pen | Y |
+| Orange Pen | O | 
+| Pink Pen | P |
+| Draw a Straight Line | Hold Shift |
+| Draw a Rectangle | Hold Ctrl |
+| Draw an Ellipse | Hold Tab |
+| Draw an Arrow | Hold Ctrl + Shift |
+| Erase Last Drawing | Ctrl + Z |
+| Erase All Drawings | E |
+| Copy Screenshot to Clipboard | Ctrl + C |
+| Save Screenshot as PNG | Ctrl + S |
+| Show Countdown Timer | Ctrl + 3 |
+| Increase/Decrease Time | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
+| Minimize Timer (Without Pausing It) | Alt + Tab |
+| Show Timer When Minimized | Left-Click On The ZoomIt Icon |
 | Live Zoom Mode | Ctrl + 4 |
+| Exit | Esc or Right-Click |
 
 
 ![ZoomIt](/media/landing/sysinternals/20130618_Zoomit_v4.5.jpg)  
