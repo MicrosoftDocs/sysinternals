@@ -46,12 +46,12 @@ See the July 2004 issue of *Windows IT Pro Magazine* for [Mark's
 article](https://www.itprotoday.com/compute-engines/psexec) that covers
 advanced usage of PsExec.
 
-<strong>Usage: psexec \[\\\\computer\[,computer2\[,...\] | @file\]\]\[-u user
-\[-p psswd\]\[-n s\]\[-r servicename\]\[-h\]\[-l\]\[-s|-e\]\[-x\]\[-i
-\[session\]\]\[-c executable \[-f|-v\]\]\[-w
-directory\]\[-d\]\[-&lt;priority&gt;\]\[-a n,n,...\] cmd \[arguments\]</strong>
+**Usage:**
 
- 
+```cmd
+psexec [\\computer[,computer2[,...] | @file]][-u user [-p psswd][-n s][-r servicename][-h][-l][-s|-e][-x][-i [session]][-c executable [-f|-v]][-w directory][-d][-<priority>][-a n,n,...] cmd [arguments]
+```
+
 |       Parameter        |                                                                                                                                 Description                                                                                                                                 |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |         **-a**         |                                                Separate processors on which the application can run with commas where 1 is the lowest numbered CPU. For example, to run the application on CPU 2 and CPU 4, enter: "-a 2,4"                                                 |
