@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 11/25/2020
+ms.date: 01/11/2021
 ---
 
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
@@ -25,20 +25,28 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS icon](/media/landing/sysinternals/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
 
+### What's New (January 11, 2021)
+
+- [Sysmon v13.00](~/downloads/sysmon.md)  
+Major release introducing the `ProcessTampering` event and a series of stability improvements.
+
+- [Process Monitor v3.61](~/downloads/procmon.md)  
+This update to Process Monitor adds 3 new Registry events: `RegReplaceKey`, `RegSaveKey` and `RegRestoreKey`.
+
 ### What's New (November 04, 2020)
 
-- [AdExplorer v1.50](~/downloads/adexplorer.md)
+- [AdExplorer v1.50](~/downloads/adexplorer.md)  
 This release of AdExplorer, an Active Directory (AD) viewer and editor, adds support for exporting data from the "Compare" dialog and is now available for x64 and ARM64.
 
-- [Disk Usage (DU) v1.62](~/downloads/du.md)
+- [Disk Usage (DU) v1.62](~/downloads/du.md)  
 This release of Disk Usage (DU), a tool for viewing disk usage information, now also accounts for the MFT (Master File Table), removes the MAX_PATH limitation and is now available for ARM64.
 
 ### What's New (October 15, 2020)
 
-- [VMMap v3.30](~/downloads/vmmap.md)
+- [VMMap v3.30](~/downloads/vmmap.md)  
 This update to VMMap, a utility that reports the virtual memory layout of a process, identifies .NET Core 3.0 managed heaps.
 
-- [RAMMap v1.60](~/downloads/rammap.md)
+- [RAMMap v1.60](~/downloads/rammap.md)  
 This release to RAMMap, a utility that analyzes and displays physical memory usage, adds customizable map colors and a new command line option, -e, to empty the different types of system working sets.
 
 ### What's New (September 17, 2020)
@@ -71,17 +79,3 @@ This major update to Sysmon includes file delete monitoring and archive to help 
 
   - [Sysinternals April 27 Update Video](https://www.youtube.com/watch?v=_MUP4tgdM7s)  
     Mark Russinovich covers what’s new in this update, with a demo of Sysmon’s new file delete monitoring and capture capability.
-
-### What's New (December 20, 2019) ###
-- [Scheduled livesite maintenance](~/Announce/SiteUpgradeDec2019.md) 
-
-### What's New (December 11, 2019) ###
-  - [Sysmon v10.42](~/downloads/sysmon.md)  
-  This update to Sysmon addresses a number of memory leaks, introduces the "Excludes Any" and "Excludes All" filtering conditions and resolves a number of bugs.
-
-  - [Zoomit v4.52](~/downloads/zoomit.md)  
-  This update to Zoomit resolves a number of dual-monitor related issues.
-  
-  - [Whois v1.21](~/downloads/whois.md)  
-  This refresh of Whois contains various bug fixes.
-

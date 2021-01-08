@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 11/25/2020
+ms.date: 01/11/2021
 ---
 
 # Sysinternals Utilities Index
@@ -226,12 +226,12 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.60 (September 17, 2020)*  
+*v3.61 (January 11, 2021)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
 [PsExec](psexec.md)  
-*v2.2 (June 29, 2016)*  
+*v2.21 (January 11, 2021)*  
 Execute processes on remote systems.
 
 [PsFile](psfile.md)  
@@ -339,7 +339,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v12.03 (November 25, 2020)*  
+*v13.00 (January 11, 2021)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  

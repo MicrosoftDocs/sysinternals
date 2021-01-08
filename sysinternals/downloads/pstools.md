@@ -4,7 +4,7 @@ title: PsTools
 description: Command-line utilities for listing the processes running on local or remote computers, running processes, rebooting computers, and more.
 ms:assetid: '559ea946-3d7d-47bb-821c-b47fd078dfb7'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896649(v=MSDN.10)'
-ms.date: 07/04/2016
+ms.date: 01/11/2021
 ---
 
 PsTools
@@ -12,7 +12,7 @@ PsTools
 
 **By Mark Russinovich**
 
-Published: July 4, 2016
+Published: January 11, 2021
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools Suite**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
