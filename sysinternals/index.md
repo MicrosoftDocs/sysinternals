@@ -28,10 +28,10 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ### What's New (January 11, 2021)
 
 - [Sysmon v13.00](~/downloads/sysmon.md)  
-Major release introducing the `ProcessTampering` event and a series of stability improvements.
+This update to Sysmon adds a process image tampering event that reports when the mapped image of a process doesn’t match the on-disk image file, or the image file is locked for exclusive access. These indicators are triggered by process hollowing and process herpaderping. This release also includes several bug fixes, including fixes for minor memory leaks.
 
 - [Process Monitor v3.61](~/downloads/procmon.md)  
-This update to Process Monitor adds 3 new Registry events: `RegReplaceKey`, `RegSaveKey` and `RegRestoreKey`.
+This update to Process Monitor adds monitoring for RegSaveKey, RegLoadKey and RegRestoreKey APIs, as well as fixes a bug in the details output for some types of directory queries.
 
 ### What's New (November 04, 2020)
 

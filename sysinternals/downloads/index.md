@@ -283,7 +283,7 @@ Shuts down and optionally reboots a computer.
 Suspend and resume processes.
 
 [PsTools](pstools.md)  
-*v2.45 (July 4, 2016)*  
+*v2.46 (January 11, 2021)*  
 The PsTools suite includes command-line utilities for listing the
 processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
