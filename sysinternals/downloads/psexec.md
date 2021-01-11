@@ -4,17 +4,17 @@ title: PsExec
 description: Execute processes on remote systems.
 ms:assetid: '936a8b8b-a7ce-4b63-bcc2-ca334cd4c276'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897553(v=MSDN.10)'
-ms.date: 06/29/2016
+ms.date: 01/11/2021
 ---
 
-PsExec v2.2
+PsExec v2.21
 ============
 
 **By Mark Russinovich**
 
-Published: June 29, 2016
+Published: January 11, 2021
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(3.5 MB)**
 
 
 ## Introduction
@@ -46,12 +46,12 @@ See the July 2004 issue of *Windows IT Pro Magazine* for [Mark's
 article](https://www.itprotoday.com/compute-engines/psexec) that covers
 advanced usage of PsExec.
 
-<strong>Usage: psexec \[\\\\computer\[,computer2\[,...\] | @file\]\]\[-u user
-\[-p psswd\]\[-n s\]\[-r servicename\]\[-h\]\[-l\]\[-s|-e\]\[-x\]\[-i
-\[session\]\]\[-c executable \[-f|-v\]\]\[-w
-directory\]\[-d\]\[-&lt;priority&gt;\]\[-a n,n,...\] cmd \[arguments\]</strong>
+**Usage:**
 
- 
+```cmd
+psexec [\\computer[,computer2[,...] | @file]][-u user [-p psswd][-n s][-r servicename][-h][-l][-s|-e][-x][-i [session]][-c executable [-f|-v]][-w directory][-d][-<priority>][-a n,n,...] cmd [arguments]
+```
+
 |       Parameter        |                                                                                                                                 Description                                                                                                                                 |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |         **-a**         |                                                Separate processors on which the application can run with commas where 1 is the lowest numbered CPU. For example, to run the application on CPU 2 and CPU 4, enter: "-a 2,4"                                                 |
@@ -141,7 +141,7 @@ command:
 
 **psexec -l -d "c:\\program files\\internet explorer\\iexplore.exe"**
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(3.5 MB)**
   
 **PSTools**
 

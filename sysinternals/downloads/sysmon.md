@@ -4,15 +4,15 @@ title: Sysmon
 description: Monitors and reports key system activity via the Windows event log.
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
-ms.date: 11/25/2020
+ms.date: 01/11/2021
 ---
 
-Sysmon v12.03
+Sysmon v13.00
 ===========
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: November 25, 2020
+Published: January 11, 2021
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.8 MB)**
 
@@ -295,22 +295,29 @@ execute, this event logs the WMI namespace, filter name and filter expression.
 
 ### Event ID 20: WmiEvent (WmiEventConsumer activity detected)
 
-This event logs the registration of WMI consumers, recording the consumer name, 
+This event logs the registration of WMI consumers, recording the consumer name,
 log, and destination.
 
 ### Event ID 21: WmiEvent (WmiEventConsumerToFilter activity detected)
 
-When a consumer binds to a filter, this event logs the consumer name and filter path. 
+When a consumer binds to a filter, this event logs the consumer name and filter path.
 
 ### Event ID 22: DNSEvent (DNS query)
 
-This event generates when a process executes a DNS query, whether the result is successful or fails, cached or not.
+This event is generated when a process executes a DNS query, whether the result is successful or fails, cached or not.
 The telemetry for this event was added for Windows 8.1 so it is not available on Windows 7 and earlier.
 
 ### Event ID 23: FileDelete (A file delete was detected)
 
-A file was deleted
+A file was deleted.
 
+### Event ID 24: ClipboardChange (New content in the clipboard)
+
+This event is generated when the system clipboard contents change.
+
+### Event ID 25: ProcessTampering (Process image change)
+
+This event is generated when a process image is changed from an external source, such as a different process.
 ### Event ID 255: Error
 
 This event is generated when an error occurred within Sysmon. They can
