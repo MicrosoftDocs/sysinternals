@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897553(v=MSDN.10)'
 ms.date: 01/13/2021
 ---
 
-PsExec v2.30
+PsExec v2.32
 ============
 
 **By Mark Russinovich**

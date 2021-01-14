@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 01/11/2021
+ms.date: 01/13/2021
 ---
 
 # Sysinternals Utilities Index
@@ -231,7 +231,7 @@ Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
 [PsExec](psexec.md)  
-*v2.21 (January 11, 2021)*  
+*v2.32 (January 12, 2021)*  
 Execute processes on remote systems.
 
 [PsFile](psfile.md)  
