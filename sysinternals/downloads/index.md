@@ -231,7 +231,7 @@ Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
 [PsExec](psexec.md)  
-*v2.32 (January 12, 2021)*  
+*v2.32 (January 14, 2021)*  
 Execute processes on remote systems.
 
 [PsFile](psfile.md)  
