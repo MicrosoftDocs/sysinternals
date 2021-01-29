@@ -38,7 +38,7 @@ version of the file is created.
 The only way to ensure that deleted files, as well as files that you
 encrypt with EFS, are safe from recovery is to use a secure delete
 application. Secure delete applications overwrite a deleted file's
-on-disk data using techiques that are shown to make disk data
+on-disk data using techniques that are shown to make disk data
 unrecoverable, even using recovery technology that can read patterns in
 magnetic media that reveal weakly deleted files. *SDelete* (Secure
 Delete) is such an application. You can use *SDelete* both to securely
@@ -121,7 +121,7 @@ can. *SDelete* does this using non-cached file I/O so that the contents
 of the NT file system cache will not be thrown out and replaced with
 useless data associated with *SDelete*'s space-hogging file. Because
 non-cached file I/O must be sector (512-byte) aligned, there might be
-some left over space that isn't allocated for the *SDelete* file even
+some leftover space that isn't allocated for the *SDelete* file even
 when *SDelete* cannot further grow the file. To grab any remaining space
 *SDelete* next allocates the largest cached file it can. For both of
 these files *SDelete* performs a secure overwrite, ensuring that all the
