@@ -121,7 +121,7 @@ can. *SDelete* does this using non-cached file I/O so that the contents
 of the NT file system cache will not be thrown out and replaced with
 useless data associated with *SDelete*'s space-hogging file. Because
 non-cached file I/O must be sector (512-byte) aligned, there might be
-some left-over space that isn't allocated for the *SDelete* file even
+some leftover space that isn't allocated for the *SDelete* file even
 when *SDelete* cannot further grow the file. To grab any remaining space
 *SDelete* next allocates the largest cached file it can. For both of
 these files *SDelete* performs a secure overwrite, ensuring that all the
