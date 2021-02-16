@@ -59,7 +59,7 @@ psexec [\\computer[,computer2[,...] | @file]][-u user [-p psswd][-n s][-r servic
 |         **-d**         |                                                                                                           Don't wait for process to terminate (non-interactive).                                                                                                            |
 |         **-e**         |                                                                                                               Does not load the specified account’s profile.                                                                                                                |
 |         **-f**         |                                                                                              Copy the specified program even if the file already exists on the remote system.                                                                                               |
-|         **-i**         |                                                  Run the program so that it interacts with the desktop of the specified session on the remote system. If no session is specified the process runs in the console session.                                                   |
+|         **-i**         | Run the program so that it interacts with the desktop of the specified session on the remote system. If no session is specified the process runs in the console session. This flag is **required** when attempting to run console applications interactively (with redirected standard IO). |
 |         **-h**         |                                                                                If the target system is Vista or higher, has the process run with the account's elevated token, if available.                                                                                |
 |         **-l**         |                                                 Run process as limited user (strips the Administrators group and allows only privileges assigned to the Users group). On Windows Vista the process runs with Low Integrity.                                                 |
 |         **-n**         |                                                                                                        Specifies timeout in seconds connecting to remote computers.                                                                                                         |
@@ -80,7 +80,9 @@ psexec [\\computer[,computer2[,...] | @file]][-u user [-p psswd][-n s][-r servic
 You can enclose applications that have spaces in their name with
 quotation marks e.g.
 
-**psexec \\\\marklap"c:\\long name app.exe"**
+```cmd
+psexec \\marklap "c:\\long name app.exe"
+```
 
 Input is only passed to the remote system when you press the Enter key.
 Typing Ctrl-C terminates the remote process.
@@ -88,7 +90,7 @@ Typing Ctrl-C terminates the remote process.
 If you omit a user name, the process will run in the context of your
 account on the remote system, but will not have access to network
 resources (because it is impersonating). Specify a valid user name in
-the Domain\\User syntax if the remote process requires access to network
+the `Domain\User` syntax if the remote process requires access to network
 resources or to run in a different account. Note that the password and
 command are encrypted in transit to the remote system.
 
@@ -102,44 +104,46 @@ works](https://www.itprotoday.com/compute-engines/psexec) and gives tips
 on how to use it:
 
 The following command launches an interactive command prompt on
-\\\\marklap:
+`\\marklap`:
 
-**psexec \\\\marklap cmd**
+```cmd
+psexec -i \\marklap cmd
+```
 
- 
-
-This command executes IpConfig on the remote system with the /all
+This command executes IpConfig on the remote system with the `/all`
 switch, and displays the resulting output locally:
 
-**psexec \\\\marklap ipconfig /all**
+```cmd
+psexec -i \\marklap ipconfig /all
+```
 
- 
-
-This command copies the program test.exe to the remote system and
+This command copies the program `test.exe` to the remote system and
 executes it interactively:
 
-**psexec \\\\marklap -c test.exe**
-
- 
+```cmd
+psexec -i \\marklap -c test.exe
+```
 
 Specify the full path to a program that is already installed on a remote
 system if its not on the system's path:
 
-**psexec \\\\marklap c:\\bin\\test.exe**
-
- 
+```cmd
+psexec -i \\marklap c:\bin\test.exe
+```
 
 Run Regedit interactively in the System account to view the contents of
 the SAM and SECURITY keys::
 
-**psexec -i -d -s c:\\windows\\regedit.exe**
-
- 
+```cmd
+psexec -i -d -s c:\windows\regedit.exe
+```
 
 To run Internet Explorer as with limited-user privileges use this
 command:
 
-**psexec -l -d "c:\\program files\\internet explorer\\iexplore.exe"**
+```cmd
+psexec -l -d "c:\program files\internet explorer\iexplore.exe"
+```
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(3.5 MB)**
   
