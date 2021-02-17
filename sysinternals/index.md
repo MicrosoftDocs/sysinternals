@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 01/11/2021
+ms.date: 02/17/2021
 ---
 
 # ![Windows icon](/media/landing/sysinternals/Windows_logo_46x50px.png) Windows Sysinternals
@@ -24,6 +24,14 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](/media/landing/sysinternals/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
+
+### What's New (February 17, 2021)
+
+- [WinObj v3.00](~/downloads/winobj.md)  
+This major update to WinObj adds dynamic updates, quick search, full search, properties for more object types, as well as performance improvements. It's also the first Sysinternals tool to feature a dark theme.
+
+- [CoreInfo v3.52](~/downloads/coreinfo.md)  
+This update to CoreInfo adds reporting for CET (shadow stack) support.
 
 ### What's New (January 11, 2021)
 
