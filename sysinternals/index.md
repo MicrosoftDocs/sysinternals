@@ -27,10 +27,10 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ### What's New (February 18, 2021)
 
-- [WinObj v3.00](~/downloads/winobj.md)  
+- [WinObj v3.0](~/downloads/winobj.md)  
 This major update to WinObj adds dynamic updates, quick search, full search, properties for more object types, as well as performance improvements. It's also the first Sysinternals tool to feature a dark theme.
 
-- [CoreInfo v3.52](~/downloads/coreinfo.md)  
+- [Coreinfo v3.52](~/downloads/coreinfo.md)  
 This update to CoreInfo adds reporting for CET (shadow stack) support.
 
 ### What's New (January 11, 2021)
