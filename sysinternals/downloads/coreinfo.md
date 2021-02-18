@@ -10,7 +10,7 @@ ms.date: 02/17/2021
 
 **By Mark Russinovich**
 
-Published: February 17, 2021
+Published: February 18, 2021
 
 [![Download](/media/landing/sysinternals/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(367 KB)**
 

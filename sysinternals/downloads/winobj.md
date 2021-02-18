@@ -12,7 +12,7 @@ WinObj v3.00
 
 **By Mark Russinovich**
 
-Published: February 17, 2021
+Published: February 18, 2021
 
 [![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.5 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Winobj.exe).
