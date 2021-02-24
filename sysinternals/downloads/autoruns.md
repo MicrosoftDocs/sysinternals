@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb963902(v=MSDN.10)'
 ms.date: 09/17/2020
 ---
 
-Autoruns for Windows v13.98
-===========================
+# Autoruns for Windows v13.98
 
 **By Mark Russinovich**
 
@@ -41,7 +40,7 @@ automatically!
 
 ## Screenshot
 
-![Autoruns](/media/landing/sysinternals/autoruns_v13.png)
+![Autoruns](media/autoruns/autoruns_v13.png)
 
 ## Usage
 

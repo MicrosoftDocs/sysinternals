@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Cc817881(v=MSDN.10)'
 ms.date: 10/17/2012
 ---
 
-Desktops v2.0
-=============
+# Desktops v2.0
 
 **By Mark Russinovich**
 
@@ -16,7 +15,6 @@ Published: October 17, 2012
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Desktops.zip) [**Download Desktops**](https://download.sysinternals.com/files/Desktops.zip) **(61 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Desktops.exe).
-
 
 ## Introduction
 
@@ -27,8 +25,6 @@ windows you're not using. After you configure hotkeys for switching
 desktops, you can create and switch desktops either by clicking on the
 tray icon to open a desktop preview and switching window, or by using
 the hotkeys.
-
-
 
 ## Using Desktops
 
@@ -53,16 +49,12 @@ a way to close a desktop, because that would result in orphaned windows
 and processes. The recommended way to exit Desktops is therefore to
 logoff.  
 
-
-
 ## Screenshot
 
-![Configuration Dialog](/media/landing/sysinternals/desktops.png "Configuration Dialog")  
+![Configuration Dialog](media/desktops/desktops.png "Configuration Dialog")  
 Configuration Dialog
 
- 
-
-![Tray Desktop Switch Window](/media/landing/sysinternals/desktops2.png "Tray Desktop Switch Window")  
+![Tray Desktop Switch Window](media/desktops/desktops2.png "Tray Desktop Switch Window")  
 Tray Desktop Switch Window
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Desktops.zip) [**Download Desktops**](https://download.sysinternals.com/files/Desktops.zip) **(61 KB)**
@@ -71,5 +63,5 @@ Tray Desktop Switch Window
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

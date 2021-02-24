@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
 ms.date: 01/13/2021
 ---
 
-Sysmon v13.01
-===========
+# Sysmon v13.01
 
 **By Mark Russinovich and Thomas Garnier**
 
@@ -38,34 +37,31 @@ nor does it attempt to protect or hide itself from attackers.
 
 *Sysmon* includes the following capabilities:
 
--   Logs process creation with full command line for both current and
+- Logs process creation with full command line for both current and
     parent processes.
--   Records the hash of process image files using SHA1 (the default),
+- Records the hash of process image files using SHA1 (the default),
     MD5, SHA256 or IMPHASH.
--   Multiple hashes can be used at the same time.
--   Includes a process GUID in process create events to allow for
+- Multiple hashes can be used at the same time.
+- Includes a process GUID in process create events to allow for
     correlation of events even when Windows reuses process IDs.
--   Includes a session GUID in each event to allow correlation of events
+- Includes a session GUID in each event to allow correlation of events
     on same logon session.
--   Logs loading of drivers or DLLs with their signatures and hashes.
--   Logs opens for raw read access of disks and volumes.
--   Optionally logs network connections, including each connection’s
+- Logs loading of drivers or DLLs with their signatures and hashes.
+- Logs opens for raw read access of disks and volumes.
+- Optionally logs network connections, including each connection’s
     source process, IP addresses, port numbers, hostnames and port
     names.
--   Detects changes in file creation time to understand when a file was
+- Detects changes in file creation time to understand when a file was
     really created. Modification of file create timestamps is a
     technique commonly used by malware to cover its tracks.
--   Automatically reload configuration if changed in the registry.
--   Rule filtering to include or exclude certain events dynamically.
--   Generates events from early in the boot process to capture activity
+- Automatically reload configuration if changed in the registry.
+- Rule filtering to include or exclude certain events dynamically.
+- Generates events from early in the boot process to capture activity
     made by even sophisticated kernel-mode malware.
-
 
 ## Screenshots
 
-![EventViewer](/media/landing/sysinternals/event-screen-optimized.png "EventViewer")
-
- 
+![EventViewer](media/sysmon/event-screen-optimized.png "EventViewer")
 
 ## Usage
 
@@ -91,8 +87,6 @@ Uninstall:               sysmon64 -u [force]
 |  **-m** |  Install the event manifest (done on service install as well).|
 |  **-s** |  Print configuration schema definition.|
 |  **-u** |  Uninstall service and driver. Adding force causes uninstall to proceed even when some components are not installed.|
-
- 
 
 The service logs events immediately and the driver installs as a
 boot-start driver to capture activity from early in the boot that the
@@ -155,6 +149,7 @@ across a domain to make event correlation easier. The hash is a full
 hash of the file with the algorithms in the HashType field.
 
 ### Event ID 2: A process changed a file creation time
+
 The change file creation time event is registered when a file creation
 time is explicitly modified by a process. This event helps tracking the
 real creation time of a file. Attackers may change the file creation
@@ -318,6 +313,7 @@ This event is generated when the system clipboard contents change.
 ### Event ID 25: ProcessTampering (Process image change)
 
 This event is generated when a process image is changed from an external source, such as a different process.
+
 ### Event ID 255: Error
 
 This event is generated when an error occurred within Sysmon. They can
@@ -334,7 +330,7 @@ deploy a preset configuration and to filter captured events.
 
 A simple configuration xml file looks like this:
 
-![Configuration file](/media/landing/sysinternals/sysmon_schema.png)
+![Configuration file](media/sysmon/sysmon_schema.png)
 
 The configuration file contains a schemaversion attribute on the Sysmon
 tag. This version is independent from the Sysmon binary version and
@@ -343,8 +339,7 @@ schema version by using the “-? config” command line. Configuration
 entries are directly under the Sysmon tag and filters are under the
 EventFiltering tag.
 
-Configuration Entries
----------------------
+## Configuration Entries
 
 Configuration entries are similar to command line switches and include the following
 
@@ -382,8 +377,7 @@ version="2"&gt;
 &lt;/event&gt;  
 </pre>
 
-Event filtering entries
------------------------
+## Event filtering entries
 
 Event filtering allows you to filter generated events. In many cases
 events can be noisy and gathering everything is not possible. For
@@ -394,7 +388,6 @@ host reducing the data to collect.
 Each event has its own filter tag under the EventFiltering node in a
 configuration file:
 
- 
 |ID  |Tag  | Event |
 |---------|---------|---------|
 |  **1**    ProcessCreate         | Process Create |
@@ -420,8 +413,6 @@ configuration file:
 |  **21**   WmiEvent              | WMI consumer filter |
 |  **22**   DNSQuery              | DNS query |
 |  **23**   FileDelete            | File Delete |
-
-
 
 You can also find these tags in the event viewer on the task name.
 
@@ -455,7 +446,6 @@ insensitive):
 |  **less than**   | Lexicographical comparison is less than zero |
 |  **more than**   | Lexicographical comparison is more than zero |
 |  **image**       | Match an image path (full path or only image name). For example: lsass.exe will match c:\\windows\\system32\\lsass.exe |
- 
 
 You can use a different condition by specifying it as an attribute. This
 excludes network activity from processes with iexplore.exe in their

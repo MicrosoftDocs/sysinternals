@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897445(v=MSDN.10)'
 ms.date: 11/01/2006
 ---
 
-RootkitRevealer v1.71
-=====================
+# RootkitRevealer v1.71
 
 **By Mark Russinovich**
 
@@ -16,7 +15,6 @@ Published: November 1, 2006
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RootkitRevealer.zip) [**Download RootkitRevealer**](https://download.sysinternals.com/files/RootkitRevealer.zip) **(231 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RootkitRevealer.exe).
-
 
 ## Introduction
 
@@ -147,10 +145,10 @@ RootkitRevealer scans the system reporting its actions in a status area
 at the bottom of its window and noting discrepancies in the output list.
 The options you can configure:
 
--   **Hide NTFS Metadata Files:** this option is on by default and has
+- **Hide NTFS Metadata Files:** this option is on by default and has
     RootkitRevealer not show standard NTFS metadata files, which are
     hidden from the Windows API.
--   **Scan Registry:** this option is on by default. Deselecting it has
+- **Scan Registry:** this option is on by default. Deselecting it has
     RootkitRevealer not perform a Registry scan.  
 
 ## Launching an Automatic Scan
@@ -186,7 +184,7 @@ Registry hive data. Similarly, the HackerDefender-associated files are
 not visible to Windows API directory scans, but are present in the scan
 of the raw file system data.
 
-![Rootkit Revealer](/media/landing/sysinternals/RootkitRevealer.gif)
+![Rootkit Revealer](media/rootkit-revealer/RootkitRevealer.gif)
 
 You should examine all discrepancies and determine the likelihood that
 they indicate the presence of a rootkit. Unfortunately, there is no
@@ -219,23 +217,23 @@ scan you may also see this discrepancy.
 
 This is a list of NTFS metadata files defined as of Windows Server 2003:
 
--   \$AttrDef
--   \$BadClus
--   \$BadClus:\$Bad
--   \$BitMap
--   \$Boot
--   \$LogFile
--   \$Mft
--   \$MftMirr
--   \$Secure
--   \$UpCase
--   \$Volume
--   \$Extend
--   \$Extend\\\$Reparse
--   \$Extend\\\$ObjId
--   \$Extend\\\$UsnJrnl
--   \$Extend\\\$UsnJrnl:\$Max
--   \$Extend\\\$Quota
+- \$AttrDef
+- \$BadClus
+- \$BadClus:\$Bad
+- \$BitMap
+- \$Boot
+- \$LogFile
+- \$Mft
+- \$MftMirr
+- \$Secure
+- \$UpCase
+- \$Volume
+- \$Extend
+- \$Extend\\\$Reparse
+- \$Extend\\\$ObjId
+- \$Extend\\\$UsnJrnl
+- \$Extend\\\$UsnJrnl:\$Max
+- \$Extend\\\$Quota
 
 **Access is Denied.**  
 RootkitRevealer should never report this discrepancy since it uses
