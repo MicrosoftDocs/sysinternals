@@ -14,7 +14,7 @@ Sync v2.2
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sync.zip) [**Download Sync**](https://download.sysinternals.com/files/Sync.zip)  **(500 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sync.zip) [**Download Sync**](https://download.sysinternals.com/files/Sync.zip)  **(500 KB)**
 
 
 ## Introduction
@@ -42,7 +42,7 @@ removable drives such as ZIP drives.
 Specifying specific drives (e.g. "c e") will result in Sync only
 flushing those drives.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sync.zip) [**Download Sync**](https://download.sysinternals.com/files/Sync.zip)  **(500 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sync.zip) [**Download Sync**](https://download.sysinternals.com/files/Sync.zip)  **(500 KB)**
 
 **Runs on:**
 

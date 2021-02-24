@@ -14,7 +14,7 @@ ShellRunas v1.01
 
 Published: February 28, 2008
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ShellRunas.zip) [**Download ShellRunas**](https://download.sysinternals.com/files/ShellRunas.zip) **(50 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShellRunas.zip) [**Download ShellRunas**](https://download.sysinternals.com/files/ShellRunas.zip) **(50 KB)**
 
 
 ## Introduction
@@ -48,7 +48,7 @@ shellrunas \[/netonly\] &lt;*program*&gt; \[*arguments*\]**
 |  **/netonly**               |  Use if specified credentials are for remote access only|
 |  **&lt;program&gt;**        |  Runs program with specified credentials and parameters
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ShellRunas.zip) [**Download ShellRunas**](https://download.sysinternals.com/files/ShellRunas.zip) **(50 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShellRunas.zip) [**Download ShellRunas**](https://download.sysinternals.com/files/ShellRunas.zip) **(50 KB)**
  
 **Runs on:**
 

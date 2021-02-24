@@ -14,7 +14,7 @@ PsExec v2.32
 
 Published: January 14, 2021
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(3.5 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(3.5 MB)**
 
 
 ## Introduction
@@ -145,7 +145,7 @@ command:
 psexec -l -d "c:\program files\internet explorer\iexplore.exe"
 ```
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(3.5 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(3.5 MB)**
   
 **PSTools**
 

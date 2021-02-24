@@ -14,7 +14,7 @@ RAMMap v1.60
 
 Published: October 15, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(488 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(488 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RAMMap.exe).
 
 
@@ -59,7 +59,7 @@ Edition](~/resources/windows-internals.md).
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(488 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(488 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RAMMap.exe).
 

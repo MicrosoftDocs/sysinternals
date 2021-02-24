@@ -14,7 +14,7 @@ RegDelNull v1.11
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Regdelnull.zip) [**Download RegDelNull**](https://download.sysinternals.com/files/Regdelnull.zip) **(511 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Regdelnull.zip) [**Download RegDelNull**](https://download.sysinternals.com/files/Regdelnull.zip) **(511 KB)**
 
 
 ## Introduction
@@ -52,7 +52,7 @@ Delete (y/n) y
 Scan complete.
 ```
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Regdelnull.zip) [**Download RegDelNull**](https://download.sysinternals.com/files/Regdelnull.zip) **(511 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Regdelnull.zip) [**Download RegDelNull**](https://download.sysinternals.com/files/Regdelnull.zip) **(511 KB)**
 
 **Runs on:**
 

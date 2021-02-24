@@ -14,7 +14,7 @@ Hex2dec v1.1
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Hex2Dec.zip) [**Download Hex2dec**](https://download.sysinternals.com/files/Hex2Dec.zip) **(578 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Hex2Dec.zip) [**Download Hex2dec**](https://download.sysinternals.com/files/Hex2Dec.zip) **(578 KB)**
 
 
 ## Introduction
@@ -30,7 +30,7 @@ value.
 e.g. To translate 1233 decimal to hexadecimal: hex2dec 1233  
 e.g. To translate 0x1233 hexadecimal to decimal: hex2dec 0x1233
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Hex2Dec.zip) [**Download Hex2dec**](https://download.sysinternals.com/files/Hex2Dec.zip) **(578 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Hex2Dec.zip) [**Download Hex2dec**](https://download.sysinternals.com/files/Hex2Dec.zip) **(578 KB)**
 
 **Runs on:**
 

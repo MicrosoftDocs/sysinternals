@@ -14,7 +14,7 @@ Handle v4.22
 
 Published: June 14, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(887 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(887 KB)**
 
 
 ## Introduction
@@ -77,4 +77,4 @@ with
 [WinObj](winobj.md).  
 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(887 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(887 KB)**

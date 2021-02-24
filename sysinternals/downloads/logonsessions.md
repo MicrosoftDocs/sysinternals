@@ -14,7 +14,7 @@ LogonSessions v1.41
 
 Published: November 25, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/logonSessions.zip) [**Download LogonSessions**](https://download.sysinternals.com/files/logonSessions.zip) **(667 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/logonSessions.zip) [**Download LogonSessions**](https://download.sysinternals.com/files/logonSessions.zip) **(667 KB)**
 
 
 ## Introduction
@@ -54,7 +54,7 @@ C:\>logonsessions -p
      6716: logonsessions.exe
 ```
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/logonSessions.zip) [**Download LogonSessions**](https://download.sysinternals.com/files/logonSessions.zip) **(667 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/logonSessions.zip) [**Download LogonSessions**](https://download.sysinternals.com/files/logonSessions.zip) **(667 KB)**
 
 **Runs on:**
 

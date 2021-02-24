@@ -14,7 +14,7 @@ Ctrl2Cap v2.0
 
 Published: November 1, 2006
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Ctrl2Cap.zip) [**Download Ctrl2Cap**](https://download.sysinternals.com/files/Ctrl2Cap.zip)  **(48 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Ctrl2Cap.zip) [**Download Ctrl2Cap**](https://download.sysinternals.com/files/Ctrl2Cap.zip)  **(48 KB)**
 
 
 ## Introduction
@@ -85,7 +85,7 @@ output), here are sources to check out:
 -   The accompanying file system filter driver,
     [Filemon](filemon.md)
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Ctrl2Cap.zip) [**Download Ctrl2Cap**](https://download.sysinternals.com/files/Ctrl2Cap.zip)  **(48 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Ctrl2Cap.zip) [**Download Ctrl2Cap**](https://download.sysinternals.com/files/Ctrl2Cap.zip)  **(48 KB)**
 
 **Runs on:**
 

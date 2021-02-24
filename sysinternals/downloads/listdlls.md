@@ -14,7 +14,7 @@ ListDLLs v3.2
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ListDlls.zip) [**Download ListDLLs**](https://download.sysinternals.com/files/ListDlls.zip) **(307 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ListDlls.zip) [**Download ListDLLs**](https://download.sysinternals.com/files/ListDlls.zip) **(307 KB)**
 
 
 ## Introduction
@@ -57,7 +57,7 @@ Show processes that have loaded MSO.DLL:
 
 **listdlls -d mso.dll**
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ListDlls.zip) [**Download ListDLLs**](https://download.sysinternals.com/files/ListDlls.zip) **(307 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ListDlls.zip) [**Download ListDLLs**](https://download.sysinternals.com/files/ListDlls.zip) **(307 KB)**
   
 **Runs on:**
 
