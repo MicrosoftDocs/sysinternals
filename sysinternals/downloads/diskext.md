@@ -14,7 +14,7 @@ DiskExt v1.2
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DiskExt.zip) [**Download DiskExt**](https://download.sysinternals.com/files/DiskExt.zip) **(498 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DiskExt.zip) [**Download DiskExt**](https://download.sysinternals.com/files/DiskExt.zip) **(498 KB)**
 
 
 ## Introduction
@@ -25,4 +25,4 @@ information about what disks the partitions of a volume are located on
 (multipartition disks can reside on multiple disks) and where on the
 disk the partitions are located.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DiskExt.zip) [**Download DiskExt**](https://download.sysinternals.com/files/DiskExt.zip) **(498 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DiskExt.zip) [**Download DiskExt**](https://download.sysinternals.com/files/DiskExt.zip) **(498 KB)**

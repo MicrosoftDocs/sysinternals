@@ -14,7 +14,7 @@ Disk2vhd v2.01
 
 Published: January 21, 2014
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/disk2vhd.exe).
 
 
@@ -92,6 +92,6 @@ Example: **disk2vhd \* c:\\vhd\\snapshot.vhd**
 > (OEM) using OEM versions of these products may not be transferred to a
 > virtual hard drive in accordance with Microsoft licensing terms.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/disk2vhd.exe).

@@ -14,7 +14,7 @@ VolumeID v2.1
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VolumeId.zip) [**Download VolumeID**](https://download.sysinternals.com/files/VolumeId.zip) **(194 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/VolumeId.zip) [**Download VolumeID**](https://download.sysinternals.com/files/VolumeId.zip) **(194 KB)**
 
 
 ## Introduction
@@ -37,7 +37,7 @@ pop up messages indicating that you should reinsert the original disk
 (!). It may then fail the disk requests of applications using those
 drives.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VolumeId.zip) [**Download VolumeID**](https://download.sysinternals.com/files/VolumeId.zip) **(194 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/VolumeId.zip) [**Download VolumeID**](https://download.sysinternals.com/files/VolumeId.zip) **(194 KB)**
 
 **Runs on:**
 

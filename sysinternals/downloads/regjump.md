@@ -14,7 +14,7 @@ RegJump v1.1
 
 Published: April 20, 2015
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RegJump.zip) [**Download RegJump**](https://download.sysinternals.com/files/RegJump.zip) **(53 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RegJump.zip) [**Download RegJump**](https://download.sysinternals.com/files/RegJump.zip) **(53 KB)**
 
 
 ## Introduction
@@ -32,4 +32,4 @@ HKEY\_LOCAL\_MACHINE) and abbreviated form (e.g. HKLM).
 
 e.g.: regjump HKLM\\Software\\Microsoft\\Windows
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RegJump.zip) [**Download RegJump**](https://download.sysinternals.com/files/RegJump.zip) **(53 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RegJump.zip) [**Download RegJump**](https://download.sysinternals.com/files/RegJump.zip) **(53 KB)**

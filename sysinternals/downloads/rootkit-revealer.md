@@ -14,7 +14,7 @@ RootkitRevealer v1.71
 
 Published: November 1, 2006
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RootkitRevealer.zip) [**Download RootkitRevealer**](https://download.sysinternals.com/files/RootkitRevealer.zip) **(231 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RootkitRevealer.zip) [**Download RootkitRevealer**](https://download.sysinternals.com/files/RootkitRevealer.zip) **(231 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RootkitRevealer.exe).
 
 
@@ -334,6 +334,6 @@ by Ed Skoudis and Lenny Zeltser
 (the book doesn't talk about rootkits, but understanding the Windows
 architecture is helpful to understanding rootkits).
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/RootkitRevealer.zip) [**Download RootkitRevealer**](https://download.sysinternals.com/files/RootkitRevealer.zip) **(231 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RootkitRevealer.zip) [**Download RootkitRevealer**](https://download.sysinternals.com/files/RootkitRevealer.zip) **(231 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RootkitRevealer.exe).

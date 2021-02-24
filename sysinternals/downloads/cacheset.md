@@ -14,7 +14,7 @@ CacheSet v1.0
 
 Published: November 1, 2006
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(44 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(44 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Cacheset.exe).
 
 
@@ -102,7 +102,7 @@ cache). Passing in a minimum and maximum of -1 causes
 **MmAjustWorkingSetSize** to perform a working-set clear operation,
 releasing all pages from the application's working set.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(44 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(44 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Cacheset.exe).
 

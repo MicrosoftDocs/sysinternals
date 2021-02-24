@@ -14,7 +14,7 @@ Sigcheck v2.80
 
 Published: June 24, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(1.2 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(1.2 MB)**
 
 
 ## Introduction
@@ -68,7 +68,7 @@ One way to use the tool is to check for unsigned files in your
 
 You should investigate the purpose of any files that are not signed.  
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(1.2 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(1.2 MB)**
 
 **Runs on:**
 

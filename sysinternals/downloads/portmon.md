@@ -14,7 +14,7 @@ Portmon for Windows v3.03
 
 Published: January 12, 2012
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PortMon.zip) [**Download Portmon**](https://download.sysinternals.com/files/PortMon.zip) **(226 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PortMon.zip) [**Download Portmon**](https://download.sysinternals.com/files/PortMon.zip) **(226 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/portmon.exe).
 
 
@@ -114,6 +114,6 @@ intercept all accesses to VCOMM's functions. Like its NT device driver,
 format. On Windows 95 and 98 *Portmon* monitors all ports so there is no
 port selection like on NT.  
   
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PortMon.zip) [**Download Portmon**](https://download.sysinternals.com/files/PortMon.zip) **(226 KB)** 
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PortMon.zip) [**Download Portmon**](https://download.sysinternals.com/files/PortMon.zip) **(226 KB)** 
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/portmon.exe).
