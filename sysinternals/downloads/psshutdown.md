@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897541(v=MSDN.10)'
 ms.date: 12/04/2006
 ---
 
-PsShutdown v2.52
-================
+# PsShutdown v2.52
 
 **By Mark Russinovich**
 
@@ -26,14 +25,10 @@ console user or lock the console (locking requires Windows 2000 or
 higher). *PsShutdown* requires no manual installation of client
 software.
 
-
-
 ## Installation
 
 Just copy *PsShutdown* onto your executable path, and type psshutdown
 with command-line options defined below.
-
-
 
 ## Using PsShutdown
 
@@ -85,5 +80,5 @@ that aid in the administration of local and remote systems named
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

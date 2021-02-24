@@ -61,7 +61,7 @@ nor does it attempt to protect or hide itself from attackers.
 
 ## Screenshots
 
-![EventViewer](media/sysmon/event-screen-optimized.png "EventViewer")
+![EventViewer](media/sysmon/event-screen-optimized.png)
 
 ## Usage
 

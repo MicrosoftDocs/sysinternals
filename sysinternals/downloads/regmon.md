@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896652(v=MSDN.10)'
 ms.date: 11/01/2006
 ---
 
-RegMon for Windows v7.04
-========================
+# RegMon for Windows v7.04
 
 **By Mark Russinovich**
 
@@ -23,12 +22,12 @@ Server 2003 SP1, and Windows Vista.
 
 Here are some other monitoring tools available at Sysinternals:
 
--   [PortMon](portmon.md) -
+- [PortMon](portmon.md) -
     a serial and parallel port monitor
--   [Process
+- [Process
     Monitor](procmon.md) -
     a process and thread monitor
--   [DiskMon](diskmon.md) -
+- [DiskMon](diskmon.md) -
     a hard disk monitor
--   [DebugView](debugview.md) -
+- [DebugView](debugview.md) -
     a debug output monitor  

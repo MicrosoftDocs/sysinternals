@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897424(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
-NTFSInfo v1.2
-=============
+# NTFSInfo v1.2
 
 **By Mark Russinovich**
 
@@ -73,6 +72,6 @@ along with a directory dump of NTFS meta-data files.
 
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

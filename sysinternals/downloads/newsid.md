@@ -7,9 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897418(v=MSDN.10)'
 ms.date: 11/01/2006
 ---
 
-NewSID v4.10
-============
-
+# NewSID v4.10
 
 
 **By Mark Russinovich**
@@ -21,7 +19,7 @@ download. Please see Mark Russinovich’s blog post: [NewSID Retirement
 and the Machine SID Duplication
 Myth](https://blogs.technet.com/markrussinovich/archive/2009/11/03/3291024.aspx)
 
-## IMPORTANT:
+## IMPORTANT
 
 Regarding SIDs, Microsoft does not support images that are prepared
 using NewSID, we only support images that are prepared using SysPrep.
@@ -33,7 +31,6 @@ following Knowledge Base article:
 - [<strong>The Microsoft policy concerning disk duplication of Windows XP
   installations</strong>  
   ](https://support.microsoft.com/default.aspx?scid=kb;en-us;314828)
-
 
 ## Introduction
 
@@ -64,26 +61,26 @@ systems that have been previously cloned.
 
 *Version Information:*
 
--   Version 4.0 introduces support for Windows XP and .NET Server, a
+- Version 4.0 introduces support for Windows XP and .NET Server, a
     wizard-style interface, allows you to specify the SID that you want
     applied, Registry compaction and also the option to rename a
     computer (which results in a change of both NetBIOS and DNS names).
--   Version 3.02 corrects a bug where NewSid would not correctly copy
+- Version 3.02 corrects a bug where NewSid would not correctly copy
     default values with invalid value types when renaming a key with an
     old SID to a new SID. NT actually makes use of such invalid values
     at certain times in the SAM. The symptom of this bug was error
     messages reporting access denied when account information was
     updated by an authorized user.
--   Version 3.01 adds a work-around for an inaccessible Registry key
+- Version 3.01 adds a work-around for an inaccessible Registry key
     that is created by Microsoft Transaction Server. Without the
     work-around *NewSID* would quit prematurely.
--   Version 3.0 introduces a SID-sync feature that directs *NewSID* to
+- Version 3.0 introduces a SID-sync feature that directs *NewSID* to
     obtain a SID to apply from another computer.
--   Version 2.0 has an automated-mode option, and let's you change the
+- Version 2.0 has an automated-mode option, and let's you change the
     computer name as well.
--   Version 1.2 fixes a bug in that was introduced in 1.1 where some
+- Version 1.2 fixes a bug in that was introduced in 1.1 where some
     file system security descriptors were not updated.
--   Version 1.1 corrects a relatively minor bug that affected only
+- Version 1.1 corrects a relatively minor bug that affected only
     certain installations. It also has been updated to change SIDs
     associated with the permission settings of file and printer shares.  
 
@@ -212,13 +209,13 @@ your computer before running *NewSID*.
 Here are the steps you should follow when you want to move a BDC from
 one domain to another:
 
-1.  Boot up the BDC you want to move and log in. Use *NewSID* to
+1. Boot up the BDC you want to move and log in. Use *NewSID* to
     synchronize the SID of the BDC with the PDC of the domain to which
     you wish to move the BDC.
-2.  Reboot the system for which you changed the SID (the BDC). Since the
+2. Reboot the system for which you changed the SID (the BDC). Since the
     domain the BDC is now associated with already has an active PDC, it
     will boot as a BDC in its new domain.
-3.  The BDC will show up as a workstation in Server Manager, so use the
+3. The BDC will show up as a workstation in Server Manager, so use the
     "Add to Domain" button to add the BDC to its new domain. Be sure to
     specify the BDC radio button when adding.  
 

@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896768(v=MSDN.10)'
 ms.date: 09/17/2020
 ---
 
-Junction v1.07
-==============
+# Junction v1.07
 
 **By Mark Russinovich**
 
 Published: July 4, 2016
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(504 KB)**
-
 
 ## Introduction
 
@@ -47,7 +45,7 @@ Use junction to list junctions:
 |---------|---------|
 | **-s**  | Recurse subdirectories |
 
-**Examples:**
+## Examples
 
 To determine if a file is a junction, specify the file name:
 
@@ -78,6 +76,6 @@ To delete a junction, use the –d switch:
 
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

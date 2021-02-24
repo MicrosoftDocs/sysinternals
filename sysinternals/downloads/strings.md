@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897439(v=MSDN.10)'
 ms.date: 09/17/2020
 ---
 
-Strings v2.53
-=============
+# Strings v2.53
 
 **By Mark Russinovich**
 
 Published: July 4, 2016
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [**Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(506 KB)**
-
 
 ## Introduction
 
@@ -25,8 +23,6 @@ a standard ASCII strings or grep programs. So we decided to roll our
 own. Strings just scans the file you pass it for UNICODE (or ASCII)
 strings of a default length of 3 or more UNICODE (or ASCII) characters.
 Note that it works under Windows 95 as well.
-
- 
 
 ## Using Strings
 
@@ -56,6 +52,6 @@ using strings use a command like this:
 
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

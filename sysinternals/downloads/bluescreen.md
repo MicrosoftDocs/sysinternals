@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897558(v=MSDN.10)'
 ms.date: 11/01/2006
 ---
 
-BlueScreen Screen Saver v3.2
-============================
+# BlueScreen Screen Saver v3.2
 
 **By Mark Russinovich**
 
@@ -24,12 +23,12 @@ has gone terribly wrong. Bluescreen is a screen saver that not only
 authentically mimics a BSOD, but will simulate startup screens seen
 during a system boot.
 
--   On NT 4.0 installations it simulates chkdsk of disk drives with
+- On NT 4.0 installations it simulates chkdsk of disk drives with
     errors!
--   On Windows 2000, Windows 95, and Windows 98 it presents the Windows
+- On Windows 2000, Windows 95, and Windows 98 it presents the Windows
     2000 startup splash screen, complete with rotating progress band and
     progress control updates!
--   On Windows XP and Windows Server 2003 it presents the XP/Server 2003
+- On Windows XP and Windows Server 2003 it presents the XP/Server 2003
     startup splash screen with progress bar!  
 
 Bluescreen cycles between different Blue Screens and simulated boots
@@ -69,5 +68,5 @@ this screen saver.**
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

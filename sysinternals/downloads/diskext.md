@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896648(v=MSDN.10)'
 ms.date: 09/17/2020
 ---
 
-DiskExt v1.2
-============
+# DiskExt v1.2
 
 **By Mark Russinovich**
 
 Published: July 4, 2016
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DiskExt.zip) [**Download DiskExt**](https://download.sysinternals.com/files/DiskExt.zip) **(498 KB)**
-
 
 ## Introduction
 

@@ -6,15 +6,13 @@ ms:assetid: 'cfbb8960-ca2c-48c3-a05e-ecb1970d3648'
 ms.date: 09/09/2020
 ---
 
-CpuStres v2.0
-==============
+# CpuStres v2.0
 
 **By Pavel Yosifovich**
 
 Published: July 18, 2018
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/CPUSTRES.zip) [**Download CpuStres**](https://download.sysinternals.com/files/CPUSTRES.zip) **(2.2 MB)**
-
 
 ## Introduction
 
@@ -28,17 +26,15 @@ Each thread can be started, paused or stopped independently and can be configure
 - **Priority**  This controls the thread priority. Refer to Windows Internals by Mark Russinovich for details on thread priorities
 
 
-
-
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2003 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2003 and higher
+- Nano Server: 2016 and higher
 
 ## Related Links
 
--   [**Windows Internals Book**](~/resources/windows-internals.md)  The official updates and errata page for the definitive book on
+- [**Windows Internals Book**](~/resources/windows-internals.md)  The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
 
 ## Download
