@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 01/14/2021
+ms.date: 03/01/2021
 ---
 
 # Sysinternals Utilities Index
@@ -359,7 +359,7 @@ Set Volume ID of FAT or NTFS drives.
 See who owns an Internet address.
 
 [WinObj](winobj.md)  
-*v2.23 (November 25, 2020)*  
+*v3.01 (March 1, 2021)*  
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  
