@@ -13,7 +13,7 @@ Testlimit v5.24
 
 Published: November 17, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Testlimit.zip) [**Download Testlimit**](https://download.sysinternals.com/files/Testlimit.zip) **(234 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Testlimit.zip) [**Download Testlimit**](https://download.sysinternals.com/files/Testlimit.zip) **(234 KB)**
 
 
 ## Introduction
@@ -64,9 +64,5 @@ memory, handles, processes, threads and other system objects.
 
 ## Download
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/TestLimit.zip)[**Download Testlimit**](https://download.sysinternals.com/files/Testlimit.zip) **(234 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/TestLimit.zip)[**Download Testlimit**](https://download.sysinternals.com/files/Testlimit.zip) **(234 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Testlimit.exe).
-
-
-
-

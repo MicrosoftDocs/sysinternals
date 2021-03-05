@@ -14,7 +14,7 @@ Whois v1.21
 
 Published: December 11, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WhoIs.zip) [**Download Whois**](https://download.sysinternals.com/files/WhoIs.zip) **(585 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WhoIs.zip) [**Download Whois**](https://download.sysinternals.com/files/WhoIs.zip) **(585 KB)**
 
 
 ## Introduction
@@ -33,7 +33,7 @@ that you specify.
 Domainname can be either a DNS name (e.g. www.sysinternals.com) or IP
 address (e.g. 66.193.254.46).
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WhoIs.zip) [**Download Whois**](https://download.sysinternals.com/files/WhoIs.zip) **(585 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WhoIs.zip) [**Download Whois**](https://download.sysinternals.com/files/WhoIs.zip) **(585 KB)**
 
 **Runs on:**
 

@@ -14,7 +14,7 @@ BlueScreen Screen Saver v3.2
 
 Published: November 1, 2006
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BlueScreen.zip) [**Download BlueScreen**](https://download.sysinternals.com/files/BlueScreen.zip) **(64 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/BlueScreen.zip) [**Download BlueScreen**](https://download.sysinternals.com/files/BlueScreen.zip) **(64 KB)**
 
 ## Introduction
 
@@ -65,7 +65,7 @@ the Blue Screen."*
 If this is the case with your virus scanner, you may not be able to use
 this screen saver.**
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BlueScreen.zip) [**Download BlueScreen**](https://download.sysinternals.com/files/BlueScreen.zip) **(64 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/BlueScreen.zip) [**Download BlueScreen**](https://download.sysinternals.com/files/BlueScreen.zip) **(64 KB)**
 
 **Runs on:**
 

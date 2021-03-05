@@ -14,7 +14,7 @@ Active Directory Explorer v1.50
 
 Published: November 04, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdExplorer.zip)  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(1.2 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/AdExplorer.zip)  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(1.2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ADExplorer.exe).
 
 
@@ -36,6 +36,6 @@ permissions changed between them.
 
 ![AD Explorer screenshot](/media/landing/sysinternals/adexplorer.jpg)
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AdExplorer.zip)  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(1.2 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/AdExplorer.zip)  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(1.2 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ADExplorer.exe).

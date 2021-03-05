@@ -14,7 +14,7 @@ NTFSInfo v1.2
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NTFSInfo.zip) [**Download NTFSInfo**](https://download.sysinternals.com/files/NTFSInfo.zip) **(143 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/NTFSInfo.zip) [**Download NTFSInfo**](https://download.sysinternals.com/files/NTFSInfo.zip) **(143 KB)**
 
 ## Introduction
 
@@ -69,7 +69,7 @@ privilege.
 obtain information from NTFS about a volume. It prints this information
 along with a directory dump of NTFS meta-data files.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NTFSInfo.zip) [**Download NTFSInfo**](https://download.sysinternals.com/files/NTFSInfo.zip) **(143 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/NTFSInfo.zip) [**Download NTFSInfo**](https://download.sysinternals.com/files/NTFSInfo.zip) **(143 KB)**
 
 **Runs on:**
 

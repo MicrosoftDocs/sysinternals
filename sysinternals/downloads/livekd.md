@@ -14,7 +14,7 @@ LiveKd v5.63
 
 Published: April 28, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LiveKD.zip) [**Download LiveKd**](https://download.sysinternals.com/files/LiveKD.zip) **(700 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LiveKD.zip) [**Download LiveKd**](https://download.sysinternals.com/files/LiveKD.zip) **(700 KB)**
 
 
 ## Introduction
@@ -96,7 +96,7 @@ hangs.
 
 By default LiveKd runs kd.exe.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LiveKD.zip) [**Download LiveKd**](https://download.sysinternals.com/files/LiveKD.zip) **(700 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LiveKD.zip) [**Download LiveKd**](https://download.sysinternals.com/files/LiveKD.zip) **(700 KB)**
 
 **Runs on:**
 
