@@ -1,22 +1,20 @@
---- 
+---
 TOCTitle: Portmon
 title: Portmon for Windows
-description: Monitor serial and parallel port activity with this advanced monitoring tool. 
+description: Monitor serial and parallel port activity with this advanced monitoring tool.
 ms:assetid: 'f989ac38-afd3-4e14-ad47-85af3c4f8ded'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896644(v=MSDN.10)'
 ms.date: 01/12/2012
 ---
 
-Portmon for Windows v3.03
-=========================
+# Portmon for Windows v3.03
 
 **By Mark Russinovich**
 
 Published: January 12, 2012
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PortMon.zip) [**Download Portmon**](https://download.sysinternals.com/files/PortMon.zip) **(226 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PortMon.zip) [**Download Portmon**](https://download.sysinternals.com/files/PortMon.zip) **(226 KB)**
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/portmon.exe).
-
 
 ## Introduction
 
@@ -24,7 +22,7 @@ Published: January 12, 2012
 parallel port activity on a system. It has advanced filtering and search
 capabilities that make it a powerful tool for exploring the way Windows
 works, seeing how applications use ports, or tracking down problems in
-system or application configurations.  
+system or application configurations.
 
 ## Portmon 3.x
 
@@ -52,7 +50,7 @@ features.
 
 The on-line help-file describes all these features, and more, in detail.
 
-![PortMon](/media/landing/sysinternals/PortMon.gif)  
+![PortMon](media/portmon/PortMon.gif)
 
 ## Installation and Use
 
@@ -71,8 +69,7 @@ commands and will display them along with interesting information
 regarding their associated parameters. For read and write requests
 *Portmon* displays the first several dozen bytes of the buffer, using
 '.' to represent non-printable characters. The Show Hex menu option lets
-you toggle between ASCII and raw hex output of buffer data.  
-  
+you toggle between ASCII and raw hex output of buffer data.
 
 ## How it Works: WinNT
 
@@ -99,8 +96,7 @@ the *Portmon* driver will see all requests aimed at the target device.
 port IOCTLs, which are the primary way that applications and drivers
 configure and read status information from ports. The IOCTLs are defined
 in the DDK file \\ddk\\src\\comm\\inc\\ntddser.h and
-\\ddk\\src\\comm\\inc\\ntddpar.h, and some are documented in the DDK.  
-  
+\\ddk\\src\\comm\\inc\\ntddpar.h, and some are documented in the DDK.
 
 ## How it Works: Windows 95 and 98
 
@@ -112,8 +108,8 @@ services. The *Portmon* VxD uses standard VxD service hooking to
 intercept all accesses to VCOMM's functions. Like its NT device driver,
 *Portmon*'s VxD interprets requests to display them in a friendly
 format. On Windows 95 and 98 *Portmon* monitors all ports so there is no
-port selection like on NT.  
-  
+port selection like on NT.
+
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PortMon.zip) [**Download Portmon**](https://download.sysinternals.com/files/PortMon.zip) **(226 KB)** 
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/portmon.exe).

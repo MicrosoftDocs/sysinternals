@@ -6,15 +6,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897417(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
-PsGetSid v1.45
-==============
+# PsGetSid v1.45
 
 **By Mark Russinovich**
 
 Published: June 29, 2016
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
-
 
 ## Introduction
 
@@ -52,7 +50,6 @@ don't specify a password as an option, *PsGetSid* will prompt you for
 one so that you can type it in without having it echoed to the display.
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
- 
 
 **PsTools**
 
@@ -60,9 +57,7 @@ one so that you can type it in without having it echoed to the display.
 that aid in the administration of local and remote systems named
 *PsTools*.
 
- 
-
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

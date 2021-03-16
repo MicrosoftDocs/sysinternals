@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896650(v=MSDN.10)'
 ms.date: 10/15/2020
 ---
 
-DiskView v2.41
-=============
+# DiskView v2.41
 
 **By Mark Russinovich**
 
@@ -17,7 +16,6 @@ Published: October 15, 2020
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DiskView.zip) [**Download DiskView**](https://download.sysinternals.com/files/DiskView.zip) **(800 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/DiskView.exe).
 
-
 ## Introduction
 
 DiskView shows you a graphical map of your disk, allowing you to
@@ -25,7 +23,7 @@ determine where a file is located or, by clicking on a cluster, seeing
 which file occupies it. Double-click to get more information about a
 file to which a cluster is allocated.
 
-![DiskView screenshot](/media/landing/sysinternals/diskview.gif)
+![DiskView screenshot](media/diskview/diskview.gif)
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DiskView.zip) [**Download DiskView**](https://download.sysinternals.com/files/DiskView.zip) **(800 KB)**
 

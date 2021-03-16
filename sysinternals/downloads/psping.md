@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/JJ729731(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
-PsPing v2.1
-============
+# PsPing v2.1
 
 **By Mark Russinovich**
 
 Published: June 29, 2016
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
-
 
 ## Introduction
 
@@ -84,7 +82,6 @@ For high-speed ping tests use -q and -i 0.
 |  **-w** |  Warmup with the specified number of iterations (default is 1).|
 |  **-4** |  Force using IPv4.|
 |  **-6** |  Force using IPv6.|
-
 
 
 For high-speed ping tests use -q and -i 0.

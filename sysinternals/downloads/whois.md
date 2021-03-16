@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897435(v=MSDN.10)'
 ms.date: 09/17/2020
 ---
 
-Whois v1.21
-===========
+# Whois v1.21
 
 **By Mark Russinovich**
 
 Published: December 11, 2019
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WhoIs.zip) [**Download Whois**](https://download.sysinternals.com/files/WhoIs.zip) **(585 KB)**
-
 
 ## Introduction
 
@@ -37,6 +35,6 @@ address (e.g. 66.193.254.46).
 
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

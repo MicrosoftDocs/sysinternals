@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb963907(v=MSDN.10)'
 ms.date: 11/04/2020
 ---
 
-Active Directory Explorer v1.50
-===============================
+# Active Directory Explorer v1.50
 
 **By Mark Russinovich**
 
@@ -16,7 +15,6 @@ Published: November 04, 2020
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/AdExplorer.zip)  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(1.2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ADExplorer.exe).
-
 
 ## Introduction
 
@@ -34,7 +32,7 @@ If you have two snapshots of an AD database you can use AD Explorer's
 comparison functionality to see what objects, attributes and security
 permissions changed between them.
 
-![AD Explorer screenshot](/media/landing/sysinternals/adexplorer.jpg)
+![AD Explorer screenshot](media/adexplorer/adexplorer.jpg)
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/AdExplorer.zip)  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(1.2 MB)**
 

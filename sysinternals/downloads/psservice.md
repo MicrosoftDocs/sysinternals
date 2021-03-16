@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897542(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
-PsService v2.25
-===============
+# PsService v2.25
 
 **By Mark Russinovich**
 
 Published: June 29, 2016
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
-
 
 ## Introduction
 
@@ -39,8 +37,6 @@ index" in order to obtain a complete listing of service information.&gt;
 ## Installation
 
 Just copy *PsService* onto your executable path, and type "psservice".
-
- 
 
 ## Using PsService
 
@@ -83,5 +79,5 @@ that aid in the administration of local and remote systems named
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

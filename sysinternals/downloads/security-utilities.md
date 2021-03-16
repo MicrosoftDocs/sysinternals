@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb795534(v=MSDN.10)'
 ms.date: 07/22/2016
 ---
 
-Sysinternals Security Utilities
-===============================
+# Sysinternals Security Utilities
 
 [AccessChk](accesschk.md)  
 This tool shows you the accesses the user or group you specify has to

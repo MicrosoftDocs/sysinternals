@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897539(v=MSDN.10)'
 ms.date: 09/17/2020
 ---
 
-Insight for Active Directory v1.2
-=================================
+# Insight for Active Directory v1.2
 
 **By Mark Russinovich**
 
@@ -35,17 +34,16 @@ tracing DLL, which means that it does not require administrative
 permissions, however, if run with administrative rights, it will also
 monitor system processes, including windows services.
 
-![ADInsight](/media/landing/sysinternals/adinsight.jpg)  
+![ADInsight](media/adinsight/adinsight.jpg)  
 
- 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/AdInsight.zip) [**Download AdInsight**](https://download.sysinternals.com/files/AdInsight.zip) **(3.3 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ADInsight.exe).
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.
 
 ## Related Links
 

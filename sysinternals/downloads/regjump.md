@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb963880(v=MSDN.10)'
 ms.date: 04/20/2015
 ---
 
-RegJump v1.1
-============
+# RegJump v1.1
 
 **By Mark Russinovich**
 
 Published: April 20, 2015
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RegJump.zip) [**Download RegJump**](https://download.sysinternals.com/files/RegJump.zip) **(53 KB)**
-
 
 ## Introduction
 
@@ -28,7 +26,6 @@ HKEY\_LOCAL\_MACHINE) and abbreviated form (e.g. HKLM).
 |Parameter  |Description  |
 |---------|---------|
 |  **-c**  | Copy path from clipboard. |
-
 
 e.g.: regjump HKLM\\Software\\Microsoft\\Windows
 

@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb795535(v=MSDN.10)'
 ms.date: 09/08/2016
 ---
 
-Sysinternals System Information Utilities
-=========================================
+# Sysinternals System Information Utilities
 
 [Autoruns](autoruns.md)  
 See what programs are configured to startup automatically when your

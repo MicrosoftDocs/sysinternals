@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb842062(v=MSDN.10)'
 ms.date: 03/01/2021
 ---
 
-Sysinternals Suite
-==================
+# Sysinternals Suite
   
 **By Mark Russinovich**  
 Updated: March 1, 2021

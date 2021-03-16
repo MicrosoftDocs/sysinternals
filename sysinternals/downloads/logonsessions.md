@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896769(v=MSDN.10)'
 ms.date: 11/25/2020
 ---
 
-LogonSessions v1.41
-==================
+# LogonSessions v1.41
 
 **By Mark Russinovich**
 
 Published: November 25, 2020
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/logonSessions.zip) [**Download LogonSessions**](https://download.sysinternals.com/files/logonSessions.zip) **(667 KB)**
-
 
 ## Introduction
 
@@ -34,6 +32,7 @@ running in each session.
 |  **-p**   | List processes running in logon session. |
 
 ## Example output
+
 ```Shell
 C:\>logonsessions -p 
 
@@ -58,6 +57,6 @@ C:\>logonsessions -p
 
 **Runs on:**
 
--   Client: Windows Vista (32-bit)and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista (32-bit)and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

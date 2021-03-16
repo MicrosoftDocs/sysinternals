@@ -6,8 +6,7 @@ ms:assetid: '2a241f34-ffa4-4102-88f4-8fcfdfc28e09'
 ms.date: 09/09/2020
 ---
 
-Testlimit v5.24
-==============
+# Testlimit v5.24
 
 **By Mark Russinovich**
 
@@ -15,17 +14,14 @@ Published: November 17, 2016
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Testlimit.zip) [**Download Testlimit**](https://download.sysinternals.com/files/Testlimit.zip) **(234 KB)**
 
-
 ## Introduction
 
 Testlimit is a command-line utility that can be used to stress-test 
 your PC and/or applications by simulating low resource conditions for 
 memory, handles, processes, threads and other system objects. 
 
-
 **usage: Testlimit
  [[-h [-u]] | [-p [-n]] | [-t [-n [KB]]] | [-u [-i]] | [-g [object size]] | [-a|-d|-l|-m|-r|-s|-v [MB]] | [-w]] [-c [count]] [-e [seconds]]**
-
 
 |Parameter  |Description  |
 |---------|---------|
@@ -48,15 +44,15 @@ memory, handles, processes, threads and other system objects.
 
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2003 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2003 and higher
+- Nano Server: 2016 and higher
 
 ## Related Links
 
--   [**Windows Internals Book**](~/resources/windows-internals.md)  The official updates and errata page for the definitive book on
+- [**Windows Internals Book**](~/resources/windows-internals.md)  The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
--   [**Windows Sysinternals Administrator's Reference**](~/resources/troubleshooting-book.md)  The
+- [**Windows Sysinternals Administrator's Reference**](~/resources/troubleshooting-book.md)  The
     official guide to the Sysinternals utilities by Mark Russinovich and
     Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example
