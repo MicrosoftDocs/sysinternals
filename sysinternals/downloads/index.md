@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 03/01/2021
+ms.date: 03/22/2021
 ---
 
 # Sysinternals Utilities Index
@@ -231,7 +231,7 @@ Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
 [PsExec](psexec.md)  
-*v2.32 (January 14, 2021)*  
+*v2.33 (March 22, 2021)*  
 Execute processes on remote systems.
 
 [PsFile](psfile.md)  
@@ -283,7 +283,7 @@ Shuts down and optionally reboots a computer.
 Suspend and resume processes.
 
 [PsTools](pstools.md)  
-*v2.46 (January 11, 2021)*  
+*v2.47 (March 22, 2021)*  
 The PsTools suite includes command-line utilities for listing the
 processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
@@ -339,11 +339,11 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v13.00 (January 11, 2021)*  
+*v13.02 (March 22, 2021)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
-*v3.05 (July 25, 2011)*  
+*v4.0 (March 22, 2021)*  
 Active socket command-line viewer.
 
 [VMMap](vmmap.md)  
@@ -359,7 +359,7 @@ Set Volume ID of FAT or NTFS drives.
 See who owns an Internet address.
 
 [WinObj](winobj.md)  
-*v3.01 (March 1, 2021)*  
+*v3.02 (March 22, 2021)*  
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  
