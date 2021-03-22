@@ -28,10 +28,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ### What's New (March 22, 2021)
 
 - [TCPView v4.0](~/downloads/tcpview.md)
-This major update to TCPView continues the dark theme trend within Sysinternals and comes with new visual assets and with performance improvements.
-
-- [PsExec v2.33](~/downloads/psexec.md)
-This update to PsExec finishes the work started with v2.30 for mitigating a named pipe squatting attack resulting in elevation of privileges. Also the `-i` command line switch is now necessary for running processes interactively, for example with redirected IO.
+This major update to TCPView adds flexible filtering, support for searching, and now shows the Windows service that owns an endpoint. It is also the second Sysinternals tool to feature the new theme engine with dark mode.
 
 ### What's New (February 22, 2021)
 
