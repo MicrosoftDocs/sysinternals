@@ -38,19 +38,19 @@ for each test type:
 psping -? [i|t|l|b\]
 ```
 
-|Parameter  |Description  |
-|---------|---------|
-|  **-? I** |  Usage for ICMP ping. |
-|  **-? T** |  Usage for TCP ping. |
-|  **-? L** |  Usage for latency test. |
-|  **-? B** |  Usage for bandwidth test. | 
+| Parameter | Description                |
+|-----------|----------------------------|
+|  **-? I** |  Usage for ICMP ping.      |
+|  **-? T** |  Usage for TCP ping.       |
+|  **-? L** |  Usage for latency test.   |
+|  **-? B** |  Usage for bandwidth test. |
 
 **ICMP ping usage:**  
 
 ```cmd
 psping [[-6]|[-4]] [-h [buckets | <val1>,<val2>,...]] [-i <interval>] [-l <requestsize>[k|m] [-q] [-t|-n <count>] [-w <count>] <destination>
 ```
- 
+
 |Parameter  |Description  |
 |---------|---------|
 |  **-h** |  Print histogram (default bucket count is 20).  |
@@ -132,7 +132,7 @@ psping [[-6]|[-4]] [-f] <-s source:sourceport>
 ```cmd
 psping [[-6]|[-4]] [-f] [-u] [-h [buckets | <val1>,<val2>,...]] [-r] <-l requestsize>[k|m]] <-n count> [-i <outstanding>] [-w <count>] <destination:destport>
 ```
- 
+
 |Parameter  |Description  |
 |---------|---------|
 |  **-f** |  Open source firewall port during the run.|

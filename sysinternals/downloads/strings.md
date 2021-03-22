@@ -43,7 +43,7 @@ command line parameters are defined as follows:
 |  **-o**  | Print offset in file string was located |
 |  **-n**  | Minimum string length (default is 3) |
 |  **-s**  | Recurse subdirectories |
-|  **-u**  | Unicode-only search (Unicode and Ascii is default) | 
+|  **-u**  | Unicode-only search (Unicode and Ascii is default) |
 |  **-nobanner**  | Do not display the startup banner and copyright message. |
 
 To search one or more files for the presence of a particular string
