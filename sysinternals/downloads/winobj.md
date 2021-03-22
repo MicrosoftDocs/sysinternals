@@ -37,7 +37,7 @@ enhancements (including a dark theme), knows how to open device objects, provide
 There is no device driver component to WinObj, so you can run it like
 any Win32 program.
 
-![WinObj screenshot](media/winobj/WinObj.png)
+![WinObj screenshot](media/winobj/winobj.png)
 
 ## How it Works
 

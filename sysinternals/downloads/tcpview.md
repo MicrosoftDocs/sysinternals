@@ -27,7 +27,7 @@ subset of the Netstat program that ships with Windows. The TCPView
 download includes Tcpvcon, a command-line version with the same
 functionality.
 
-![TCP View screenshot](media/tcpview/tcpview.jpg)
+![TCP View screenshot](media/tcpview/tcpview.png)
 
 ## Using TCPView
 

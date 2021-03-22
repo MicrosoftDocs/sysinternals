@@ -179,7 +179,7 @@ See the order in which devices are loaded on your WinNT/2K system.
 *v1.41 (November 25, 2020)*  
 List the active logon sessions on a system.
 
-[MoveFile](movefile.md)  
+[MoveFile](pendmoves.md)  
 *v1.01 (January 24, 2013)*  
 Allows you to schedule move and delete commands for the next reboot.
 

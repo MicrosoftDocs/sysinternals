@@ -15,9 +15,11 @@ Published: July 4, 2016
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PendMoves.zip) [**Download PendMovesand MoveFile**](https://download.sysinternals.com/files/PendMoves.zip) **(988 KB)**
 
 ## Introduction
+
 There are several applications,  such as service packs and  hotfixes, that must replace a file that's in use and is unable to. Windows therefore provides the MoveFileEx API to rename or  delete a file and allows the caller to specify that they want the operation to take place the  next time the system boots,before the files are referenced. Session Manager performs this task by reading the registered rename and delete commands from  the HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\PendingFileRenameOperations value. 
 
-## PendMoves Usage 
+## PendMoves Usage
+
 This applet dumps the contents of the pending rename/delete value  and also reports an error when the source file is notaccessible. 
 
 **Usage: pendmoves**  
@@ -33,7 +35,8 @@ Source: C:\\Config.Msi\\3ec7bbbf.rbf
 Target: DELETE 
 ```
 
-## MoveFile usage 
+## MoveFile usage
+
 The included MoveFile utililty allows you to schedule move and  delete commands for the next reboot:
 **usage: movefile [source] [dest]**  
 Specifying an empty destination  ("") deletes the source at boot. An example that deletes test.exe is: 
