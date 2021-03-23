@@ -32,23 +32,25 @@ usage syntax.
 measurement. Use the following command-line options to show the usage
 for each test type:
 
-**Usage: psping -? \[i|t|l|b\]**
+**Usage:**
 
- 
-|Parameter  |Description  |
-|---------|---------|
-|  **-? I** |  Usage for ICMP ping. |
-|  **-? T** |  Usage for TCP ping. |
-|  **-? L** |  Usage for latency test. |
-|  **-? B** |  Usage for bandwidth test. | 
+```cmd
+psping -? [i|t|l|b\]
+```
+
+| Parameter | Description                |
+|-----------|----------------------------|
+|  **-? I** |  Usage for ICMP ping.      |
+|  **-? T** |  Usage for TCP ping.       |
+|  **-? L** |  Usage for latency test.   |
+|  **-? B** |  Usage for bandwidth test. |
 
 **ICMP ping usage:**  
-**psping \[\[-6\]|\[-4\]\] \[-h \[buckets |
-&lt;val1&gt;,&lt;val2&gt;,...\]\] \[-i &lt;interval&gt;\] \[-l
-&lt;requestsize&gt;\[k|m\] \[-q\] \[-t|-n &lt;count&gt;\] \[-w
-&lt;count&gt;\] &lt;destination&gt;**
 
- 
+```cmd
+psping [[-6]|[-4]] [-h [buckets | <val1>,<val2>,...]] [-i <interval>] [-l <requestsize>[k|m] [-q] [-t|-n <count>] [-w <count>] <destination>
+```
+
 |Parameter  |Description  |
 |---------|---------|
 |  **-h** |  Print histogram (default bucket count is 20).  |
@@ -65,10 +67,10 @@ for each test type:
 For high-speed ping tests use -q and -i 0.
 
 **TCP ping usage:**  
-**psping \[\[-6\]|\[-4\]\] \[-h \[buckets |
-&lt;val1&gt;,&lt;val2&gt;,...\]\] \[-i &lt;interval&gt;\] \[-l
-&lt;requestsize&gt;\[k|m\] \[-q\] \[-t|-n &lt;count&gt;\] \[-w
-&lt;count&gt;\] &lt;destination:destport&gt;**
+
+```cmd
+psping [[-6]|[-4]] [-h [buckets | <val1>,<val2>,...]] [-i <interval>] [-l <requestsize>[k|m] [-q] [-t|-n <count>] [-w <count>] <destination:destport>
+```
 
 |Parameter  |Description  |
 |---------|---------|
@@ -88,11 +90,17 @@ For high-speed ping tests use -q and -i 0.
 
 **TCP and UDP latency usage:**
 
-**server: psping \[\[-6\]|\[-4\]\] \[-f\] &lt;-s source:sourceport&gt;**
+**server:**
 
-**client: psping \[\[-6\]|\[-4\]\] \[-f\] \[-u\] \[-h \[buckets |
-&lt;val1&gt;,&lt;val2&gt;,...\]\] \[-r\] &lt;-l requestsize&gt;\[k|m\]\]
-&lt;-n count&gt; \[-w &lt;count&gt;\] &lt;destination:destport&gt;**
+```cmd
+psping [[-6]|[-4]] [-f] <-s source:sourceport>
+```
+
+**client:**
+
+```cmd
+psping [[-6]|[-4]] [-f] [-u] [-h [buckets | <val1>,<val2>,...]] [-r] <-l requestsize>[k|m]] <-n count> [-w <count>] <destination:destport>
+```
 
 |Parameter  |Description  |
 |---------|---------|
@@ -113,14 +121,18 @@ until you terminate it with Control-C.
 
 **TCP and UDP bandwidth usage:**
 
-**server: psping \[\[-6\]|\[-4\]\] \[-f\] &lt;-s source:sourceport&gt;**
+**server:**
 
-**client: psping \[\[-6\]|\[-4\]\] \[-f\] \[-u\] \[-h \[buckets |
-&lt;val1&gt;,&lt;val2&gt;,...\]\] \[-r\] &lt;-l requestsize&gt;\[k|m\]\]
-&lt;-n count&gt; \[-i &lt;outstanding&gt;\] \[-w &lt;count&gt;\]
-&lt;destination:destport&gt;**
+```cmd
+psping [[-6]|[-4]] [-f] <-s source:sourceport>
+```
 
- 
+**client:**
+
+```cmd
+psping [[-6]|[-4]] [-f] [-u] [-h [buckets | <val1>,<val2>,...]] [-r] <-l requestsize>[k|m]] <-n count> [-i <outstanding>] [-w <count>] <destination:destport>
+```
+
 |Parameter  |Description  |
 |---------|---------|
 |  **-f** |  Open source firewall port during the run.|
@@ -143,29 +155,44 @@ until you terminate it with Control-C.
 ## Examples
 
 This command executes an ICMP ping test for 10 iterations with 3 warmup
-iterations:  
-**psping -n 10 -w 3 marklap**
+iterations:
+
+```cmd
+psping -n 10 -w 3 marklap
+```
 
 To execute a TCP connect test, specify the port number. The following
 command executes connect attempts against the target as quickly as
 possible, only printing a summary when finished with the 100 iterations
-and 1 warmup iteration:  
-**psping -n 100 -i 0 -q marklap:80**
+and 1 warmup iteration:
+
+```cmd
+psping -n 100 -i 0 -q marklap:80
+```
 
 To configure a server for latency and bandwidth tests, simply specify
-the -s option and the source address and port the server will bind to:  
-**psping -s 192.168.2.2:5000**
+the `-s` option and the source address and port the server will bind to:
+
+```cmd
+psping -s 192.168.2.2:5000
+```
 
 A buffer size is required to perform a TCP latency test. This example
 measures the round trip latency of sending an 8KB packet to the target
-server, printing a histogram with 100 buckets when completed:  
-**psping -l 8k -n 10000 -h 100 192.168.2.2:5000**
+server, printing a histogram with 100 buckets when completed:
+
+```cmd
+psping -l 8k -n 10000 -h 100 192.168.2.2:5000
+```
 
 This command tests bandwidth to a PsPing server listening at the target
 IP address for 10 seconds and produces a histogram with 100 buckets.
 Note that the test must run for at least one second after warmup for a
-histogram to generate. Simply add -u to have PsPing perform a UDP
-bandwidth test.  
-**psping -b -l 8k -n 10000 -h 100 192.168.2.2:5000**
+histogram to generate. Simply add `-u` to have PsPing perform a UDP
+bandwidth test.
+
+```cmd
+psping -b -l 8k -n 10000 -h 100 192.168.2.2:5000
+```
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**

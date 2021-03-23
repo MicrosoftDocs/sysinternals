@@ -69,8 +69,8 @@
           tocHref: /sysinternals/downloads/ldmdump/
           topicHref: /sysinternals/downloads/ldmdump
         - name: MoveFile
-          tocHref: /sysinternals/downloads/movefile/
-          topicHref: /sysinternals/downloads/movefile
+          tocHref: /sysinternals/downloads/pendmoves/
+          topicHref: /sysinternals/downloads/pendmoves
         - name: NTFSInfo
           tocHref: /sysinternals/downloads/ntfsinfo/
           topicHref: /sysinternals/downloads/ntfsinfo

@@ -4,14 +4,14 @@ title: PsExec
 description: Execute processes on remote systems.
 ms:assetid: '936a8b8b-a7ce-4b63-bcc2-ca334cd4c276'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897553(v=MSDN.10)'
-ms.date: 01/14/2021
+ms.date: 03/22/2021
 ---
 
-# PsExec v2.32
+# PsExec v2.33
 
 **By Mark Russinovich**
 
-Published: January 14, 2021
+Published: March 22, 2021
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(3.5 MB)**
 

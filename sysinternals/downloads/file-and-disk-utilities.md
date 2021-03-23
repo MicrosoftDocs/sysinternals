@@ -60,7 +60,7 @@ Create Win2K NTFS symbolic links.
 Dump the contents of the Logical Disk Manager"s on-disk database,
 which describes the partitioning of Windows 2000 Dynamic disks.
 
-[MoveFile](movefile.md)  
+[MoveFile](pendmoves.md)  
 Schedule file rename and delete commands for the next reboot. This
 can be useful for cleaning stubborn or in-use malware files.
 

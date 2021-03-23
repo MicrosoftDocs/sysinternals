@@ -31,7 +31,7 @@
       - name: LDMDump
         href: downloads/ldmdump.md
       - name: MoveFile
-        href: downloads/movefile.md
+        href: downloads/pendmoves.md
       - name: NTFSInfo
         href: downloads/ntfsinfo.md
       - name: PageDefrag
