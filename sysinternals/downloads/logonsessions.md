@@ -24,7 +24,6 @@ running in each session.
 
 **Usage: logonsessions \[-c\[t\]\] \[-p\]**
 
- 
 |Parameter  |Description  |
 |---------|---------|
 |  **-c**   | Print output as CSV. |

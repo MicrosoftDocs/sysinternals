@@ -34,7 +34,7 @@ tracing DLL, which means that it does not require administrative
 permissions, however, if run with administrative rights, it will also
 monitor system processes, including windows services.
 
-![ADInsight](media/adinsight/adinsight.jpg)  
+![ADInsight screenshot](media/adinsight/adinsight.jpg)  
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/AdInsight.zip) [**Download AdInsight**](https://download.sysinternals.com/files/AdInsight.zip) **(3.3 MB)**
 

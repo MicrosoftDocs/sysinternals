@@ -13,7 +13,7 @@ ms.date: 03/23/2021
 
 Published: March 23, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(1.4 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(1.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Tcpview.exe).
 
 ## Introduction
