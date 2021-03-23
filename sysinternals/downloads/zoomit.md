@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
 ms.date: 09/17/2020
 ---
 
-ZoomIt v4.52
-===========
+# ZoomIt v4.52
 
 **By Mark Russinovich**
 
@@ -16,7 +15,6 @@ Published: December 11, 2019
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(917 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
-
 
 ## Introduction
 
@@ -79,8 +77,7 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Live Zoom Mode | Ctrl + 4 |
 | Exit | Esc or Right-Click |
 
-
-![ZoomIt](/media/landing/sysinternals/20130618_Zoomit_v4.5.jpg)  
+![ZoomIt](media/zoomit/20130618_Zoomit_v4.5.jpg)  
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(917 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).

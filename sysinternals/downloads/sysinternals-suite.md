@@ -4,18 +4,17 @@ title: Sysinternals Suite
 description: The Windows Sysinternals troubleshooting Utilities have been rolled up into a single suite of tools.
 ms:assetid: '0e18b180-9b7a-4c49-8120-c47c5a693683' 
 ms:mtpsurl: 'https://technet.microsoft.com/Bb842062(v=MSDN.10)' 
-ms.date: 03/01/2021
+ms.date: 03/23/2021
 ---
 
-Sysinternals Suite
-==================
+# Sysinternals Suite
   
 **By Mark Russinovich**  
-Updated: March 1, 2021
+Updated: March 23, 2021
 
-[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (38 MB)  
-[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (7.9 MB)  
-[**Download Sysinternals Suite for ARM64**](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip) (9.7 MB)  
+[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (40 MB)  
+[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (8.3 MB)  
+[**Download Sysinternals Suite for ARM64**](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip) (10.2 MB)  
 
 ## Introduction
 
@@ -32,7 +31,7 @@ Utilities:
 [Desktops](desktops.md), [Disk2vhd](disk2vhd.md), [DiskExt](diskext.md), [DiskMon](diskmon.md), [DiskView](diskview.md), 
 [Disk Usage (DU)](du.md), [EFSDump](efsdump.md), [FindLinks](findlinks.md), [Handle](handle.md), [Hex2dec](hex2dec.md), 
 [Junction](junction.md), [LDMDump](ldmdump.md), [ListDLLs](listdlls.md), [LiveKd](livekd.md), [LoadOrder](loadorder.md), 
-[LogonSessions](logonsessions.md), [MoveFile](movefile.md), [NotMyFault](notmyfault.md), [NTFSInfo](ntfsinfo.md), [PageDefrag](pagedefrag.md), 
+[LogonSessions](logonsessions.md), [MoveFile](pendmoves.md), [NotMyFault](notmyfault.md), [NTFSInfo](ntfsinfo.md), [PageDefrag](pagedefrag.md), 
 [PendMoves](pendmoves.md), [PipeList](pipelist.md), [PortMon](portmon.md), [ProcDump](procdump.md), [Process Explorer](process-explorer.md), 
 [Process Monitor](procmon.md), [PsExec](psexec.md), [PsFile](psfile.md), [PsGetSid](psgetsid.md), [PsInfo](psinfo.md), 
 [PsKill](pskill.md), [PsList](pslist.md), [PsLoggedOn](psloggedon.md), [PsLogList](psloglist.md), [PsPasswd](pspasswd.md), 

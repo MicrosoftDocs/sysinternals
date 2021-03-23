@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896645(v=MSDN.10)'
 ms.date: 01/11/2021
 ---
 
-Process Monitor v3.61
-=====================
+# Process Monitor v3.61
 
 **By Mark Russinovich**
 
@@ -17,9 +16,7 @@ Published: January 11, 2021
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Procmon.exe).
 
-
-Introduction
-------------
+## Introduction
 
 *Process Monitor* is an advanced monitoring tool for Windows that shows
 real-time file system, Registry and process/thread activity. It combines
@@ -37,37 +34,36 @@ malware hunting toolkit.
 Process Monitor includes powerful monitoring and filtering capabilities,
 including:
 
--   More data captured for operation input and output parameters
--   Non-destructive filters allow you to set filters without losing data
--   Capture of thread stacks for each operation make it possible in many
+- More data captured for operation input and output parameters
+- Non-destructive filters allow you to set filters without losing data
+- Capture of thread stacks for each operation make it possible in many
     cases to identify the root cause of an operation
--   Reliable capture of process details, including image path, command
+- Reliable capture of process details, including image path, command
     line, user and session ID
--   Configurable and moveable columns for any event property
--   Filters can be set for any data field, including fields not
+- Configurable and moveable columns for any event property
+- Filters can be set for any data field, including fields not
     configured as columns
--   Advanced logging architecture scales to tens of millions of captured
+- Advanced logging architecture scales to tens of millions of captured
     events and gigabytes of log data
--   Process tree tool shows relationship of all processes referenced in
+- Process tree tool shows relationship of all processes referenced in
     a trace
--   Native log format preserves all data for loading in a different
+- Native log format preserves all data for loading in a different
     Process Monitor instance
--   Process tooltip for easy viewing of process image information
--   Detail tooltip allows convenient access to formatted data that
+- Process tooltip for easy viewing of process image information
+- Detail tooltip allows convenient access to formatted data that
     doesn't fit in the column
--   Cancellable search
--   Boot time logging of all operations
+- Cancellable search
+- Boot time logging of all operations
 
 The best way to become familiar with Process Monitor's features is to
 read through the help file and then visit each of its menu items and
 options on a live system.  
 
-
 ## Screenshots
 
-![Process Monitor screenshot](/media/landing/sysinternals/procmon-main.gif)  
+![Process Monitor screenshot](media/procmon/procmon-main.gif)  
 
-![Event Properties screenshot](/media/landing/sysinternals/procmon-proc.gif)  
+![Event Properties screenshot](media/procmon/procmon-proc.gif)  
 
 ## Related Links
 
@@ -82,7 +78,7 @@ options on a live system.
   features, how to use them for troubleshooting, and example
   real-world cases of their use.
 
-## Download 
+## Download
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(2 MB)**
 
@@ -90,5 +86,5 @@ options on a live system.
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

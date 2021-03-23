@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897443(v=MSDN.10)'
 ms.date: 11/25/2020
 ---
 
-SDelete v2.04
-=============
+# SDelete v2.04
 
 **By Mark Russinovich**
 
 Published: November 25, 2020
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(518 KB)**
-
 
 ## Introduction
 
@@ -57,7 +55,6 @@ any given use, it allows you to delete one or more files and/or
 directories, or to cleanse the free space on a logical disk. *SDelete*
 accepts wild card characters as part of the directory or file specifier.
 
-
 **Usage: sdelete \[-p passes\] \[-r\] \[-s\] \[-q\] &lt;file or directory&gt;
 \[...\]**  
 **sdelete \[-p passes\] \[-z|-c \[percent free\]\] &lt;drive letter \[...\]&gt;**
@@ -71,7 +68,6 @@ accepts wild card characters as part of the directory or file specifier.
 |  **-s**        |  Recurse subdirectories.|
 |  **-z**        |  Zero free space (good for virtual disk optimization).|
 |  **-nobanner** |  Do not display the startup banner and copyright message.|
-
 
 ## How SDelete Works
 
@@ -159,6 +155,6 @@ allocating this free space so that it can securely overwrite it.
 
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

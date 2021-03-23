@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896646(v=MSDN.10)'
 ms.date: 11/01/2006
 ---
 
-DiskMon for Windows v2.01
-=========================
+# DiskMon for Windows v2.01
 
 **By Mark Russinovich**
 
@@ -49,7 +48,7 @@ stamped with the absolute time that they were initiated. The History
 Depth dialog can be used to specify the maximum number of records that
 will be kept in the GUI (0 signifies no limit).
 
-![DiskMon](/media/landing/sysinternals/DiskMon.gif)
+![DiskMon](media/diskmon/DiskMon.gif)
 
 ## Implementation
 

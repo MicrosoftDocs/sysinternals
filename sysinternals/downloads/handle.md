@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896655(v=MSDN.10)'
 ms.date: 09/07/2020
 ---
 
-Handle v4.22
-============
+# Handle v4.22
 
 **By Mark Russinovich**
 
 Published: June 14, 2019
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(887 KB)**
-
 
 ## Introduction
 
@@ -66,8 +64,7 @@ name of the object if it has one.
 
 When in search mode, *Handle* prints the process names and id's are
 listed on the left side and the names of the objects that had a match
-are on the right.  
-  
+are on the right.
 
 ## More Information
 
@@ -75,6 +72,5 @@ You can find more information on the Object Manager in *Windows
 Internals, 4th Edition* or by browsing the Object Manager name-space
 with
 [WinObj](winobj.md).  
-
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(887 KB)**

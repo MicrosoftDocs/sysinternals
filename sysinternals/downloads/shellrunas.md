@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Cc300361(v=MSDN.10)'
 ms.date: 02/28/2008
 ---
 
-ShellRunas v1.01
-================
+# ShellRunas v1.01
 
 **By Mark Russinovich and Jon Schwartz**
 
 Published: February 28, 2008
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShellRunas.zip) [**Download ShellRunas**](https://download.sysinternals.com/files/ShellRunas.zip) **(50 KB)**
-
 
 ## Introduction
 
@@ -27,7 +25,7 @@ entry.
 
 **Screenshot**
 
-![ShellRunas](/media/landing/sysinternals/ShellRunas.jpg)
+![ShellRunas](media/shellrunas/ShellRunas.jpg)
 
 ## Using ShellRunas
 
@@ -38,7 +36,6 @@ shellrunas /regnetonly \[/quiet\]
 shellrunas /unreg \[/quiet\]  
 shellrunas \[/netonly\] &lt;*program*&gt; \[*arguments*\]**
 
- 
 |Parameter  |Description  |
 |---------|---------|
 |  **/reg**                   |  Registers ShellRunas shell context-menu entry|
@@ -49,11 +46,11 @@ shellrunas \[/netonly\] &lt;*program*&gt; \[*arguments*\]**
 |  **&lt;program&gt;**        |  Runs program with specified credentials and parameters
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShellRunas.zip) [**Download ShellRunas**](https://download.sysinternals.com/files/ShellRunas.zip) **(50 KB)**
- 
+
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.
 
 ## Getting Help
 

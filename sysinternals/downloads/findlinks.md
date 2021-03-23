@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Hh290814(v=MSDN.10)'
 ms.date: 09/17/2020
 ---
 
-FindLinks v1.1
-==============
+# FindLinks v1.1
 
 **By Mark Russinovich**
 
@@ -16,7 +15,6 @@ Published: July 4, 2016
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/FindLinks.zip) [**Download FindLinks**](https://download.sysinternals.com/files/FindLinks.zip) **(271 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/FindLinks.exe).
-
 
 ## Introduction
 
@@ -57,6 +55,6 @@ C:\Windows\System32\notepad.exe
 
 **Runs on:**
 
-  - Client: Windows Vista and higher
-  - Server: Windows Server 2008 and higher
-  - Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897415(v=MSDN.10)'
 ms.date: 04/28/2020
 ---
 
-LiveKd v5.63
-============
+# LiveKd v5.63
 
 **By Mark Russinovich and Ken Johnson**
 
 Published: April 28, 2020
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LiveKD.zip) [**Download LiveKd**](https://download.sysinternals.com/files/LiveKD.zip) **(700 KB)**
-
 
 ## Introduction
 
@@ -33,8 +31,6 @@ While the latest versions of Windbg and Kd have a similar capability on
 Windows Vista and Server 2008, LiveKD enables more functionality, such
 as viewing thread stacks with the !thread command, than Windbg and Kd's
 own live kernel debugging facility.
-
- 
 
 ## Installation
 
@@ -58,13 +54,11 @@ symbol server).
 for LIVEKDD.SYS. This is expected, since I have not made symbols for
 LIVEKDD.SYS available, and does not affect the behavior of the debugger.
 
- 
-
 ## Using LiveKd
 
 **usage:**
 
-**  liveKd \[\[-w\]|\[-k &lt;debugger&gt;\]|\[-o filename\]\] \[-vsym\]
+**liveKd \[\[-w\]|\[-k &lt;debugger&gt;\]|\[-o filename\]\] \[-vsym\]
 \[-m\[flags\] \[\[-mp process\]|\[pid\]\]\]\[debugger options\]  
   liveKd \[\[-w\]|\[-k &lt;debugger&gt;\]|\[-o filename\]\] -ml
 \[debugger options\]  
@@ -87,8 +81,6 @@ options\]**
 |  **-vsym** | Displays verbose debugging information about symbol load operations. |
 |  **-w**  | Runs windbg instead of kd |
 
-
-  
 All other options are passed through to the debugger.
 
 **Note**: Use Ctrl-Break to terminate and restart the debugger if it
@@ -100,5 +92,5 @@ By default LiveKd runs kd.exe.
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

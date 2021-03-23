@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897448(v=MSDN.10)'
 ms.date: 09/17/2020
 ---
 
-RegDelNull v1.11
-================
+# RegDelNull v1.11
 
 **By Mark Russinovich**
 
 Published: July 4, 2016
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Regdelnull.zip) [**Download RegDelNull**](https://download.sysinternals.com/files/Regdelnull.zip) **(511 KB)**
-
 
 ## Introduction
 
@@ -25,8 +23,6 @@ undeleteable using standard Registry-editing tools. Note: deleting
 Registry keys may cause the applications they are associated with to
 fail.
 
- 
-
 ## Using RegDelNull
 
 **Usage: regdelnull &lt;path&gt; \[-s\]**  
@@ -35,8 +31,6 @@ fail.
 |---------|---------|
 |  **-s** |  Recurse into subkeys. |
 
-
-  
 Here's an example of RegDelNull when used on a system on which the
 [RegHide](reghide.md) sample
 program has created a null-embedded key:
@@ -56,6 +50,6 @@ Scan complete.
 
 **Runs on:**
 
--   Client: Windows Vista (32-bit) and higher
--   Server: Windows Server 2008 (32-bit) and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista (32-bit) and higher
+- Server: Windows Server 2008 (32-bit) and higher
+- Nano Server: 2016 and higher

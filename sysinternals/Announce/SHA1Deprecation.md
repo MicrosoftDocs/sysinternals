@@ -4,13 +4,11 @@ title: Preparing for the deprecation of SHA-1
 ms.date: 06/20/2019
 ---
 
-Preparing for the deprecation of SHA-1 signatures
-===========
+# Preparing for the deprecation of SHA-1 signatures
 
 **By Mark Cook**
 
 Published: June 20, 2019
-
 
 ## Summary
 

@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb963906(v=MSDN.10)'
 ms.date: 11/25/2020
 ---
 
-AdRestore v1.2
-==============
+# AdRestore v1.2
 
 **By Mark Russinovich**
 
@@ -28,5 +27,4 @@ This MS KB article describes the use of AdRestore:
 memberships in Active
 Directory](https://support.microsoft.com/kb/840001)
 
- 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ADRestore.zip)  [**Download AdRestore**](https://download.sysinternals.com/files/ADRestore.zip) **512 KB)**

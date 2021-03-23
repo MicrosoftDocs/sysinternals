@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897442(v=MSDN.10)'
 ms.date: 11/01/2006
 ---
 
-ShareEnum v1.6
-==============
+# ShareEnum v1.6
 
 **By Mark Russinovich**
 
@@ -16,7 +15,6 @@ Published: November 1, 2006
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShareEnum.zip) [**Download ShareEnum**](https://download.sysinternals.com/files/ShareEnum.zip) **(94 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ShareEnum.exe).
-
 
 ## Introduction
 
@@ -33,7 +31,7 @@ shares and their security settings. Because only a domain administrator
 has the ability to view all network resources, *ShareEnum* is most
 effective when you run it from a domain administrator account.
 
-![ShareEnum](/media/landing/sysinternals/ShareEnum.gif)  
+![ShareEnum](media/shareenum/ShareEnum.gif)  
 
 ## How It Works
 
@@ -47,5 +45,5 @@ computers.
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

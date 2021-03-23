@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896736(v=MSDN.10)'
 ms.date: 09/17/2020
 ---
 
-Hex2dec v1.1
-============
+# Hex2dec v1.1
 
 **By Mark Russinovich**
 
 Published: July 4, 2016
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Hex2Dec.zip) [**Download Hex2dec**](https://download.sysinternals.com/files/Hex2Dec.zip) **(578 KB)**
-
 
 ## Introduction
 
@@ -34,6 +32,6 @@ e.g. To translate 0x1233 hexadecimal to decimal: hex2dec 0x1233
 
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher
