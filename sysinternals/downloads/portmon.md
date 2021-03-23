@@ -50,7 +50,7 @@ features.
 
 The on-line help-file describes all these features, and more, in detail.
 
-![PortMon](media/portmon/PortMon.gif)
+![PortMon screenshot](media/portmon/PortMon.gif)
 
 ## Installation and Use
 

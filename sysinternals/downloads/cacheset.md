@@ -35,7 +35,7 @@ the "Increase Quota" privilege (administrator accounts have this
 privilege by default). *CacheSet* has been updated to enable this
 privilege so that it works on SP4.
 
-![CacheSet](media/cacheset/CacheSet.gif)
+![CacheSet screenshot](media/cacheset/CacheSet.gif)
 
 ## Installation and Use
 
