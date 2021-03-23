@@ -13,7 +13,7 @@ ms.date: 11/01/2006
 
 Published: November 1, 2006
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(44 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(44 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Cacheset.exe).
 
 ## Introduction
