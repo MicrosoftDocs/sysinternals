@@ -4,16 +4,16 @@ title: Sysmon
 description: Monitors and reports key system activity via the Windows event log.
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
-ms.date: 03/22/2021
+ms.date: 03/23/2021
 ---
 
 # Sysmon v13.02
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: March 22, 2021
+Published: March 23, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.8 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(2.9 MB)**
 
 ## Introduction
 
@@ -491,7 +491,7 @@ termination of ping.exe and timeout.exe.
   &lt;/EventFiltering&gt;
 </pre>
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(1.8 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(2.9 MB)**
   
 **Runs on:**
 
