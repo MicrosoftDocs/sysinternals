@@ -1,6 +1,7 @@
 --- 
 TOCTitle: TLSDeprecation
 title: Preparing for the mandatory use of TLS 1.2+
+description: As of November 2018 Sysinternals transitions to TLS 1.2 site certificates.
 ms.date: 09/17/2017
 ---
 

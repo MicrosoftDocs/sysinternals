@@ -1,6 +1,7 @@
 --- 
 TOCTitle: ProcFeatures
 title: ProcFeatures
+description: ProcFeatures is no deprecated and its functionality part of Coreinfo.
 ms:assetid: '922f7441-5dec-40bb-a21b-aa777274344e'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897554(v=MSDN.10)'
 ms.date: 09/01/2011

@@ -29,7 +29,7 @@ Chapter 14 uses it for crash analysis examples.
 
 ## Screenshots
 
-![NotMyFault](media/notmyfault/notmyfault.png "NotMyFault")
+![NotMyFault screenshot](media/notmyfault/notmyfault.png "NotMyFault")
 
 ## Usage
 

@@ -1,6 +1,8 @@
 --- 
 TOCTitle: PsGetSid
 title: PsGetSid
+description: Translate SIDs to their display name and vice
+versa.
 ms:assetid: 'f7eefa28-72dd-4dc7-a41e-02e7ac7e35ae'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897417(v=MSDN.10)'
 ms.date: 06/29/2016
