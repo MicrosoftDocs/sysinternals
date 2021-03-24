@@ -68,13 +68,6 @@ tcpvcon [-a] [-c] [-n] [process name or PID]
 |  **-c**  | Print output as CSV.|
 |  **-n**  | Don't resolve addresses.|
 
-## Microsoft TCPView KB Article
-
-This Microsoft KB article references TCPView:
-
-[816944: "Unexpected Error 0x8ffe2740 Occurred" Error Message When You
-Try to Start a Web Site](https://support.microsoft.com/kb/816944)
-
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(1.4 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Tcpview.exe).
