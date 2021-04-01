@@ -3,7 +3,7 @@ TOCTitle: Junction
 title: Junction
 description: Create Win2K NTFS symbolic links.
 ms:assetid: '16f763c0-cb78-4d67-a865-63e79bef0c58'
-ms:mtpsurl: 'https://technet.microsoft.com/Bb896768(v=MSDN.10)'
+ms:mtpsurl: 'https://docs.microsoft.com/en-us/sysinternals/downloads/junction'
 ms.date: 09/17/2020
 ---
 
@@ -37,35 +37,52 @@ Windows' Remote Storage Service (RSS), as well as volume mount points.
 
 ## Using Junction
 
-Use junction to list junctions:
+### Syntax
 
-**Usage: \[-s\]**
+- To obtain reparse point information: `junction.exe [-s] [-q] <file or directory>`
+- To create a junction point: `junction.exe <junction directory> <junction target>`
+- To delete a junction point: `junction.exe -d <junction directory>`
 
-|Parameter  |Description  |
-|---------|---------|
-| **-s**  | Recurse subdirectories |
+### Parameters
+
+| Parameter              | Description                                                       |
+| ---------------------- | ----------------------------------------------------------------- |
+| `<file or directory>`  | Path to the file or folder to query for reparse point information |
+| `-s`                   | Recurse subdirectories                                            |
+| `<junction directory>` | Name of the junction point to create or delete                    |
+| `<junction target>`    | Full path to the target of the junction point to create           |
+| `-d`                   | Delete the junction point                                         |
+
 
 ## Examples
 
 To determine if a file is a junction, specify the file name:
 
-**junction c:\\test**
+```cmd
+junction c:\test
+```
 
 To list junctions beneath a directory, include the –s switch:
 
-**junction -s c:\\**
+```cmd
+junction -s c:\
+```
 
 To create a junction c:\\Program-Files for "c:\\Program Files":
 
-**C:\\&gt;md Program-Files**
-
-**C:\\&gt;junction c:\\Program-Files "c:\\Program Files"**
+```cmd
+md Program-Files
+junction c:\Program-Files "c:\Program Files"
+```
 
 To delete a junction, use the –d switch:
 
-**junction -d c:\\Program-Files**
+```cmd
+junction -d c:\Program-Files
+```
 
 ## Return codes
+
 **0**  - on success  
 **-1** - on failed creation of new junction  
 **0**  - on failed deletion of junction  (e.g. if file not found)  
