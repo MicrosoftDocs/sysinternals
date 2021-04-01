@@ -1,7 +1,7 @@
 --- 
 TOCTitle: Junction
 title: Junction
-description: Create Win2K NTFS symbolic links.
+description: Create Win2K NTFS junction points.
 ms:assetid: '16f763c0-cb78-4d67-a865-63e79bef0c58'
 ms:mtpsurl: 'https://docs.microsoft.com/en-us/sysinternals/downloads/junction'
 ms.date: 09/17/2020
@@ -17,20 +17,18 @@ Published: July 4, 2016
 
 ## Introduction
 
-Windows 2000 and higher supports directory symbolic links, where a
-directory serves as a symbolic link to another directory on the
-computer. For example, if the directory D:\\SYMLINK specified
-C:\\WINNT\\SYSTEM32 as its target, then an application accessing
-D:\\SYMLINK\\DRIVERS would in reality be accessing
-C:\\WINNT\\SYSTEM32\\DRIVERS. Directory symbolic links are known as NTFS
-junctions in Windows. Unfortunately, Windows comes with no tools for
-creating junctions—you have to purchase the Win2K Resource Kit, which
-comes with the linkd program for creating junctions. I therefore decided
-to write my own junction-creating tool: *Junction*. *Junction* not only
-allows you to create NTFS junctions, it allows you to see if files or
-directories are actually reparse points. Reparse points are the
-mechanism on which NTFS junctions are based, and they are used by
-Windows' Remote Storage Service (RSS), as well as volume mount points.
+Windows 2000 and later support junction points, where a directory serves as an
+alias to another directory on the computer. For example, if the directory
+D:\\WIN specified C:\\WINNT\\SYSTEM32 as its target, then an application
+accessing D:\\WIN\\DRIVERS would in reality be accessing
+C:\\WINNT\\SYSTEM32\\DRIVERS. Unfortunately, Windows 2000 comes with no tools
+for creating junction points. You have to purchase the Windows 2000 Resource
+Kit, which comes with the `linkd` utility for creating junctions. I therefore
+decided to write my own junction point-creating tool: `Junction`. It creates
+NTFS junction points, it allows you to see if files or directories are actually
+reparse points. (Reparse points are the mechanism on which NTFS junctions are
+based. The Remote Storage Service uses reparse points as well as volume mount
+points.)
 
 > [!NOTE]
 > Windows does not support junctions to directories on remote shares.
