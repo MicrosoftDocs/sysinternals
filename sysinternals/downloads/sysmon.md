@@ -86,7 +86,7 @@ Uninstall:               sysmon64 -u [force]
 |  **-c** |  Update configuration of an installed Sysmon driver or dump the current configuration if no other argument is provided. Optionally take a configuration file.|
 |  **-m** |  Install the event manifest (done on service install as well).|
 |  **-s** |  Print configuration schema definition.|
-|  **-u** |  Uninstall service and driver. Adding force causes uninstall to proceed even when some components are not installed.|
+|  **-u** |  Uninstall service and driver. Adding force causes uninstall to proceed even when some components are not installed. It may be necessary to use **sysmon64.exe** in the same directory as the sysmon64.exe file as the command if **sysmon64** does not work|
 
 The service logs events immediately and the driver installs as a
 boot-start driver to capture activity from early in the boot that the
