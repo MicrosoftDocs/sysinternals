@@ -43,7 +43,7 @@ See Mark's *Windows IT Pro Magazine* [Power Tools
 article](https://web.archive.org/web/20170806013538/https://windowsitpro.com/systems-management/bginfo) for a primer
 on using *BgInfo*. If you have questions or problems, please visit the
 [Sysinternals BgInfo
-Forum](https://docs.microsoft.com/en-us/answers/search.html?type=&q=+%5Bwindows-sysinternals-bginfo%5D).
+Forum](https://docs.microsoft.com/en-us/answers/topics/windows-sysinternals-bginfo.html).
 
 By placing *BGInfo* in your **Startup** folder, you can ensure that the
 system information being displayed is up to date each time you boot.
