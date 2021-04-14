@@ -20,7 +20,7 @@ Coreinfo is a command-line utility that shows you the mapping between logical pr
 
 ## Installation
 
-You run Coreinfo by typing "coreinfo”.
+Extract the archive to a directory and then run Coreinfo by typing from that directory `Coreinfo` in the console on a 32 bit Windows version or `Coreinfo64` for a 64 bit version.
 
 ## Using CoreInfo
 
