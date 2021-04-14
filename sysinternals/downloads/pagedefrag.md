@@ -42,7 +42,7 @@ that these files are fragmented enough to warrant a shot at
 defragmenting them, or if you want to defragment them at every boot,
 select the appropriate radio button choice and click OK.
 
-![PageDefrag](media/pagedefrag/PageDefrag.gif)  
+![PageDefrag screenshot](media/pagedefrag/PageDefrag.gif)  
 
 When you direct *PageDefrag* to defragment, the next time the system
 boots it will attempt to do so. Immediately after CHKDSK examines your

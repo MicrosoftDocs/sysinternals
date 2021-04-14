@@ -19,7 +19,7 @@ Published: November 1, 2006
 
 While the flexible security model employed by Windows NT-based systems allows full control over security and file permissions, managing permissions so that users have appropriate access to files, directories and Registry keys can be difficult. There's no built-in way to quickly view user accesses to a tree of directories or keys. *AccessEnum* gives you a full view of your file system and Registry security settings in seconds, making it the ideal tool for helping you find security holes and lock down permissions where necessary.
 
-![AccessEnum](media/accessenum/accessenum.png)
+![AccessEnum screenshot](media/accessenum/accessenum.png)
 
 ## How It Works
 
