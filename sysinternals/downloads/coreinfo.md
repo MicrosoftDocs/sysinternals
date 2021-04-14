@@ -14,18 +14,13 @@ Published: February 22, 2021
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(370 KB)**
 
-Extract the Zip which includes the following files:
-1. Coreinfo
-2. Coreinfo64
-3. Eula
-
 ## Introduction
 
 Coreinfo is a command-line utility that shows you the mapping between logical processors and the physical processor, NUMA node, and socket on which they reside, as well as the cache’s assigned to each logical processor. It uses the Windows’ [GetLogicalProcessorInformation](https://msdn.microsoft.com/library/ms683194.aspx) function to obtain this information and prints it to the screen, representing a mapping to a logical processor with an asterisk e.g. ‘*’. Coreinfo is useful for gaining insight into the processor and cache topology of your system.
 
 ## Installation
 
-You run Coreinfo by typing "Coreinfo” on 32 bit processor or "Coreinfo64" on 64 bit processor
+Extract the archive to a directory and then run Coreinfo by typing from that directory `Coreinfo` in the console on a 32 bit Windows version or `Coreinfo64` for a 64 bit version.
 
 ## Using CoreInfo
 
