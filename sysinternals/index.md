@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 03/23/2021
+ms.date: 04/21/2021
 ---
 
 # ![Windows icon](media/index/Windows_logo_46x50px.png) Windows Sysinternals
@@ -24,6 +24,17 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
+
+### What's New (April 21, 2021)
+
+- [Sysmon v13.03](~/downloads/sysmon.md)
+This update to Sysmon adds a FileDeleteDetected rule that logs when files are deleted but doesn't archive, deletes clipboard archive if event is excluded, and fixes an ImageLoad event bug.
+
+- [Process Monitor v3.63](~/downloads/procmon.md)
+This update to Process Monitor fixes a bug where the Drop Filtered Events option wasn’t always respected, as well as some minor bug fixes.
+
+- Theme Engine
+This update to the theme engine uses a custom title bar in dark mode, similar to MS Office black theme. [WinObj](~/downloads/winobj.md) and [TCPView](~/downloads/tcpview.md) have been updated. Expect more tools using the theme engine in the near future!
 
 ### What's New (March 23, 2021)
 
