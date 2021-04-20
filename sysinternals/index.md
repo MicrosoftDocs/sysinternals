@@ -30,8 +30,8 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 - [Sysmon v13.03](~/downloads/sysmon.md)
 This update to Sysmon adds a FileDeleteDetected rule that logs when files are deleted but doesn't archive, deletes clipboard archive if event is excluded, and fixes an ImageLoad event bug.
 
-- [Process Monitor v3.63](~/downloads/procmon.md)
-This update to Process Monitor fixes a bug where the Drop Filtered Events option wasn’t always respected, as well as some minor bug fixes.
+- [Process Monitor v3.70](~/downloads/procmon.md)
+This update to Process Monitor allows constraining the number of events based on a requested number minutes and/or size of the events data, so that older events are dropped if necessary. It also fixes a bug where the Drop Filtered Events option wasn’t always respected, as well as other minor bug fixes and improvements.
 
 - Theme Engine
 This update to the theme engine uses a custom title bar in dark mode, similar to MS Office black theme. [WinObj](~/downloads/winobj.md) and [TCPView](~/downloads/tcpview.md) have been updated. Expect more tools using the theme engine in the near future!
