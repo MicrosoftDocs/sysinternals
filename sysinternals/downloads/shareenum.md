@@ -31,7 +31,7 @@ shares and their security settings. Because only a domain administrator
 has the ability to view all network resources, *ShareEnum* is most
 effective when you run it from a domain administrator account.
 
-![ShareEnum](media/shareenum/ShareEnum.gif)  
+![ShareEnum screenshot](media/shareenum/ShareEnum.gif)  
 
 ## How It Works
 

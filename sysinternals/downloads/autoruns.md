@@ -4,16 +4,16 @@ title: Autoruns for Windows
 description: See what programs are configured to startup automatically when your system boots and you login.
 ms:assetid: 'b13af0f4-f0a1-4cc5-b940-20be546c1179'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb963902(v=MSDN.10)'
-ms.date: 09/17/2020
+ms.date: 04/21/2021
 ---
 
-# Autoruns for Windows v13.98
+# Autoruns for Windows v13.99
 
 **By Mark Russinovich**
 
-Published: June 24, 2020
+Published: April 21, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(2.5 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(2.6 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/autoruns.exe).
 
 ## Introduction
@@ -134,5 +134,5 @@ Autorunsc is the command-line version of Autoruns. Its usage syntax is:
 
 ## Download
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(2.5 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(2.6 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/autoruns.exe).

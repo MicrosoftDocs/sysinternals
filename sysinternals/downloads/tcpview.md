@@ -4,14 +4,14 @@ title: TCPView for Windows
 description: Active socket command-line viewer.
 ms:assetid: '0797e73a-a0c2-4266-b821-50bc561da3a6'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897437(v=MSDN.10)'
-ms.date: 03/23/2021
+ms.date: 04/21/2021
 ---
 
-# TCPView v4.0
+# TCPView v4.01
 
 **By Mark Russinovich**
 
-Published: March 23, 2021
+Published: April 21, 2021
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(1.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Tcpview.exe).
@@ -34,8 +34,7 @@ functionality.
 When you start TCPView it will enumerate all active TCP and UDP
 endpoints, resolving all IP addresses to their domain name versions. You
 can use a toolbar button or menu item to toggle the display of resolved
-names. On Windows XP systems, TCPView shows the name of the process that
-owns each endpoint.
+names. TCPView shows the name of the process that owns each endpoint, including the service name (if any).
 
 By default, TCPView updates every second, but you can use the
 **Options|Refresh Rate** menu item to change the rate. Endpoints that
@@ -67,13 +66,6 @@ tcpvcon [-a] [-c] [-n] [process name or PID]
 |  **-a**  | Show all endpoints (default is to show established TCP connections).|
 |  **-c**  | Print output as CSV.|
 |  **-n**  | Don't resolve addresses.|
-
-## Microsoft TCPView KB Article
-
-This Microsoft KB article references TCPView:
-
-[816944: "Unexpected Error 0x8ffe2740 Occurred" Error Message When You
-Try to Start a Web Site](https://support.microsoft.com/kb/816944)
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(1.4 MB)**
 

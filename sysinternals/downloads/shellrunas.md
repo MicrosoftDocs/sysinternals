@@ -25,7 +25,7 @@ entry.
 
 **Screenshot**
 
-![ShellRunas](media/shellrunas/ShellRunas.jpg)
+![ShellRunas screenshot](media/shellrunas/ShellRunas.jpg)
 
 ## Using ShellRunas
 
