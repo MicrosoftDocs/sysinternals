@@ -359,7 +359,7 @@ Set Volume ID of FAT or NTFS drives.
 See who owns an Internet address.
 
 [WinObj](winobj.md)  
-*v3.02 (March 23, 2021)*  
+*v3.03 (April 21, 2021)*  
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  
