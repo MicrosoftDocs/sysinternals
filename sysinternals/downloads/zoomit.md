@@ -51,6 +51,7 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Zoom In | Mouse Scroll Up or Up Arrow |
 | Zoom Out | Mouse Scroll Down or Down Arrow |
 | Start Drawing (While In Zoom Mode) | Left-Click  |
+| Stop Drawing (While In Zoom Mode) | Right-Click  |
 | Start Drawing (While Not In Zoom Mode) | Ctrl + 2  |
 | Increase/Decrease Line And Cursor Size (Drawing Mode) | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
 | Center The Cursor (Drawing Mode) | Space Bar |
