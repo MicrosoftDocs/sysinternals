@@ -1,16 +1,15 @@
 --- 
 TOCTitle: TLSDeprecation
 title: Preparing for the mandatory use of TLS 1.2+
+description: As of November 2018 Sysinternals transitions to TLS 1.2 site certificates.
 ms.date: 09/17/2017
 ---
 
-Preparing for the mandatory use of TLS 1.2+
-===========
+# Preparing for the mandatory use of TLS 1.2+
 
 **By Mark Cook**
 
 Published: September 17, 2018
-
 
 ## Summary
 
@@ -37,4 +36,4 @@ The following are some clients that we know are unable to use TLS 1.2. Please up
 
 Although current analysis of connections to Microsoft Online services shows that most services/endpoints see very little TLS 1.0 and 1.1 usage, we are providing notice of this change so that you can update any affected clients or servers as necessary before support for TLS 1.0 and 1.1 ends. 
 
-Note Using TLS 1.2 does not mean you must have TLS 1.0/1.1 disabled in your environments by October 31, 2018. If parts of your environment require the use of TLS 1.0 and 1.1 on or after October 31, 2018, you can leave the older protocol versions enabled. 
+Note Using TLS 1.2 does not mean you must have TLS 1.0/1.1 disabled in your environments by October 31, 2018. If parts of your environment require the use of TLS 1.0 and 1.1 on or after October 31, 2018, you can leave the older protocol versions enabled.

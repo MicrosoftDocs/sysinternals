@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897440(v=MSDN.10)'
 ms.date: 09/17/2020
 ---
 
-Streams v1.6
-============
+# Streams v1.6
 
 **By Mark Russinovich**
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Streams.zip) [**Download Streams**](https://download.sysinternals.com/files/Streams.zip) **(499 KB)**
-
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Streams.zip) [**Download Streams**](https://download.sysinternals.com/files/Streams.zip) **(499 KB)**
 
 ## Introduction
 
@@ -40,12 +38,9 @@ of any named streams it encounters within those files. Streams makes use
 of an undocumented native function for retrieving file stream
 information.
 
-
-
 ## Using Streams
 
 **Usage: streams \[-s\] \[-d\] &lt;file or directory&gt;**
-
 
 |                         Parameter                         |       Description       |
 |-----------------------------------------------------------|-------------------------|
@@ -53,10 +48,10 @@ information.
 |                          **-d**                           |     Delete streams.     |
 |            Streams takes wildcards e.g. 'streams \*.txt'. |                         |
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Streams.zip) [**Download Streams**](https://download.sysinternals.com/files/Streams.zip) **(499 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Streams.zip) [**Download Streams**](https://download.sysinternals.com/files/Streams.zip) **(499 KB)**
 
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

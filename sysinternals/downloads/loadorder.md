@@ -7,17 +7,15 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897416(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
-LoadOrder v1.01
-===============
+# LoadOrder v1.01
 
 **By Mark Russinovich**
 
 Published: July 4, 2016
 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(318 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(318 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/LoadOrd.exe).
-
 
 ## Introduction
 
@@ -27,13 +25,12 @@ may actually load in a different order than the one calculated, because
 plug-and-play drivers are loaded on demand during device detection and
 enumeration.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(318 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(318 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/LoadOrd.exe).
 
-
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

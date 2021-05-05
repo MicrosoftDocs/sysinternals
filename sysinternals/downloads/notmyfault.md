@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Mt742033(v=MSDN.10)'
 ms.date: 06/14/2019
 ---
 
-NotMyFault v4.20
-================
+# NotMyFault v4.20
 
 **By Mark Russinovich**
 
 Published: June 14, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(1 MB)**
-
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(1 MB)**
 
 ## Introduction
 
@@ -31,7 +29,7 @@ Chapter 14 uses it for crash analysis examples.
 
 ## Screenshots
 
-![NotMyFault](/media/landing/sysinternals/notmyfault.png "NotMyFault")
+![NotMyFault screenshot](media/notmyfault/notmyfault.png "NotMyFault")
 
 ## Usage
 
@@ -41,6 +39,7 @@ requires administrative privileges.
 Usage:
 
 **notmyfaultc.exe crash crash\_type\_num**
+
 ```Shell
     crash type:
       0x01: High IRQL fault (Kernel-mode)
@@ -60,5 +59,5 @@ Or  **notmyfaultc.exe hang hang\_type\_num**
       0x01: Hang with IRP
       0x02: Hang with DPC
 ```
- 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(1 MB)**
+
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(1 MB)**

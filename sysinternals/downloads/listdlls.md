@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896656(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
-ListDLLs v3.2
-=============
+# ListDLLs v3.2
 
 **By Mark Russinovich**
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ListDlls.zip) [**Download ListDLLs**](https://download.sysinternals.com/files/ListDlls.zip) **(307 KB)**
-
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ListDlls.zip) [**Download ListDLLs**](https://download.sysinternals.com/files/ListDlls.zip) **(307 KB)**
 
 ## Introduction
 
@@ -41,8 +39,7 @@ listdlls \[-r\] \[-v\] \[-d dllname\]**
 |  **-u**           | Only list unsigned DLLs.|
 |  **-v**           | Show DLL version information.|
 
-Examples
---------
+## Examples
 
 List the DLLs loaded into Outlook.exe, including their version
 information:
@@ -57,10 +54,10 @@ Show processes that have loaded MSO.DLL:
 
 **listdlls -d mso.dll**
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/ListDlls.zip) [**Download ListDLLs**](https://download.sysinternals.com/files/ListDlls.zip) **(307 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ListDlls.zip) [**Download ListDLLs**](https://download.sysinternals.com/files/ListDlls.zip) **(307 KB)**
   
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

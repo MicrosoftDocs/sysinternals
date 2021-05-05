@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897441(v=MSDN.10)'
 ms.date: 09/17/2020
 ---
 
-Sigcheck v2.80
-==============
+# Sigcheck v2.80
 
 **By Mark Russinovich**
 
 Published: June 24, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(1.2 MB)**
-
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(1.2 MB)**
 
 ## Introduction
 
@@ -68,17 +66,17 @@ One way to use the tool is to check for unsigned files in your
 
 You should investigate the purpose of any files that are not signed.  
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(1.2 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(1.2 MB)**
 
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher
 
 ## Learn More
 
--   [Malware Hunting with the Sysinternals
+- [Malware Hunting with the Sysinternals
     Tools](https://channel9.msdn.com/events/teched/northamerica/2013/atc-b308#fbid=mb6_bvqq9jj)  
     In this presentation, Mark shows how to use the Sysinternals tools
     to identify, analyze and clean malware.

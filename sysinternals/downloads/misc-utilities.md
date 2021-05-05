@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb842059(v=MSDN.10)'
 ms.date: 07/29/2016
 ---
 
-Sysinternals Miscellaneous Utilities
-====================================
+# Sysinternals Miscellaneous Utilities
 
 [AD Explorer](adexplorer.md)  
 Active Directory Explorer is an advanced Active Directory (AD) viewer

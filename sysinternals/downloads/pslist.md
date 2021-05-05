@@ -7,19 +7,16 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896682(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
-PsList v1.4
-===========
+# PsList v1.4
 
 **By Mark Russinovich**
 
 Published: June 29, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
-
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 ## Introduction
 
- 
 |Parameter  |Description  |
 |---------|---------|
 |  **pslist exp**   |  Show statistics for all the processes that start with "exp", which would include Explorer.|
@@ -48,19 +45,19 @@ monitor, PerfMon, in MSDN.
 
 All memory values are displayed in KB.
 
--   **Pri**: Priority
--   **Thd**: Number of Threads
--   **Hnd**: Number of Handles
--   **VM**: Virtual Memory
--   **WS**: Working Set
--   **Priv**: Private Virtual Memory
--   **Priv Pk**: Private Virtual Memory Peak
--   **Faults**: Page Faults
--   **NonP**: Non-Paged Pool
--   **Page**: Paged Pool
--   **Cswtch**: Context Switches  
+- **Pri**: Priority
+- **Thd**: Number of Threads
+- **Hnd**: Number of Handles
+- **VM**: Virtual Memory
+- **WS**: Working Set
+- **Priv**: Private Virtual Memory
+- **Priv Pk**: Private Virtual Memory Peak
+- **Faults**: Page Faults
+- **NonP**: Non-Paged Pool
+- **Page**: Paged Pool
+- **Cswtch**: Context Switches  
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 **PsTools**
 
@@ -70,5 +67,5 @@ that aid in the administration of local and remote systems named
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

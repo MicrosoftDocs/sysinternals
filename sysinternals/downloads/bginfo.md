@@ -7,16 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897557(v=MSDN.10)'
 ms.date: 05/16/2017
 ---
 
-BgInfo v4.28
-============
+# BgInfo v4.28
 
 **By Mark Russinovich**
 
 Published: September 20, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip) **(3.4 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip) **(3.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Bginfo.exe).
-
 
 ## Introduction
 
@@ -37,7 +35,7 @@ other applications.
 
 **Sysinternals BgInfo**
 
-![BgInfo screenshot](/media/landing/sysinternals/BgInfo.jpg)  
+![BgInfo screenshot](media/bginfo/BgInfo.jpg)  
 
 ## Installation and Use
 
@@ -45,7 +43,7 @@ See Mark's *Windows IT Pro Magazine* [Power Tools
 article](https://web.archive.org/web/20170806013538/https://windowsitpro.com/systems-management/bginfo) for a primer
 on using *BgInfo*. If you have questions or problems, please visit the
 [Sysinternals BgInfo
-Forum](https://forum.sysinternals.com/forum_topics.asp?fid=5).
+Forum](https://docs.microsoft.com/answers/topics/windows-sysinternals-bginfo.html).
 
 By placing *BGInfo* in your **Startup** folder, you can ensure that the
 system information being displayed is up to date each time you boot.
@@ -61,9 +59,7 @@ Settings** menu item) you can automatically import and use those
 settings on other systems by adding the **/I&lt;path&gt;** or
 **/iq&lt;path&gt;** command line option.
 
-![BgInfo default configuration](/media/landing/sysinternals/BGInfo-Dialog.jpg)
-
- 
+![BgInfo default configuration](media/bginfo/BGInfo-Dialog.jpg)
 
 ## Using BgInfo
 
@@ -80,8 +76,6 @@ If you want *BGInfo* to edit or use a configuration stored in a file
 specify the name of the file on the command line:  
   
 BGInfo MyConfig.bgi  
-
- 
 
 ## Appearance Buttons
 
@@ -117,8 +111,6 @@ running Terminal Services.
 
 **Preview:** Displays the background as it will appear when applied to
 your system.  
-
- 
 
 ## Configuration Menu Items
 
@@ -171,8 +163,6 @@ registry and Windows limits the size of registry values you may
 encounter errors when inserting larger images. On Windows 9x/Me systems
 the limit is 16K, while on NT/2000/XP systems the limit is 64K.  
 
- 
-
 ## Command Line Options
 
 |Parameter  |Description  |
@@ -186,12 +176,11 @@ the limit is 16K, while on NT/2000/XP systems the limit is 64K.
 |  **/log**               |   Causes *BGInfo* to write errors to the specified log file instead of generating a warning dialog box. This is useful for tracking down errors that occur when *BGInfo* is run under the scheduler.|
 |  **/rtf**               |   Causes *BGInfo* to write its output text to an RTF file. All formatting information and colors are included.|
 
-
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip)] **(3.4 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip)] **(3.4 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Bginfo.exe).
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

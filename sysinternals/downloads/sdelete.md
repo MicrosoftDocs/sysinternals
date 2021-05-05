@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897443(v=MSDN.10)'
 ms.date: 11/25/2020
 ---
 
-SDelete v2.04
-=============
+# SDelete v2.04
 
 **By Mark Russinovich**
 
 Published: November 25, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(518 KB)**
-
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(518 KB)**
 
 ## Introduction
 
@@ -38,7 +36,7 @@ version of the file is created.
 The only way to ensure that deleted files, as well as files that you
 encrypt with EFS, are safe from recovery is to use a secure delete
 application. Secure delete applications overwrite a deleted file's
-on-disk data using techiques that are shown to make disk data
+on-disk data using techniques that are shown to make disk data
 unrecoverable, even using recovery technology that can read patterns in
 magnetic media that reveal weakly deleted files. *SDelete* (Secure
 Delete) is such an application. You can use *SDelete* both to securely
@@ -57,7 +55,6 @@ any given use, it allows you to delete one or more files and/or
 directories, or to cleanse the free space on a logical disk. *SDelete*
 accepts wild card characters as part of the directory or file specifier.
 
-
 **Usage: sdelete \[-p passes\] \[-r\] \[-s\] \[-q\] &lt;file or directory&gt;
 \[...\]**  
 **sdelete \[-p passes\] \[-z|-c \[percent free\]\] &lt;drive letter \[...\]&gt;**
@@ -71,7 +68,6 @@ accepts wild card characters as part of the directory or file specifier.
 |  **-s**        |  Recurse subdirectories.|
 |  **-z**        |  Zero free space (good for virtual disk optimization).|
 |  **-nobanner** |  Do not display the startup banner and copyright message.|
-
 
 ## How SDelete Works
 
@@ -121,7 +117,7 @@ can. *SDelete* does this using non-cached file I/O so that the contents
 of the NT file system cache will not be thrown out and replaced with
 useless data associated with *SDelete*'s space-hogging file. Because
 non-cached file I/O must be sector (512-byte) aligned, there might be
-some left over space that isn't allocated for the *SDelete* file even
+some leftover space that isn't allocated for the *SDelete* file even
 when *SDelete* cannot further grow the file. To grab any remaining space
 *SDelete* next allocates the largest cached file it can. For both of
 these files *SDelete* performs a secure overwrite, ensuring that all the
@@ -155,10 +151,10 @@ space containing deleted file names, but the free directory space is not
 available for allocation to other files. Hence, *SDelete* has no way of
 allocating this free space so that it can securely overwrite it.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(518 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(518 KB)**
 
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

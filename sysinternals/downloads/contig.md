@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897428(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
-Contig v1.8
-===========
+# Contig v1.8
 
 **By Mark Russinovich**
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Contig.zip) [ **Download Contig**](https://download.sysinternals.com/files/Contig.zip) **(241 KB)**
-
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Contig.zip) [ **Download Contig**](https://download.sysinternals.com/files/Contig.zip) **(241 KB)**
 
 ## Introduction
 
@@ -92,10 +90,10 @@ Object Manager name space, and Mark's October 1997 Windows NT Magazine
 column,*"Inside the Object Manager",* is (of course) an excellent
 overview.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Contig.zip) [ **Download Contig**](https://download.sysinternals.com/files/Contig.zip) **(241 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Contig.zip) [ **Download Contig**](https://download.sysinternals.com/files/Contig.zip) **(241 KB)**
 
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897436(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
-VolumeID v2.1
-=============
+# VolumeID v2.1
 
 **By Mark Russinovich**
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VolumeId.zip) [**Download VolumeID**](https://download.sysinternals.com/files/VolumeId.zip) **(194 KB)**
-
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/VolumeId.zip) [**Download VolumeID**](https://download.sysinternals.com/files/VolumeId.zip) **(194 KB)**
 
 ## Introduction
 
@@ -37,10 +35,10 @@ pop up messages indicating that you should reinsert the original disk
 (!). It may then fail the disk requests of applications using those
 drives.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VolumeId.zip) [**Download VolumeID**](https://download.sysinternals.com/files/VolumeId.zip) **(194 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/VolumeId.zip) [**Download VolumeID**](https://download.sysinternals.com/files/VolumeId.zip) **(194 KB)**
 
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

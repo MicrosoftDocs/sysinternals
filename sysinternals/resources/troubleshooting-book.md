@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Hh290819(v=MSDN.10)'
 ms.date: 09/09/2020
 ---
 
-Troubleshooting with the Windows Sysinternals Tools
-===================================================
+# Troubleshooting with the Windows Sysinternals Tools
 
 *An update to Windows Sysinternals Administrator’s Reference*  
 *By Mark Russinovich and Aaron Margosis*  
@@ -25,10 +24,10 @@ systems management skills to the next level.
 ## Ordering the Book
 
 You can purchase the book from these online retailers:
--   [Microsoft Press Store](https://www.microsoftpressstore.com/store/troubleshooting-with-the-windows-sysinternals-tools-9780735684447)
--   [Amazon](https://www.amazon.com/troubleshooting-windows-sysinternals-tools-2nd/dp/0735684448/ref=sr_1_1?ie=utf8&qid=1476900936&sr=8-1&keywords=9780735684447)
--   [Barnes & Noble](https://www.barnesandnoble.com/w/troubleshooting-with-the-windows-sysinternals-tools-mark-russinovich/1124173500?ean=9780735684447)
--   [Independent booksellers](https://www.indiebound.org/book/9780735684447) – Shop local
+- [Microsoft Press Store](https://www.microsoftpressstore.com/store/troubleshooting-with-the-windows-sysinternals-tools-9780735684447)
+- [Amazon](https://www.amazon.com/troubleshooting-windows-sysinternals-tools-2nd/dp/0735684448/ref=sr_1_1?ie=utf8&qid=1476900936&sr=8-1&keywords=9780735684447)
+- [Barnes & Noble](https://www.barnesandnoble.com/w/troubleshooting-with-the-windows-sysinternals-tools-mark-russinovich/1124173500?ean=9780735684447)
+- [Independent booksellers](https://www.indiebound.org/book/9780735684447) – Shop local
 
 You can also read it online through
 [Safari](https://my.safaribooksonline.com/book/operating-systems-and-server-administration/microsoft-windows/9780133986549).
@@ -50,28 +49,28 @@ infections, and much more.
 
 Windows Sysinternals creator Mark Russinovich and Aaron Margosis show
 you how to:
--   Use Process Explorer to display detailed process and system
-    information
--   Use Process Monitor to capture low-level system events, and quickly
+
+- Use Process Explorer to display detailed process and system information
+- Use Process Monitor to capture low-level system events, and quickly
     filter the output to narrow down root causes
--   List, categorize, and manage software that runs when you start or
+- List, categorize, and manage software that runs when you start or
     sign in to your computer, or when you run Microsoft Office or
     Internet Explorer
--   Verify digital signatures of files, of running programs, and of the
+- Verify digital signatures of files, of running programs, and of the
     modules loaded in those programs
--   Use Autoruns, Process Explorer, Sigcheck, and Process Monitor
+- Use Autoruns, Process Explorer, Sigcheck, and Process Monitor
     features that can identify and clean malware infestations
--   Inspect permissions on files, keys, services, shares, and other
+- Inspect permissions on files, keys, services, shares, and other
     objects
--   Use Sysmon to monitor security-relevant events across your network
--   Generate memory dumps when a process meets specified criteria
--   Execute processes remotely, and close files that were opened
+- Use Sysmon to monitor security-relevant events across your network
+- Generate memory dumps when a process meets specified criteria
+- Execute processes remotely, and close files that were opened
     remotely
--   Manage Active Directory objects and trace LDAP API calls
--   Capture detailed data about processors, memory, and clocks
--   Troubleshoot unbootable devices, file-in-use errors, unexplained
+- Manage Active Directory objects and trace LDAP API calls
+- Capture detailed data about processors, memory, and clocks
+- Troubleshoot unbootable devices, file-in-use errors, unexplained
     communication, and many other problems
--   Understand Windows core concepts that aren’t well-documented
+- Understand Windows core concepts that aren’t well-documented
     elsewhere
 
 ## Sample Chapter
@@ -81,32 +80,31 @@ Amazon.com](https://www.amazon.com/troubleshooting-windows-sysinternals-tools-2n
 
 ## Table of Contents
 
--   Part I: Getting started
-    -   Chapter 1 Getting started with the Sysinternals utilities
-    -   Chapter 2 Windows core concepts
--   Part II: Usage guide
-    -   Chapter 3 Process Explorer
-    -   Chapter 4 Autoruns
-    -   Chapter 5 Process Monitor
-    -   Chapter 6 ProcDump
-    -   Chapter 7 PsTools
-    -   Chapter 8 Process and diagnostic utilities
-    -   Chapter 9 Security utilities
-    -   Chapter 10  Active Directory utilities
-    -   Chapter 11  Desktop utilities
-    -   Chapter 12  File utilities
-    -   Chapter 13  Disk utilities
-    -   Chapter 14  Network and communication utilities
-    -   Chapter 15  System information utilities
-    -   Chapter 16  Miscellaneous utilities
--   Part III: Troubleshooting — "The Case of the Unexplained..."
-    -   Chapter 17  Error messages
-    -   Chapter 18  Crashes
-    -   Chapter 19  Hangs and sluggish performance
-    -   Chapter 20  Malware
-    -   Chapter 21  Understanding system behavior
-    -   Chapter 22  Developer troubleshooting
-
+- Part I: Getting started
+  - Chapter 1 Getting started with the Sysinternals utilities
+  - Chapter 2 Windows core concepts
+- Part II: Usage guide
+  - Chapter 3 Process Explorer
+  - Chapter 4 Autoruns
+  - Chapter 5 Process Monitor
+  - Chapter 6 ProcDump
+  - Chapter 7 PsTools
+  - Chapter 8 Process and diagnostic utilities
+  - Chapter 9 Security utilities
+  - Chapter 10  Active Directory utilities
+  - Chapter 11  Desktop utilities
+  - Chapter 12  File utilities
+  - Chapter 13  Disk utilities
+  - Chapter 14  Network and communication utilities
+  - Chapter 15  System information utilities
+  - Chapter 16  Miscellaneous utilities
+- Part III: Troubleshooting — "The Case of the Unexplained..."
+  - Chapter 17  Error messages
+  - Chapter 18  Crashes
+  - Chapter 19  Hangs and sluggish performance
+  - Chapter 20  Malware
+  - Chapter 21  Understanding system behavior
+  - Chapter 22  Developer troubleshooting
 
 ## Errata
 

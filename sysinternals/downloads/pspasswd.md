@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897543(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
-PsPasswd v1.24
-==============
+# PsPasswd v1.24
 
 **By Mark Russinovich**
 
 Published: June 29, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
-
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 ## Introduction
 
@@ -30,14 +28,10 @@ administrator password.
 PsPasswd uses Windows password reset APIs, so does not send passwords
 over the network in the clear.
 
-
-
 ## Installation
 
 Just copy *PsPasswd* onto your executable path, and type "pspasswd" with
 the command-line syntax shown below..
-
-
 
 ## Using PsPasswd
 
@@ -57,7 +51,7 @@ account on the local or a remote computer.
 |      **Username**      |                                                                                             Specifies name of account for password change.                                                                                              |
 |    **NewPassword**     |                                                                                          New password. If ommitted a NULL password is applied.                                                                                          |
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 **PsTools**  
 *PsPasswd* is part of a growing kit of Sysinternals command-line tools
@@ -66,5 +60,5 @@ that aid in the administration of local and remote systems named
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

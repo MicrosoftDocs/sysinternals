@@ -7,16 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897426(v=MSDN.10)'
 ms.date: 11/01/2006
 ---
 
-PageDefrag v2.32
-================
+# PageDefrag v2.32
 
 **By Mark Russinovich**
 
 Published: November 1, 2006
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PageDefrag.zip) [**Download PageDefrag**](https://download.sysinternals.com/files/PageDefrag.zip) **(70 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PageDefrag.zip) [**Download PageDefrag**](https://download.sysinternals.com/files/PageDefrag.zip) **(70 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/pagedfrg.exe).
-
 
 ## Introduction
 
@@ -34,8 +32,6 @@ paging files and Registry hives are, and to defragment them. In
 addition, it defragments event log files and Windows 2000/XP hibernation
 files (where system memory is saved when you hibernate a laptop).
 
- 
-
 ## Installing and Using PageDefrag
 
 When you run *PageDefrag* (pagedfrg.exe) you will be presented a listbox
@@ -46,7 +42,7 @@ that these files are fragmented enough to warrant a shot at
 defragmenting them, or if you want to defragment them at every boot,
 select the appropriate radio button choice and click OK.
 
-![PageDefrag](/media/landing/sysinternals/PageDefrag.gif)  
+![PageDefrag screenshot](media/pagedefrag/PageDefrag.gif)  
 
 When you direct *PageDefrag* to defragment, the next time the system
 boots it will attempt to do so. Immediately after CHKDSK examines your
@@ -68,8 +64,6 @@ fragmented. For the best results you should use *PageDefrag* in
 conjunction with a commercial defragmentation utility or my free [Contig
 defragmenter](contig.md).
 
- 
-
 ## Command-Line Options
 
 You can run *PageDefrag* non-interactively by specifying a command-line
@@ -84,7 +78,6 @@ option for the setting you want:
 |  **-n** |  Never defrag.|
 |  **-t** |  Set countdown to specified number of seconds.|
 
-
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PageDefrag.zip) [**Download PageDefrag**](https://download.sysinternals.com/files/PageDefrag.zip) **(70 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PageDefrag.zip) [**Download PageDefrag**](https://download.sysinternals.com/files/PageDefrag.zip) **(70 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/pagedfrg.exe).

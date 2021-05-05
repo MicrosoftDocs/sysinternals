@@ -7,16 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/Ee656415(v=MSDN.10)'
 ms.date: 01/21/2014
 ---
 
-Disk2vhd v2.01
-==============
+# Disk2vhd v2.01
 
 **By Mark Russinovich**
 
 Published: January 21, 2014
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/disk2vhd.exe).
-
 
 ## Introduction
 
@@ -33,7 +31,7 @@ the VHD is on a disk different than ones being converted).
 
 The Disk2vhd user interface lists the volumes present on the system:
 
-![Disk2vhd](/media/landing/sysinternals/20131218_Disk2vhd_v2.0.png "Disk2vhd")
+![Disk2vhd](media/disk2vhd/20131218_Disk2vhd_v2.0.png)
 
 It will create one VHD for each disk on which selected volumes reside.
 It preserves the partitioning information of the disk, but only copies
@@ -60,9 +58,8 @@ Diskpart utilities.
 > signature of the VHD’s source disk. Windows references disks in the
 > boot configuration database (BCD) by disk signature, so when that
 > happens Windows booted in a VM will fail to locate the boot disk.
-> 
+>
 > Disk2vhd does not support the conversion of volumes with Bitlocker enabled. If you wish to create a VHD for such a volume, turn off Bitlocker and wait for the volume to be fully decrypted first. 
-
 
 Disk2vhd runs on Windows Vista, Windows Server 2008, and higher,
 including x64 systems.
@@ -70,7 +67,7 @@ including x64 systems.
 Here's a screenshot of a copy of a Windows Server 2008 R2 Hyper-V system
 running in a virtual machine on top of the system it was made from:
 
-[![Windows Server 2008 R2 Hyper-V](/media/landing/sysinternals/Disk2vhd_02_sm.png)](/media/landing/sysinternals/disk2vhd_02.jpg)  
+[![Windows Server 2008 R2 Hyper-V](media/disk2vhd/Disk2vhd_02_sm.png)](media/disk2vhd/disk2vhd_02.jpg)  
 *(click image to zoom)*
 
 ## Command Line Usage
@@ -92,6 +89,6 @@ Example: **disk2vhd \* c:\\vhd\\snapshot.vhd**
 > (OEM) using OEM versions of these products may not be transferred to a
 > virtual hard drive in accordance with Microsoft licensing terms.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/disk2vhd.exe).

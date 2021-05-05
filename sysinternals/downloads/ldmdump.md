@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897413(v=MSDN.10)'
 ms.date: 11/01/2016
 ---
 
-LDMDump v1.02
-=============
+# LDMDump v1.02
 
 **By Mark Russinovich**
 
 Published: November 1, 2006
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LdmDump.zip) [**Download LDMDump**](https://download.sysinternals.com/files/LdmDump.zip) **(43 KB)**
-
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LdmDump.zip) [**Download LDMDump**](https://download.sysinternals.com/files/LdmDump.zip) **(43 KB)**
 
 ## Introduction
 
@@ -58,19 +56,16 @@ is completely undocumented. *LDMDump* was developed based on study of
 LDM database contents on a variety of different systems and under
 changing conditions.
 
- 
-
 ## More Information
 
 For more information on the LDM on-disk structure, see:
 
--   *Inside Storage Management, Part 2*, by Mark Russinovich, Windows
+- *Inside Storage Management, Part 2*, by Mark Russinovich, Windows
     2000 Magazine, April 2000.
 
-
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/LdmDump.zip) [**Download LDMDump**](https://download.sysinternals.com/files/LdmDump.zip) **(43 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LdmDump.zip) [**Download LDMDump**](https://download.sysinternals.com/files/LdmDump.zip) **(43 KB)**
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

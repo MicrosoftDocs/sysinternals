@@ -1,22 +1,20 @@
---- 
+---
 TOCTitle: TCPView
 title: TCPView for Windows
 description: Active socket command-line viewer.
 ms:assetid: '0797e73a-a0c2-4266-b821-50bc561da3a6'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897437(v=MSDN.10)'
-ms.date: 07/25/2011
+ms.date: 04/21/2021
 ---
 
-TCPView v3.05
-=============
+# TCPView v4.01
 
 **By Mark Russinovich**
 
-Published: July 25, 2011
+Published: April 21, 2021
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(285 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(1.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Tcpview.exe).
-
 
 ## Introduction
 
@@ -29,17 +27,14 @@ subset of the Netstat program that ships with Windows. The TCPView
 download includes Tcpvcon, a command-line version with the same
 functionality.
 
-![TCP View screenshot](/media/landing/sysinternals/tcpview.jpg)
-
- 
+![TCP View screenshot](media/tcpview/tcpview.png)
 
 ## Using TCPView
 
 When you start TCPView it will enumerate all active TCP and UDP
 endpoints, resolving all IP addresses to their domain name versions. You
 can use a toolbar button or menu item to toggle the display of resolved
-names. On Windows XP systems, TCPView shows the name of the process that
-owns each endpoint.
+names. TCPView shows the name of the process that owns each endpoint, including the service name (if any).
 
 By default, TCPView updates every second, but you can use the
 **Options|Refresh Rate** menu item to change the rate. Endpoints that
@@ -53,36 +48,30 @@ right-clicking on a connection and choosing **Close Connections** from
 the resulting context menu.
 
 You can save TCPView's output window to a file using the **Save** menu
-item.  
-
- 
+item.
 
 ## Using Tcpvcon
 
 Tcpvcon usage is similar to that of the built-in Windows netstat
 utility:
 
-**Usage: tcpvcon \[-a\] \[-c\] \[-n\] \[process name or PID\]**
+**Usage:**
+
+```cmd
+tcpvcon [-a] [-c] [-n] [process name or PID]
+```
 
 |Parameter  |Description  |
 |---------|---------|
 |  **-a**  | Show all endpoints (default is to show established TCP connections).|
 |  **-c**  | Print output as CSV.|
 |  **-n**  | Don't resolve addresses.|
- 
 
-## Microsoft TCPView KB Article
-
-This Microsoft KB article references TCPView:
-
-[816944: "Unexpected Error 0x8ffe2740 Occurred" Error Message When You
-Try to Start a Web Site](https://support.microsoft.com/kb/816944)
-
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(285 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(1.4 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Tcpview.exe).
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.

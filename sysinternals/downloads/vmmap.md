@@ -7,16 +7,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/Dd535533(v=MSDN.10)'
 ms.date: 11/04/2020
 ---
 
-VMMap v3.31
-===========
+# VMMap v3.31
 
 **By Mark Russinovich**
 
 Published: November 04, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(1.3 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(1.3 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/vmmap.exe).
-
 
 ## Introduction
 
@@ -39,39 +37,36 @@ optimize their application's memory resource usage.
 
 ## Screenshot
 
-![Screenshot of VMMap showing Explorer.EXE memory analysis](/media/landing/sysinternals/vmmap.jpg)
+![Screenshot of VMMap showing Explorer.EXE memory analysis](media/vmmap/vmmap.jpg)
 
 ## Related Links
 
--   [**Windows Internals Book**](~/resources/windows-internals.md)  
+- [**Windows Internals Book**](~/resources/windows-internals.md)  
     The official updates and errata page for the definitive book on
     Windows internals, by Mark Russinovich and David Solomon.
--   [**Windows Sysinternals Administrator's Reference**](~/resources/troubleshooting-book.md)
+- [**Windows Sysinternals Administrator's Reference**](~/resources/troubleshooting-book.md)
     The official guide to the Sysinternals utilities by Mark Russinovich and
     Aaron Margosis, including descriptions of all the tools, their
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(1.3 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(1.3 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/vmmap.exe).
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
-
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.
 
 ## Getting Help
 
 If you have problems or questions, please visit the [Sysinternals
 Forum](https://forum.sysinternals.com).  
 
-
-
 ## Learn More
 
--   [Defrag Tools: \#7 -
+- [Defrag Tools: \#7 -
     VMMap](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-7-vmmap)  
     In this episode of Defrag Tools, Andrew Richards and Larry Larsen
     cover how to use VMMap to see how Virtual Memory is being used and

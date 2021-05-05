@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897550(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
-PsInfo v1.78
-============
+# PsInfo v1.78
 
 **By Mark Russinovich**
 
 Published: June 29, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
-
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 ## Introduction
 
@@ -46,7 +44,6 @@ for SP 1, etc).
 \[-p psswd\]\]\] \[-h\] \[-s\] \[-d\] \[-c \[-t delimiter\]\]
 \[filter\]**
 
-
 |       Parameter        |                                                                                                               Description                                                                                                               |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    **\\\\computer**    | Perform the command on the remote computer or computers specified. If you omit the computer name the command runs on the local system, and if you specify a wildcard (\\\\\*), the command runs on all computers in the current domain. |
@@ -62,7 +59,7 @@ for SP 1, etc).
 
 ## Example Output
 
-```
+```Shell
 C:\> psinfo \\development -h -d
 
 PsInfo v1.6 - local and remote system information viewer
@@ -109,12 +106,10 @@ Sysinternals - www.sysinternals.com
     Q317277 3/20/2002
 ```
 
-
 ## How it Works
 
 *PsInfo* uses the Remote Registry API to read system information from a
 system's Registry, and WMI to determine whether Windows XP installations
 have been activated.
 
-
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**

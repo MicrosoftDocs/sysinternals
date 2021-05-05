@@ -7,14 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897541(v=MSDN.10)'
 ms.date: 12/04/2006
 ---
 
-PsShutdown v2.52
-================
+# PsShutdown v2.52
 
 **By Mark Russinovich**
 
 Published: December 4, 2006
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 ## Introduction
 
@@ -26,14 +25,10 @@ console user or lock the console (locking requires Windows 2000 or
 higher). *PsShutdown* requires no manual installation of client
 software.
 
-
-
 ## Installation
 
 Just copy *PsShutdown* onto your executable path, and type psshutdown
 with command-line options defined below.
-
-
 
 ## Using PsShutdown
 
@@ -76,7 +71,7 @@ shutdown.
 |         **-t**         |                                                       Specifies the countdown in seconds until the shutdown (default: 20 seconds) or the time of shutdown (in 24 hour notation).                                                        |
 |         **-v**         |                     Display message for the specified number of seconds before the shutdown. If you omit this parameter the shutdown notification dialog displays and specifying a value of 0 results in no dialog.                     |
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 **PsTools**  
 *PsShutdown* is part of a growing kit of Sysinternals command-line tools
@@ -85,5 +80,5 @@ that aid in the administration of local and remote systems named
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

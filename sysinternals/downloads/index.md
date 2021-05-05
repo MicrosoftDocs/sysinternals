@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 11/25/2020
+ms.date: 04/23/2021
 ---
 
 # Sysinternals Utilities Index
@@ -48,7 +48,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v13.98 (June 24, 2020)*  
+*v13.100 (April 23, 2021)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -179,7 +179,7 @@ See the order in which devices are loaded on your WinNT/2K system.
 *v1.41 (November 25, 2020)*  
 List the active logon sessions on a system.
 
-[MoveFile](movefile.md)  
+[MoveFile](pendmoves.md)  
 *v1.01 (January 24, 2013)*  
 Allows you to schedule move and delete commands for the next reboot.
 
@@ -226,12 +226,12 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.60 (September 17, 2020)*  
+*v3.70 (April 21, 2021)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
 [PsExec](psexec.md)  
-*v2.2 (June 29, 2016)*  
+*v2.33 (March 23, 2021)*  
 Execute processes on remote systems.
 
 [PsFile](psfile.md)  
@@ -283,7 +283,7 @@ Shuts down and optionally reboots a computer.
 Suspend and resume processes.
 
 [PsTools](pstools.md)  
-*v2.45 (July 4, 2016)*  
+*v2.47 (March 23, 2021)*  
 The PsTools suite includes command-line utilities for listing the
 processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
@@ -339,11 +339,11 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v12.03 (November 25, 2020)*  
+*v13.10 (April 21, 2021)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
-*v3.05 (July 25, 2011)*  
+*v4.01 (April 21, 2021)*  
 Active socket command-line viewer.
 
 [VMMap](vmmap.md)  
@@ -359,7 +359,7 @@ Set Volume ID of FAT or NTFS drives.
 See who owns an Internet address.
 
 [WinObj](winobj.md)  
-*v2.23 (November 25, 2020)*  
+*v3.03 (April 21, 2021)*  
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  

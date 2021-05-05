@@ -7,14 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897544(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
-PsLogList v2.81
-===============
+# PsLogList v2.81
 
 **By Mark Russinovich**
 
 Published: March 05, 2019
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 ## Introduction
 
@@ -25,13 +24,9 @@ systems in situations your current set of security credentials would not
 permit access to the Event Log, and *PsLogList* retrieves message
 strings from the computer on which the event log you view resides.  
 
-
-
 ## Installation
 
 Just copy *PsLogList* onto your executable path, and type "psloglist".  
-
-
 
 ## Using PsLogList
 
@@ -47,7 +42,6 @@ username \[-p password\]\]\] \[-s \[-t delimiter\]\] \[-m \#|-n \#|-h
 filter\] \[-i ID\[,ID\[,...\] | -e ID\[,ID\[,...\]\]\] \[-o event
 source\[,event source\]\[,..\]\]\] \[-q event source\[,event
 source\]\[,..\]\]\] \[-l event log file\] &lt;eventlog&gt;**
-
 
 |       Parameter        |                                                                        Description                                                                         |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -84,7 +78,7 @@ where the event log being viewed resides so that it correctly displays
 event log messages.
 
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
 
 **PsTools**  
 *PsLogList* is part of a growing kit of Sysinternals command-line tools
@@ -93,5 +87,5 @@ that aid in the administration of local and remote systems named
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

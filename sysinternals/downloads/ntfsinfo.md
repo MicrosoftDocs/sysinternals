@@ -7,14 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897424(v=MSDN.10)'
 ms.date: 07/04/2016
 ---
 
-NTFSInfo v1.2
-=============
+# NTFSInfo v1.2
 
 **By Mark Russinovich**
 
 Published: July 4, 2016
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NTFSInfo.zip) [**Download NTFSInfo**](https://download.sysinternals.com/files/NTFSInfo.zip) **(143 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/NTFSInfo.zip) [**Download NTFSInfo**](https://download.sysinternals.com/files/NTFSInfo.zip) **(143 KB)**
 
 ## Introduction
 
@@ -69,10 +68,10 @@ privilege.
 obtain information from NTFS about a volume. It prints this information
 along with a directory dump of NTFS meta-data files.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/NTFSInfo.zip) [**Download NTFSInfo**](https://download.sysinternals.com/files/NTFSInfo.zip) **(143 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/NTFSInfo.zip) [**Download NTFSInfo**](https://download.sysinternals.com/files/NTFSInfo.zip) **(143 KB)**
 
 **Runs on:**
 
--   Client: Windows Vista and higher
--   Server: Windows Server 2008 and higher
--   Nano Server: 2016 and higher
+- Client: Windows Vista and higher
+- Server: Windows Server 2008 and higher
+- Nano Server: 2016 and higher

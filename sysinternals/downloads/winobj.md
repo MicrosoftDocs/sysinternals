@@ -1,22 +1,20 @@
---- 
+---
 TOCTitle: WinObj
 title: WinObj
 description: The ultimate Object Manager namespace viewer is here.
 ms:assetid: 'f5aabfba-811c-4b35-8d76-e64fd7083177'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896657(v=MSDN.10)'
-ms.date: 11/25/2020
+ms.date: 04/21/2021
 ---
 
-WinObj v2.23
-============
+# WinObj v3.03
 
 **By Mark Russinovich**
 
-Published: November 25, 2020
+Published: April 21, 2021
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.5 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Winobj.exe).
-
 
 ## Introduction
 
@@ -26,24 +24,20 @@ just curious about the Object Manager namespace.
 
 *WinObj* is a 32-bit Windows NT program that uses the native Windows NT
 API (provided by NTDLL.DLL) to access and display information on the NT
-Object Manager's name space. Winobj may seem similar to the Microsoft
+Object Manager's namespace. Winobj may seem similar to the Microsoft
 SDK's program of the same name, but the SDK version suffers from
 numerous significant bugs that prevent it from displaying accurate
 information (e.g. its handle and reference counting information are
 totally broken). In addition, our WinObj understands many more object
-types. Finally, Version 2.0 of our WinObj has user-interface
-enhancements, knows how to open device objects, and will let you view
-and change object security information using native NT security
-editors.  
-  
+types. Finally, Version 3.0 of our WinObj has user-interface
+enhancements (including a dark theme), knows how to open device objects, provides dynamic updates when objects are created/destroyed, and allows searching and filtering.
 
 ## Installation and Use
 
 There is no device driver component to WinObj, so you can run it like
 any Win32 program.
 
-![WinObj screenshot](/media/landing/sysinternals/WinObj.png) 
-  
+![WinObj screenshot](media/winobj/winobj.png)
 
 ## How it Works
 
@@ -52,8 +46,7 @@ responsibility, it maintains an internal namespace where various
 operating system components, device drivers and Win32 programs can store
 and lookup objects. The native NT API provides routines that allow
 user-mode programs to browse the namespace and query the status of
-objects located there, but the interfaces are undocumented.  
-  
+objects located there, but the interfaces are undocumented.
 
 ## More Information
 
@@ -62,10 +55,10 @@ Object Manager name space, and Mark's October 1997 [WindowsITPro
 Magazine](https://www.windowsitpro.com/) column, "Inside the Object
 Manager", is (of course) an excellent overview.
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.5 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Winobj.exe).
 
 **Runs on:**
 
--   Client: Windows Vista and higher.
--   Server: Windows Server 2008 and higher.
+- Client: Windows Vista and higher.
+- Server: Windows Server 2008 and higher.

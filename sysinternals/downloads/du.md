@@ -7,14 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896651(v=MSDN.10)'
 ms.date: 11/04/2020
 ---
 
-Disk Usage v1.62
-================
+# Disk Usage v1.62
 
 **By Mark Russinovich**
 
 Published: November 04, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DU.zip)] [**Download Du**](https://download.sysinternals.com/files/DU.zip) **(1.62 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DU.zip)] [**Download Du**](https://download.sysinternals.com/files/DU.zip) **(1.62 MB)**
 
 ## Introduction
 
@@ -41,4 +40,4 @@ CSV output is formatted as:
 Path, CurrentFileCount, CurrentFileSize, FileCount, DirectoryCount,
 DirectorySize
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/DU.zip) [**Download Du**](https://download.sysinternals.com/files/DU.zip) **(1.62 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DU.zip) [**Download Du**](https://download.sysinternals.com/files/DU.zip) **(1.62 MB)**

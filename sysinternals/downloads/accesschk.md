@@ -7,14 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb664922(v=MSDN.10)'
 ms.date: 10/15/2020
 ---
 
-AccessChk v6.13
-===============
+# AccessChk v6.13
 
 **By Mark Russinovich**
 
 Published: October 15, 2020
 
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(957 KB)**  
+[![Download](media/shared/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(957 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/accesschk.exe).
 
 ## Introduction
@@ -71,7 +70,6 @@ AccessChk prints R if the account has read access, W for write access,
 and nothing if it has neither. The -v switch has AccessChk dump the
 specific accesses granted to an account.
 
- 
 ## Examples
 
 The following command reports the accesses that the Power Users account
@@ -102,6 +100,5 @@ To see all global objects that Everyone can modify:
 
 **accesschk -wuo everyone \\basednamedobjects**
 
-
-[![Download](/media/landing/sysinternals/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(957 KB)**  
+[![Download](media/shared/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(957 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/accesschk.exe).
