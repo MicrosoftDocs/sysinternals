@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 04/21/2021
+ms.date: 05/25/2021
 ---
 
 # ![Windows icon](media/index/Windows_logo_46x50px.png) Windows Sysinternals
@@ -24,6 +24,20 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
+
+### What's New (May 25, 2021)
+
+- [Process Monitor v3.80](~/downloads/procmon.md)
+Process Monitor is the latest tool to integrate with the new Sysinternals theme engine, giving it dark mode support.
+
+- [Sysmon v13.20](~/downloads/sysmon.md)
+This update to Sysmon, an advanced system security monitor, adds "`not begin with`" and "`not end with`" filter conditions and fixes a regression for rule include/exclude logic.
+
+- [TCPView v4.10](~/downloads/tcpview.md)
+This update to TCPView, a TCP/UDP endpoint query tool, adds the ability to filter connections by state.
+
+- [Process Explorer v16.40](~/downloads/process-explorer.md)
+This update to Process Explorer, an advanced process, DLL and handle viewing utility, adds process filtering support to the main display and reports process CET (shadow stack) support.
 
 ### What's New (April 21, 2021)
 

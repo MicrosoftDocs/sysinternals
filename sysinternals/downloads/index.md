@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 04/23/2021
+ms.date: 05/25/2021
 ---
 
 # Sysinternals Utilities Index
@@ -220,18 +220,18 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)  
-*v16.32 (April 28, 2020)*  
+*v16.40 May 25, 2021)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.70 (April 21, 2021)*  
+*v3.80 (May 25, 2021)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
 [PsExec](psexec.md)  
-*v2.33 (March 23, 2021)*  
+*v2.34 (May 25, 2021)*  
 Execute processes on remote systems.
 
 [PsFile](psfile.md)  
@@ -322,7 +322,7 @@ Launch programs as a different user via a convenient shell context-menu
 entry.
 
 [Sigcheck](sigcheck.md)  
-*v2.80 (June 24, 2020)*  
+*v2.81 (May 25, 2021)*  
 Dump file version information and verify that images on your system are
 digitally signed.
 
@@ -339,12 +339,12 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v13.10 (April 21, 2021)*  
+*v13.20 (May 25, 2021)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
-*v4.01 (April 21, 2021)*  
-Active socket command-line viewer.
+*v4.10 (May 25, 2021)*  
+Active socket viewer.
 
 [VMMap](vmmap.md)  
 *v3.31 (November 04, 2020)*  
@@ -359,7 +359,7 @@ Set Volume ID of FAT or NTFS drives.
 See who owns an Internet address.
 
 [WinObj](winobj.md)  
-*v3.03 (April 21, 2021)*  
+*v3.10 (May 25, 2021)*  
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  
