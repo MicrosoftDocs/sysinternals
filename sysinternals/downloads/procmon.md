@@ -13,7 +13,7 @@ ms.date: 05/25/2021
 
 Published: May 25, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(1.9 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(3 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Procmon.exe).
 
 ## Introduction
@@ -80,7 +80,7 @@ options on a live system.
 
 ## Download
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(1.9 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(3 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Procmon.exe).
 
