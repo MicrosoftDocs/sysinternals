@@ -4,14 +4,14 @@ title: Sysmon
 description: Monitors and reports key system activity via the Windows event log.
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
-ms.date: 04/21/2021
+ms.date: 05/25/2021
 ---
 
-# Sysmon v13.10
+# Sysmon v13.20
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: April 21, 2021
+Published: May 25, 2021
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(2.9 MB)**
 
@@ -443,6 +443,8 @@ insensitive):
 |  **excludes all** |The field does not contain any of the ; delimited values |
 |  **begin with**  | The field begins with this value |
 |  **end with**    | The field ends with this value |
+|  **not begin with**  | The field does not begin with this value |
+|  **not end with**    | The field does not end with this value |
 |  **less than**   | Lexicographical comparison is less than zero |
 |  **more than**   | Lexicographical comparison is more than zero |
 |  **image**       | Match an image path (full path or only image name). For example: lsass.exe will match c:\\windows\\system32\\lsass.exe |
