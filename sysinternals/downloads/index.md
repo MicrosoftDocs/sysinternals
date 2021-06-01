@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 05/26/2021
+ms.date: 06/01/2021
 ---
 
 # Sysinternals Utilities Index
@@ -220,13 +220,13 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)  
-*v16.41 May 26, 2021)*  
+*v16.42 (June 1, 2021)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.81 (May 26, 2021)*  
+*v3.82 (June 1, 2021)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -339,11 +339,11 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v13.20 (May 25, 2021)*  
+*v13.21 (June 1, 2021)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
-*v4.11 (May 26, 2021)*  
+*v4.12 (June 1, 2021)*  
 Active socket viewer.
 
 [VMMap](vmmap.md)  
