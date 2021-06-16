@@ -22,8 +22,8 @@ driver that, once installed on a system, remains resident across system
 reboots to monitor and log system activity to the Windows event log. It
 provides detailed information about process creations, network
 connections, and changes to file creation time. By collecting the events
-it generates using [Windows Event
-Collection](https://msdn.microsoft.com/library/windows/desktop/bb427443(v=vs.85).aspx)
+it generates using
+[Windows Event Collection](https://msdn.microsoft.com/library/windows/desktop/bb427443(v=vs.85).aspx)
 or
 [SIEM](https://en.wikipedia.org/wiki/security_information_and_event_management)
 agents and subsequently analyzing them, you can identify malicious or
@@ -65,76 +65,88 @@ nor does it attempt to protect or hide itself from attackers.
 
 ## Usage
 
-Uses Sysmon simple command-line options to install and uninstall it, as
-well as to check and modify Sysmon’s configuration:
+Common usage featuring simple command-line options to install and uninstall
+Sysmon, as well as to check and modify its configuration:
 
-<strong>Sysinternals Sysmon v11.0 - System activity monitor  
-Copyright (C) 2014-2020 Mark Russinovich and Thomas Garnier  
-Sysinternals - www.sysinternals.com</strong>
-
-Usage:
-
-Install:                 sysmon64 -i [&lt;configfile&gt;]  
-Update configuration:    sysmon64 -c [&lt;configfile&gt;]  
-Install event manifest:  sysmon64 -m  
-Print schema:            sysmon64 -s  
-Uninstall:               sysmon64 -u [force]  
+Install:                 `sysmon64 -i [<configfile>]`  
+Update configuration:    `sysmon64 -c [<configfile>]`  
+Install event manifest:  `sysmon64 -m`  
+Print schema:            `sysmon64 -s`  
+Uninstall:               `sysmon64 -u [force]`  
 
 |Parameter  |Description  |
 |---------|---------|
 |  **-i** |  Install service and driver. Optionally take a configuration file.|
-|  **-c** |  Update configuration of an installed Sysmon driver or dump the current configuration if no other argument is provided. Optionally take a configuration file.|
-|  **-m** |  Install the event manifest (done on service install as well).|
+|  **-c** |  Update configuration of an installed Sysmon driver or dump the current configuration if no other argument is provided. Optionally takes a configuration file.|
+|  **-m** |  Install the event manifest (implicitly done on service install as well).|
 |  **-s** |  Print configuration schema definition.|
-|  **-u** |  Uninstall service and driver. Adding force causes uninstall to proceed even when some components are not installed.|
+|  **-u** |  Uninstall service and driver. Using `-u force` causes uninstall to proceed even when some components are not installed.|
 
 The service logs events immediately and the driver installs as a
 boot-start driver to capture activity from early in the boot that the
 service will write to the event log when it starts.
 
-On Vista and higher, events are stored in "Applications and Services
-Logs/Microsoft/Windows/Sysmon/Operational"  
-On older systems, events are written to the System event log.
+On Vista and higher, events are stored in `Applications and Services
+Logs/Microsoft/Windows/Sysmon/Operational`.
+On older systems, events are written to the `System` event log.
 
-If you need more information on configuration files, use the '-? config'
-command. More examples are available on the Sysinternals website.
+If you need more information on configuration files, use the `-? config`
+command.
 
-Specify -accepteula to automatically accept the EULA on installation,
+Specify `-accepteula` to automatically accept the EULA on installation,
 otherwise you will be interactively prompted to accept it.
 
 Neither install nor uninstall requires a reboot.
 
 ## Examples
 
-Install with default settings (process images hashed with sha1 and no
-network monitoring)  
-**sysmon -accepteula  -i**
+Install with default settings (process images hashed with SHA1 and no
+network monitoring)
+
+```cmd
+sysmon -accepteula -i
+```
 
 Install Sysmon with a configuration file (as described below)
 
-**sysmon -accepteula -i c:\\windows\\config.xml**
+```cmd
+sysmon -accepteula -i c:\windows\config.xml
+```
 
-Uninstall  
-**sysmon -u**
+Uninstall
 
-Dump the current configuration  
-**sysmon -c**
+```cmd
+sysmon -u
+```
 
-Change the configuration of sysmon with a configuration file (as
-described below)
+Dump the current configuration
 
-**sysmon -c c:\\windows\\config.xml**
+```cmd
+sysmon -c
+```
 
-Change the configuration to default settings  
-**sysmon -c --**
+Reconfigure an active Sysmon with a configuration file (as described below)
 
-Show the configuration schema:  
-**sysmon -s**
+```cmd
+sysmon -c c:\windows\config.xml
+```
+
+Change the configuration to default settings
+
+```cmd
+sysmon -c --
+```
+
+Show the configuration schema
+
+```cmd
+sysmon -s
+```
 
 ## Events
 
-On Vista and higher, events are stored in "Applications and Services
-Logs/Microsoft/Windows/Sysmon/Operational", and on older systems events
+On Vista and higher, events are stored in `Applications and Services
+Logs/Microsoft/Windows/Sysmon/Operational`, and on older systems events
 are written to the System event log. Event timestamps are in UTC
 standard time.
 
@@ -206,7 +218,7 @@ functions.
 ### Event ID 9: RawAccessRead
 
 The RawAccessRead event detects when a process conducts reading
-operations from the drive using the \\\\.\\ denotation. This technique
+operations from the drive using the `\\.\` denotation. This technique
 is often used by malware for data exfiltration of files that are locked
 for reading, as well as to avoid file access auditing tools. The event
 indicates the source process and target device.
@@ -239,13 +251,12 @@ autostart locations, or specific malware registry modifications.
 Sysmon uses abbreviated versions of Registry root key names, with the
 following mappings:
 
- 
 |Key name  | Abbreviation  |
 |---------|---------|
-|  HKEY\_LOCAL\_MACHINE                         | HKLM |
-|  HKEY\_USERS                                  | HKU |
-|  HKEY\_LOCAL\_MACHINE\\System\\ControlSet00x  | HKLM\\System\\CurrentControlSet |
-|  HKEY\_LOCAL\_MACHINE\\Classes                | HKCR |
+|  `HKEY_LOCAL_MACHINE`                         | `HKLM` |
+|  `HKEY_USERS`                                  | `HKU` |
+|  `HKEY_LOCAL_MACHINE\System\ControlSet00x`  | `HKLM\System\CurrentControlSet` |
+|  `HKEY_LOCAL_MACHINE\Classes`                | `HKCR` |
 
 ### Event ID 13: RegistryEvent (Value Set)
 
@@ -265,8 +276,8 @@ events that log the hash of the contents of the file to which the stream
 is assigned (the unnamed stream), as well as the contents of the named
 stream. There are malware variants that drop their executables or
 configuration settings via browser downloads, and this event is aimed at
-capturing that based on the browser attaching a Zone.Identifier “mark of
-the web” stream.
+capturing that based on the browser attaching a `Zone.Identifier` "mark of
+the web" stream.
 
 ### Event ID 16: ServiceConfigurationChange
 
@@ -302,9 +313,13 @@ When a consumer binds to a filter, this event logs the consumer name and filter 
 This event is generated when a process executes a DNS query, whether the result is successful or fails, cached or not.
 The telemetry for this event was added for Windows 8.1 so it is not available on Windows 7 and earlier.
 
-### Event ID 23: FileDelete (A file delete was detected)
+### Event ID 23: FileDelete (File Delete archived)
 
-A file was deleted.
+A file was deleted. Additionally to logging the event, the deleted file is also
+saved in the `ArchiveDirectory` (which is `C:\Sysmon` by default). Under normal
+operating conditions this directory might grow to an unreasonable size - see
+event ID 26: `FileDeleteDetected` for similar behavior but without saving the
+deleted files.
 
 ### Event ID 24: ClipboardChange (New content in the clipboard)
 
@@ -312,7 +327,12 @@ This event is generated when the system clipboard contents change.
 
 ### Event ID 25: ProcessTampering (Process image change)
 
-This event is generated when a process image is changed from an external source, such as a different process.
+This event is generated when process hiding techniques such as "hollow" or
+"herpaderp" are being detected.
+
+### Event ID 26: FileDeleteDetected (File Delete logged)
+
+A file was deleted.
 
 ### Event ID 255: Error
 
@@ -347,7 +367,7 @@ Configuration entries include the following:
 
 |  Entry             |   Value  |  Description|
 |--------------------|----------|-------------|
-| ArchiveDirectory   |  String  | Name of directories at volume roots into which copy-on-delete                                  files are moved. The directory is protected with a System ACL. (you can use PsExec from Sysinternals to access the directory                                 using 'psexec -sid cmd'). Default: Sysmon |
+| ArchiveDirectory   |  String  | Name of directories at volume roots into which copy-on-delete                                  files are moved. The directory is protected with a System ACL (you can use PsExec from Sysinternals to access the directory                                 using `psexec -sid cmd`). Default: Sysmon |
 | CheckRevocation   |  Boolean | Controls signature revocation checks. Default: True |
 |  CopyOnDeletePE   |  Boolean | Preserves deleted executable image files. Default: False |
 |  CopyOnDeleteSIDs | Strings  | Comma-separated list of account SIDs for which file deletes will be preserved. |
@@ -363,19 +383,17 @@ switch also enables an event, it needs to be configured though its
 filter tag. You can specify the -s switch to have Sysmon print the full
 configuration schema, including event tags as well as the field names
 and types for each event. For example, here’s the schema for the
-RawAccessRead event type:
+`RawAccessRead` event type:
 
-<pre>
-&lt;event name="SYSMON\_RAWACCESS\_READ" value="9" level="Informational"
-template="RawAccessRead detected" rulename="RawAccessRead"
-version="2"&gt;  
-  &lt;data name="UtcTime" inType="win:UnicodeString" outType="xs:string"/&gt;  
-  &lt;data name="ProcessGuid" inType="win:GUID"/&gt;  
-  &lt;data name="ProcessId" inType="win:UInt32" outType="win:PID"/&gt;  
-  &lt;data name="Image" inType="win:UnicodeString" outType="xs:string"/&gt;  
-  &lt;data name="Device" inType="win:UnicodeString" outType="xs:string"/&gt;  
-&lt;/event&gt;  
-</pre>
+```xml
+<event name="SYSMON_RAWACCESS_READ" value="9" level="Informational "template="RawAccessRead detected" rulename="RawAccessRead" version="2">  
+  <data name="UtcTime" inType="win:UnicodeString" outType="xs:string"/>  
+  <data name="ProcessGuid" inType="win:GUID"/>  
+  <data name="ProcessId" inType="win:UInt32" outType="win:PID"/>  
+  <data name="Image" inType="win:UnicodeString" outType="xs:string"/>  
+  <data name="Device" inType="win:UnicodeString" outType="xs:string"/>  
+</event>  
+```
 
 ## Event filtering entries
 
@@ -412,14 +430,17 @@ configuration file:
 |  **20**   WmiEvent              | WMI consumer |
 |  **21**   WmiEvent              | WMI consumer filter |
 |  **22**   DNSQuery              | DNS query |
-|  **23**   FileDelete            | File Delete |
+|  **23**   FileDelete            | File Delete archived |
+|  **24**   ClipboardChange       | New content in the clipboard |
+|  **25**   ProcessTampering      | Process image change |
+|  **26**   FileDeleteDetected    | File Delete logged |
 
 You can also find these tags in the event viewer on the task name.
 
-The onmatch filter is applied if events are matched. It can be changed
-with the "onmatch" attribute for the filter tag. If the value is
-‘include’, it means only matched events are included. If it is set to
-‘exclude’, the event will be included except if a rule match. You can
+The `onmatch` filter is applied if events are matched. It can be changed
+with the `onmatch` attribute for the filter tag. If the value is
+`"include"`, it means only matched events are included. If it is set to
+`"exclude"`, the event will be included except if a rule match. You can
 specify both an include filter set and an exclude filter set for each
 event ID, where exclude matches take precedence.
 
@@ -433,65 +454,74 @@ insensitive):
 |  **Condition**   | **Description** |
 |---------|---------|
 |  **is**          | Default, values are equals |
-|  **is any**      | The field is one of the ; delimited values |
+|  **is any**      | The field is one of the `;` delimited values |
 |  **is not**      | Values are different |
 |  **contains**    | The field contains this value |
-|  **contains any**  | The field contains any of the ; delimited values |
-|  **contains all** | The field contains any of the ; delimited values |
+|  **contains any**  | The field contains any of the `;` delimited values |
+|  **contains all** | The field contains any of the `;` delimited values |
 |  **excludes**    | The field does not contain this value |
-|  **excludes any**  |The field does not contain one or more of the ; delimited values |
-|  **excludes all** |The field does not contain any of the ; delimited values |
+|  **excludes any**  |The field does not contain one or more of the `;` delimited values |
+|  **excludes all** |The field does not contain any of the `;` delimited values |
 |  **begin with**  | The field begins with this value |
 |  **end with**    | The field ends with this value |
 |  **not begin with**  | The field does not begin with this value |
 |  **not end with**    | The field does not end with this value |
 |  **less than**   | Lexicographical comparison is less than zero |
 |  **more than**   | Lexicographical comparison is more than zero |
-|  **image**       | Match an image path (full path or only image name). For example: lsass.exe will match c:\\windows\\system32\\lsass.exe |
+|  **image**       | Match an image path (full path or only image name). For example: `lsass.exe` will match `c:\windows\system32\lsass.exe` |
 
 You can use a different condition by specifying it as an attribute. This
 excludes network activity from processes with iexplore.exe in their
 path:
 
-&lt;NetworkConnect onmatch="exclude"&gt; &lt;Image
-condition="contains"&gt;iexplore.exe&lt;/Image&gt;
-&lt;/NetworkConnect&gt;
+```xml
+<NetworkConnect onmatch="exclude">
+  <Image condition="contains">iexplore.exe</Image>
+</NetworkConnect>
+```
 
-To have Sysmon report which rule match resulted in an event being logged, add names to rules:
+To have Sysmon report which rule match resulted in an event being logged, add
+names to rules:
 
-&lt;NetworkConnect onmatch="exclude"&gt; &lt;Image
-name="network iexplore" condition="contains"&gt;iexplore.exe&lt;/Image&gt;
-&lt;/NetworkConnect&gt;
+```xml
+<NetworkConnect onmatch="exclude">
+  <Image name="network iexplore" condition="contains">iexplore.exe</Image>
+</NetworkConnect>
+```
 
-You can use both include and exclude rules for the same tag, where exclude rules override include rules. Within a
-rule, filter conditions have OR behavior,  In the sample configuration shown earlier, the networking filter uses both
-an include and exclude rule to capture activity to port 80 and 443 by all processes except those that have
-iexplore.exe in their name.
+You can use both include and exclude rules for the same tag, where exclude rules
+override include rules. Within a rule, filter conditions have OR behavior.
 
-It is also possible to override the way that rules are combined by using a rule group which allows the rule combine
-type for one or more events to be set explicity to AND or OR.
+In the sample configuration shown earlier, the networking filter uses both an
+include and exclude rule to capture activity to port 80 and 443 by all processes
+except those that have `iexplore.exe` in their name.
 
-The following example demonstrates this usage. In the first rule group, a process create event will generate when
-timeout.exe is executed only with a command - line argument of "100", but a process terminate event will generate for
-termination of ping.exe and timeout.exe.
+It is also possible to override the way that rules are combined by using a rule
+group which allows the rule combine type for one or more events to be set
+explicity to AND or OR.
 
-<pre>
-  &lt;EventFiltering&gt;
-    &lt;RuleGroup name="group 1" groupRelation="and"&gt;
-      &lt;ProcessCreate onmatch="include"&gt;
-        &lt;Image condition="contains"&gt;timeout.exe&lt;/Image&gt;
-        &lt;CommandLine condition="contains"&gt;100&lt;/CommandLine&gt;
-      &lt;/ProcessCreate&gt;
-    &lt;/RuleGroup&gt;
-    &lt;RuleGroup groupRelation="or"&gt;
-      &lt;ProcessTerminate onmatch="include"&gt;
-        &lt;Image condition="contains"&gt;timeout.exe&lt;/Image&gt;
-        &lt;Image condition="contains"&gt;ping.exe&lt;/Image&gt;
-      &lt;/ProcessTerminate&gt;        
-    &lt;/RuleGroup&gt;
-    &lt;ImageLoad onmatch="include"/&gt;
-  &lt;/EventFiltering&gt;
-</pre>
+The following example demonstrates this usage. In the first rule group, a
+process create event will be generated when `timeout.exe` is executed only with
+a command line argument of `100`, but a process terminate event will be
+generated for the termination of `ping.exe` and `timeout.exe`.
+
+```xml
+  <EventFiltering>
+    <RuleGroup name="group 1" groupRelation="and">
+      <ProcessCreate onmatch="include">
+        <Image condition="contains">timeout.exe</Image>
+        <CommandLine condition="contains">100</CommandLine>
+      </ProcessCreate>
+    </RuleGroup>
+    <RuleGroup groupRelation="or">
+      <ProcessTerminate onmatch="include">
+        <Image condition="contains">timeout.exe</Image>
+        <Image condition="contains">ping.exe</Image>
+      </ProcessTerminate>        
+    </RuleGroup>
+    <ImageLoad onmatch="include"/>
+  </EventFiltering>
+```
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(2.9 MB)**
   
