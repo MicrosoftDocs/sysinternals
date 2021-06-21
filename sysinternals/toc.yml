@@ -165,6 +165,8 @@
         href: downloads/pspasswd.md
       - name: PsShutdown
         href: downloads/psshutdown.md
+      - name: RDCMan
+        href: downloads/rdcman.md
       - name: RegDelNull
         href: downloads/regdelnull.md
       - name: Registry Usage
