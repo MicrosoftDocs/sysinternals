@@ -17,7 +17,7 @@ Published: November 1, 2006
 **Note:** NewSID has been retired and is no longer available for
 download. Please see Mark Russinovich’s blog post: [NewSID Retirement
 and the Machine SID Duplication
-Myth](https://blogs.technet.com/markrussinovich/archive/2009/11/03/3291024.aspx)
+Myth](https://techcommunity.microsoft.com/t5/sysinternals-blog/filemon-and-regmon-retired-newsid-end-of-life/ba-p/725877)
 
 ## IMPORTANT
 
