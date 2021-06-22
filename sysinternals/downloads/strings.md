@@ -13,7 +13,7 @@ ms.date: 06/22/2021
 
 Published: June 22, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [**Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(506 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [**Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(534 KB)**
 
 ## Introduction
 
@@ -53,7 +53,7 @@ using strings use a command like this:
 strings * | findstr /i TextToSearchFor
 ```
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [**Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(506 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [**Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(534 KB)**
 
 **Runs on:**
 

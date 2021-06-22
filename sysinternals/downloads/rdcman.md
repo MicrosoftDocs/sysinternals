@@ -11,7 +11,7 @@ ms.date: 06/22/2021
 
 Published: June 22, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(2.5 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(401 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RDCMan.exe).
 
 ## Introduction
@@ -361,7 +361,7 @@ RDCMan retrieves policy information from the `HKEY_LOCAL_MACHINE\SOFTWARE\Polici
 
 ## Download
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(2.5 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(401 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RDCMan.exe).
 
 **Runs on:**
