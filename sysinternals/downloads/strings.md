@@ -4,16 +4,16 @@ title: Strings
 description: Search for ANSI and UNICODE strings in binary images.
 ms:assetid: '516a3dc2-ae3c-48ea-9dd2-65d3635eee79'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897439(v=MSDN.10)'
-ms.date: 09/17/2020
+ms.date: 06/22/2021
 ---
 
-# Strings v2.53
+# Strings v2.54
 
 **By Mark Russinovich**
 
-Published: July 4, 2016
+Published: June 22, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [**Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(506 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [**Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(534 KB)**
 
 ## Introduction
 
@@ -26,7 +26,7 @@ Note that it works under Windows 95 as well.
 
 ## Using Strings
 
-**usage:**
+**Usage:**
 
 ```cmd
 strings [-a] [-f offset] [-b bytes] [-n length] [-o] [-q] [-s] [-u] <file or directory>
@@ -53,7 +53,7 @@ using strings use a command like this:
 strings * | findstr /i TextToSearchFor
 ```
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [**Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(506 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Strings.zip) [**Download Strings**](https://download.sysinternals.com/files/Strings.zip) **(534 KB)**
 
 **Runs on:**
 

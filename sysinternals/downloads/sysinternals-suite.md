@@ -12,9 +12,9 @@ ms.date: 06/01/2021
 **By Mark Russinovich**  
 Updated: June 1, 2021
 
-[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (40.8 MB)  
-[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (8.3 MB)  
-[**Download Sysinternals Suite for ARM64**](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip) (10.4 MB)  
+[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (41.4 MB)  
+[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (8.4 MB)  
+[**Download Sysinternals Suite for ARM64**](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip) (10.5 MB)  
 
 ## Introduction
 
@@ -36,7 +36,7 @@ Utilities:
 [Process Monitor](procmon.md), [PsExec](psexec.md), [PsFile](psfile.md), [PsGetSid](psgetsid.md), [PsInfo](psinfo.md), 
 [PsKill](pskill.md), [PsList](pslist.md), [PsLoggedOn](psloggedon.md), [PsLogList](psloglist.md), [PsPasswd](pspasswd.md), 
 [PsPing](psping.md), [PsService](psservice.md), [PsShutdown](psshutdown.md), [PsSuspend](pssuspend.md), [PsTools](pstools.md), 
-[RAMMap](rammap.md), [RegDelNull](regdelnull.md), [RegHide](reghide.md), [RegJump](regjump.md), [Registry Usage (RU)](ru.md), 
+[RAMMap](rammap.md), [RDCMan](rdcman.md), [RegDelNull](regdelnull.md), [RegHide](reghide.md), [RegJump](regjump.md), [Registry Usage (RU)](ru.md), 
 [SDelete](sdelete.md), [ShareEnum](shareenum.md), [ShellRunas](shellrunas.md), [Sigcheck](sigcheck.md), [Streams](streams.md), 
 [Strings](strings.md), [Sync](sync.md), [Sysmon](sysmon.md), [TCPView](tcpview.md), [VMMap](vmmap.md), 
 [VolumeID](volumeid.md), [WhoIs](whois.md), [WinObj](winobj.md), [ZoomIt](zoomit.md)
