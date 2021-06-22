@@ -293,8 +293,8 @@ remotely, rebooting computers, dumping event logs, and more.
 An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
-[Remote Desktop Connection Manager](rdcman.md)
-*v2.8 (June 22, 2021)*
+[RDCMan](rdcman.md)  
+*v2.8 (June 22, 2021)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
