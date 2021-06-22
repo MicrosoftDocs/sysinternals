@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 05/25/2021
+ms.date: 06/22/2021
 ---
 
 # ![Windows icon](media/index/Windows_logo_46x50px.png) Windows Sysinternals
@@ -22,6 +22,11 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 Sysinternals Live is a service that enables you to execute Sysinternals tools directly from the Web without hunting for and manually downloading them. Simply enter a tool's Sysinternals Live path into Windows Explorer or a command prompt as live.sysinternals.com/&lt;toolname&gt; or  \\\\live.sysinternals.com\tools\\&lt;toolname&gt;.
 
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
+
+### What's New (June 22, 2021)
+
+- [RDCMan v2.8](~/downloads/rdcman.md)
+RDCMan, a utility for managing multiple remote desktop connections, is now part of the Sysinternals family of tools!
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
 
@@ -110,10 +115,3 @@ Sigcheck, a flexible tool for showing file versions, file signatures, and certif
 
 - [Sysinternals June 24 Update Video](https://youtu.be/HCZlJDKUqn0)
 Mark Russinovich covers what’s new in this update, with demos of Sysmon’s alternate data stream content capture and new features in Sigcheck.
-
-### What's New (April 28, 2020) ###
-  - [Sysmon v11.0](~/downloads/sysmon.md)
-This major update to Sysmon includes file delete monitoring and archive to help responders capture attacker tools, adds an option to disable reverse DNS lookup, replaces empty fields with ‘-‘ to work around a WEF bug, fixes an issue that caused some ProcessAccess events to drop, and doesn’t hash main data streams that are marked as being stored in the cloud.
-
-  - [Sysinternals April 27 Update Video](https://www.youtube.com/watch?v=_MUP4tgdM7s)
-    Mark Russinovich covers what’s new in this update, with a demo of Sysmon’s new file delete monitoring and capture capability.

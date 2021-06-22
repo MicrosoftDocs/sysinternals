@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 06/01/2021
+ms.date: 06/22/2021
 ---
 
 # Sysinternals Utilities Index
@@ -19,7 +19,7 @@ Sysinternals Utilities for Nano Server in a single download.
 Sysinternals Utilities for ARM64 in a single download.
 
 [AccessChk](accesschk.md)  
-*v6.13 (October 15, 2020)*  
+*v6.14 (June 22, 2021)*  
 AccessChk is a command-line tool for viewing the effective permissions
 on files, registry keys, services, processes, kernel objects, and more.
 
@@ -226,7 +226,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.82 (June 1, 2021)*  
+*v3.83 (June 22, 2021)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -293,6 +293,10 @@ remotely, rebooting computers, dumping event logs, and more.
 An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
+[Remote Desktop Connection Manager](rdcman.md)
+*v2.8 (June 22, 2021)*
+Manage multiple remote desktop connections.
+
 [RegDelNull](regdelnull.md)  
 *v1.11 (July 4, 2016)*  
 Scan for and delete Registry keys that contain embedded null-characters
@@ -331,7 +335,7 @@ digitally signed.
 Reveal NTFS alternate streams.
 
 [Strings](strings.md)  
-*v2.53 (July 4, 2016)*  
+*v2.54 (June 22, 2021)*  
 Search for ANSI and UNICODE strings in binary images.
 
 [Sync](sync.md)  
@@ -339,11 +343,11 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v13.21 (June 1, 2021)*  
+*v13.22 (June 22, 2021)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
-*v4.12 (June 1, 2021)*  
+*v4.13 (June 22, 2021)*  
 Active socket viewer.
 
 [VMMap](vmmap.md)  

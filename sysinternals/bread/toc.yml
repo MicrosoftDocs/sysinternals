@@ -268,6 +268,9 @@
         - name: PsShutdown
           tocHref: /sysinternals/downloads/psshutdown/
           topicHref: /sysinternals/downloads/psshutdown
+        - name: RDCMan
+          tocHref: /sysinternals/downloads/rdcman/
+          topicHref: /sysinternals/downloads/rdcman
         - name: RegDelNull
           tocHref: /sysinternals/downloads/regdelnull/
           topicHref: /sysinternals/downloads/regdelnull
