@@ -23,12 +23,12 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
+## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
+
 ### What's New (June 22, 2021)
 
 - [RDCMan v2.8](~/downloads/rdcman.md)
 RDCMan, a utility for managing multiple remote desktop connections, is now part of the Sysinternals family of tools!
-
-## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
 
 ### What's New (May 25, 2021)
 
