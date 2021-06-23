@@ -9,7 +9,7 @@ ms.date: 05/26/2021
 
 - Volume 1
   - [Number 1 - April 14, 1999](v01n01.md)
-  - Number 2 - May 15, 1999
+  - [Number 2 - May 15, 1999](v01n02.md)
   - Number 3 - June 19, 1999
   - Number 4 - August 5, 1999
   - Number 5 - October 12, 1999
