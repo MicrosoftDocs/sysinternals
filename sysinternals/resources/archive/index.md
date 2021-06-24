@@ -5,7 +5,7 @@ description: These are the late 1990s - early 2000s Sysinternals newsletters wri
 ms.date: 05/26/2021
 ---
 
-# Sysinternals Newsletter Archives
+# Sysinternals Newsletter Archive
 
 - Volume 1
   - [Number 1 - April 14, 1999](v01n01.md)
