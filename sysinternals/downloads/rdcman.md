@@ -2,14 +2,14 @@
 TOCTitle: Remote Desktop Connection Manager
 title: Remote Desktop Connection Manager
 description: Manage multiple remote desktop connections.
-ms.date: 06/22/2021
+ms.date: 06/24/2021
 ---
 
-# Remote Desktop Connection Manager v2.8
+# Remote Desktop Connection Manager v2.81
 
 **By Julian Burger**
 
-Published: June 22, 2021
+Published: June 24, 2021
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(401 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RDCMan.exe).
