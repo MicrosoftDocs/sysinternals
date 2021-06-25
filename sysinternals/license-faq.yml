@@ -3,7 +3,7 @@ metadata:
   TOCTitle: Licensing FAQ
   title: Sysinternals Licensing FAQ
   description: Answers for common licensing questions.
-  ms:mtpsurl:  'https://technet.microsoft.com/Bb847944(v=MSDN.10)'
+  ms:mtpsurl: ""
   ms.date: "09/28/2009"
     
 title: Sysinternals Licensing FAQ
@@ -12,6 +12,7 @@ summary: |
   
 
 sections:
+  - name: Ignored
     questions:
       - question: |
           How many copies of Sysinternals utilities may I freely load or use on computers owned by my company?
