@@ -24,9 +24,9 @@ password, Windows uses the credentials you enter with Autologon, which
 are encrypted in the Registry, to log on the specified user
 automatically.
 
-**Note:** Although the password is encrypted in the registry as an LSA secret, a user with administrative rights can easily retrieve and decrypt them.
-
-See also: https://docs.microsoft.com/windows/win32/secauthn/protecting-the-automatic-logon-password
+[!WARNING]
+Although the password is encrypted in the registry as an *LSA secret*, a user with administrative rights can easily retrieve and decrypt them.
+(For more information see [Protecting the Automatic Logon Password](../windows/win32/secauthn/protecting-the-automatic-logon-password/) )
 
 *Autologon* is easy enough to use. Just run autologon.exe, fill in the
 dialog, and hit Enable. The next time the system starts, Windows will try to use the entered credentials to log on the user at the console. Note that Autologon does not verify the submitted credentials, nor does it verify that the specified user account is allowed to log on to the computer.
