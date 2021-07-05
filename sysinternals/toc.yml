@@ -196,7 +196,9 @@
       href: resources/troubleshooting-book.md
     - name: Inside Native Applications
       href: resources/inside-native-applications.md
+    - name: Newsletter Archive
+      href: resources/archive/index.md
   - name: Software License Terms
     href: license-terms.md
   - name: Licensing FAQ
-    href: license-faq.md
+    href: license-faq.yml
