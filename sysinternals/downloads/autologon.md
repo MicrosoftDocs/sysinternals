@@ -25,7 +25,7 @@ are encrypted in the Registry, to log on the specified user
 automatically.
 
 [!WARNING]
-Although the password is encrypted in the registry as an *LSA secret*, a user with administrative rights can easily retrieve and decrypt them.
+Although the password is encrypted in the registry as an *LSA secret*, a user with administrative rights can easily retrieve and decrypt it.
 (For more information see [Protecting the Automatic Logon Password](/windows/win32/secauthn/protecting-the-automatic-logon-password/) )
 
 *Autologon* is easy enough to use. Just run autologon.exe, fill in the
