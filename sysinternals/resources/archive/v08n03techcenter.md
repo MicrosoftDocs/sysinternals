@@ -5,6 +5,7 @@ description: v08n03techcenter of the late 1990s - early 2000s Sysinternals newsl
 archive.url: https://web.archive.org/web/20070222014636/http://blogs.technet.com/sysinternals/archive/2006/11/06/new-sysinternals-techcenter.aspx
 ms.date: 05/26/2021
 ---
+[[Newsletters Archive ^]](index.md) [[< Volume 8, Number 2]](v08n02migration.md) [[Volume 8, Number 4 >]](v08n04procmon.md)
 
 # New! Sysinternals TechCenter
 
@@ -61,3 +62,5 @@ We hope you’ll be pleased with some couple new features that we’ve added to 
 3. In order to summarize the changes we’ve made to the licensing terms, a Licensing FAQ page has been created.
 
 Published Monday, November 06, 2006 3:33 PM by ottoh
+
+[[Newsletters Archive ^]](index.md) [[< Volume 8, Number 2]](v08n02migration.md) [[Volume 8, Number 4 >]](v08n04procmon.md)

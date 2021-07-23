@@ -5,6 +5,7 @@ description: v08n04procmon of the late 1990s - early 2000s Sysinternals newslett
 archive.url: https://web.archive.org/web/20070222015152/http://blogs.technet.com/sysinternals/archive/2006/11/08/process-montor-v1-01-and-web-site-updates.aspx
 ms.date: 05/26/2021
 ---
+[[Newsletters Archive ^]](index.md) [[< Volume 8, Number 3]](v08n03techcenter.md)
 
 # Process Monitor (v1.01) and Web Site Updates
 
@@ -48,3 +49,5 @@ Thanks for all the feedback and help finding issues with this new site! Here's w
 - Stop links on the left nav bar from creating a new browser window
 
 Published Wednesday, November 08, 2006 3:28 PM by ottoh
+
+[[Newsletters Archive ^]](index.md) [[< Volume 8, Number 3]](v08n03techcenter.md)

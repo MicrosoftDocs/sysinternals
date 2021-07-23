@@ -5,6 +5,7 @@ description: v07n01special of the late 1990s - early 2000s Sysinternals newslett
 archive.url: https://web.archive.org/web/20070707115800/http://blogs.technet.com/sysinternals/archive/2005/04/11/452827.aspx
 ms.date: 05/26/2021
 ---
+[[Newsletters Archive ^]](index.md) [[< Volume 7, Number 1]](v07n01.md) [[Volume 7, Number 2 >]](v07n02.md)
 
 # The Systems Internals Newsletter Volume 7, Number 1 Special
 
@@ -137,3 +138,5 @@ To register, visit http<nolink>://www.sysinternals.com/troubleshoot.shtml
 Thank you for reading the Sysinternals Newsletter.
 
 Published Monday, April 11, 2005 4:37 PM by ottoh
+
+[[Newsletters Archive ^]](index.md) [[< Volume 7, Number 1]](v07n01.md) [[Volume 7, Number 2 >]](v07n02.md)

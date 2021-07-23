@@ -5,6 +5,7 @@ description: v08n02migration of the late 1990s - early 2000s Sysinternals newsle
 archive.url: https://web.archive.org/web/20071002020343/http://blogs.technet.com/sysinternals/archive/2006/10/30/sysinternals-site-migration.aspx
 ms.date: 05/26/2021
 ---
+[[Newsletters Archive ^]](index.md) [[< Volume 8, Number 1]](v08n01.md) [[Volume 8, Number 3 >]](v08n03techcenter.md)
 
 # Sysinternals Site Migration
 
@@ -46,3 +47,5 @@ Forum: The Forum will be the last site component to migrate due to its complexit
 Source Code: The number of source code downloads didn’t justify the migration, support, and possible integration problems it might cause with other Windows components down the road.
 
 Published Monday, October 30, 2006 11:32 AM by ottoh
+
+[[Newsletters Archive ^]](index.md) [[< Volume 8, Number 1]](v08n01.md) [[Volume 8, Number 3 >]](v08n03techcenter.md)
