@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 06/24/2021
+ms.date: 07/27/2021
 ---
 
 # Sysinternals Utilities Index
@@ -48,7 +48,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v13.100 (April 23, 2021)*  
+*v14.0 (July 27, 2021)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -212,7 +212,7 @@ shows you a portion of the data being sent and received. Version 3.x has
 powerful new UI enhancements and advanced filtering capabilities.
 
 [ProcDump](procdump.md)  
-*v10.0 (September 17, 2020)*  
+*v10.1 (July 27, 2021)*  
 This command-line utility is aimed at capturing process dumps of
 otherwise difficult to isolate and reproduce CPU spikes. It also serves
 as a general process dump creation utility and can also monitor and
@@ -294,7 +294,7 @@ An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v2.81 (June 24, 2021)*  
+*v2.82 (July 27, 2021)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
@@ -326,7 +326,7 @@ Launch programs as a different user via a convenient shell context-menu
 entry.
 
 [Sigcheck](sigcheck.md)  
-*v2.81 (May 25, 2021)*  
+*v2.82 (July 27, 2021)*  
 Dump file version information and verify that images on your system are
 digitally signed.
 
@@ -343,7 +343,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v13.22 (June 22, 2021)*  
+*v13.23 (July 27, 2021)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  

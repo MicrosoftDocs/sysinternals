@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 06/22/2021
+ms.date: 07/27/2021
 ---
 
 # ![Windows icon](media/index/Windows_logo_46x50px.png) Windows Sysinternals
@@ -24,6 +24,14 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
+
+### What's New (July 27, 2021)
+
+- [Autoruns v14.0](~/downloads/autoruns.md)
+Autoruns, a utility for monitoring startup items, is the latest Sysinternals tool to receive a UI overhaul including a dark theme.
+
+- [ProcDump v10.1](~/downloads/procdump.md)
+This update to ProcDump, a command-line utility for generating memory dumps from running processes, adds a new option (-dc) for specifying a dumpfile comment and supports "triage" dumps (-mt).
 
 ### What's New (June 22, 2021)
 
@@ -106,11 +114,12 @@ This release of Procdump, a flexible tool for manual and trigger-based process d
 - [ARM64 ports](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip)
 In addition, several tools have been newly ported to and are now available for ARM64. These include: AdInsight v1.2, AutoLogon v3.1, Autoruns v13.98, ClockRes v2.1, DebugView v4.9, DiskExt v1.2, FindLinks v1.1, Handle v4.22, Hex2Dec v1.1, Junction v1.07, PendMoves v1.02, PipeList v1.02, Procdump v10.0, Process Explorer v16.32, RegDelNull v1.11, RU v1.2, Sigcheck v2.8, Streams v1.6, Sync v2.2, VMMap v3.26, WhoIs v1.21 and ZoomIt v4.52. Download all ARM64 tools in a single download with the [Sysinternals Suite for ARM64](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip).
 
-### What's New (June 24, 2020) ###
-  - [Sysmon v11.10](~/downloads/sysmon.md)
+### What's New (June 24, 2020)
+
+- [Sysmon v11.10](~/downloads/sysmon.md)
 This update to Sysmon now captures stream content for alternate data streams into logged events, which is useful for investigating downloads tagged with ‘Mark of the Web’ (MOTW) streams, introduces an ‘is-any’ filter condition, and fixes several bugs.
 
-  - [Sigcheck v2.80](~/downloads/sigcheck.md)
+- [Sigcheck v2.80](~/downloads/sigcheck.md)
 Sigcheck, a flexible tool for showing file versions, file signatures, and certificate stores, introduces a -p option for specifying a trust GUID for signature verification, and it now shows certificate signing chains even when a certificate in the chain is untrusted.
 
 - [Sysinternals June 24 Update Video](https://youtu.be/HCZlJDKUqn0)
