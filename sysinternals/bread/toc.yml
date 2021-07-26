@@ -77,9 +77,6 @@
         - name: NTFSInfo
           tocHref: /sysinternals/downloads/ntfsinfo/
           topicHref: /sysinternals/downloads/ntfsinfo
-        - name: PageDefrag
-          tocHref: /sysinternals/downloads/pagedefrag/
-          topicHref: /sysinternals/downloads/pagedefrag
         - name: PendMoves
           tocHref: /sysinternals/downloads/pendmoves/
           topicHref: /sysinternals/downloads/pendmoves
