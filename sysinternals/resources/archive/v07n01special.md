@@ -6,6 +6,7 @@ archive.url: https://web.archive.org/web/20070707115800/http://blogs.technet.com
 ms.date: 05/26/2021
 ---
 [[Newsletters Archive ^]](index.md) [[< Volume 7, Number 1]](v07n01.md) [[Volume 7, Number 2 >]](v07n02.md)
+<br/><br/>
 
 # The Systems Internals Newsletter Volume 7, Number 1 Special
 
