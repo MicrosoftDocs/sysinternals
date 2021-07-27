@@ -4,16 +4,16 @@ title: ProcDump
 description: This command-line utility is aimed at capturing process dumps of otherwise difficult to isolate and reproduce CPU spikes.
 ms:assetid: 'f4201936-3609-4255-8d1e-93601e34aa34'
 ms:mtpsurl: 'https://technet.microsoft.com/Dd996900(v=MSDN.10)'
-ms.date: 09/17/2020
+ms.date: 07/27/2021
 ---
 
-# ProcDump v10.0
+# ProcDump v10.1
 
 **By Mark Russinovich and Andrew Richards**
 
-Published: 09/17/2020
+Published: 07/27/2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(659 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(679 KB)**
 
 [**Download ProcDump for Linux (GitHub)**](https://github.com/Microsoft/ProcDump-for-Linux)
 
@@ -113,22 +113,28 @@ procdump.exe -u
 | **-?**    | Use -? -e to see example command lines.                                                                                                                                                                                                                                                                                                                                        |
 
 If you omit the dump file name, it defaults to
-&lt;processname&gt;\_&lt;datetime&gt;.dmp.
+`<processname>_<datetime>.dmp`.
 
-Use the -accepteula command line option to automatically accept the
+Use the `-accepteula` command line option to automatically accept the
 Sysinternals license agreement.
 
 **Automated Termination:**
-Setting an event with name "ProcDump-&lt;PID&gt;" is the same as typing Ctrl+C to gracefully terminate ProcDump
+
+Setting an event with name `ProcDump-<PID>` is the same as typing Ctrl+C to gracefully terminate ProcDump
 
 **Filename:**
-      Default dump filename: PROCESSNAME_YYMMDD_HHMMSS.dmp
-      The following substitutions are supported:
-      &nbsp; &nbsp; &nbsp; PROCESSNAME &nbsp; &nbsp;  &nbsp;Process Name
-      &nbsp; &nbsp; &nbsp; Process ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;PID
-      &nbsp; &nbsp; &nbsp; EXCEPTIONCODE  &nbsp; Exception Code
-      &nbsp; &nbsp; &nbsp; YYMMDD &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; Year/Month/Day
-      &nbsp; &nbsp; &nbsp; HHMMSS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; Hour/Minute/Second
+
+Default dump filename: `PROCESSNAME_YYMMDD_HHMMSS.dmp`
+
+The following substitutions are supported:
+
+| Substitution  | Explanation        |
+| ------------- | -----------------  |
+| PROCESSNAME   | Process Name       |
+| Process ID    | PID                |
+| EXCEPTIONCODE | Exception Code     |
+| YYMMDD        | Year/Month/Day     |
+| HHMMSS        | Hour/Minute/Second |
 
 ## Examples
 
@@ -214,14 +220,14 @@ See a list of example command lines (the examples are listed above):
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(659 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(679 KB)**
 
 [**Download ProcDump for Linux (GitHub)**](https://github.com/Microsoft/ProcDump-for-Linux)
 
 **Runs on:**
 
-- Client: Windows Vista and higher.
-- Server: Windows Server 2008 and higher.
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.
 
 ## Learn More
 

@@ -4,7 +4,7 @@ title: File and Disk Utilities
 description: Windows Sysinternals file and disk utilities
 ms:assetid: '17988fd8-ed7b-4f90-95bd-e4d23baf441c'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545046(v=MSDN.10)'
-ms.date: 07/22/2016
+ms.date: 07/27/2021
 ---
 # Sysinternals File and Disk Utilities
 
@@ -68,9 +68,6 @@ can be useful for cleaning stubborn or in-use malware files.
 Use NTFSInfo to see detailed information about NTFS volumes,
 including the size and location of the Master File Table (MFT) and
 MFT-zone, as well as the sizes of the NTFS meta-data files.
-
-[PageDefrag](pagedefrag.md)  
-Defragment the Windows paging file and Registry hives.
 
 [PendMoves](pendmoves.md)  
 See what files are scheduled for delete or rename the next time the
