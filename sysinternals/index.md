@@ -27,9 +27,6 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ### What's New (July 27, 2021)
 
-- [Autoruns v14.0](~/downloads/autoruns.md)
-Autoruns, a utility for monitoring startup items, is the latest Sysinternals tool to receive a UI overhaul including a dark theme.
-
 - [ProcDump v10.1](~/downloads/procdump.md)
 This update to ProcDump, a command-line utility for generating memory dumps from running processes, adds a new option (-dc) for specifying a dumpfile comment and supports "triage" dumps (-mt).
 
