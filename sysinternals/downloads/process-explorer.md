@@ -53,8 +53,9 @@ into the way Windows and applications work.
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
 
 **Runs on:**
-- Client: Windows Vista and higher (Including IA64).
-- Server: Windows Server 2008 and higher (Including IA64).
+
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.
 
 ## Installation
 

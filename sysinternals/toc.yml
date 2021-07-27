@@ -34,8 +34,6 @@
         href: downloads/pendmoves.md
       - name: NTFSInfo
         href: downloads/ntfsinfo.md
-      - name: PageDefrag
-        href: downloads/pagedefrag.md
       - name: PendMoves
         href: downloads/pendmoves.md
       - name: RegMon
@@ -196,7 +194,9 @@
       href: resources/troubleshooting-book.md
     - name: Inside Native Applications
       href: resources/inside-native-applications.md
+    - name: Newsletters Archive
+      href: resources/archive/index.md
   - name: Software License Terms
     href: license-terms.md
   - name: Licensing FAQ
-    href: license-faq.md
+    href: license-faq.yml
