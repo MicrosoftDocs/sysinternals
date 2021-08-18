@@ -27,6 +27,9 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ### What's New (August 18, 2021)
 
+[Candid talk from the man behind your favorite Windows tools](https://www.hpe.com/us/en/insights/articles/candid-talk-from-the-man-behind-your-favorite-windows-tools-2107.html)  
+Mark talks with Larry Seltzer about the history and future of Sysinternals.
+
 - [Autoruns](~/downloads/autoruns.md)  
 Autoruns, a utility for monitoring startup items, is the latest Sysinternals tool to receive a UI overhaul including a dark theme.
 
