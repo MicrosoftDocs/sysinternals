@@ -4,7 +4,7 @@ title:  Windows Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 07/27/2021
+ms.date: 08/18/2021
 ---
 
 # ![Windows icon](media/index/Windows_logo_46x50px.png) Windows Sysinternals
@@ -25,6 +25,14 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
 
+### What's New (August 18, 2021)
+
+[Candid talk from the man behind your favorite Windows tools](https://www.hpe.com/us/en/insights/articles/candid-talk-from-the-man-behind-your-favorite-windows-tools-2107.html)  
+Mark talks with Larry Seltzer about the history and future of Sysinternals.
+
+- [Autoruns](~/downloads/autoruns.md)  
+Autoruns, a utility for monitoring startup items, is the latest Sysinternals tool to receive a UI overhaul including a dark theme.
+
 ### What's New (July 27, 2021)
 
 - [ProcDump v10.1](~/downloads/procdump.md)  
@@ -33,7 +41,7 @@ This update to ProcDump, a command-line utility for generating memory dumps from
 ### What's New (June 22, 2021)
 
 - [RDCMan v2.8](~/downloads/rdcman.md)  
-RDCMan, a utility for managing multiple remote desktop connections, is now part of the Sysinternals family of tools!
+RDCMan, a utility for managing multiple remote desktop connections, is now part of the Sysinternals family of tools! This release fixes CVE-2020-0765, an XML parsing vulnerability.
 
 ### What's New (May 25, 2021)
 
