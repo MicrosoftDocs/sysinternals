@@ -13,7 +13,7 @@ ms.date: 08/18/2021
 
 Published: August 18, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.4 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.5 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Winobj.exe).
 
 ## Introduction
@@ -55,7 +55,7 @@ Object Manager name space, and Mark's October 1997 [WindowsITPro
 Magazine](https://www.windowsitpro.com/) column, "Inside the Object
 Manager", is (of course) an excellent overview.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.4 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.5 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Winobj.exe).
 
 **Runs on:**
