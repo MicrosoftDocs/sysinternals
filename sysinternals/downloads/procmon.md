@@ -63,7 +63,7 @@ options on a live system.
 
 ![Process Monitor screenshot](media/procmon/procmon-main.png)  
 
-![Event Properties screenshot](media/procmon/procmon-proc.png){width=10%}  
+![Event Properties screenshot](media/procmon/procmon-proc.png)  
 
 ## Related Links
 
