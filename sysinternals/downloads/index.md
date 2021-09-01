@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 08/18/2021
+ms.date: 09/01/2021
 ---
 
 # Sysinternals Utilities Index
@@ -48,7 +48,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v14.0 (August 18, 2021)*  
+*v14.01 (September 1, 2021)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
