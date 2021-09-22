@@ -86,5 +86,5 @@ options on a live system.
 
 **Runs on:**
 
-- Client: 8.1 and higher.
+- Client: Windows 8.1 and higher.
 - Server: Windows Server 2012 and higher.
