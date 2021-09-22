@@ -4,17 +4,17 @@ title: Sysinternals Suite
 description: The Windows Sysinternals troubleshooting Utilities have been rolled up into a single suite of tools.
 ms:assetid: '0e18b180-9b7a-4c49-8120-c47c5a693683' 
 ms:mtpsurl: 'https://technet.microsoft.com/Bb842062(v=MSDN.10)' 
-ms.date: 08/18/2021
+ms.date: 09/22/2021
 ---
 
 # Sysinternals Suite
   
 **By Mark Russinovich**  
-Updated: August 18, 2021
+Updated: September 22, 2021
 
-[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (42.5 MB)  
+[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (41.8 MB)  
 [**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (8.4 MB)  
-[**Download Sysinternals Suite for ARM64**](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip) (11 MB)  
+[**Download Sysinternals Suite for ARM64**](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip) (10.8 MB)  
 
 ## Introduction
 
