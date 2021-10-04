@@ -294,7 +294,7 @@ RDCMan can encrypt the passwords stored in files either with the local user's cr
 Personal certificates of the current user which have a private key are available for encryption. You can create such a certificate in the following manner:
 
 ```powershell
-New-SelfSignedCertificate -KeySpec KeyExchange -KeyExportPolicy Exportable -HashAlgorithm SHA1 -KeyLength 2048 -CertStoreLocation "cert:\CurrentUser\My" -Subject "MyRDCManCert"
+New-SelfSignedCertificate -KeySpec KeyExchange -KeyExportPolicy Exportable -HashAlgorithm SHA1 -KeyLength 2048 -CertStoreLocation "cert:\CurrentUser\My" -Subject "CN=MyRDCManCert"
 ```
 
 This will create a certificate called "`MyRDCManCert`" in the Personal Certificates store of the current user. To install this cert on another computer, you must export it with the private key.
