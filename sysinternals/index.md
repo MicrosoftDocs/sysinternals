@@ -72,16 +72,3 @@ This update to Sysmon adds a FileDeleteDetected rule that logs when files are de
 
 - Theme Engine  
 This update to the theme engine uses a custom title bar in dark mode, similar to MS Office black theme. [WinObj](~/downloads/winobj.md) and [TCPView](~/downloads/tcpview.md) have been updated. Expect more tools using the theme engine in the near future!
-
-### What's New (March 23, 2021)
-
-- [TCPView v4.0](~/downloads/tcpview.md)  
-This major update to TCPView adds flexible filtering, support for searching, and now shows the Windows service that owns an endpoint. It is also the second Sysinternals tool to feature the new theme engine with dark mode.
-
-### What's New (February 22, 2021)
-
-- [WinObj v3.0](~/downloads/winobj.md)  
-This major update to WinObj adds dynamic updates, quick search, full search, properties for more object types, as well as performance improvements. It's also the first Sysinternals tool to feature a dark theme.
-
-- [Coreinfo v3.52](~/downloads/coreinfo.md)  
-This update to CoreInfo adds reporting for CET (shadow stack) support.
