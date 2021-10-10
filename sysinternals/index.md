@@ -7,11 +7,6 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
 ms.date: 08/18/2021
 ---
 
-## Sysinternals@25: a special anniversary event
-[![Sysinternals@25](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/313038iD477C90EF4D62E81)](https://aka.ms/sysinternals25)
-https://aka.ms/sysinternals25
-
----
 # ![Windows icon](media/index/Windows_logo_46x50px.png) Windows Sysinternals
 The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows systems and applications.
 -   Read the official guide to the Sysinternals tools, [Troubleshooting with the Windows Sysinternals Tools](~/resources/troubleshooting-book.md)
@@ -21,6 +16,11 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 -   Read [Mark’s Blog](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/bg-p/Windows-Blog-Archive/label-name/Mark%20Russinovich) which highlight use of the tools to solve real problems
 -   Check out the Sysinternals [Learning Resources](~/resources/index.md) page
 -   Post your questions in the [Sysinternals Forum](https://aka.ms/sysint-forums)
+
+---
+## Sysinternals@25: a special anniversary event
+[![Sysinternals@25](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/313038iD477C90EF4D62E81)](https://aka.ms/sysinternals25)
+https://aka.ms/sysinternals25
 
 ---
 ## Sysinternals Live ##
