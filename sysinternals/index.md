@@ -19,7 +19,7 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 
 ---
 ## Sysinternals@25: a special anniversary event
-[![Sysinternals@25](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/313038iD477C90EF4D62E81)](https://aka.ms/sysinternals25)
+[![Sysinternals@25](media/index/sysinternals25_banner.png)](https://aka.ms/sysinternals25)
 https://aka.ms/sysinternals25
 
 ---
