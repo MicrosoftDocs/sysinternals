@@ -18,11 +18,10 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 -   Post your questions in the [Sysinternals Forum](https://aka.ms/sysint-forums)
 
 ---
-## Sysinternals@25: a special anniversary event
+## Sysinternals@25: <br>A special anniversary event
 [![Sysinternals@25](media/index/sysinternals25_banner.png)](https://aka.ms/sysinternals25)
 https://aka.ms/sysinternals25
 
----
 ## Sysinternals Live ##
 Sysinternals Live is a service that enables you to execute Sysinternals tools directly from the Web without hunting for and manually downloading them. Simply enter a tool's Sysinternals Live path into Windows Explorer or a command prompt as live.sysinternals.com/&lt;toolname&gt; or  \\\\live.sysinternals.com\tools\\&lt;toolname&gt;.
 
