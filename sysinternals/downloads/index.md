@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 09/30/2021
+ms.date: 10/12/2021
 ---
 
 # Sysinternals Utilities Index
@@ -24,7 +24,7 @@ AccessChk is a command-line tool for viewing the effective permissions
 on files, registry keys, services, processes, kernel objects, and more.
 
 [AccessEnum](accessenum.md)  
-*v1.32 (November 1, 2006)*  
+*v1.33 (October 12, 2021)*  
 This simple yet powerful security tool shows you who has what access to
 directories, files and Registry keys on your systems. Use it to find
 holes in your permissions.
@@ -48,7 +48,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v14.03 (September 30, 2021)*  
+*v14.04 (October 12, 2021)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -67,7 +67,7 @@ simulated reboots as well (complete with CHKDSK), and works on Windows
 NT 4, Windows 2000, Windows XP, Server 2003 and Windows 95 and 98.
 
 [CacheSet](cacheset.md)  
-*v1.0 (November 1, 2006)*  
+*v1.01 (October 12, 2021)*  
 CacheSet is a program that allows you to control the Cache Manager's
 working set size using functions provided by NT. It's compatible with
 all versions of NT.
@@ -78,7 +78,7 @@ View the resolution of the system clock, which is also the maximum timer
 resolution.
 
 [Contig](contig.md)  
-*v1.8 (July 4, 2016)*  
+*v1.81 (October 12, 2021)*  
 Wish you could quickly defragment your frequently used files? Use Contig
 to optimize individual files, or to create new files that are
 contiguous.
@@ -106,13 +106,13 @@ It allows for viewing and recording of debug session output on your
 local machine or across the Internet without an active debugger.
 
 [Desktops](desktops.md)  
-*v2.0 (October 17, 2012)*  
+*v2.01 (October 12, 2021)*  
 This new utility enables you to create up to four virtual desktops and
 to use a tray interface or hotkeys to preview what’s on each desktop and
 easily switch between them.
 
 [Disk2vhd](disk2vhd.md)  
-*v2.01 (January 21, 2014)*  
+*v2.02 (October 12, 2021)*  
 Disk2vhd simplifies the migration of physical systems into virtual
 machines (p2v.md).
 
@@ -121,7 +121,7 @@ machines (p2v.md).
 Display volume disk-mappings.
 
 [Diskmon](diskmon.md)  
-*v2.01 (November 1, 2006)*  
+*v2.02 (October 12, 2021)*  
 This utility captures all hard disk activity or acts like a software
 disk activity light in your system tray.
 
@@ -134,7 +134,7 @@ Graphical disk sector utility.
 View disk usage by directory.
 
 [EFSDump](efsdump.md)  
-*v1.02 (November 1, 2006)*  
+*v1.03 (October 12, 2021)*  
 View information for encrypted files.
 
 [FindLinks](findlinks.md)  
@@ -172,7 +172,7 @@ loaded and their version numbers.
 Use Microsoft kernel debuggers to examine a live system.
 
 [LoadOrder](loadorder.md)  
-*v1.01 (July 4, 2016)*  
+*v1.02 (October 12, 2021)*  
 See the order in which devices are loaded on your WinNT/2K system.
 
 [LogonSessions](logonsessions.md)  
@@ -226,7 +226,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.85 (September 22, 2021)*  
+*v3.86 (October 12, 2021)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -275,7 +275,7 @@ Changes account passwords.
 View and control services.
 
 [PsShutdown](psshutdown.md)  
-*v2.52 (December 4, 2006)*  
+*v2.53 (October 12, 2021)*  
 Shuts down and optionally reboots a computer.
 
 [PsSuspend](pssuspend.md)  
@@ -283,7 +283,7 @@ Shuts down and optionally reboots a computer.
 Suspend and resume processes.
 
 [PsTools](pstools.md)  
-*v2.47 (March 23, 2021)*  
+*v2.48 (October 12, 2021)*  
 The PsTools suite includes command-line utilities for listing the
 processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
@@ -307,7 +307,7 @@ that are otherwise undeleteable by standard Registry-editing tools.
 View the registry space usage for the specified registry key.
 
 [RegJump](regjump.md)  
-*v1.1 (April 20, 2015)*  
+*v1.11 (October 12, 2021)*  
 Jump to the registry path you specify in Regedit.
 
 [SDelete](sdelete.md)  
@@ -316,12 +316,12 @@ Securely overwrite your sensitive files and cleanse your free space of
 previously deleted files using this DoD-compliant secure delete program.
 
 [ShareEnum](shareenum.md)  
-*v1.6 (November 1, 2006)*  
+*v1.61 (October 12, 2021)*  
 Scan file shares on your network and view their security settings to
 close security holes.
 
 [ShellRunas](shellrunas.md)  
-*v1.01 (February 28, 2008)*  
+*v1.02 (October 12, 2021)*  
 Launch programs as a different user via a convenient shell context-menu
 entry.
 
@@ -347,7 +347,7 @@ Flush cached data to disk.
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
-*v4.15 (September 22, 2021)*  
+*v4.16 (October 12, 2021)*  
 Active socket viewer.
 
 [VMMap](vmmap.md)  
@@ -363,7 +363,7 @@ Set Volume ID of FAT or NTFS drives.
 See who owns an Internet address.
 
 [WinObj](winobj.md)  
-*v3.12 (September 22, 2021)*  
+*v3.13 (October 12, 2021)*  
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  

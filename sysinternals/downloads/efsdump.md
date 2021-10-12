@@ -4,16 +4,16 @@ title: EFSDump
 description: View information for encrypted files.
 ms:assetid: 'e6c7175a-2edd-48d6-bf40-d701aa597b01'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896735(v=MSDN.10)'
-ms.date: 11/01/2006
+ms.date: 10/12/2021
 ---
 
-# EFSDump v1.02
+# EFSDump v1.03
 
 **By Mark Russinovich**
 
-Published: November 1, 2006
+Published: October 12, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/EFSDump.zip) [**Download EFSDump**](https://download.sysinternals.com/files/EFSDump.zip) **(39 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/EFSDump.zip) [**Download EFSDump**](https://download.sysinternals.com/files/EFSDump.zip) **(161 KB)**
 
 ## Introduction
 
@@ -30,7 +30,7 @@ to show you what accounts are authorized to access encrypted files.
 
 *EFSDump* takes wildcards e.g. 'efsdump \*.txt'.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/EFSDump.zip) [**Download EFSDump**](https://download.sysinternals.com/files/EFSDump.zip) **(39 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/EFSDump.zip) [**Download EFSDump**](https://download.sysinternals.com/files/EFSDump.zip) **(161 KB)**
 
 **Runs on:**
 

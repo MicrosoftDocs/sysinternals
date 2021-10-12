@@ -4,16 +4,16 @@ title: DiskMon for Windows
 description: This utility captures all hard disk activity or acts like a software disk activity light in your system tray.
 ms:assetid: 'f9e26786-be46-4276-a073-8764d4e9fba4'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896646(v=MSDN.10)'
-ms.date: 11/01/2006
+ms.date: 10/12/2021
 ---
 
-# DiskMon for Windows v2.01
+# DiskMon for Windows v2.02
 
 **By Mark Russinovich**
 
-Published: November 1, 2006
+Published: October 12, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DiskMon.zip) [**Download Diskmon**](https://download.sysinternals.com/files/DiskMon.zip) **(80 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DiskMon.zip) [**Download Diskmon**](https://download.sysinternals.com/files/DiskMon.zip) **(488 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Diskmon.exe).
 
 ## Introduction
@@ -56,6 +56,6 @@ will be kept in the GUI (0 signifies no limit).
 Microsoft Platform SDK and the SDK contains source code to TraceDmp, on
 which *DiskMon* is based.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DiskMon.zip) [**Download Diskmon**](https://download.sysinternals.com/files/DiskMon.zip) **(80 KB)** 
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DiskMon.zip) [**Download Diskmon**](https://download.sysinternals.com/files/DiskMon.zip) **(488 KB)** 
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Diskmon.exe).
