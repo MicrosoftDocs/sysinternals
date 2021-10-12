@@ -4,16 +4,16 @@ title: ShellRunas
 description: Launch programs as a different user via a convenient shell context-menu entry.
 ms:assetid: 'd3e6e430-46f4-48ba-8860-4e2daa38024f'
 ms:mtpsurl: 'https://technet.microsoft.com/Cc300361(v=MSDN.10)'
-ms.date: 02/28/2008
+ms.date: 10/12/2021
 ---
 
-# ShellRunas v1.01
+# ShellRunas v1.02
 
 **By Mark Russinovich and Jon Schwartz**
 
-Published: February 28, 2008
+Published: October 12, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShellRunas.zip) [**Download ShellRunas**](https://download.sysinternals.com/files/ShellRunas.zip) **(50 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShellRunas.zip) [**Download ShellRunas**](https://download.sysinternals.com/files/ShellRunas.zip) **(90 KB)**
 
 ## Introduction
 
@@ -45,7 +45,7 @@ shellrunas \[/netonly\] &lt;*program*&gt; \[*arguments*\]**
 |  **/netonly**               |  Use if specified credentials are for remote access only|
 |  **&lt;program&gt;**        |  Runs program with specified credentials and parameters
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShellRunas.zip) [**Download ShellRunas**](https://download.sysinternals.com/files/ShellRunas.zip) **(50 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShellRunas.zip) [**Download ShellRunas**](https://download.sysinternals.com/files/ShellRunas.zip) **(90 KB)**
 
 **Runs on:**
 
