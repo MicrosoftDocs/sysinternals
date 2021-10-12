@@ -13,7 +13,7 @@ ms.date: 10/12/2021
 
 Published: October 12, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DiskMon.zip) [**Download Diskmon**](https://download.sysinternals.com/files/DiskMon.zip) **(80 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DiskMon.zip) [**Download Diskmon**](https://download.sysinternals.com/files/DiskMon.zip) **(488 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Diskmon.exe).
 
 ## Introduction
@@ -56,6 +56,6 @@ will be kept in the GUI (0 signifies no limit).
 Microsoft Platform SDK and the SDK contains source code to TraceDmp, on
 which *DiskMon* is based.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DiskMon.zip) [**Download Diskmon**](https://download.sysinternals.com/files/DiskMon.zip) **(80 KB)** 
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DiskMon.zip) [**Download Diskmon**](https://download.sysinternals.com/files/DiskMon.zip) **(488 KB)** 
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Diskmon.exe).

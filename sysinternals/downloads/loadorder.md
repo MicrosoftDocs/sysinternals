@@ -14,7 +14,7 @@ ms.date: 10/12/2021
 Published: October 12, 2021
 
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(318 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(1.1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/LoadOrd.exe).
 
 ## Introduction
@@ -25,7 +25,7 @@ may actually load in a different order than the one calculated, because
 plug-and-play drivers are loaded on demand during device detection and
 enumeration.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(318 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LoadOrder.zip) [**Download LoadOrder**](https://download.sysinternals.com/files/LoadOrder.zip) **(1.1 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/LoadOrd.exe).
 

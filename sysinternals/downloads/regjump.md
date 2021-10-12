@@ -13,7 +13,7 @@ ms.date: 10/12/2021
 
 Published: October 12, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RegJump.zip) [**Download RegJump**](https://download.sysinternals.com/files/RegJump.zip) **(53 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RegJump.zip) [**Download RegJump**](https://download.sysinternals.com/files/RegJump.zip) **(164 KB)**
 
 ## Introduction
 
@@ -29,4 +29,4 @@ HKEY\_LOCAL\_MACHINE) and abbreviated form (e.g. HKLM).
 
 e.g.: regjump HKLM\\Software\\Microsoft\\Windows
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RegJump.zip) [**Download RegJump**](https://download.sysinternals.com/files/RegJump.zip) **(53 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RegJump.zip) [**Download RegJump**](https://download.sysinternals.com/files/RegJump.zip) **(164 KB)**

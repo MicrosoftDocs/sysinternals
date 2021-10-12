@@ -13,7 +13,7 @@ ms.date: 10/12/2021
 
 Published: October 12, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShareEnum.zip) [**Download ShareEnum**](https://download.sysinternals.com/files/ShareEnum.zip) **(94 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShareEnum.zip) [**Download ShareEnum**](https://download.sysinternals.com/files/ShareEnum.zip) **(483 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ShareEnum.exe).
 
 ## Introduction
@@ -39,7 +39,7 @@ ShareEnum uses **WNetEnumResource** to enumerate domains and the
 computers within them and **NetShareEnum** to enumerate shares on
 computers.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShareEnum.zip) [**Download ShareEnum**](https://download.sysinternals.com/files/ShareEnum.zip) **(94 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShareEnum.zip) [**Download ShareEnum**](https://download.sysinternals.com/files/ShareEnum.zip) **(483 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ShareEnum.exe).
 

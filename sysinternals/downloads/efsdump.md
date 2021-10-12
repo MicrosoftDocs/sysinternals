@@ -13,7 +13,7 @@ ms.date: 10/12/2021
 
 Published: October 12, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/EFSDump.zip) [**Download EFSDump**](https://download.sysinternals.com/files/EFSDump.zip) **(39 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/EFSDump.zip) [**Download EFSDump**](https://download.sysinternals.com/files/EFSDump.zip) **(161 KB)**
 
 ## Introduction
 
@@ -30,7 +30,7 @@ to show you what accounts are authorized to access encrypted files.
 
 *EFSDump* takes wildcards e.g. 'efsdump \*.txt'.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/EFSDump.zip) [**Download EFSDump**](https://download.sysinternals.com/files/EFSDump.zip) **(39 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/EFSDump.zip) [**Download EFSDump**](https://download.sysinternals.com/files/EFSDump.zip) **(161 KB)**
 
 **Runs on:**
 

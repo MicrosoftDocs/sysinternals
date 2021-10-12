@@ -13,7 +13,7 @@ ms.date: 10/12/2021
 
 Published: October 12, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Desktops.zip) [**Download Desktops**](https://download.sysinternals.com/files/Desktops.zip) **(61 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Desktops.zip) [**Download Desktops**](https://download.sysinternals.com/files/Desktops.zip) **(199 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Desktops.exe).
 
 ## Introduction
@@ -57,7 +57,7 @@ Configuration Dialog
 ![Tray Desktop Switch Window](media/desktops/desktops2.png "Tray Desktop Switch Window")  
 Tray Desktop Switch Window
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Desktops.zip) [**Download Desktops**](https://download.sysinternals.com/files/Desktops.zip) **(61 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Desktops.zip) [**Download Desktops**](https://download.sysinternals.com/files/Desktops.zip) **(199 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Desktops.exe).
 
