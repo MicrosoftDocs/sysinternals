@@ -4,13 +4,13 @@ title: AccessEnum
 description: This simple yet powerful security tool shows you who has what access to directories, files and Registry keys on your systems.
 ms:assetid: 'dd3ac121-4a4b-48b4-98a7-8b0dfeda3007'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897332(v=MSDN.10)'
-ms.date: 11/01/2006
+ms.date: 10/12/2021
 ---   
-# AccessEnum v1.32
+# AccessEnum v1.33
 
 **By Mark Russinovich**
 
-Published: November 1, 2006
+Published: October 12, 2021
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/AccessEnum.zip)  [**Download AccessEnum**](https://download.sysinternals.com/files/AccessEnum.zip) **(51 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/AccessEnum.exe).

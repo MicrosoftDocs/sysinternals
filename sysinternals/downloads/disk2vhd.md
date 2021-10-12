@@ -4,14 +4,14 @@ title: Disk2vhd
 description: Disk2vhd simplifies the migration of physical systems into virtual machines.
 ms:assetid: 'd2c9597c-1927-4ddc-9ec1-9e0f33166f90'
 ms:mtpsurl: 'https://technet.microsoft.com/Ee656415(v=MSDN.10)'
-ms.date: 01/21/2014
+ms.date: 10/12/2021
 ---
 
-# Disk2vhd v2.01
+# Disk2vhd v2.02
 
 **By Mark Russinovich**
 
-Published: January 21, 2014
+Published: October 12, 2021
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Disk2vhd.zip) [**Download Disk2vhd**](https://download.sysinternals.com/files/Disk2vhd.zip) **(879 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/disk2vhd.exe).

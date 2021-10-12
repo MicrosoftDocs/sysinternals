@@ -4,14 +4,14 @@ title: ShareEnum
 description: Scan file shares on your network and view their security settings to close security holes.
 ms:assetid: '03257fd3-88a5-44f8-8447-2d0055930c47'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897442(v=MSDN.10)'
-ms.date: 11/01/2006
+ms.date: 10/12/2021
 ---
 
-# ShareEnum v1.6
+# ShareEnum v1.61
 
 **By Mark Russinovich**
 
-Published: November 1, 2006
+Published: October 12, 2021
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ShareEnum.zip) [**Download ShareEnum**](https://download.sysinternals.com/files/ShareEnum.zip) **(94 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ShareEnum.exe).

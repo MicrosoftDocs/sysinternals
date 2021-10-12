@@ -4,14 +4,14 @@ title: RegJump
 description: Jump to the registry path you specify in Regedit.
 ms:assetid: 'ff151201-32cc-4b44-b314-3ccb19171a2a'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb963880(v=MSDN.10)'
-ms.date: 04/20/2015
+ms.date: 10/12/2021
 ---
 
-# RegJump v1.1
+# RegJump v1.11
 
 **By Mark Russinovich**
 
-Published: April 20, 2015
+Published: October 12, 2021
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RegJump.zip) [**Download RegJump**](https://download.sysinternals.com/files/RegJump.zip) **(53 KB)**
 
