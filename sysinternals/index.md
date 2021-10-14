@@ -1,22 +1,21 @@
 ---
-TOCTitle: 'Windows Sysinternals: Documentation, downloads and additional resources'
-title:  Windows Sysinternals | Microsoft Docs
+TOCTitle: 'Sysinternals: Documentation, downloads and additional resources'
+title:  Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
 ms.date: 08/18/2021
 ---
 
-# ![Windows icon](media/index/Windows_logo_46x50px.png) Windows Sysinternals
-The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows systems and applications.
--   Read the official guide to the Sysinternals tools, [Troubleshooting with the Windows Sysinternals Tools](~/resources/troubleshooting-book.md)
+# ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
+The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows systems and applications.  
+  -   Read the official guide to the Sysinternals tools, [Troubleshooting with the Windows Sysinternals Tools](~/resources/troubleshooting-book.md)
 -   Read the [Sysinternals Blog](https://techcommunity.microsoft.com/t5/Sysinternals-Blog/bg-p/Sysinternals-Blog) for a detailed change feed of tool updates
 -   Watch Mark's [Sysinternals Update videos on YouTube](https://www.youtube.com/playlist?list=PLhFhDWFYccZ_GvdJ11NZwaBAhwDCWmni_)
 -   Watch Mark’s top-rated [Case-of-the-Unexplained](~/resources/webcasts.md) troubleshooting presentations and other webcasts
 -   Read [Mark’s Blog](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/bg-p/Windows-Blog-Archive/label-name/Mark%20Russinovich) which highlight use of the tools to solve real problems
 -   Check out the Sysinternals [Learning Resources](~/resources/index.md) page
 -   Post your questions in the [Sysinternals Forum](https://aka.ms/sysint-forums)
-
 ---
 ## Sysinternals@25: <br>A special anniversary event
 [![Sysinternals@25](media/index/sysinternals25_banner.png)](https://aka.ms/sysinternals25)
@@ -29,6 +28,16 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
 
+### What's New (October 14, 2021)
+
+- [Install Sysinternals Suite from the Microsoft Store](ms-windows-store://pdp/?productid=9P7KNL5RWT25)  
+Sysinternals Suite is now available in the Microsoft Store and Windows Package Manager (winget).
+
+  ```powershell
+  PS C:\> winget install sysinternals
+  ```
+- [Sysmon for Linux](https://github.com/Sysinternals/SysmonForLinux)  
+Sysmon is now available as an open source project for Linux.
 ### What's New (August 18, 2021)
 
 - [Candid talk from the man behind your favorite Windows tools](https://www.hpe.com/us/en/insights/articles/candid-talk-from-the-man-behind-your-favorite-windows-tools-2107.html)  
