@@ -4,16 +4,16 @@ title: WinObj
 description: The ultimate Object Manager namespace viewer is here.
 ms:assetid: 'f5aabfba-811c-4b35-8d76-e64fd7083177'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896657(v=MSDN.10)'
-ms.date: 09/22/2021
+ms.date: 10/12/2021
 ---
 
-# WinObj v3.12
+# WinObj v3.13
 
 **By Mark Russinovich**
 
-Published: September 22, 2021
+Published: October 12, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.5 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.8 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Winobj.exe).
 
 ## Introduction
@@ -55,7 +55,7 @@ Object Manager name space, and Mark's October 1997 [WindowsITPro
 Magazine](https://www.windowsitpro.com/) column, "Inside the Object
 Manager", is (of course) an excellent overview.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.5 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.8 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Winobj.exe).
 
 **Runs on:**
