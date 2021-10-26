@@ -180,7 +180,7 @@ See the order in which devices are loaded on your WinNT/2K system.
 List the active logon sessions on a system.
 
 [MoveFile](pendmoves.md)  
-*v1.01 (January 24, 2013)*  
+*v1.02 (September 17, 2020)*  
 Allows you to schedule move and delete commands for the next reboot.
 
 [NotMyFault](notmyfault.md)  
@@ -195,7 +195,7 @@ the size and location of the Master File Table (MFT) and MFT-zone, as
 well as the sizes of the NTFS meta-data files.
 
 [PendMoves](pendmoves.md)  
-*v1.2 (February 5, 2013)*  
+*v1.3 (September 17, 2020)*  
 Enumerate the list of file rename and delete commands that will be
 executed the next boot.
 
