@@ -28,6 +28,11 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
 
+### What's New (October 26, 2021)
+
+- [Sysmon v13.30](~/downloads/sysmon.md)  
+This Sysmon update adds user fields for events, fixes a series of crash-causing bugs - for example with the Visual Studio debugger - and improves memory usage and management in the driver.
+
 ### What's New (October 14, 2021)
 
 - [Install Sysinternals Suite from the Microsoft Store](ms-windows-store://pdp/?productid=9P7KNL5RWT25)  
