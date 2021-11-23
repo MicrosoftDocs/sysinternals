@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 10/13/2021
+ms.date: 10/26/2021
 ---
 
 # Sysinternals Utilities Index
@@ -48,7 +48,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v14.05 (October 13, 2021)*  
+*v14.06 (October 26, 2021)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -180,7 +180,7 @@ See the order in which devices are loaded on your WinNT/2K system.
 List the active logon sessions on a system.
 
 [MoveFile](pendmoves.md)  
-*v1.01 (January 24, 2013)*  
+*v1.02 (September 17, 2020)*  
 Allows you to schedule move and delete commands for the next reboot.
 
 [NotMyFault](notmyfault.md)  
@@ -195,7 +195,7 @@ the size and location of the Master File Table (MFT) and MFT-zone, as
 well as the sizes of the NTFS meta-data files.
 
 [PendMoves](pendmoves.md)  
-*v1.2 (February 5, 2013)*  
+*v1.3 (September 17, 2020)*  
 Enumerate the list of file rename and delete commands that will be
 executed the next boot.
 
@@ -343,7 +343,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v13.24 (August 18, 2021)*  
+*v13.30 (October 26, 2021)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
