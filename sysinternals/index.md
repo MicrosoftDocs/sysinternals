@@ -4,7 +4,7 @@ title:  Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 08/18/2021
+ms.date: 12/15/2021
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -28,6 +28,11 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
 
+### What's New (December 15, 2021)
+
+- [Process Explorer v17.0](~/downloads/process-explorer.md)  
+Process Explorer, an advanced process, DLL and handle viewing utility receives support for the Sysinternals theme engine, including a dark theme and new application icons. The lower pane now has separate tabs for Handles, Modules and Threads. There’s now visibility into protected and PPL processes if running elevated and some tweaks and quality of life fixes: all lower pane view columns are sortable, CPU rate limits are reported for jobs and a column for handle attributes to the handles view.
+
 ### What's New (October 26, 2021)
 
 - [Sysmon v13.30](~/downloads/sysmon.md)  
@@ -41,8 +46,10 @@ Sysinternals Suite is now available in the Microsoft Store and Windows Package M
   ```powershell
   PS C:\> winget install sysinternals
   ```
+
 - [Sysmon for Linux](https://github.com/Sysinternals/SysmonForLinux)  
 Sysmon is now available as an open source project for Linux.
+
 ### What's New (August 18, 2021)
 
 - [Candid talk from the man behind your favorite Windows tools](https://www.hpe.com/us/en/insights/articles/candid-talk-from-the-man-behind-your-favorite-windows-tools-2107.html)  
