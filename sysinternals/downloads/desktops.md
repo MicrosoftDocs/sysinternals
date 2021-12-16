@@ -63,5 +63,5 @@ Tray Desktop Switch Window
 
 **Runs on:**
 
-- Client: Windows Vista and higher.
-- Server: Windows Server 2008 and higher.
+- Client: Windows 7, Windows 8, Windows 8.1 & Windows 10.
+- Server: Windows Server 2008 - Windows Server 2022.
