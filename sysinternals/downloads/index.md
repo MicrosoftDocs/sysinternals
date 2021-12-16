@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 10/26/2021
+ms.date: 12/16/2021
 ---
 
 # Sysinternals Utilities Index
@@ -30,7 +30,7 @@ directories, files and Registry keys on your systems. Use it to find
 holes in your permissions.
 
 [AdExplorer](adexplorer.md)  
-*v1.50 (November 04, 2020)*  
+*v1.51 (December 16, 2021)*  
 Active Directory Explorer is an advanced Active Directory (AD) viewer
 and editor.  
   
@@ -48,7 +48,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v14.06 (October 26, 2021)*  
+*v14.07 (December 16, 2021)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -67,7 +67,7 @@ simulated reboots as well (complete with CHKDSK), and works on Windows
 NT 4, Windows 2000, Windows XP, Server 2003 and Windows 95 and 98.
 
 [CacheSet](cacheset.md)  
-*v1.01 (October 12, 2021)*  
+*v1.02 (December 16, 2021)*  
 CacheSet is a program that allows you to control the Cache Manager's
 working set size using functions provided by NT. It's compatible with
 all versions of NT.
@@ -226,7 +226,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.86 (October 12, 2021)*  
+*v3.87 (December 16, 2021)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -343,7 +343,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v13.30 (October 26, 2021)*  
+*v13.31 (December 16, 2021)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  

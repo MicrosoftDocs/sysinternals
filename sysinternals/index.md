@@ -21,12 +21,13 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 [![Sysinternals@25](media/index/sysinternals25_banner.png)](https://aka.ms/sysinternals25)
 https://aka.ms/sysinternals25
 
-## Sysinternals Live ##
+## Sysinternals Live
+
 Sysinternals Live is a service that enables you to execute Sysinternals tools directly from the Web without hunting for and manually downloading them. Simply enter a tool's Sysinternals Live path into Windows Explorer or a command prompt as live.sysinternals.com/&lt;toolname&gt; or  \\\\live.sysinternals.com\tools\\&lt;toolname&gt;.
 
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
-## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog) ##
+## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
 ### What's New (October 26, 2021)
 
@@ -41,8 +42,10 @@ Sysinternals Suite is now available in the Microsoft Store and Windows Package M
   ```powershell
   PS C:\> winget install sysinternals
   ```
+
 - [Sysmon for Linux](https://github.com/Sysinternals/SysmonForLinux)  
 Sysmon is now available as an open source project for Linux.
+
 ### What's New (August 18, 2021)
 
 - [Candid talk from the man behind your favorite Windows tools](https://www.hpe.com/us/en/insights/articles/candid-talk-from-the-man-behind-your-favorite-windows-tools-2107.html)  
