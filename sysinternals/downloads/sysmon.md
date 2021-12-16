@@ -4,16 +4,16 @@ title: Sysmon
 description: Monitors and reports key system activity via the Windows event log.
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
-ms.date: 10/26/2021
+ms.date: 12/16/2021
 ---
 
-# Sysmon v13.30
+# Sysmon v13.31
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: October 26, 2021
+Published: December 16, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(2.9 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(3.1 MB)**
 
 ## Introduction
 
@@ -523,9 +523,9 @@ generated for the termination of `ping.exe` and `timeout.exe`.
   </EventFiltering>
 ```
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(2.9 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(3.1 MB)**
   
 **Runs on:**
 
-- Client: Windows 7 and higher.
-- Server: Windows Server 2008 R2 and higher.
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.

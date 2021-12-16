@@ -4,16 +4,16 @@ title: CacheSet
 description: CacheSet is a program that allows you to control the Cache Manager's working set size using functions provided by NT.
 ms:assetid: '1e957b54-014b-4ec9-9dbb-39b7ef6d5899'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897561(v=MSDN.10)'
-ms.date: 12/15/2021
+ms.date: 12/16/2021
 ---
 
 # CacheSet v1.02
 
 **By Mark Russinovich**
 
-Published: December 15, 2021
+Published: December 16, 2021
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(415 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(417 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Cacheset.exe).
 
 ## Introduction
@@ -100,7 +100,7 @@ cache). Passing in a minimum and maximum of -1 causes
 **MmAjustWorkingSetSize** to perform a working-set clear operation,
 releasing all pages from the application's working set.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(415 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/CacheSet.zip) [**Download CacheSet**](https://download.sysinternals.com/files/CacheSet.zip) **(417 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Cacheset.exe).
 
