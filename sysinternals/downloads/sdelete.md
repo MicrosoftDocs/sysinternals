@@ -61,7 +61,7 @@ accepts wild card characters as part of the directory or file specifier.
 
 **sdelete \[-p passes\] \[-z|-c \[percent free\]\] &lt;drive letter \[...\]&gt;**
 
-**sdelete \[-p passes\] \[-z|-c\] &ltphysical disk number&gt;**
+**sdelete \[-p passes\] \[-z|-c\] &lt;physical disk number&gt;**
 
 |Parameter  |Description  |
 |---------|---------|
