@@ -4,6 +4,7 @@ title:  Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
+no-loc: [Russinovich]
 ms.date: 08/18/2021
 ---
 
