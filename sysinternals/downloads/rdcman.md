@@ -1,15 +1,16 @@
 ---
 TOCTitle: Remote Desktop Connection Manager
 title: Remote Desktop Connection Manager
+no-loc: [Julian Burger]
 description: Manage multiple remote desktop connections.
-ms.date: 08/18/2021
+ms.date: 01/27/2022
 ---
 
-# Remote Desktop Connection Manager v2.83
+# Remote Desktop Connection Manager v2.90
 
 **By Julian Burger**
 
-Published: August 18, 2021
+Published: January 27, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(494 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RDCMan.exe).
@@ -355,7 +356,7 @@ RDCMan retrieves policy information from the `HKEY_LOCAL_MACHINE\SOFTWARE\Polici
 
 - *How do I resize the remote desktop while a server is connected?*
 
-    You can't. To resize you must disconnect and reconnect (use the Reconnect feature to do this in one step).
+    You can't. To resize you must disconnect and reconnect (use the Reconnect feature to do this in one step). RDCMan servers have the option, under Display Settings, to automatically reconnect with the new resolution for both docked and undocked servers.
 
 ---
 

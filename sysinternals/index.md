@@ -2,10 +2,10 @@
 TOCTitle: 'Sysinternals: Documentation, downloads and additional resources'
 title:  Sysinternals | Microsoft Docs
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
+no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-no-loc: [Russinovich]
-ms.date: 08/18/2021
+ms.date: 01/27/2022
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,14 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
+
+### What's New (January 27, 2022)
+
+- [ZoomIt v5.0](~/downloads/zoomit.md)  
+ZoomIt, a screen zoom and annotation tool, now supports Windows 11 and antialiased line drawing. Note that under Windows 11 and Windows Server 2022 some UI elements might not react to mouse clicks when zoomed. The temporary workaround until a future Windows update is to store the ZoomIt executable under the Windows or the Program Files directories.
+
+- [RDCMan v2.90](~/downloads/rdcman.md)  
+RDCMan, a tool for managing and connecting to Remote Desktop sessions, receives support for Restricted Admin (/restrictedAdmin from mstsc) and Remote Credential Guard (/remoteGuard from mstsc) and bug fixes.
 
 ### What's New (October 26, 2021)
 
