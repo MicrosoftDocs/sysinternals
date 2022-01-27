@@ -1,6 +1,4 @@
 {
-  "need_generate_pdf": true,
-  "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "sysinternals",
@@ -20,20 +18,22 @@
     }
   ],
   "notification_subscribers": [],
+  "sync_notification_subscribers": null,
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
+  "contribution_branch_mappings": null,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master",
+      "branch": "main",
       "branch_mapping": {}
     },
     {
       "path_to_root": "_themes.pdf",
       "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
-      "branch": "master",
+      "branch": "main",
       "branch_mapping": {}
     }
   ],
@@ -43,6 +43,8 @@
       "Pdf"
     ]
   },
+  "need_generate_pdf": true,
+  "need_generate_intellisense": false,
   "need_generate_pdf_url_template": true,
   "targets": {
     "pdf": {
