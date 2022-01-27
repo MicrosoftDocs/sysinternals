@@ -2,18 +2,19 @@
 TOCTitle: ZoomIt
 title: ZoomIt
 description: Presentation utility for zooming and drawing on the screen.
+no-loc: [Mark Russinovich]
 ms:assetid: '0b6c4abc-9482-4759-a9cd-bf77cb961dd4'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
-ms.date: 09/17/2020
+ms.date: 01/27/2022
 ---
 
-# ZoomIt v4.52
+# ZoomIt v5.0
 
 **By Mark Russinovich**
 
-Published: December 11, 2019
+Published: January 27, 2022
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(917 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(972 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
 
 ## Introduction
@@ -59,9 +60,9 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Increase/Decrease Font Size (Typing Mode) | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
 | Red Pen | R |
 | Green Pen | G |
-| Blue Pen | B | 
+| Blue Pen | B |
 | Yellow Pen | Y |
-| Orange Pen | O | 
+| Orange Pen | O |
 | Pink Pen | P |
 | Draw a Straight Line | Hold Shift |
 | Draw a Rectangle | Hold Ctrl |
@@ -80,5 +81,5 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 
 ![ZoomIt](media/zoomit/20130618_Zoomit_v4.5.jpg)  
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(917 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(972 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).

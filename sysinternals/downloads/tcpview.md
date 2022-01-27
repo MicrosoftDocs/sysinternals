@@ -2,16 +2,17 @@
 TOCTitle: TCPView
 title: TCPView for Windows
 description: Active socket command-line viewer.
+no-loc: [Mark Russinovich]
 ms:assetid: '0797e73a-a0c2-4266-b821-50bc561da3a6'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897437(v=MSDN.10)'
-ms.date: 10/12/2021
+ms.date: 01/27/2022
 ---
 
-# TCPView v4.16
+# TCPView v4.17
 
 **By Mark Russinovich**
 
-Published: October 12, 2021
+Published: January 27, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(2.1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Tcpview.exe).
@@ -57,7 +58,7 @@ utility:
 
 **Usage:**
 
-```cmd
+```Shell
 tcpvcon [-a] [-c] [-n] [process name or PID]
 ```
 

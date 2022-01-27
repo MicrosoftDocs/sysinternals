@@ -2,16 +2,17 @@
 TOCTitle: WinObj
 title: WinObj
 description: The ultimate Object Manager namespace viewer is here.
+no-loc: [Mark Russinovich, Helen Custer]
 ms:assetid: 'f5aabfba-811c-4b35-8d76-e64fd7083177'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896657(v=MSDN.10)'
-ms.date: 10/12/2021
+ms.date: 01/27/2022
 ---
 
-# WinObj v3.13
+# WinObj v3.14
 
 **By Mark Russinovich**
 
-Published: October 12, 2021
+Published: January 27, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/WinObj.zip) [**Download WinObj**](https://download.sysinternals.com/files/WinObj.zip) **(1.8 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Winobj.exe).
