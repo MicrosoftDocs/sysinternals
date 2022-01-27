@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 12/16/2021
+ms.date: 01/27/2022
 ---
 
 # Sysinternals Utilities Index
@@ -48,7 +48,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v14.07 (December 16, 2021)*  
+*v14.08 (January 27, 2022)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -226,7 +226,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.87 (December 16, 2021)*  
+*v3.88 (January 27, 2022)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -294,7 +294,7 @@ An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v2.83 (August 18, 2021)*  
+*v2.90 (January 27, 2022)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
@@ -343,15 +343,15 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v13.31 (December 16, 2021)*  
+*v13.32 (January 27, 2022)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
-*v4.16 (October 12, 2021)*  
+*v4.17 (January 27, 2022)*  
 Active socket viewer.
 
 [VMMap](vmmap.md)  
-*v3.31 (November 04, 2020)*  
+*v3.32 (January 27, 2022)*  
 VMMap is a process virtual and physical memory analysis utility.
 
 [VolumeId](volumeid.md)  
@@ -363,9 +363,9 @@ Set Volume ID of FAT or NTFS drives.
 See who owns an Internet address.
 
 [WinObj](winobj.md)  
-*v3.13 (October 12, 2021)*  
+*v3.14 (January 27, 2022)*  
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  
-*v4.52 (December 11, 2019)*  
+*v5.0 (January 27, 2022)*  
 Presentation utility for zooming and drawing on the screen.  
