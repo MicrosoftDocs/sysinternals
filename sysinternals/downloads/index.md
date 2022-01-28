@@ -18,6 +18,9 @@ Sysinternals Utilities for Nano Server in a single download.
 [Sysinternals Suite for ARM64](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip)  
 Sysinternals Utilities for ARM64 in a single download.
 
+[Sysinternals Suite from the Microsoft Store](https://www.microsoft.com/store/apps/9p7knl5rwt25)  
+Sysinternals Utilities installation and updates via Microsoft Store.
+
 [AccessChk](accesschk.md)  
 *v6.14 (June 22, 2021)*  
 AccessChk is a command-line tool for viewing the effective permissions
@@ -33,7 +36,7 @@ holes in your permissions.
 *v1.51 (December 16, 2021)*  
 Active Directory Explorer is an advanced Active Directory (AD) viewer
 and editor.  
-  
+
 [AdInsight](adinsight.md)  
 *v1.2 (October 26, 2015)*  
 An LDAP (Light-weight Directory Access Protocol) real-time monitoring
