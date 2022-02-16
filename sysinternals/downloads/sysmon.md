@@ -5,14 +5,14 @@ description: Monitors and reports key system activity via the Windows event log.
 no-loc: [Mark Russinovich, Thomas Garnier]
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
-ms.date: 01/27/2022
+ms.date: 02/16/2022
 ---
 
-# Sysmon v13.32
+# Sysmon v13.33
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: January 27, 2022
+Published: February 16, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(3.1 MB)**
 

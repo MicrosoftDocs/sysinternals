@@ -5,14 +5,14 @@ description: Monitor file system, Registry, process, thread and DLL activity in 
 no-loc: [Mark Russinovich, David Solomon, Aaron Margosis]
 ms:assetid: '37225635-4ad0-4b08-aa5e-4bba665b1d89'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896645(v=MSDN.10)'
-ms.date: 01/27/2022
+ms.date: 02/16/2022
 ---
 
-# Process Monitor v3.88
+# Process Monitor v3.89
 
 **By Mark Russinovich**
 
-Published: January 27, 2022
+Published: February 16, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(3.3 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Procmon.exe).
