@@ -18,7 +18,7 @@ In this topic, we'll cover:
 
 **Step 4:** Make your update.
 
-**Step 5:** Submit a Pull Request (PR) from your branch to `MicrosoftDocs/sysinternals/master`.
+**Step 5:** Submit a Pull Request (PR) from your branch to `MicrosoftDocs/sysinternals/main`.
 
 If your PR is addressing an existing issue, add the `Fixes #Issue_Number` keyword to the commit message or PR description, so the issue can be automatically closed when the PR is merged. For more information, see [Closing issues via commit messages](https://help.github.com/articles/closing-issues-via-commit-messages/).
 
