@@ -33,7 +33,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ### What's New (February 16, 2022)
 
 - [ZoomIt v5.10](~/downloads/zoomit.md)  
-This update to Zoomit, a screen magnification and annotation too, now supports pen and touch drawing.
+This update to ZoomIt, a screen magnification and annotation too, now supports pen and touch drawing.
 
 ### What's New (January 27, 2022)
 
