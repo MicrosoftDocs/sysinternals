@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 01/27/2022
+ms.date: 02/16/2022
 ---
 
 # Sysinternals Utilities Index
@@ -51,7 +51,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v14.08 (January 27, 2022)*  
+*v14.09 (February 16, 2022)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -229,7 +229,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.88 (January 27, 2022)*  
+*v3.89 (February 16, 2022)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -346,7 +346,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v13.32 (January 27, 2022)*  
+*v13.33 (February 16, 2022)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
@@ -370,5 +370,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  
-*v5.0 (January 27, 2022)*  
+*v5.10 (February 16, 2022)*  
 Presentation utility for zooming and drawing on the screen.  

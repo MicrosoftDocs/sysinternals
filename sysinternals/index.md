@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 01/27/2022
+ms.date: 02/16/2022
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -20,7 +20,7 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 ---
 ## Sysinternals@25: <br>A special anniversary event
 [![Sysinternals@25](media/index/sysinternals25_banner.png)](https://aka.ms/sysinternals25)
-https://aka.ms/sysinternals25
+Find the individual videos at https://aka.ms/SysinternalsVideos.
 
 ## Sysinternals Live
 
@@ -29,6 +29,11 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
+
+### What's New (February 16, 2022)
+
+- [ZoomIt v5.10](~/downloads/zoomit.md)  
+This ZoomIt update enables pen and touch input.
 
 ### What's New (January 27, 2022)
 
@@ -67,33 +72,3 @@ Autoruns, a utility for monitoring startup items, is the latest Sysinternals too
 
 - [ProcDump v10.1](~/downloads/procdump.md)  
 This update to ProcDump, a command-line utility for generating memory dumps from running processes, adds a new option (-dc) for specifying a dumpfile comment and supports "triage" dumps (-mt).
-
-### What's New (June 22, 2021)
-
-- [RDCMan v2.8](~/downloads/rdcman.md)  
-RDCMan, a utility for managing multiple remote desktop connections, is now part of the Sysinternals family of tools! This release fixes CVE-2020-0765, an XML parsing vulnerability.
-
-### What's New (May 25, 2021)
-
-- [Process Monitor v3.80](~/downloads/procmon.md)  
-Process Monitor is the latest tool to integrate with the new Sysinternals theme engine, giving it dark mode support.
-
-- [Sysmon v13.20](~/downloads/sysmon.md)  
-This update to Sysmon, an advanced system security monitor, adds "`not begin with`" and "`not end with`" filter conditions and fixes a regression for rule include/exclude logic.
-
-- [TCPView v4.10](~/downloads/tcpview.md)  
-This update to TCPView, a TCP/UDP endpoint query tool, adds the ability to filter connections by state.
-
-- [Process Explorer v16.40](~/downloads/process-explorer.md)  
-This update to Process Explorer, an advanced process, DLL and handle viewing utility, adds process filtering support to the main display and reports process CET (shadow stack) support.
-
-### What's New (April 21, 2021)
-
-- [Process Monitor v3.70](~/downloads/procmon.md)  
-This update to Process Monitor allows constraining the number of events based on a requested number minutes and/or size of the events data, so that older events are dropped if necessary. It also fixes a bug where the Drop Filtered Events option wasn’t always respected and contains other minor bug fixes and improvements.
-
-- [Sysmon v13.10](~/downloads/sysmon.md)  
-This update to Sysmon adds a FileDeleteDetected rule that logs when files are deleted but doesn't archive, deletes clipboard archive if event is excluded and fixes an ImageLoad event bug.
-
-- Theme Engine  
-This update to the theme engine uses a custom title bar in dark mode, similar to MS Office black theme. [WinObj](~/downloads/winobj.md) and [TCPView](~/downloads/tcpview.md) have been updated. Expect more tools using the theme engine in the near future!
