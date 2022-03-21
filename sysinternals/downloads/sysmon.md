@@ -16,6 +16,8 @@ Published: February 16, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(3.1 MB)**
 
+[**Download Sysmon for Linux (GitHub)**](https://github.com/Sysinternals/SysmonForLinux)
+
 ## Introduction
 
 *System Monitor* (*Sysmon*) is a Windows system service and device
