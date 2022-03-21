@@ -5,6 +5,7 @@ description: Find out what files, registry keys and other objects processes have
 ms:assetid: '32cbeee6-4335-44d5-b94b-160612b99738'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896653(v=MSDN.10)'
 ms.date: 08/18/2021
+adobe-target: true
 ---
 
 # Process Explorer v16.43
