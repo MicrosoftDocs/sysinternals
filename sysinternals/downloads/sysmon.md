@@ -459,7 +459,7 @@ insensitive):
 |  **is not**      | Values are different |
 |  **contains**    | The field contains this value |
 |  **contains any**  | The field contains any of the `;` delimited values |
-|  **contains all** | The field contains any of the `;` delimited values |
+|  **contains all** | The field contains all of the `;` delimited values |
 |  **excludes**    | The field does not contain this value |
 |  **excludes any**  |The field does not contain one or more of the `;` delimited values |
 |  **excludes all** |The field does not contain any of the `;` delimited values |
