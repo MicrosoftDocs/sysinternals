@@ -19,7 +19,8 @@ ms.date: 09/09/2020
 * Understand how the I/O system manages physical devices and device drivers
 
 The 7th edition was written by Pavel Yosifovich, Alex Ionescu, Mark Russinovich and David Solomon. New material has been added since the 6th edition (which covered Windows 7 and Windows Server 2008 R2).
-Since the 7th edition’s part 2 is not yet available, the Windows Internals 6th edition (written by Mark Russinovich, David Solomon and Alex Ionescu) is an invaluable resource on missing topics from the first part of the 7th edition. These include system mechanisms, management mechanisms, networking, file systems, cache management and troubleshooting system crashes.
+
+The 7th edition’s part 2 (written by Andrea Allievi, Mark E. Russinovich, Alex Ionescu and David A. Solomon) is now available, and provides an invaluable resource on missing topics from the first part of the 7th edition. These include the boot process, new storage technologies, and Windows system and management mechanisms.
 
 ## Table of contents of the 7th edition, part 1:
 
@@ -31,7 +32,7 @@ Since the 7th edition’s part 2 is not yet available, the Windows Internals 6th
 * Chapter 6: I/O System
 * Chapter 7: Security
 
-The book is available for purchase on the Microsoft Press site ([7th edition Part 1](https://www.microsoftpressstore.com/store/windows-internals-part-1-system-architecture-processes-9780735684188); [6th Edition Part 1](https://www.microsoftpressstore.com/store/windows-internals-part-1-9780735648739); [6th Edition Part 2](https://www.microsoftpressstore.com/store/windows-internals-part-2-9780735665873)).
+The book is available for purchase on the Microsoft Press site ([7th edition Part 1](https://www.microsoftpressstore.com/store/windows-internals-part-1-system-architecture-processes-9780735684188); [7th Edition Part 2](https://www.microsoftpressstore.com/store/windows-internals-part-2-9780135462409)).
 
 ## History of the Book
 
