@@ -16,6 +16,8 @@ Published: February 16, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(3.1 MB)**
 
+[**Download Sysmon for Linux (GitHub)**](https://github.com/Sysinternals/SysmonForLinux)
+
 ## Introduction
 
 *System Monitor* (*Sysmon*) is a Windows system service and device
@@ -459,7 +461,7 @@ insensitive):
 |  **is not**      | Values are different |
 |  **contains**    | The field contains this value |
 |  **contains any**  | The field contains any of the `;` delimited values |
-|  **contains all** | The field contains any of the `;` delimited values |
+|  **contains all** | The field contains all of the `;` delimited values |
 |  **excludes**    | The field does not contain this value |
 |  **excludes any**  |The field does not contain one or more of the `;` delimited values |
 |  **excludes all** |The field does not contain any of the `;` delimited values |
