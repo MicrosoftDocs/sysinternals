@@ -74,7 +74,7 @@ When you configure the path to DBGHELP.DLL and the symbol path uses the symbol s
 Here are some other handle and DLL viewing tools and information
 available at Sysinternals:
 
-- [The case of the Unexplained...](https://channel9.msdn.com/events/teched/northamerica/2010/wcl315) In this video, Mark describes how he has solved seemingly unsolvable system and application problems on Windows.
+- The case of the Unexplained... In this video, Mark describes how he has solved seemingly unsolvable system and application problems on Windows.
 - [Handle](handle.md) -  a command-line handle viewer
 - [ListDLLs](listdlls.md) - a command-line DLL viewer
 - [PsList](pslist.md) - local/remote command-line process lister
