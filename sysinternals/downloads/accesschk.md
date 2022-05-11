@@ -13,7 +13,7 @@ ms.date: 05/11/2022
 
 Published: May 11, 2022
 
-[![Download](media/shared/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(958 KB)**  
+[![Download](media/shared/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/accesschk.exe).
 
 ## Introduction
@@ -111,5 +111,5 @@ To see all global objects that Everyone can modify:
 accesschk -wuo everyone \basednamedobjects
 ```
 
-[![Download](media/shared/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(958 KB)**  
+[![Download](media/shared/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/accesschk.exe).

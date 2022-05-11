@@ -13,7 +13,7 @@ ms.date: 5/11/2022
 
 Published: May 11, 2022
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(488 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(671 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RAMMap.exe).
 
 Have you ever wondered exactly how Windows is assigning physical memory,
@@ -54,7 +54,7 @@ Edition](~/resources/windows-internals.md).
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(488 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(671 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RAMMap.exe).
 
