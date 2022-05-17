@@ -130,7 +130,7 @@ psping [[-6]|[-4]] [-f] <-s source:sourceport>
 **client:**
 
 ```cmd
-psping [[-6]|[-4]] [-f] [-u] [-h [buckets | <val1>,<val2>,...]] [-r] <-l requestsize>[k|m]] <-n count> [-i <outstanding>] [-w <count>] <destination:destport>
+psping -b [[-6]|[-4]] [-f] [-u] [-h [buckets | <val1>,<val2>,...]] [-r] <-l requestsize>[k|m]] <-n count> [-i <outstanding>] [-w <count>] <destination:destport>
 ```
 
 |Parameter  |Description  |
