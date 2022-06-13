@@ -29,7 +29,7 @@ directory and its subdirectories.
 |Parameter  |Description  |
 |---------|---------|
 |  **-c** |  Print output as CSV. Use -ct for tab delimiting.|
-|  **-l** |  Specify subdirectory depth of information (default is one level).|
+|  **-l** |  Specify subdirectory depth of information (default is 0 levels).|
 |  **-n** |  Do not recurse.|
 |  **-v** |  Show size (in KB) of intermediate directories.|
 |  **-u** |  Count each instance of a hardlinked file.|
