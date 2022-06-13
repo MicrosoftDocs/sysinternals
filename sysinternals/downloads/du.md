@@ -34,7 +34,7 @@ directory and its subdirectories.
 |  **-n** |  Do not recurse.|
 |  **-v** |  Show size (in KB) of intermediate directories.|
 |  **-u** |  Count each instance of a hardlinked file.|
-|  **-q** |  Quiet - Do not display alert  ( message box ) or initial execution|
+|  **-q** |  Quiet - Do not display alert  ( message box ) or initial execution.|
 
 CSV output is formatted as:
 
