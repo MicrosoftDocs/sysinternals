@@ -50,7 +50,7 @@ name|\*&gt;**
 |  **-m**      |       Dump manifest|
 |  **-n**      |       Only show file version number|
 |  **-o**      |       Performs Virus Total lookups of hashes captured in a CSV file previously captured by Sigcheck when using the -h option. This usage is intended for scans of offline systems.|
-|  **-nobanner**      |       Quiet (no banner)|
+|  **-nobanner**      |       Do not display the startup banner and copyright message.|
 |  **-r**      |       Disable check for certificate revocation|
 |  **-p**      |       Verify signatures against the specified policy, represented by its GUID.|
 |  **-s**      |       Recurse subdirectories|
