@@ -28,12 +28,13 @@ directory and its subdirectories.
 
 |Parameter  |Description  |
 |---------|---------|
+|  **-nobanner ** | Do not display the startup banner and copyright message.|
 |  **-c** |  Print output as CSV. Use -ct for tab delimiting.|
 |  **-l** |  Specify subdirectory depth of information (default is all levels).|
 |  **-n** |  Do not recurse.|
 |  **-v** |  Show size (in KB) of intermediate directories.|
 |  **-u** |  Count each instance of a hardlinked file.|
-|  **-q** |  Quiet (no banner).|
+|  **-q** |  Quiet - Do not display alert  ( message box ) or initial execution.|
 
 CSV output is formatted as:
 
