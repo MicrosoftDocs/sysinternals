@@ -4,16 +4,16 @@ title: AccessChk
 description: AccessChk is a command-line tool for viewing the effective permissions on files, registry keys, services, processes, kernel objects, and more.
 ms:assetid: 'f15a6468-622f-4c89-98d7-94667c640675' 
 ms:mtpsurl: 'https://technet.microsoft.com/Bb664922(v=MSDN.10)' 
-ms.date: 06/22/2021
+ms.date: 05/11/2022
 ---
 
-# AccessChk v6.14
+# AccessChk v6.15
 
 **By Mark Russinovich**
 
-Published: June 22, 2021
+Published: May 11, 2022
 
-[![Download](media/shared/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(958 KB)**  
+[![Download](media/shared/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/accesschk.exe).
 
 ## Introduction
@@ -111,5 +111,5 @@ To see all global objects that Everyone can modify:
 accesschk -wuo everyone \basednamedobjects
 ```
 
-[![Download](media/shared/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(958 KB)**  
+[![Download](media/shared/download_sm.png)](https://download.sysinternals.com/files/AccessChk.zip)  [**Download AccessChk**](https://download.sysinternals.com/files/AccessChk.zip) **(1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/accesschk.exe).

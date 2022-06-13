@@ -69,7 +69,6 @@ junction -s c:\
 To create a junction c:\\Program-Files for "c:\\Program Files":
 
 ```cmd
-md Program-Files
 junction c:\Program-Files "c:\Program Files"
 ```
 
