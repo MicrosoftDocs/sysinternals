@@ -29,8 +29,6 @@ You can purchase the book from these online retailers:
 - [Barnes & Noble](https://www.barnesandnoble.com/w/troubleshooting-with-the-windows-sysinternals-tools-mark-russinovich/1124173500?ean=9780735684447)
 - [Independent booksellers](https://www.indiebound.org/book/9780735684447) – Shop local
 
-You can also read it online through
-[Safari](https://my.safaribooksonline.com/book/operating-systems-and-server-administration/microsoft-windows/9780133986549).
 
 ## Description of the Book
 
