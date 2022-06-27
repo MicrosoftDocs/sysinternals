@@ -30,20 +30,20 @@ The official guide to the Sysinternals utilities by Mark Russinovich and Aaron M
 [Defrag Tools Shows](https://channel9.msdn.com/shows/defrag-tools)  
 Episodes 1 – 12 of the *Defrag Tools* shows focus on Sysinternals tools. Each episode covers a specific tool used on the tech support show [Defrag](https://channel9.msdn.com/shows/the-defrag-show), covering when and why to use the tools, and providing tips on how to get the most out of them:
 
-- [Defrag Tools: \#1 - Building your USB thumbdrive](/shows/defrag-tools/building-your-usb-thumbdrive)
-- [Defrag Tools: \#2 - Process Explorer](/shows/defrag-tools/2-process-explorer)
-- [Defrag Tools: \#3 - Process Monitor](/shows/defrag-tools/3-process-monitor)
-- [Defrag Tools: \#4 - Process Monitor - Examples](/shows/defrag-tools/4-process-monitor)
-- [Defrag Tools: \#5 - Autoruns and MSConfig](/shows/defrag-tools/5-autoruns)
-- [Defrag Tools: \#6 - RAMMap](/shows/defrag-tools/6-rammap)
-- [Defrag Tools: \#7 - VMMap](/shows/defrag-tools/7-vmmap)
-- [Defrag Tools: \#8 - Mark Russinovich](/shows/defrag-tools/live-teched-2014-mark-russinovich)
-- [Defrag Tools: \#9 - ProcDump](/shows/defrag-tools/9-procdump)
-- [Defrag Tools: \#10 - ProcDump - Triggers](/shows/defrag-tools/10-procdump-triggers)
-- [Defrag Tools: \#11 - ProcDump - Windows 8 & Process Monitor](/shows/defrag-tools/11-procdump-windows-8-process-monitor)
-- [Defrag Tools: \#12 - TaskMgr and ResMon](/shows/defrag-tools/12-taskmgr-resmon)
+- [Defrag Tools: \#1 - Building your USB thumbdrive](shows/defrag-tools/building-your-usb-thumbdrive)
+- [Defrag Tools: \#2 - Process Explorer](shows/defrag-tools/2-process-explorer)
+- [Defrag Tools: \#3 - Process Monitor](shows/defrag-tools/3-process-monitor)
+- [Defrag Tools: \#4 - Process Monitor - Examples](shows/defrag-tools/4-process-monitor)
+- [Defrag Tools: \#5 - Autoruns and MSConfig](shows/defrag-tools/5-autoruns)
+- [Defrag Tools: \#6 - RAMMap](shows/defrag-tools/6-rammap)
+- [Defrag Tools: \#7 - VMMap](shows/defrag-tools/7-vmmap)
+- [Defrag Tools: \#8 - Mark Russinovich](shows/defrag-tools/live-teched-2014-mark-russinovich)
+- [Defrag Tools: \#9 - ProcDump](shows/defrag-tools/9-procdump)
+- [Defrag Tools: \#10 - ProcDump - Triggers](shows/defrag-tools/10-procdump-triggers)
+- [Defrag Tools: \#11 - ProcDump - Windows 8 & Process Monitor](shows/defrag-tools/11-procdump-windows-8-process-monitor)
+- [Defrag Tools: \#12 - TaskMgr and ResMon](shows/defrag-tools/12-taskmgr-resmon)
 
-[Mark's Webcasts](/sysinternals/resources/webcasts)  
+[Mark's Webcasts](sysinternals/resources/webcasts)  
 Two dozen of Mark’s top-rated presentations on Sysinternals, Windows internals, and Windows Azure are available for on-demand viewing. Get tips and techniques on using the Sysinternals tools to troubleshoot directly from their author.
 
 [TWC: Sysinternals Primer: TechEd 2014 Edition](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fvideo.ch9.ms%2Fsessions%2Fteched%2Fna%2F2014%2FDCIM-B340.pptx&wdOrigin=BROWSELINK)  
