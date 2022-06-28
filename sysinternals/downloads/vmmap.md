@@ -68,7 +68,7 @@ Forum](https://forum.sysinternals.com).
 ## Learn More
 
 - [Defrag Tools: \#7 -
-    VMMap](shows/defrag-tools/live-build-2014)  
+    VMMap](https://shows/defrag-tools/live-build-2014)  
     In this episode of Defrag Tools, Andrew Richards and Larry Larsen
     cover how to use VMMap to see how Virtual Memory is being used and
     if there have been any memory leaks.
