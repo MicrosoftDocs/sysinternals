@@ -57,9 +57,9 @@ password\]\] &lt;process name | process id&gt;**
 
 This Microsoft KB article references *PsKill*:
 
-[810596: PSVR2002: "There Is No Information to Display in This View"
+810596: PSVR2002: "There Is No Information to Display in This View"
 Error Message When You Try to Access a Project
-View](https://support.microsoft.com/kb/810596)
+View
 
   
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
