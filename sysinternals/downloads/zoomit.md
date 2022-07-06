@@ -72,7 +72,7 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Erase All Drawings | E |
 | Copy Screenshot to Clipboard | Ctrl + C |
 | Save Screenshot as PNG | Ctrl + S |
-| Start/stop screen recording saved as MP4 (Windows 10 May 2019 Update and higher) | Ctrl + R |
+| Start/Stop Screen Recording Saved as MP4 (Windows 10 May 2019 Update And Higher) | Ctrl + R |
 | Show Countdown Timer | Ctrl + 3 |
 | Increase/Decrease Time | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
 | Minimize Timer (Without Pausing It) | Alt + Tab |
