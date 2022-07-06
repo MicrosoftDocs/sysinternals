@@ -59,7 +59,7 @@ This Microsoft KB article references *PsKill*:
 
 810596: PSVR2002: "There Is No Information to Display in This View"
 Error Message When You Try to Access a Project
-View
+View (https<nolink>://support.microsoft.com/kb/810596)
 
   
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
