@@ -79,7 +79,7 @@ Check out Mark’s  Channel 9 interview where he  talks about how he  got starte
   - [Defrag Tools: #5- Autoruns and MSConfig](/shows/defrag-tools/5-autoruns)
   - [Defrag Tools: #6- RAMMap](/shows/defrag-tools/6-rammap)
   - [Defrag Tools: #7- VMMap](/shows/defrag-tools/7-vmmap)
-  - [Defrag Tools: #8- Mark Russinovich](/shows/defrag-tools/8-mark-russinovich)
+  - [Defrag Tools: #8- Mark Russinovich](/shows/defrag-tools/live-teched-2014-mark-russinovich)
   - [Defrag Tools: #9- ProcDump](/shows/defrag-tools/9-procdump)
   - [Defrag Tools: #10- ProcDump- Triggers](/shows/defrag-tools/10-procdump-triggers)
   - [Defrag Tools: #11- ProcDump- Windows 8 & Process Monitor](/shows/defrag-tools/11-procdump-windows-8-process-monitor)
