@@ -30,7 +30,7 @@ You can purchase the book from these online retailers:
 - [Independent booksellers](https://www.indiebound.org/book/9780735684447) – Shop local
 
 You can also read it online through
-[Safari](https://my.safaribooksonline.com/book/operating-systems-and-server-administration/microsoft-windows/9780133986549).
+[O'REILLY Media](https://www.oreilly.com/library/view/troubleshooting-with-the/9780133986549/).
 
 ## Description of the Book
 

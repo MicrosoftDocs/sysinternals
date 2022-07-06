@@ -232,14 +232,14 @@ See a list of example command lines (the examples are listed above):
 ## Learn More
 
 - [Defrag Tools: \#9 -
-    ProcDump](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-9-procdump)
+    ProcDump](/shows/defrag-tools/9-procdump)
     This episode of Defrag Tools covers what the tool captures and
     expected outage durations
 - [Defrag Tools: \#10 - ProcDump -
-    Triggers](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-10-procdump-triggers)
+    Triggers](/shows/defrag-tools/10-procdump-triggers)
     This episode covers trigger options in particular 1st & 2nd chance
     exceptions
 - [Defrag Tools: \#11 - ProcDump - Windows 8 & Process
-    Monitor](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-11-procdump-windows-8--process-monitor)
+    Monitor](/shows/defrag-tools/11-procdump-windows-8-process-monitor)
     This episode covers modern application support and Process Monitor
     logging support
