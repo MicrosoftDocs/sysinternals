@@ -8,7 +8,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
 ms.date: 02/16/2022
 ---
 
-# ZoomIt v5.10
+# ZoomIt v6.0
 
 **By Mark Russinovich**
 
