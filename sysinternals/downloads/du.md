@@ -29,15 +29,16 @@ directory and its subdirectories.
 |Parameter  |Description  |
 |---------|---------|
 |  **-c** |  Print output as CSV. Use -ct for tab delimiting.|
-|  **-l** |  Specify subdirectory depth of information (default is all levels).|
+|  **-l** |  Specify subdirectory depth of information (default is 0 levels).|
 |  **-n** |  Do not recurse.|
 |  **-v** |  Show size (in KB) of intermediate directories.|
 |  **-u** |  Count each instance of a hardlinked file.|
-|  **-q** |  Quiet (no banner).|
+|  **-q** |  Quiet.|
+|  **-nobanner** |  Do not display the startup banner and copyright message.|
 
 CSV output is formatted as:
 
 Path, CurrentFileCount, CurrentFileSize, FileCount, DirectoryCount,
-DirectorySize
+DirectorySize, DirectorySizeOnDisk
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DU.zip) [**Download Du**](https://download.sysinternals.com/files/DU.zip) **(1.62 MB)**
