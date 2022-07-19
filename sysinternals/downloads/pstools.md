@@ -4,16 +4,16 @@ title: PsTools
 description: Command-line utilities for listing the processes running on local or remote computers, running processes, rebooting computers, and more.
 ms:assetid: '559ea946-3d7d-47bb-821c-b47fd078dfb7'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896649(v=MSDN.10)'
-ms.date: 10/12/2021
+ms.date: 07/19/2022
 ---
 
 # PsTools
 
 **By Mark Russinovich**
 
-Published: October 12, 2021
+Published: July 19, 2022
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools Suite**](https://download.sysinternals.com/files/PSTools.zip) **(4.2 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools Suite**](https://download.sysinternals.com/files/PSTools.zip) **(3.9 MB)**
 
 ## Introduction
 
@@ -69,12 +69,12 @@ package, are:
 The *PsTools* download package includes an HTML help file with complete
 usage information for all the tools.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools Suite**](https://download.sysinternals.com/files/PSTools.zip) **(4.2 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools Suite**](https://download.sysinternals.com/files/PSTools.zip) **(3.9 MB)**
 
 **Runs on:**
 
-- Client: Windows Vista and higher
-- Server: Windows Server 2008 and higher
+- Client: Windows 8.1 and higher
+- Server: Windows Server 2012 and higher
 - Nano Server: 2016 and higher
 
 ### Installation

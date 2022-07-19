@@ -13,7 +13,7 @@ ms.date: 07/19/2022
 
 Published: July 19, 2022
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip) **(3.4 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip) **(2.2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Bginfo.exe).
 
 ## Introduction
@@ -176,7 +176,7 @@ the limit is 16K, while on NT/2000/XP systems the limit is 64K.
 |  **/log**               |   Causes *BGInfo* to write errors to the specified log file instead of generating a warning dialog box. This is useful for tracking down errors that occur when *BGInfo* is run under the scheduler.|
 |  **/rtf**               |   Causes *BGInfo* to write its output text to an RTF file. All formatting information and colors are included.|
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip)] **(3.4 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip)] **(2.2 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Bginfo.exe).
 
