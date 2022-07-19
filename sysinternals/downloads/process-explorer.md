@@ -79,6 +79,6 @@ available at Sysinternals:
 - [ListDLLs](listdlls.md) - a command-line DLL viewer
 - [PsList](pslist.md) - local/remote command-line process lister
 - [PsKill](pskill.md) - local/remote command-line process killer
-- [Defrag Tools: \#2 - Process Explorer](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-2-process-explorer)
+- [Defrag Tools: \#2 - Process Explorer](/shows/defrag-tools/2-process-explorer)
     In this episode of Defrag Tools, Andrew Richards and Larry Larsen show how to use Process Explorer to view the details of processes, both at a point in time and historically.
-- [Windows Sysinternals Primer: Process Explorer, Process Monitor and More](https://channel9.msdn.com/events/teched/northamerica/2010/wcl314) Process Explorer gets a lot of attention in the first Sysinternals Primer delivered by Aaron Margosis and Tim Reckmeyer at TechEd 2010.
+- [Windows Sysinternals Primer: Process Explorer, Process Monitor and More](/shows/defrag-tools/2-process-explorer) Process Explorer gets a lot of attention in the first Sysinternals Primer delivered by Aaron Margosis and Tim Reckmeyer at TechEd 2010.
