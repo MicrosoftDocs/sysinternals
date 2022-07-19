@@ -4,14 +4,14 @@ title: Sigcheck
 description: Dump file version information and verify that images on your system are digitally signed.
 ms:assetid: 'fe633cd0-b369-4ca5-a9ae-c64e2d52acac'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897441(v=MSDN.10)'
-ms.date: 07/27/2021
+ms.date: 07/19/2022
 ---
 
-# Sigcheck v2.82
+# Sigcheck v2.90
 
 **By Mark Russinovich**
 
-Published: July 27, 2021
+Published: July 19, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(1.2 MB)**
 
@@ -24,16 +24,15 @@ on [VirusTotal](https://www.virustotal.com/), a site that performs
 automated file scanning against over 40 antivirus engines, and an option
 to upload a file for scanning.
 
-**usage: sigcheck
-\[-a\]\[-h\]\[-i\]\[-e\]\[-l\]\[-n\]\[\[-s\]|\[-c|-ct\]|\[-m\]\]\[-q\]\[-r\]\[-u\]\[-vt\]\[-v\[r\]\[s\]\]\[-f
-catalog file\] &lt;file or directory&gt;**
+**usage:**
 
-**usage: sigcheck -d \[-c|-ct\] &lt;file or directory&gt;**
+```cmd
+sigcheck [-a][-h][-i][-e][-l][-n][[-s]|[-c|-ct]|[-m]][-q][-r][-u][-vt][-v[r][s]][-f catalog file] <file or directory>
 
-**usage: sigcheck -o \[-vt\]\[-v\[r\]\] &lt;sigcheck csv file&gt;**
+sigcheck -d [-c|-ct] <file or directory>
 
-**usage: sigcheck -t\[u\]\[v\] \[-i\] \[-c|-ct\] &lt;certificate store
-name|\*&gt;**
+usage: sigcheck -t[u][v] [-i] [-c|-ct] <certificate store name|*>
+```
 
 |Parameter&nbsp;&nbsp;&nbsp;  |Description  |
 |---------|---------|
@@ -60,9 +59,11 @@ name|\*&gt;**
 |  **-vt**     |       Before using VirusTotal features, you must accept VirusTotal terms of service. See: <https://www.virustotal.com/en/about/terms-of-service/> If you haven't accepted the terms and you omit this option, you will be interactively prompted.|
 
 One way to use the tool is to check for unsigned files in your
-\\Windows\\System32 directories with this command:
+`\Windows\System32` directories with this command:
 
-**sigcheck -u -e c:\\windows\\system32**
+```cmd
+sigcheck -u -e c:\windows\system32
+```
 
 You should investigate the purpose of any files that are not signed.  
 
@@ -70,12 +71,11 @@ You should investigate the purpose of any files that are not signed.
 
 **Runs on:**
 
-- Client: Windows Vista and higher
-- Server: Windows Server 2008 and higher
+- Client: Windows 8.1 and higher
+- Server: Windows Server 2012 and higher
 - Nano Server: 2016 and higher
 
 ## Learn More
-
 
 - [Malware Hunting with the Sysinternals
     Tools](https://channel9.msdn.com/events/teched/northamerica/2013/atc-b308#fbid=mb6_bvqq9jj)  

@@ -4,14 +4,14 @@ title: PsExec
 description: Execute processes on remote systems.
 ms:assetid: '936a8b8b-a7ce-4b63-bcc2-ca334cd4c276'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897553(v=MSDN.10)'
-ms.date: 05/25/2021
+ms.date: 07/19/2022
 ---
 
-# PsExec v2.34
+# PsExec v2.40
 
 **By Mark Russinovich**
 
-Published: May 25, 2021
+Published: July 19, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(3.5 MB)**
 
@@ -153,5 +153,5 @@ that aid in the administration of local and remote systems named
 
 **Runs on:**
 
-- Client: Windows Vista and higher.
-- Server: Windows Server 2008 and higher.
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.
