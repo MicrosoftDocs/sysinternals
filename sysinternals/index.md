@@ -33,7 +33,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ### What's New (July 19, 2022)
 
 - [ZoomIt v6.0](~/downloads/zoomit.md)  
-ZoomIt, the screen zoom and annotation tool, is now also a desktop recording tool. This major update adds the possibility to record the desktop as h264 videos on Windows 10 May 2019 Update (1903) or newer.
+This major update to ZoomIt, a screen magnification and annotation tool, adds built-in screen recording for easy demo recordings and now supports Unicode typing input.
 
 ### What's New (February 16, 2022)
 
