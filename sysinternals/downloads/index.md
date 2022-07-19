@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 05/11/2022
+ms.date: 07/19/2022
 ---
 
 # Sysinternals Utilities Index
@@ -58,7 +58,7 @@ Registry and file locations where applications can configure auto-start
 settings.
 
 [BgInfo](bginfo.md)  
-*v4.26 (October 19, 2018)*  
+*v4.30 (July 19, 2022)*  
 This fully-configurable program automatically generates desktop
 backgrounds that include important information about the system
 including IP addresses, computer name, network adapters, and more.
@@ -229,12 +229,12 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.89 (February 16, 2022)*  
+*v3.90 (July 19, 2022)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
 [PsExec](psexec.md)  
-*v2.34 (May 25, 2021)*  
+*v2.40 (July 19, 2022)*  
 Execute processes on remote systems.
 
 [PsFile](psfile.md)  
@@ -329,7 +329,7 @@ Launch programs as a different user via a convenient shell context-menu
 entry.
 
 [Sigcheck](sigcheck.md)  
-*v2.82 (July 27, 2021)*  
+*v2.90 (July 19, 2022)*  
 Dump file version information and verify that images on your system are
 digitally signed.
 
@@ -370,5 +370,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  
-*v5.10 (February 16, 2022)*  
+*v6.0 (July 19, 2022)*  
 Presentation utility for zooming and drawing on the screen.  
