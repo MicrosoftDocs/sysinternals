@@ -65,7 +65,7 @@ Edition](~/resources/windows-internals.md).
 
 ## Learn More
 
-- [Defrag Tools: \#6 -  RAMMap](https://channel9.msdn.com/shows/defrag-tools/defrag-tools-6-rammap)  
+- [Defrag Tools: \#6 -  RAMMap](/shows/defrag-tools/6-rammap)  
     In this episode of Defrag Tools, Andrew Richards and Larry Larsen
     cover using RAMMap to see how RAM is being used and tell if there
     has been any memory pressure.
