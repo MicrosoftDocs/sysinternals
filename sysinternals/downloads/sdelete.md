@@ -55,10 +55,13 @@ any given use, it allows you to delete one or more files and/or
 directories, or to cleanse the free space on a logical disk. *SDelete*
 accepts wild card characters as part of the directory or file specifier.
 
-**Usage: sdelete \[-p passes\] \[-r\] \[-s\] \[-q\] &lt;file or directory&gt;
-\[...\]**  
+**Usage:**
+
+**sdelete \[-p passes\] \[-r\] \[-s\] \[-q\] &lt;file or directory&gt; \[...\]**
+
 **sdelete \[-p passes\] \[-z|-c \[percent free\]\] &lt;drive letter \[...\]&gt;**
-**sdelete \[-p passes\] \[-z|-c\] &ltphysical disk number&gt;**
+
+**sdelete \[-p passes\] \[-z|-c\] &lt;physical disk number&gt;**
 
 |Parameter  |Description  |
 |---------|---------|
