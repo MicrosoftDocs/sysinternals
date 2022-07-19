@@ -8,7 +8,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
 ms.date: 02/16/2022
 ---
 
-# ZoomIt v5.10
+# ZoomIt v6.0
 
 **By Mark Russinovich**
 
@@ -72,6 +72,7 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Erase All Drawings | E |
 | Copy Screenshot to Clipboard | Ctrl + C |
 | Save Screenshot as PNG | Ctrl + S |
+| Start/Stop Screen Recording Saved as MP4 (Windows 10 May 2019 Update And Higher) | Ctrl + R |
 | Show Countdown Timer | Ctrl + 3 |
 | Increase/Decrease Time | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
 | Minimize Timer (Without Pausing It) | Alt + Tab |
