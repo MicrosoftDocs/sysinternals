@@ -80,7 +80,7 @@ usage information for all the tools.
 ### Installation
 
 None of the tools requires any special installation. You don't even need to install any client software on the remote computers at which you target them. Run them by typing their name and any command-line options you want. To show complete usage information, specify the "-? " command-line option.
-If you have questions or problems, please visit the [Sysinternals PsTools Forum](https://forum.sysinternals.com/forum_topics.asp?FID=8).
+If you have questions or problems, please visit the [Sysinternals PsTools Forum](https://docs.microsoft.com/answers/topics/windows-sysinternals-pstools.html).
 
 ### Related Links
 
