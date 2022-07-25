@@ -19,15 +19,15 @@ Published: July 19, 2022
 
 ## Introduction
 
-ZoomIt is a screen zoom and annotation tool for technical presentations
+ZoomIt is a screen zoom, annotation, and recording tool for technical presentations
 that include application demonstrations. ZoomIt runs unobtrusively in
 the tray and activates with customizable hotkeys to zoom in on an area
 of the screen, move around while zoomed, and draw on the zoomed image. I
 wrote ZoomIt to fit my specific needs and use it in all my
 presentations.
 
-ZoomIt works on all versions of Windows and you can use pen input for
-ZoomIt drawing on tablet PCs.  
+ZoomIt works on all versions of Windows and you can use touch and pen input for
+ZoomIt drawing on tablets.  
 
 ## Using ZoomIt
 
