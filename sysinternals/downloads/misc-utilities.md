@@ -1,7 +1,7 @@
 ---
 TOCTitle: Miscellaneous Utilities
 title: Sysinternals Miscellaneous Utilities
-description: Windows Sysinternals miscellandous utilities
+description: Windows Sysinternals miscellaneous utilities
 ms:assetid: 'd46b4037-88ae-41d7-a41c-9660d7d96cf2'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb842059(v=MSDN.10)'
 ms.date: 07/29/2016
