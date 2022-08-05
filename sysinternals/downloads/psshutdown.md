@@ -32,10 +32,6 @@ with command-line options defined below.
 
 ## Using PsShutdown
 
-See the February 2005 issue of Windows IT Pro Magazine for [Mark's
-article](https://www.windowsitpro.com/article/articleid/44973/44973.html)
-that covers advanced usage of *PsKill*.
-
 You can use *PsShutdown* to initiate a shutdown of the local or a remote
 computer, logoff a user, lock a system, or to abort an imminent
 shutdown.
