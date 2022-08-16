@@ -12,7 +12,7 @@ ms.date: 08/16/2022
 
 Published: August 16, 2022
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(370 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(513 KB)**
 
 ## Introduction
 
@@ -163,4 +163,4 @@ Logical Processor to Group Map:
 ****  Group 0
 ```
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(370 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(513 KB)**

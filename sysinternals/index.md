@@ -33,7 +33,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ### What's New (August 16, 2022)
 
 - [Sysmon v14.0](~/downloads/sysmon.md)  
-This major Sysmon update adds a new event type, FileBlockExecutable that can be used to stop processes from creating executable files on disk. There are also several performance improvements and bug fixes for ProcessCreate, ImageLoad and ProcessTampering events.
+This major update to Sysmon, an advanced host monitoring tool, adds a new event type, FileBlockExecutable that prevents processes from creating executable files in specified locations. It also includes several performance improvements and bug fixes.
 
 ### What's New (July 19, 2022)
 
