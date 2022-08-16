@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 07/29/2022
+ms.date: 08/16/2022
 ---
 
 # Sysinternals Utilities Index
@@ -27,7 +27,7 @@ AccessChk is a command-line tool for viewing the effective permissions
 on files, registry keys, services, processes, kernel objects, and more.
 
 [AccessEnum](accessenum.md)  
-*v1.33 (October 12, 2021)*  
+*v1.34 (August 16, 2022)*  
 This simple yet powerful security tool shows you who has what access to
 directories, files and Registry keys on your systems. Use it to find
 holes in your permissions.
@@ -87,7 +87,7 @@ to optimize individual files, or to create new files that are
 contiguous.
 
 [Coreinfo](coreinfo.md)  
-*v3.31 (August 18, 2014)*  
+*v3.53 (August 16, 2022)*  
 Coreinfo is a new command-line utility that shows you the mapping
 between logical processors and the physical processor, NUMA node, and
 socket on which they reside, as well as the cache’s assigned to each
@@ -346,7 +346,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v13.34 (May 11, 2022)*  
+*v14.0 (August 16, 2022)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
