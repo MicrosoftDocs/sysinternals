@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 07/19/2022
+ms.date: 08/16/2022
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,11 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
+
+### What's New (August 16, 2022)
+
+- [Sysmon v14.0](~/downloads/sysmon.md)  
+This major Sysmon update adds a new event type, FileBlockExecutable that can be used to stop processes from creating executable files on disk. There are also several performance improvements and bug fixes for ProcessCreate, ImageLoad and ProcessTampering events.
 
 ### What's New (July 19, 2022)
 
@@ -72,8 +77,3 @@ Mark talks with Larry Seltzer about the history and future of Sysinternals.
 
 - [Autoruns v14.0](~/downloads/autoruns.md)  
 Autoruns, a utility for monitoring startup items, is the latest Sysinternals tool to receive a UI overhaul including a dark theme.
-
-### What's New (July 27, 2021)
-
-- [ProcDump v10.1](~/downloads/procdump.md)  
-This update to ProcDump, a command-line utility for generating memory dumps from running processes, adds a new option (-dc) for specifying a dumpfile comment and supports "triage" dumps (-mt).
