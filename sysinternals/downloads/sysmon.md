@@ -5,16 +5,16 @@ description: Monitors and reports key system activity via the Windows event log.
 no-loc: [Mark Russinovich, Thomas Garnier]
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
-ms.date: 05/11/2022
+ms.date: 08/16/2022
 ---
 
-# Sysmon v13.34
+# Sysmon v14.0
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: May 11, 2022
+Published: August 16, 2022
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(3.1 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(3.4 MB)**
 
 [**Download Sysmon for Linux (GitHub)**](https://github.com/Sysinternals/SysmonForLinux)
 
@@ -437,6 +437,7 @@ configuration file:
 |  **24**   ClipboardChange       | New content in the clipboard |
 |  **25**   ProcessTampering      | Process image change |
 |  **26**   FileDeleteDetected    | File Delete logged |
+|  **27**   FileBlockExecutable   | File Block Executable |
 
 You can also find these tags in the event viewer on the task name.
 
@@ -526,7 +527,7 @@ generated for the termination of `ping.exe` and `timeout.exe`.
   </EventFiltering>
 ```
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(3.1 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(3.4 MB)**
   
 **Runs on:**
 
