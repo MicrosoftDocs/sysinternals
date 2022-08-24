@@ -57,7 +57,7 @@ activity, which adds an extra touch of realism!
 
 You can find out how real Blue Screens are generated, and what the
 information on the Blue Screen means in my December 1997 [*Windows ITPro
-Magazine*](https://www.windowsitpro.com/) NT Internals column, *"Inside
+Magazine*](https://www.itprotoday.com/compute-engines/inside-blue-screen) NT Internals column, *"Inside
 the Blue Screen."*
 
 **Note: Some virus scanners flag the Bluescreen screen saver as a virus.
