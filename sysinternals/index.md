@@ -11,7 +11,7 @@ ms.date: 08/16/2022
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
 
  <video width="320" height="240" muted autoplay loop>
-    <source src="https://github.com/MicrosoftDocs/sysinternals/raw/61e2510a914a889e02e63b58a70475fb2b143186/sysinternals/media/index/cogs.mp4" type="video/mp4">
+    <source src="media/index/cogs.txt" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows systems and applications.  
