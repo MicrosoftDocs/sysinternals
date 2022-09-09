@@ -16,8 +16,8 @@ Published: July 29, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
-<br>
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE55yQm?autoplay=true&loop=true&controls=false]
+<br><br>
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE55yQm?autoplay=true&loop=true&controls=false&defaultPlaybackRate=2&width=1920]
 
 ## Introduction
 
