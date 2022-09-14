@@ -6,9 +6,9 @@ In this topic, you'll see the basic process for adding or updating content in th
 
 In this topic, we'll cover:
 
-* [Process for contributing](#process-for-contributing)
-* [DOs and DON'Ts](#dos-and-donts)
-* [Building the docs](#building-the-docs)
+- [Process for contributing](#process-for-contributing)
+- [DOs and DON'Ts](#dos-and-donts)
+- [Building the docs](#building-the-docs)
 
 ## Process for contributing
 
@@ -28,7 +28,7 @@ The Windows Sysinternals team will review your PR and let you know if the change
 
 The maintainers will merge your PR into the master branch once feedback has been applied and your change looks good.
 
-On a certain cadence, we push all commits from master branch into the live branch and then you'll be able to see your contribution live at https://docs.microsoft.com/sysinternals/.
+On a certain cadence, we push all commits from master branch into the live branch and then you'll be able to see your contribution live at [Sysinternals](https://docs.microsoft.com/sysinternals/).
 
 ## DOs and DON'Ts
 
@@ -41,7 +41,7 @@ Below is a short list of guiding rules that you should keep in mind when you are
 
 ## Building the docs
 
-The documentation is written in [GitHub Flavored Markdown](https://help.github.com/categories/writing-on-github/) and built using [DocFX](https://dotnet.github.io/docfx/) and other internal publishing/building tools. It is hosted at [docs.microsoft.com](https://docs.microsoft.com/dotnet).
+The documentation is written in [GitHub Flavored Markdown](https://help.github.com/categories/writing-on-github/) and built using [DocFX](https://dotnet.github.io/docfx/) and other internal publishing/building tools. It's published at [.NET documentation](https://docs.microsoft.com/dotnet).
 
 If you want to build the docs locally, you need to install [DocFX](https://dotnet.github.io/docfx/); latest versions are the best.
 
@@ -57,6 +57,6 @@ You can build and preview the resulting site locally using a built-in web server
 docfx -t default --serve
 ```
 
-This starts the local preview on [localhost:8080](http://localhost:8080). You can then view the changes by going to `http://localhost:8080/[path]`, such as http://localhost:8080/articles/welcome.html.
+This starts the local preview on [localhost:8080](http://localhost:8080). You can then view the changes by going to `http://localhost:8080/[path]`, such as `http://localhost:8080/articles/welcome.html`.
 
 **Note:** the local preview currently doesn't contain any themes at the moment so the look and feel won't be the same as in the documentation site. We're working towards fixing that experience.
