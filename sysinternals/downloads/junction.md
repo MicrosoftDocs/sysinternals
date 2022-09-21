@@ -3,7 +3,7 @@ TOCTitle: Junction
 title: Junction
 description: Create Win2K NTFS junction points.
 ms:assetid: '16f763c0-cb78-4d67-a865-63e79bef0c58'
-ms:mtpsurl: 'https://docs.microsoft.com/en-us/sysinternals/downloads/junction'
+ms:mtpsurl: 'https://learn.microsoft.com/sysinternals/downloads/junction'
 ms.date: 09/17/2020
 ---
 

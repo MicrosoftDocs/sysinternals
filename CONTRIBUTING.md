@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to the Windows Sysinternals documentation!
 
-In this topic, you'll see the basic process for adding or updating content in the [Windows Sysinternals documentation site](https://docs.microsoft.com/sysinternals).
+In this topic, you'll see the basic process for adding or updating content in the [Windows Sysinternals documentation site](https://learn.microsoft.com/sysinternals).
 
 In this topic, we'll cover:
 
@@ -28,7 +28,7 @@ The Windows Sysinternals team will review your PR and let you know if the change
 
 The maintainers will merge your PR into the master branch once feedback has been applied and your change looks good.
 
-On a certain cadence, we push all commits from master branch into the live branch and then you'll be able to see your contribution live at [Sysinternals](https://docs.microsoft.com/sysinternals/).
+On a certain cadence, we push all commits from master branch into the live branch and then you'll be able to see your contribution live at [Sysinternals](https://learn.microsoft.com/sysinternals/).
 
 ## DOs and DON'Ts
 
@@ -41,7 +41,7 @@ Below is a short list of guiding rules that you should keep in mind when you are
 
 ## Building the docs
 
-The documentation is written in [GitHub Flavored Markdown](https://help.github.com/categories/writing-on-github/) and built using [DocFX](https://dotnet.github.io/docfx/) and other internal publishing/building tools. It's published at [.NET documentation](https://docs.microsoft.com/dotnet).
+The documentation is written in [GitHub Flavored Markdown](https://help.github.com/categories/writing-on-github/) and built using [DocFX](https://dotnet.github.io/docfx/) and other internal publishing/building tools. It's published at [.NET documentation](https://learn.microsoft.com/dotnet).
 
 If you want to build the docs locally, you need to install [DocFX](https://dotnet.github.io/docfx/); latest versions are the best.
 
