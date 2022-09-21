@@ -5,25 +5,25 @@
     tocHref: /sysinternals/
     topicHref: /sysinternals/index
     items:
-    - name: Learn
-      tocHref: /sysinternals/learn/
-      topicHref: /sysinternals/learn/index
+    - name: Resources
+      tocHref: /sysinternals/resources/
+      topicHref: /sysinternals/resources/index
       items:
       - name: Mark's Webcasts
-        tocHref: /sysinternals/learn/webcasts/
-        topicHref: /sysinternals/learn/webcasts
+        tocHref: /sysinternals/resources/webcasts/
+        topicHref: /sysinternals/resources/webcasts
       - name: Windows Internals Book
-        tocHref: /sysinternals/learn/windows-internals/
-        topicHref: /sysinternals/learn/windows-internals
+        tocHref: /sysinternals/resources/windows-internals/
+        topicHref: /sysinternals/resources/windows-internals
       - name: Troubleshooting with the Windows Sysinternals Tools
-        tocHref: /sysinternals/learn/troubleshooting-book/
-        topicHref: /sysinternals/learn/troubleshooting-book
+        tocHref: /sysinternals/resources/troubleshooting-book/
+        topicHref: /sysinternals/resources/troubleshooting-book
       - name: Inside Native Applications
-        tocHref: /sysinternals/learn/inside-native-applications/
-        topicHref: /sysinternals/learn/inside-native-applications
+        tocHref: /sysinternals/resources/inside-native-applications/
+        topicHref: /sysinternals/resources/inside-native-applications
       - name: Newsletters Archive
-        tocHref: /sysinternals/learn/archive/
-        topicHref: /sysinternals/learn/archive
+        tocHref: /sysinternals/resources/archive/
+        topicHref: /sysinternals/resources/archive
     - name: Downloads
       tocHref: /sysinternals/downloads/
       topicHref: /sysinternals/downloads/index
@@ -134,7 +134,7 @@
           topicHref: /sysinternals/downloads/whois/
       - name: Process Utilities
         tocHref: /sysinternals/downloads/process-utilities/
-        topicHref: /sysinternals/process-utilities/
+        topicHref: /sysinternals/downloads/process-utilities
         items:
         - name: AutoRuns
           tocHref: /sysinternals/downloads/autoruns/
