@@ -4,14 +4,14 @@ title: BgInfo
 description: This fully-configurable program automatically generates desktop backgrounds that include important information about the system.
 ms:assetid: '07f90217-c972-4992-beb1-7fb6c685e9de'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897557(v=MSDN.10)'
-ms.date: 07/29/2022
+ms.date: 09/29/2022
 ---
 
-# BgInfo v4.31
+# BgInfo v4.32
 
 **By Mark Russinovich**
 
-Published: July 29, 2022
+Published: September 29, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip) **(2.2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Bginfo.exe).
