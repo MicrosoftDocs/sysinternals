@@ -341,6 +341,10 @@ A file was deleted.
 
 This event is generated when Sysmon detects and blocks the creation of executable files.
 
+### Event ID 28: FileBlockShredding
+
+This event is generated when Sysmon detects and blocks file shredding from tools such as [SDelete](sdelete.md).
+
 ### Event ID 255: Error
 
 This event is generated when an error occurred within Sysmon. They can
