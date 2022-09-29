@@ -6,7 +6,7 @@ ms:assetid: 'c5e117b5-d674-4409-914d-17bcac43f1fd'
 ms:mtpsurl: 'https://technet.microsoft.com/Cc835722(v=MSDN.10)'
 ms.date: 09/29/2022
 ---
-# Coreinfo v3.54
+# Coreinfo v3.6
 
 **By Mark Russinovich**
 

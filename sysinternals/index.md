@@ -33,7 +33,10 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ### What's New (September 29, 2022)
 
 - [Sysmon v14.1](~/downloads/sysmon.md)  
-This update to Sysmon, an advanced host monitoring tool, adds a new event type, FileBlockShredding that prevents processes such as sdelete from securely deleting files.
+This update to Sysmon, an advanced host monitoring tool, adds a new event type, FileBlockShredding that prevents wiping tools such as Sysinternals SDelete from corrupting and deleting files.
+
+- [Coreinfo v3.6](~/downloads/coreinfo.md)  
+This update to Coreinfo, a utility that reports system CPU, memory and cache topology and information, now has an option (-d) for measuring inter-CPU latencies in counter ticks.
 
 ### What's New (August 16, 2022)
 

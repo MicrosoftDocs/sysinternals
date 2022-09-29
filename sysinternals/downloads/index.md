@@ -87,7 +87,7 @@ to optimize individual files, or to create new files that are
 contiguous.
 
 [Coreinfo](coreinfo.md)  
-*v3.54 (September 29, 2022)*  
+*v3.6 (September 29, 2022)*  
 Coreinfo is a new command-line utility that shows you the mapping
 between logical processors and the physical processor, NUMA node, and
 socket on which they reside, as well as the cache’s assigned to each
