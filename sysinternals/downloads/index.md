@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 08/16/2022
+ms.date: 09/29/2022
 ---
 
 # Sysinternals Utilities Index
@@ -27,7 +27,7 @@ AccessChk is a command-line tool for viewing the effective permissions
 on files, registry keys, services, processes, kernel objects, and more.
 
 [AccessEnum](accessenum.md)  
-*v1.34 (August 16, 2022)*  
+*v1.35 (September 29, 2022)*  
 This simple yet powerful security tool shows you who has what access to
 directories, files and Registry keys on your systems. Use it to find
 holes in your permissions.
@@ -58,7 +58,7 @@ Registry and file locations where applications can configure auto-start
 settings.
 
 [BgInfo](bginfo.md)  
-*v4.31 (July 29, 2022)*  
+*v4.32 (September 29, 2022)*  
 This fully-configurable program automatically generates desktop
 backgrounds that include important information about the system
 including IP addresses, computer name, network adapters, and more.
@@ -87,7 +87,7 @@ to optimize individual files, or to create new files that are
 contiguous.
 
 [Coreinfo](coreinfo.md)  
-*v3.53 (August 16, 2022)*  
+*v3.6 (September 29, 2022)*  
 Coreinfo is a new command-line utility that shows you the mapping
 between logical processors and the physical processor, NUMA node, and
 socket on which they reside, as well as the cache’s assigned to each
@@ -187,7 +187,7 @@ List the active logon sessions on a system.
 Allows you to schedule move and delete commands for the next reboot.
 
 [NotMyFault](notmyfault.md)  
-*v4.01 (November 18, 2016)*  
+*v4.21 (September 29, 2022)*  
 Notmyfault is a tool that you can use to crash, hang, and cause kernel
 memory leaks on your Windows system.
 
@@ -346,7 +346,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v14.0 (August 16, 2022)*  
+*v14.1 (September 29, 2022)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
