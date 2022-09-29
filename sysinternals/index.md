@@ -36,7 +36,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 This update to Sysmon, an advanced host monitoring tool, adds a new event type, FileBlockShredding that prevents wiping tools such as Sysinternals SDelete from corrupting and deleting files.
 
 - [Coreinfo v3.6](~/downloads/coreinfo.md)  
-This update to Coreinfo, a utility that reports system CPU, memory and cache topology and information, now has an option (-d) for measuring inter-CPU latencies in counter ticks.
+This update to Coreinfo, a utility that reports system CPU, memory and cache topology and information, now has an option (-d) for measuring inter-CPU latencies in nanoseconds.
 
 ### What's New (August 16, 2022)
 
