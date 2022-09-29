@@ -1,6 +1,6 @@
 ---
 TOCTitle: 'Sysinternals: Documentation, downloads and additional resources'
-title:  Sysinternals | Microsoft Docs
+title:  Sysinternals
 description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
