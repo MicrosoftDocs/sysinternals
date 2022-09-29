@@ -5,14 +5,14 @@ description: Monitors and reports key system activity via the Windows event log.
 no-loc: [Mark Russinovich, Thomas Garnier]
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
-ms.date: 08/16/2022
+ms.date: 09/29/2022
 ---
 
-# Sysmon v14.0
+# Sysmon v14.1
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: August 16, 2022
+Published: September 29, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(3.4 MB)**
 
@@ -337,6 +337,14 @@ This event is generated when process hiding techniques such as "hollow" or
 
 A file was deleted.
 
+### Event ID 27: FileBlockExecutable
+
+This event is generated when Sysmon detects and blocks the creation of executable files.
+
+### Event ID 28: FileBlockShredding
+
+This event is generated when Sysmon detects and blocks file shredding from tools such as [SDelete](sdelete.md).
+
 ### Event ID 255: Error
 
 This event is generated when an error occurred within Sysmon. They can
@@ -353,7 +361,31 @@ deploy a preset configuration and to filter captured events.
 
 A simple configuration xml file looks like this:
 
-![Configuration file](media/sysmon/sysmon_schema.png)
+```xml
+<Sysmon schemaversion="4.82">
+  <!-- Capture all hashes -->
+  <HashAlgorithms>*</HashAlgorithms>
+  <EventFiltering>
+    <!-- Log all drivers except if the signature -->
+    <!-- contains Microsoft or Windows -->
+    <DriverLoad onmatch="exclude">
+      <Signature condition="contains">microsoft</Signature>
+      <Signature condition="contains">windows</Signature>
+    </DriverLoad>
+    <!-- Do not log process termination -->
+    <ProcessTerminate onmatch="include" />
+    <!-- Log network connection if the destination port equal 443 -->
+    <!-- or 80, and process isn't InternetExplorer -->
+    <NetworkConnect onmatch="include">
+      <DestinationPort>443</DestinationPort>
+      <DestinationPort>80</DestinationPort>
+    </NetworkConnect>
+    <NetworkConnect onmatch="exclude">
+      <Image condition="end with">iexplore.exe</Image>
+    </NetworkConnect>
+  </EventFiltering>
+</Sysmon>
+```
 
 The configuration file contains a schemaversion attribute on the Sysmon
 tag. This version is independent from the Sysmon binary version and
@@ -438,6 +470,7 @@ configuration file:
 |  **25**   ProcessTampering      | Process image change |
 |  **26**   FileDeleteDetected    | File Delete logged |
 |  **27**   FileBlockExecutable   | File Block Executable |
+|  **28**   FileBlockShredding    | File Block Shredding |
 
 You can also find these tags in the event viewer on the task name.
 
