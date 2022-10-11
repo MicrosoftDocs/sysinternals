@@ -16,7 +16,9 @@ Published: 08/18/2021
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(680 KB)**
 
 [**Download ProcDump for Linux (GitHub)**](https://github.com/Sysinternals/ProcDump-for-Linux)
-
+<br><br>
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE591St?autoplay=true&loop=true&controls=false]
+<sup>*Created by [ZoomIt]*(https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)</sup>
 ## Introduction
 
 ProcDump is a command-line utility whose primary purpose is monitoring
