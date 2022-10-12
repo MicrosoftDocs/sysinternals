@@ -17,11 +17,8 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 -   Read [Mark’s Blog](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/bg-p/Windows-Blog-Archive/label-name/Mark%20Russinovich) which highlight use of the tools to solve real problems
 -   Check out the Sysinternals [Learning Resources](~/resources/index.md) page
 -   Post your questions in the [Sysinternals Forum](https://aka.ms/sysint-forums)
----
-## Sysinternals@25: <br>A special anniversary event
-[![Sysinternals@25](media/index/sysinternals25_banner.png)](https://aka.ms/sysinternals25)
-Find the individual videos at https://aka.ms/SysinternalsVideos.
 
+---
 ## Sysinternals Live
 
 Sysinternals Live is a service that enables you to execute Sysinternals tools directly from the Web without hunting for and manually downloading them. Simply enter a tool's Sysinternals Live path into Windows Explorer or a command prompt as live.sysinternals.com/&lt;toolname&gt; or  \\\\live.sysinternals.com\tools\\&lt;toolname&gt;.
@@ -52,41 +49,3 @@ This major update to Sysmon, an advanced host monitoring tool, adds a new event 
 
 - [ZoomIt v6.0](~/downloads/zoomit.md)  
 This major update to ZoomIt, a screen magnification and annotation tool, adds built-in screen recording for easy demo recordings and now supports Unicode typing input.
-
-### What's New (February 16, 2022)
-
-- [ZoomIt v5.10](~/downloads/zoomit.md)  
-This update to ZoomIt, a screen magnification and annotation tool, now supports pen and touch drawing.
-
-### What's New (January 27, 2022)
-
-- [ZoomIt v5.0](~/downloads/zoomit.md)  
-ZoomIt, a screen zoom and annotation tool, now supports Windows 11 and antialiased line drawing. Note that under Windows 11 and Windows Server 2022 some UI elements might not react to mouse clicks when zoomed. The temporary workaround until a future Windows update is to store the ZoomIt executable under the Windows or the Program Files directories.
-
-- [RDCMan v2.90](~/downloads/rdcman.md)  
-RDCMan, a tool for managing and connecting to Remote Desktop sessions, receives support for Restricted Admin (/restrictedAdmin from mstsc) and Remote Credential Guard (/remoteGuard from mstsc) and bug fixes.
-
-### What's New (October 26, 2021)
-
-- [Sysmon v13.30](~/downloads/sysmon.md)  
-This Sysmon update adds user fields for events, fixes a series of crash-causing bugs - for example with the Visual Studio debugger - and improves memory usage and management in the driver.
-
-### What's New (October 14, 2021)
-
-- [Install Sysinternals Suite from the Microsoft Store](ms-windows-store://pdp/?productid=9P7KNL5RWT25)  
-Sysinternals Suite is now available in the Microsoft Store and Windows Package Manager (winget).
-
-  ```powershell
-  PS C:\> winget install sysinternals
-  ```
-
-- [Sysmon for Linux](https://github.com/Sysinternals/SysmonForLinux)  
-Sysmon is now available as an open source project for Linux.
-
-### What's New (August 18, 2021)
-
-- [Candid talk from the man behind your favorite Windows tools](https://www.hpe.com/us/en/insights/articles/candid-talk-from-the-man-behind-your-favorite-windows-tools-2107.html)  
-Mark talks with Larry Seltzer about the history and future of Sysinternals.
-
-- [Autoruns v14.0](~/downloads/autoruns.md)  
-Autoruns, a utility for monitoring startup items, is the latest Sysinternals tool to receive a UI overhaul including a dark theme.
