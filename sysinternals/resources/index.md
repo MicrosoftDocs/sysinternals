@@ -27,6 +27,22 @@ The official guide to the Sysinternals utilities by Mark Russinovich and Aaron M
 
 ## Videos and Webcasts
 
+[Sysinternals@25](https://aka.ms/SysinternalsVideos)  
+Find all the videos from this special event:
+
+- [Fireside Chat with Mark Russinovich](https://www.youtube.com/watch?v=tR22u6H8E5w&list=PLLhSArDiaW6IgzMYEMaEf_BF2yQN40fIm&index=1)
+- [Sysinternals Overview](https://www.youtube.com/watch?v=6RqFPrCcWfY&list=PLLhSArDiaW6IgzMYEMaEf_BF2yQN40fIm&index=2)
+- [Process Explorer Deep Dive](https://www.youtube.com/watch?v=ZqZvzA4OGDA&list=PLLhSArDiaW6IgzMYEMaEf_BF2yQN40fIm&index=3)
+- [Process Monitor Deep Dive](https://www.youtube.com/watch?v=9H0Dz3NbNYQ&list=PLLhSArDiaW6IgzMYEMaEf_BF2yQN40fIm&index=4)
+- [Sysmon Deep Dive](https://www.youtube.com/watch?v=6W6pXp6EojY&list=PLLhSArDiaW6IgzMYEMaEf_BF2yQN40fIm&index=5)
+- [Autoruns Deep Dive](https://www.youtube.com/watch?v=G_YlltkI2mA&list=PLLhSArDiaW6IgzMYEMaEf_BF2yQN40fIm&index=6)
+- [ProcDump Deep Dive](https://www.youtube.com/watch?v=52c1QIW6niE&list=PLLhSArDiaW6IgzMYEMaEf_BF2yQN40fIm&index=7)
+- [PsTools Deep Dive](https://www.youtube.com/watch?v=XWq3v9Z6pgo&list=PLLhSArDiaW6IgzMYEMaEf_BF2yQN40fIm&index=8)
+- [Sysinternals for Linux Deep Dive](https://www.youtube.com/watch?v=_ZTaJ-sbLfk&list=PLLhSArDiaW6IgzMYEMaEf_BF2yQN40fIm&index=9)
+
+[Candid talk from the man behind your favorite Windows tools](https://www.hpe.com/us/en/insights/articles/candid-talk-from-the-man-behind-your-favorite-windows-tools-2107.html)  
+Mark talks with Larry Seltzer about the history and future of Sysinternals.
+
 [Defrag Tools Shows](https://channel9.msdn.com/shows/defrag-tools)  
 Episodes 1 – 12 of the *Defrag Tools* shows focus on Sysinternals tools. Each episode covers a specific tool used on the tech support show [Defrag](https://channel9.msdn.com/shows/the-defrag-show), covering when and why to use the tools, and providing tips on how to get the most out of them:
 
