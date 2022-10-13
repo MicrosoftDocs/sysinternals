@@ -59,7 +59,8 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Center The Cursor (Drawing Mode) | Space Bar |
 | Whiteboard (Drawing Mode) | W |
 | Blackboard (Drawing Mode) | K |
-| Type in Text | T |
+| Type in Text (Right Aligned) | T |
+| Type in Text (Left Aligned) | Shift + T |
 | Increase/Decrease Font Size (Typing Mode) | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
 | Red Pen | R |
 | Green Pen | G |
