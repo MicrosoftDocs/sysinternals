@@ -5,14 +5,14 @@ description: Presentation utility for zooming and drawing on the screen.
 no-loc: [Mark Russinovich]
 ms:assetid: '0b6c4abc-9482-4759-a9cd-bf77cb961dd4'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
-ms.date: 10/12/2022
+ms.date: 10/13/2022
 ---
 
-# ZoomIt v6.1
+# ZoomIt v6.11
 
 **By Mark Russinovich**
 
-Published: October 12, 2022
+Published: October 13, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
@@ -59,7 +59,8 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Center The Cursor (Drawing Mode) | Space Bar |
 | Whiteboard (Drawing Mode) | W |
 | Blackboard (Drawing Mode) | K |
-| Type in Text | T |
+| Type in Text (Left Aligned) | T |
+| Type in Text (Right Aligned) | Shift + T |
 | Increase/Decrease Font Size (Typing Mode) | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
 | Red Pen | R |
 | Green Pen | G |
