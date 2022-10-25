@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 10/12/2022
+ms.date: 10/25/2022
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -26,6 +26,14 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
+
+### What's New (October 25, 2022)
+
+- [Process Explorer v17.0](~/downloads/process-exploreer.md)  
+This update to Process Explorer, an advanced process, DLL and handle viewing utility, adds a series of bugfixes and usability improvements and features the new dark theme.
+
+- [Handle v5.0](~/downloads/handle.md)  
+This update to Handle, a tool that displays information about open handles for any process in the system, adds CSV output (-v, -vt) and has an option to print the granted access mask (-g).
 
 ### What's New (October 12, 2022)
 
