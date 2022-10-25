@@ -215,7 +215,7 @@ shows you a portion of the data being sent and received. Version 3.x has
 powerful new UI enhancements and advanced filtering capabilities.
 
 [ProcDump](procdump.md)  
-*v10.11 (August 18, 2021)*  
+*v11.0 (October 25, 2022)*  
 This command-line utility is aimed at capturing process dumps of
 otherwise difficult to isolate and reproduce CPU spikes. It also serves
 as a general process dump creation utility and can also monitor and

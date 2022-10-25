@@ -32,6 +32,9 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 - [Process Explorer v17.0](~/downloads/process-exploreer.md)  
 This update to Process Explorer, an advanced process, DLL and handle viewing utility, adds a series of bugfixes and usability improvements and features the new dark theme.
 
+- [ProcDump v11.0](~/downloads/procdump.md)  
+This update to ProcDump, a command-line utility for generating memory dumps from running processes, adds ModuleLoad/Unload and Thread Create/Exit triggers, removes Internet Explorer JavaScript support, and improves descriptive text messages.
+
 - [Handle v5.0](~/downloads/handle.md)  
 This update to Handle, a tool that displays information about open handles for any process in the system, adds CSV output (-v, -vt) and has an option to print the granted access mask (-g).
 
