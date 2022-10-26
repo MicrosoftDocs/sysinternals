@@ -29,7 +29,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ### What's New (October 26, 2022)
 
-- [Process Explorer v17.0](~/downloads/process-exploreer.md)  
+- [Process Explorer v17.0](~/downloads/process-explorer.md)  
 This update to Process Explorer, an advanced process, DLL and handle viewing utility, adds dark theme support, multipane view in the main window with a new threads pane, startup performance optimization and more.
 
 - [Handle v5.0](~/downloads/handle.md)  
