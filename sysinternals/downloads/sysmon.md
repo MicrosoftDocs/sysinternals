@@ -14,7 +14,7 @@ ms.date: 10/26/2022
 
 Published: October 26, 2022
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(3.4 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(4.6 MB)**
 
 [**Download Sysmon for Linux (GitHub)**](https://github.com/Sysinternals/SysmonForLinux)
 
@@ -560,7 +560,7 @@ generated for the termination of `ping.exe` and `timeout.exe`.
   </EventFiltering>
 ```
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(3.4 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(4.6 MB)**
   
 **Runs on:**
 

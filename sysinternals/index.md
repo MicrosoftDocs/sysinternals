@@ -30,10 +30,10 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ### What's New (October 26, 2022)
 
 - [Process Explorer v17.0](~/downloads/process-exploreer.md)  
-This update to Process Explorer, an advanced process, DLL and handle viewing utility, adds a series of bugfixes and usability improvements and features the new dark theme.
+This update to Process Explorer, an advanced process, DLL and handle viewing utility, adds dark theme support, multipane view in the main window with a new threads pane, startup performance optimization and more.
 
 - [Handle v5.0](~/downloads/handle.md)  
-This update to Handle, a tool that displays information about open handles for any process in the system, adds CSV output (-v, -vt) and has an option to print the granted access mask (-g).
+This update to Handle, a tool that displays information about open handles for any process in the system, adds CSV output with a new `-v` switch and has an option to print the granted access mask with `-g`.
 
 ### What's New (October 12, 2022)
 

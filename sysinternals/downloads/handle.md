@@ -13,7 +13,7 @@ ms.date: 10/26/2022
 
 Published: October 26, 2022
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(887 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(729 KB)**
 
 ## Introduction
 
@@ -75,4 +75,4 @@ Internals, 4th Edition* or by browsing the Object Manager name-space
 with
 [WinObj](winobj.md).  
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(887 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(729 KB)**
