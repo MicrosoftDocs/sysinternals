@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 10/25/2022
+ms.date: 10/26/2022
 ---
 
 # Sysinternals Utilities Index
@@ -148,7 +148,7 @@ data remains allocated so long as at it has at least one file name
 referencing it.
 
 [Handle](handle.md)  
-*v5.0 (October 25, 2022)*  
+*v5.0 (October 26, 2022)*  
 This handy command-line utility will show you what files are open by
 which processes, and much more.
 
@@ -215,7 +215,7 @@ shows you a portion of the data being sent and received. Version 3.x has
 powerful new UI enhancements and advanced filtering capabilities.
 
 [ProcDump](procdump.md)  
-*v11.0 (October 25, 2022)*  
+*v10.11 (August 18, 2021)*  
 This command-line utility is aimed at capturing process dumps of
 otherwise difficult to isolate and reproduce CPU spikes. It also serves
 as a general process dump creation utility and can also monitor and
@@ -223,13 +223,13 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)  
-*v17.0 (October 25, 2022)*  
+*v17.0 (October 26, 2022)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.92 (October 25, 2022)*  
+*v3.92 (October 26, 2022)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -346,7 +346,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v14.11 (October 25, 2022)*  
+*v14.11 (October 26, 2022)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  

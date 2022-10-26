@@ -4,14 +4,14 @@ title: Handle
 description: This handy command-line utility will show you what files are open by which processes, and much more.
 ms:assetid: '05600b13-e4c8-473d-bb5d-d36a881686e5'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896655(v=MSDN.10)'
-ms.date: 10/25/2022
+ms.date: 10/26/2022
 ---
 
 # Handle v5.0
 
 **By Mark Russinovich**
 
-Published: October 25, 2022
+Published: October 26, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(887 KB)**
 
