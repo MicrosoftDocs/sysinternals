@@ -4,16 +4,16 @@ title: Handle
 description: This handy command-line utility will show you what files are open by which processes, and much more.
 ms:assetid: '05600b13-e4c8-473d-bb5d-d36a881686e5'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896655(v=MSDN.10)'
-ms.date: 09/07/2020
+ms.date: 10/26/2022
 ---
 
-# Handle v4.22
+# Handle v5.0
 
 **By Mark Russinovich**
 
-Published: June 14, 2019
+Published: October 26, 2022
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(887 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(729 KB)**
 
 ## Introduction
 
@@ -38,17 +38,19 @@ do not specify any command-line parameters it will list the values of
 all the handles in the system that refer to open files and the names of
 the files. It also takes several parameters that modify this behavior.
 
-**usage: handle \[\[-a\] \[-u\] | \[-c &lt;handle&gt; \[-l\] \[-y\]\] |
-\[-s\]\] \[-p &lt;processname&gt;|&lt;pid&gt;&gt; \[name\]**
+**usage:** `handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process>|<pid>] [name]`
 
 |Parameter  |Description  |
 |---------|---------|
 | **-a** | Dump information about all types of handles, not just those that refer to files. Other types include ports, Registry keys, synchronization primitives, threads, and processes.|
+| **-l** | Just show pagefile-backed section handles.|
 | **-c** | Closes the specified handle (interpreted as a hexadecimal number). You must specify the process by its PID.<br />**WARNING:** Closing handles can cause application or system instability.|
-| **-l** | Dump the sizes of pagefile-backed sections. |
+| **-g** | Print granted access.|
 | **-y** | Don't prompt for close handle confirmation. |
 | **-s** | Print count of each type of handle open. |
 | **-u** | Show the owning user name when searching for handles. |
+| **-v** | CSV output with comma delimiter.|
+| **-vt** | CSV output with tab delimiter.|
 | **-p** | Instead of examining all the handles in the system, this parameter narrows Handle's scan to those processes that begin with the name process. Thus:<br /> **handle -p exp**<br /> would dump the open files for all processes that start with "exp", which would include Explorer. |
 | **name** | This parameter is present so that you can direct Handle to search for references to an object with a particular name.<br /> For example, if you wanted to know which process (if any) has "c:\windows\system32" open you could type:<br /> **handle windows\system**<br />The name match is case-insensitive and the fragment specified can be anywhere in the paths you are interested in. |
 
@@ -73,4 +75,4 @@ Internals, 4th Edition* or by browsing the Object Manager name-space
 with
 [WinObj](winobj.md).  
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(887 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Handle.zip) [**Download Handle**](https://download.sysinternals.com/files/Handle.zip) **(729 KB)**
