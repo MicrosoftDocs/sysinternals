@@ -42,7 +42,7 @@
       "ms.prod": "windows-sysinternals",
       "ms.technology": "system-utilities",
       "ms.topic": "system-utilities",
-      "titleSuffix": "Windows Sysinternals",
+      "titleSuffix": "Sysinternals",
       "hide_comments": true,
       "contributors_to_exclude": ["v-kents"]
     },
