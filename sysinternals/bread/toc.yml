@@ -292,6 +292,9 @@
       - name: Sysinternals Suite
         tocHref: /sysinternals/downloads/sysinternals-suite/
         topicHref: /sysinternals/downloads/sysinternals-suite
+      - name: Microsoft Store
+        tocHref: /sysinternals/downloads/microsoft-store/
+        topicHref: /sysinternals/downloads/microsoft-store
     - name: Community
       tocHref: /sysinternals/community/
       topicHref: /sysinternals/community
