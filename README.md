@@ -1,4 +1,4 @@
-# Windows Sysinternals Documentation
+# Sysinternals Documentation
 
 This is the source repository for [Sysinternals](https://learn.microsoft.com/sysinternals/).
 
