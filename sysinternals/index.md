@@ -33,7 +33,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 This update to ProcDump, a command-line utility for generating memory dumps from running processes, adds ModuleLoad/Unload and Thread Create/Exit triggers, removes Internet Explorer JavaScript support, and improves descriptive text messages.
 
 - [ProcDump for Linux 1.3](https://github.com/Sysinternals/ProcDump-for-Linux)  
-With this update, the CLI interface has been changed to match ProcDump for Windows, and a new process group trigger (`-pgid`) has been added to allow monitoring all processes running in the same process group.
+This update to ProcDump for Linux changes the CLI interface to match ProcDump for Windows, and adds a new process group trigger (`-pgid`) to allow monitoring all processes running in the same process group.
 
 ### What's New (October 26, 2022)
 
