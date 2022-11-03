@@ -315,7 +315,7 @@ Kernel](https://www.amazon.com/rootkits-subverting-windows-greg-hoglund/dp/03212
 This book by Greg Hoglund and Jamie Butler is the most comprehensive
 treatment of rootkits available.
 
-[www.phrack.org](https://www.phrack.org/)  
+[www.phrack.org](http://www.phrack.org/)  
 This site stores the archive of *Phrack*, a cracker-oriented magazine
 where developers discuss flaws in security-related products, rootkit
 techniques, and other malware tricks.
