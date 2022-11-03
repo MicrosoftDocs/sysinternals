@@ -13,7 +13,7 @@ ms.date: 11/03/2022
 
 Published: 11/03/2022
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(680 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(714 KB)**
 
 [**Download ProcDump for Linux (GitHub)**](https://github.com/Sysinternals/ProcDump-for-Linux)
 <br><br>
@@ -359,7 +359,7 @@ C:\>procdump -? -e
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(680 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(714 KB)**
 
 [**Download ProcDump for Linux (GitHub)**](https://github.com/Microsoft/ProcDump-for-Linux)
 
