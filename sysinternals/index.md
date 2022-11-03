@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 10/26/2022
+ms.date: 11/03/2022
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -26,6 +26,11 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
+
+### What's New (November 3, 2022)
+
+- [ProcDump v11.0](~/downloads/procdump.md)  
+This update to ProcDump, a command-line utility for generating memory dumps from running processes, adds ModuleLoad/Unload and Thread Create/Exit triggers, removes Internet Explorer JavaScript support, and improves descriptive text messages.
 
 ### What's New (October 26, 2022)
 
