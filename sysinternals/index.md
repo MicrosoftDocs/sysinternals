@@ -30,7 +30,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ### What's New (November 3, 2022)
 
 - [ProcDump v11.0](~/downloads/procdump.md)  
-This update to ProcDump, a command-line utility for generating memory dumps from running processes, adds ModuleLoad/Unload and Thread Create/Exit triggers, removes Internet Explorer JavaScript support, and improves descriptive text messages.
+This update to ProcDump, a command-line utility for generating memory dumps from running processes, adds ModuleLoad/Unload and Thread Create/Exit triggers, removes Internet Explorer JavaScript support, and improves descriptive text messages. On Linux, the CLI interface has been changed to match ProcDump for Windows and a new process group trigger (`-pgid`) has been added to allow monitoring all processes running in the same process group.
 
 ### What's New (October 26, 2022)
 
