@@ -2,7 +2,6 @@
 TOCTitle: Microsoft Store
 title: Microsoft Store
 description: Sysinternals Suite is available as an MSIX package from the Microsoft Store.
-no-loc: [Mark Russinovich]
 ms.date: 11/03/2022
 ---
 
@@ -10,12 +9,17 @@ ms.date: 11/03/2022
 
 ## Sysinternals Suite
 
-Version 2022.11  
-November 3, 2022
+Version 2022.11.1  
+November 10, 2022
 
 Sysinternals Suite is installed as an [MSIX bundle](/windows/msix/package/bundling-overview) from the Microsoft Store.
 
 ### Usage
+
+Like most other MSIX packages, Sysinternals Suite is installed per user, but the binaries are stored in a secure location and are shared between users. Graphical tools, like Process Explorer, are added to the Windows Start menu. Starting with Windows 11, they are grouped in a Sysinternals Suite folder ([VisualGroup property](/windows/msix/packaging-tool/create-start-group)).
+
+> [!NOTE]
+> Windows 10 does not support Start menu folders for MSIX packages so the tools are not grouped in a Sysinternals Suite folder.
 
 All executables are available from the path via Windows [app execution aliases](/uwp/schemas/appxpackage/uapmanifestschema/element-uap5-appexecutionalias):
 
@@ -42,8 +46,6 @@ Microsoft.SysinternalsSuite_8wekyb3d8bbwe "Sysinternals Suite"
     Testlimit.exe        vmmap.exe            Volumeid.exe         whois.exe
     Winobj.exe           ZoomIt.exe
 ```
-
-Graphical tools, like Process Explorer, are added to the Windows Start menu. Starting with Windows 11, they are grouped in a Sysinternals Suite folder ([VisualGroup property](/windows/msix/packaging-tool/create-start-group)). Windows 10 does not support Start menu folders for MSIX packages so they are not grouped.
 
 ### App Execution Aliases
 
