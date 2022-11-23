@@ -4,14 +4,14 @@ title: AD Explorer
 description: Active Directory Explorer is an advanced Active Directory (AD) viewer and editor.
 ms:assetid: 'da300ae9-b58f-4acc-a169-ce3b39867bc8'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb963907(v=MSDN.10)'
-ms.date: 12/16/2021
+ms.date: 11/23/2022
 ---
 
-# Active Directory Explorer v1.51
+# Active Directory Explorer v1.52
 
 **By Mark Russinovich**
 
-Published: December 16, 2021
+Published: November 23, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/AdExplorer.zip)  [**Download AdExplorer**](https://download.sysinternals.com/files/AdExplorer.zip) **(1.2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ADExplorer.exe).

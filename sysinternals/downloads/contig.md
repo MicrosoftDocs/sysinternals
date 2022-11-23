@@ -4,14 +4,14 @@ title: Contig
 description: Use Contig to optimize individual files, or to create new files that are contiguous.
 ms:assetid: '33371252-c217-4fc7-8d74-f9f0e20e0597'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897428(v=MSDN.10)'
-ms.date: 10/12/2021
+ms.date: 11/23/2022
 ---
 
-# Contig v1.81
+# Contig v1.82
 
 **By Mark Russinovich**
 
-Published: October 12, 2021
+Published: November 23, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Contig.zip) [ **Download Contig**](https://download.sysinternals.com/files/Contig.zip) **(433 KB)**
 
