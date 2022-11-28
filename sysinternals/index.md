@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 11/03/2022
+ms.date: 11/28/2022
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
