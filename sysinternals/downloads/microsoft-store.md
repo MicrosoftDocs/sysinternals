@@ -9,14 +9,14 @@ ms.date: 11/03/2022
 
 ## Sysinternals Suite
 
-Version 2022.11.1  
-November 10, 2022
+Version 2022.11.2  
+November 28, 2022
 
 Sysinternals Suite is installed as an [MSIX bundle](/windows/msix/package/bundling-overview) from the Microsoft Store.
 
 ### Usage
 
-Like most other MSIX packages, Sysinternals Suite is installed per user, but the binaries are stored in a secure location and are shared between users. Graphical tools, like Process Explorer, are added to the Windows Start menu. Starting with Windows 11, they are grouped in a Sysinternals Suite folder ([VisualGroup property](/windows/msix/packaging-tool/create-start-group)).
+Like most other MSIX packages, Sysinternals Suite is installed per user, but the binaries are stored in a secure location and shared by users. Graphical tools, like Process Explorer, are added to the Windows Start menu. Starting with Windows 11, they are grouped in a Sysinternals Suite folder ([VisualGroup property](/windows/msix/packaging-tool/create-start-group)).
 
 > [!NOTE]
 > Windows 10 does not support Start menu folders for MSIX packages so the tools are not grouped in a Sysinternals Suite folder.
