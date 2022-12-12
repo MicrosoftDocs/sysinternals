@@ -16,6 +16,9 @@ Published: November 10, 2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.3 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
+<br><br>
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE5d5Rd?autoplay=true&loop=true&controls=false]
+<sup>*Created by ZoomIt*</sup>
 
 ## Introduction
 
@@ -37,8 +40,6 @@ loaded.
 The unique capabilities of *Process Explorer* make it useful for
 tracking down DLL-version problems or handle leaks, and provide insight
 into the way Windows and applications work.
-
-![Process Explorer screenshot](media/process-explorer/process-explorer.png)
 
 ## Related Links
 
