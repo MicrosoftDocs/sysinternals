@@ -27,6 +27,11 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
+### What's New (December 12, 2022)
+
+- [ProcDump 1.4 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux)  
+This update to ProcDump for Linux adds the capability to generate dumps when specified exceptions occur in a .NET process.
+
 ### What's New (November 3, 2022)
 
 - [ProcDump v11.0](~/downloads/procdump.md)  
