@@ -18,7 +18,7 @@ Published: 11/03/2022
 [**Download ProcDump for Linux (GitHub)**](https://github.com/Sysinternals/ProcDump-for-Linux)
 <br><br>
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE591St?autoplay=true&loop=true&controls=false]
-<sup>Created by [ZoomIt](/downloads/zoomit)</sup>
+<sup><i>Created with [ZoomIt](/downloads/zoomit)</i></sup>
 ## Introduction
 
 ProcDump is a command-line utility whose primary purpose is monitoring

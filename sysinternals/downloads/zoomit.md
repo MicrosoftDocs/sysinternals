@@ -18,7 +18,7 @@ Published: October 13, 2022
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
 <br><br>
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE55yQm?autoplay=true&loop=true&controls=false]
-<sup>*Created by ZoomIt*</sup>
+<sup>*Created with ZoomIt*</sup>
 
 ## Introduction
 
