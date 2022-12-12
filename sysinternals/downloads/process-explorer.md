@@ -18,7 +18,8 @@ Published: November 10, 2022
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
 <br><br>
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE5d5Rd?autoplay=true&loop=true&controls=false]
-<sup>*Created by ZoomIt*</sup>
+<sup>Created with <a href="https://learn.microsoft.com/sysinternals/downloads/zoomit">ZoomIt</a></sup>
+<sup>Created with [ZoomIt](https://learn.microsoft.com/sysinternals/downloads/zoomit)</sup>
 
 ## Introduction
 
