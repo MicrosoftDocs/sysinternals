@@ -5,13 +5,13 @@ description: The Windows Sysinternals troubleshooting Utilities have been rolled
 no-loc: [Mark Russinovich]
 ms:assetid: '0e18b180-9b7a-4c49-8120-c47c5a693683' 
 ms:mtpsurl: 'https://technet.microsoft.com/Bb842062(v=MSDN.10)' 
-ms.date: 11/28/2022
+ms.date: 01/25/2023
 ---
 
 # Sysinternals Suite
 
 **By Mark Russinovich**  
-Updated: November 28, 2022
+Updated: January 25, 2023
 
 [**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (44.7 MB)  
 [**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (8.8 MB)  
