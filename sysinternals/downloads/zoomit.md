@@ -5,14 +5,14 @@ description: Presentation utility for zooming and drawing on the screen.
 no-loc: [Mark Russinovich]
 ms:assetid: '0b6c4abc-9482-4759-a9cd-bf77cb961dd4'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
-ms.date: 10/13/2022
+ms.date: 01/25/2023
 ---
 
-# ZoomIt v6.11
+# ZoomIt v6.12
 
 **By Mark Russinovich**
 
-Published: October 13, 2022
+Published: January 25, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
