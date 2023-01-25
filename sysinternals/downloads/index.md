@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 11/28/2022
+ms.date: 01/25/2023
 ---
 
 # Sysinternals Utilities Index
@@ -297,7 +297,7 @@ An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v2.90 (January 27, 2022)*  
+*v2.92 (January 25, 2023)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
@@ -346,7 +346,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v14.13 (November 28, 2022)*  
+*v14.14 (January 25, 2023)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
@@ -370,5 +370,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  
-*v6.11 (October 13, 2022)*  
+*v6.12 (January 25, 2023)*  
 Presentation utility for zooming and drawing on the screen.  
