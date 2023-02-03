@@ -27,6 +27,20 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
+### What's New (January 25, 2023)
+
+- [RDCMan v2.92](~/downloads/rdcman.md) 
+
+This update to RDCMan, a tool for managing and connecting to Remote Desktop sessions, fixes a naming error impeding plugin operation, updates the icon set, and fixes mstscax.dll load on some systems where initialization would previously fail.
+ 
+- [Sysmon v14.14](~/downloads/sysmon.md)  
+
+This update to Sysmon, an advanced host monitoring tool, fixes a timeout occurring with FileDelete and FileDeleteDetected events on low-speed media.
+ 
+- [ZoomIt v6.12](~/downloads/zoomit.md) 
+
+This update to ZoomIt, a screen magnification and annotation tool, eliminates drawing artifacts occurring when changing magnification, changing pen width, or combining these steps, and improves drawing settings persistence.
+
 ### What's New (December 12, 2022)
 
 - [ProcDump 1.4 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux)  
