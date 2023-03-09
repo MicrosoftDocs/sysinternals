@@ -30,7 +30,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 ### What's New (March 9, 2023)
 
 - [Sysmon 1.1 for Linux](https://github.com/Sysinternals/SysmonForLinux)  
-This update to Sysmon, an advanced cross-platform host monitoring tool, adds support for a wider range of Linux distributions by leveraging BTF enabled kernels.
+This update to Sysmon for Linux, an advanced host monitoring tool, adds support for a wider range of distributions (e.g., RHEL) by leveraging BTF enabled kernels.
 
 ### What's New (December 12, 2022)
 
