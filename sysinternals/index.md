@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 11/28/2022
+ms.date: 03/09/2023
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -26,6 +26,11 @@ Sysinternals Live is a service that enables you to execute Sysinternals tools di
 You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
+
+### What's New (March 9, 2023)
+
+- [Sysmon 1.1 for Linux](https://github.com/Sysinternals/SysmonForLinux)  
+This update to Sysmon, an advanced cross-platform host monitoring tool, adds support for a wider range of Linux distributions by leveraging BTF enabled kernels.
 
 ### What's New (December 12, 2022)
 
@@ -60,13 +65,3 @@ This update to Sysmon, an advanced host monitoring tool, adds a new event type, 
 
 - [Coreinfo v3.6](~/downloads/coreinfo.md)  
 This update to Coreinfo, a utility that reports system CPU, memory and cache topology and information, now has an option (-d) for measuring inter-CPU latencies in nanoseconds.
-
-### What's New (August 16, 2022)
-
-- [Sysmon v14.0](~/downloads/sysmon.md)  
-This major update to Sysmon, an advanced host monitoring tool, adds a new event type, FileBlockExecutable that prevents processes from creating executable files in specified locations. It also includes several performance improvements and bug fixes.
-
-### What's New (July 19, 2022)
-
-- [ZoomIt v6.0](~/downloads/zoomit.md)  
-This major update to ZoomIt, a screen magnification and annotation tool, adds built-in screen recording for easy demo recordings and now supports Unicode typing input.
