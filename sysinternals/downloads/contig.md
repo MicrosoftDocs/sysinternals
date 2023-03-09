@@ -4,16 +4,16 @@ title: Contig
 description: Use Contig to optimize individual files, or to create new files that are contiguous.
 ms:assetid: '33371252-c217-4fc7-8d74-f9f0e20e0597'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897428(v=MSDN.10)'
-ms.date: 11/28/2022
+ms.date: 03/09/2023
 ---
 
-# Contig v1.82
+# Contig v1.83
 
 **By Mark Russinovich**
 
-Published: November 28, 2022
+Published: March 9, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Contig.zip) [ **Download Contig**](https://download.sysinternals.com/files/Contig.zip) **(254 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Contig.zip) [ **Download Contig**](https://download.sysinternals.com/files/Contig.zip) **(366 KB)**
 
 ## Introduction
 
@@ -41,14 +41,11 @@ to optimize execution of your frequently used files.
 
 **Usage:**
 
-**\\src\\Contig\\Release\\Contig.exe \[-a\] \[-s\] \[-q\] \[-v\]
-\[existing file\]**
-
-**or \\src\\Contig\\Release\\Contig.exe \[-f\] \[-q\] \[-v\]
-\[drive:\]**
-
-**or \\src\\Contig\\Release\\Contig.exe \[-v\] \[-l\] -n \[new file\]
-\[new file length\]**
+```cmd
+Contig.exe [-a] [-s] [-q] [-v] [existing file]
+Contig.exe [-f] [-q] [-v] [drive:]
+Contig.exe [-v] [-l] -n [new file] [new file length]
+```
 
 |Parameter  |Description  |
 |---------|---------|
@@ -90,10 +87,10 @@ Object Manager name space, and Mark's October 1997 Windows NT Magazine
 column,*"Inside the Object Manager",* is (of course) an excellent
 overview.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Contig.zip) [ **Download Contig**](https://download.sysinternals.com/files/Contig.zip) **(254 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Contig.zip) [ **Download Contig**](https://download.sysinternals.com/files/Contig.zip) **(366 KB)**
 
 **Runs on:**
 
-- Client: Windows Vista and higher
-- Server: Windows Server 2008 and higher
-- Nano Server: 2016 and higher
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.
+- Nano Server: 2016 and higher.

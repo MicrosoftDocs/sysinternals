@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 01/25/2023
+ms.date: 03/09/2023
 ---
 
 # Sysinternals Utilities Index
@@ -81,7 +81,7 @@ View the resolution of the system clock, which is also the maximum timer
 resolution.
 
 [Contig](contig.md)  
-*v1.82 (November 28, 2022)*  
+*v1.83 (March 9, 2023)*  
 Wish you could quickly defragment your frequently used files? Use Contig
 to optimize individual files, or to create new files that are
 contiguous.
@@ -229,7 +229,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.92 (October 26, 2022)*  
+*v3.93 (March 9, 2023)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
