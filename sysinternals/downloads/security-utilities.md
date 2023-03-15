@@ -10,7 +10,7 @@ ms.date: 07/22/2016
 # Sysinternals Security Utilities
 
 [AccessChk](accesschk.md)  
-This tool shows you the accesses the user or group you specify has to
+This tool shows you the level of access the user or group you specify has to
 files, Registry keys or Windows services.
 
 [AccessEnum](accessenum.md)  
