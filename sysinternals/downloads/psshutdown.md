@@ -4,16 +4,16 @@ title: PsShutdown
 description: Shuts down and optionally reboots a computer.
 ms:assetid: 'ba3665e1-fbac-45a1-b1c3-575d83832987'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897541(v=MSDN.10)'
-ms.date: 10/12/2021
+ms.date: 03/30/2023
 ---
 
-# PsShutdown v2.53
+# PsShutdown v2.6
 
 **By Mark Russinovich**
 
-Published: October 12, 2021
+Published: March 30, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 ## Introduction
 
@@ -41,7 +41,7 @@ computer, logoff a user, lock a system, or to abort an imminent
 shutdown.
 
 **Usage: psshutdown \[\[\\\\computer\[,computer\[,..\] | @file \[-u user
-\[-p psswd\]\]\] -s|-r|-h|-d|-k|-a|-l|-o \[-f\] \[-c\] \[-t nn|h:m\]
+\[-p psswd\]\]\] -s|-r|-h|-d|-k|-a|-l|-o|-x \[-f\] \[-c\] \[-t nn|h:m\]
 \[-n s\] \[-v nn\] \[-e \[u|p\]:xx:yy\] \[-m "message"\]**
 
 
@@ -69,16 +69,18 @@ shutdown.
 |         **-r**         |                                                                                                         Reboot after shutdown.                                                                                                          |
 |         **-s**         |                                                                                                       Shutdown without power off.                                                                                                       |
 |         **-t**         |                                                       Specifies the countdown in seconds until the shutdown (default: 20 seconds) or the time of shutdown (in 24 hour notation).                                                        |
+| **-x** | Turn monitor off (system will initiate Modern Standby if supported) |
 |         **-v**         |                     Display message for the specified number of seconds before the shutdown. If you omit this parameter the shutdown notification dialog displays and specifying a value of 0 results in no dialog.                     |
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 **PsTools**  
+
 *PsShutdown* is part of a growing kit of Sysinternals command-line tools
 that aid in the administration of local and remote systems named
 *PsTools*.
 
 **Runs on:**
 
-- Client: Windows Vista and higher.
-- Server: Windows Server 2008 and higher.
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.
