@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896683(v=MSDN.10)'
 ms.date: 03/30/2023
 ---
 
-# PsKill v1.16
+# PsKill v1.17
 
 **By Mark Russinovich**
 
