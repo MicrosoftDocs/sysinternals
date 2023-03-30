@@ -234,7 +234,7 @@ Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
 [PsExec](psexec.md)  
-*v2.41 (March 30, 2023)*  
+*v2.42 (March 30, 2023)*  
 Execute processes on remote systems.
 
 [PsFile](psfile.md)  
