@@ -4,16 +4,16 @@ title: PsFile
 description: See what files are opened remotely.
 ms:assetid: '01e9104e-4b10-4fec-a69d-a521dcc1b1e3'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897552(v=MSDN.10)'
-ms.date: 06/29/2016
+ms.date: 03/30/2023
 ---
 
-# PsFile v1.03
+# PsFile v1.04
 
 **By Mark Russinovich**
 
-Published: June 29, 2016
+Published: March 30, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(1.6 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 ## Introduction
 
@@ -50,4 +50,15 @@ system that are open by remote systems. Typing a command followed by "-
 
 *PsFile* uses the NET API, which is documented in the Platform SDK.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(1.6 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
+
+**PsTools**
+
+*PsFile* is part of a growing kit of Sysinternals command-line tools
+that aid in the administration of local and remote systems named
+*PsTools*.
+
+**Runs on:**
+
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.

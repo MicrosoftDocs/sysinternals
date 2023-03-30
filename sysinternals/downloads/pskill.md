@@ -4,16 +4,16 @@ title: PsKill
 description: Terminate local or remote processes.
 ms:assetid: '12798522-e5f1-494c-8824-38db3162eea7'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896683(v=MSDN.10)'
-ms.date: 06/29/2016
+ms.date: 03/30/2023
 ---
 
 # PsKill v1.16
 
 **By Mark Russinovich**
 
-Published: June 29, 2016
+Published: March 30, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 ## Introduction
 
@@ -62,7 +62,7 @@ Error Message When You Try to Access a Project
 View (https<nolink>://support.microsoft.com/kb/810596)
 
   
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 **PsTools**
 
@@ -70,9 +70,7 @@ View (https<nolink>://support.microsoft.com/kb/810596)
 that aid in the administration of local and remote systems named
 *PsTools*.
 
- 
-
 **Runs on:**
 
-- Client: Windows Vista and higher.
-- Server: Windows Server 2008 and higher.
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.
