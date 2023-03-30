@@ -4,16 +4,16 @@ title: PsList
 description: Show information about processes and threads.
 ms:assetid: '3922c630-462d-4c3a-8b02-532865f37df4'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896682(v=MSDN.10)'
-ms.date: 06/29/2016
+ms.date: 03/30/2023
 ---
 
-# PsList v1.4
+# PsList v1.41
 
 **By Mark Russinovich**
 
-Published: June 29, 2016
+Published: March 30, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 ## Introduction
 
@@ -57,7 +57,7 @@ All memory values are displayed in KB.
 - **Page**: Paged Pool
 - **Cswtch**: Context Switches  
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 **PsTools**
 
@@ -67,5 +67,5 @@ that aid in the administration of local and remote systems named
 
 **Runs on:**
 
-- Client: Windows Vista and higher.
-- Server: Windows Server 2008 and higher.
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.

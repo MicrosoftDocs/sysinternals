@@ -4,16 +4,16 @@ title: PsGetSid
 description: Translate SIDs to their display name and vice versa.
 ms:assetid: 'f7eefa28-72dd-4dc7-a41e-02e7ac7e35ae'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897417(v=MSDN.10)'
-ms.date: 06/29/2016
+ms.date: 03/30/2023
 ---
 
-# PsGetSid v1.45
+# PsGetSid v1.46
 
 **By Mark Russinovich**
 
-Published: June 29, 2016
+Published: March 30, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 ## Introduction
 
@@ -50,7 +50,7 @@ administrative privileges on the computer you want to query. If you
 don't specify a password as an option, *PsGetSid* will prompt you for
 one so that you can type it in without having it echoed to the display.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 **PsTools**
 
@@ -60,5 +60,5 @@ that aid in the administration of local and remote systems named
 
 **Runs on:**
 
-- Client: Windows Vista and higher.
-- Server: Windows Server 2008 and higher.
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.

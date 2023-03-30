@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 03/09/2023
+ms.date: 03/30/2023
 ---
 
 # Sysinternals Utilities Index
@@ -223,7 +223,7 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)  
-*v17.02 (November 10, 2022)*  
+*v17.03 (March 30, 2023)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
@@ -234,31 +234,31 @@ Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
 [PsExec](psexec.md)  
-*v2.40 (July 19, 2022)*  
+*v2.41 (March 30, 2023)*  
 Execute processes on remote systems.
 
 [PsFile](psfile.md)  
-*v1.03 (June 29, 2016)*  
+*v1.04 (March 30, 2023)*  
 See what files are opened remotely.
 
 [PsGetSid](psgetsid.md)  
-*v1.45 (June 29, 2016)*  
+*v1.46 (March 30, 2023)*  
 Displays the SID of a computer or a user.
 
 [PsInfo](psinfo.md)  
-*v1.78 (June 29, 2016)*  
+*v1.79 (March 30, 2023)*  
 Obtain information about a system.
 
 [PsKill](pskill.md)  
-*v1.16 (June 29, 2016)*  
+*v1.17 (March 30, 2023)*  
 Terminate local or remote processes.
 
 [PsPing](psping.md)  
-*v2.01 (January 29, 2014)*  
+*v2.12 (March 30, 2023)*  
 Measure network performance.
 
 [PsList](pslist.md)  
-*v1.4 (June 29, 2016)*  
+*v1.41 (March 30, 2023)*  
 Show information about processes and threads.
 
 [PsLoggedOn](psloggedon.md)  
@@ -266,27 +266,27 @@ Show information about processes and threads.
 Show users logged on to a system.
 
 [PsLogList](psloglist.md)  
-*v2.8 (June 29, 2016)*  
+*v2.82 (March 30, 2023)*  
 Dump event log records.
 
 [PsPasswd](pspasswd.md)  
-*v1.24 (June 29, 2016)*  
+*v1.25 (March 30, 2023)*  
 Changes account passwords.
 
 [PsService](psservice.md)  
-*v2.25 (June 29, 2016)*  
+*v2.26 (March 30, 2023)*  
 View and control services.
 
 [PsShutdown](psshutdown.md)  
-*v2.53 (October 12, 2021)*  
+*v2.6 (March 30, 2023)*  
 Shuts down and optionally reboots a computer.
 
 [PsSuspend](pssuspend.md)  
-*v1.07 (June 29, 2016)*  
+*v1.08 (March 30, 2023)*  
 Suspend and resume processes.
 
 [PsTools](pstools.md)  
-*v2.48 (October 12, 2021)*  
+*v2.5 (March 30, 2023)*  
 The PsTools suite includes command-line utilities for listing the
 processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
@@ -350,7 +350,7 @@ Flush cached data to disk.
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
-*v4.17 (January 27, 2022)*  
+*v4.18 (March 30, 2023)*  
 Active socket viewer.
 
 [VMMap](vmmap.md)  
