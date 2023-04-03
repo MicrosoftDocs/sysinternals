@@ -8,11 +8,11 @@ ms.date: 03/30/2023
 adobe-target: true
 ---
 
-# Process Explorer v17.03
+# Process Explorer v17.04
 
 **By Mark Russinovich**
 
-Published: March 30, 2023
+Published: April 3, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.3 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
