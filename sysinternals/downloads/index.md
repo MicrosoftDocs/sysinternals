@@ -223,7 +223,7 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)  
-*v17.03 (March 30, 2023)*  
+*v17.04 (April 3, 2023)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
