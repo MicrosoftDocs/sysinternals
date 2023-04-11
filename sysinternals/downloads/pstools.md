@@ -11,7 +11,7 @@ ms.date: 03/30/2023
 
 **By Mark Russinovich**
 
-Published: March 30, 2023
+Published: April 11, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools Suite**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
