@@ -8,11 +8,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897437(v=MSDN.10)'
 ms.date: 03/30/2023
 ---
 
-# TCPView v4.18
+# TCPView v4.19
 
 **By Mark Russinovich**
 
-Published: March 30, 2023
+Published: April 11, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/TCPView.zip) [**Download TCPView**](https://download.sysinternals.com/files/TCPView.zip) **(1.5 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Tcpview.exe).

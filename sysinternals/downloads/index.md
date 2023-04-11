@@ -234,7 +234,7 @@ Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
 [PsExec](psexec.md)  
-*v2.42 (March 30, 2023)*  
+*v2.43 (April 11, 2023)*  
 Execute processes on remote systems.
 
 [PsFile](psfile.md)  
@@ -346,11 +346,11 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v14.14 (January 25, 2023)*  
+*v14.15 (April 11, 2023)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
-*v4.18 (March 30, 2023)*  
+*v4.19 (April 11, 2023)*  
 Active socket viewer.
 
 [VMMap](vmmap.md)  
