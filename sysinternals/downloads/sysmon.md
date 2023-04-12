@@ -8,11 +8,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
 ms.date: 01/25/2023
 ---
 
-# Sysmon v14.15
+# Sysmon v14.16
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: April 11, 2023
+Published: April 12, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(4.6 MB)**
 
