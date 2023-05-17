@@ -27,6 +27,11 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
+### What's New (May 17, 2023)
+
+- [ZoomIt v7.0](~/downloads/zoomit.md)  
+This update to ZoomIt, a screen magnification and annotation tool, adds cropped and window recording, snipping, and fixes several issues.
+
 ### What's New (March 9, 2023)
 
 - [Sysmon 1.1 for Linux](https://github.com/Sysinternals/SysmonForLinux)  
@@ -36,32 +41,3 @@ This update to Sysmon for Linux, an advanced host monitoring tool, adds support 
 
 - [ProcDump 1.4 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux)  
 This update to ProcDump for Linux adds the capability to generate dumps when specified exceptions occur in a .NET process.
-
-### What's New (November 3, 2022)
-
-- [ProcDump v11.0](~/downloads/procdump.md)  
-This update to ProcDump, a command-line utility for generating memory dumps from running processes, adds ModuleLoad/Unload and Thread Create/Exit triggers, removes Internet Explorer JavaScript support, and improves descriptive text messages.
-
-- [ProcDump 1.3 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux)  
-This update to ProcDump for Linux changes the CLI interface to match ProcDump for Windows, and adds a new process group trigger (`-pgid`) to allow monitoring all processes running in the same process group.
-
-### What's New (October 26, 2022)
-
-- [Process Explorer v17.0](~/downloads/process-explorer.md)  
-This update to Process Explorer, an advanced process, DLL and handle viewing utility, adds dark theme support, multipane view in the main window with a new threads pane, startup performance optimization and more.
-
-- [Handle v5.0](~/downloads/handle.md)  
-This update to Handle, a tool that displays information about open handles for any process in the system, adds CSV output with a new `-v` switch and has an option to print the granted access mask with `-g`.
-
-### What's New (October 12, 2022)
-
-- [ZoomIt v6.1](~/downloads/zoomit.md)  
-This update to ZoomIt, a screen magnification and annotation tool, adds right-justified text input, an option to scale the screen recordings resolution, and usability fixes.
-
-### What's New (September 29, 2022)
-
-- [Sysmon v14.1](~/downloads/sysmon.md)  
-This update to Sysmon, an advanced host monitoring tool, adds a new event type, FileBlockShredding that prevents wiping tools such as Sysinternals SDelete from corrupting and deleting files.
-
-- [Coreinfo v3.6](~/downloads/coreinfo.md)  
-This update to Coreinfo, a utility that reports system CPU, memory and cache topology and information, now has an option (-d) for measuring inter-CPU latencies in nanoseconds.
