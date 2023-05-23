@@ -12,7 +12,7 @@ ms.date: 01/25/2023
 
 **By Mark Russinovich**
 
-Published: May 17, 2023
+Published: May 23, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
@@ -47,45 +47,42 @@ by clicking on the ZoomIt tray icon.
 
 ZoomIt offers a number of shortcuts which can extend its usage greatly.
 
-| Function                                                                         | Shortcut                                  |
-|----------------------------------------------------------------------------------|-------------------------------------------|
-| Zoom Mode                                                                        | Ctrl + 1                                  |
-| Zoom In                                                                          | Mouse Scroll Up or Up Arrow               |
-| Zoom Out                                                                         | Mouse Scroll Down or Down Arrow           |
-| Start Drawing (While In Zoom Mode)                                               | Left-Click                                |
-| Stop Drawing (While In Zoom Mode)                                                | Right-Click                               |
-| Start Drawing (While Not In Zoom Mode)                                           | Ctrl + 2                                  |
-| Increase/Decrease Line And Cursor Size (Drawing Mode)                            | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
-| Center The Cursor (Drawing Mode)                                                 | Space Bar                                 |
-| Whiteboard (Drawing Mode)                                                        | W                                         |
-| Blackboard (Drawing Mode)                                                        | K                                         |
-| Type in Text (Left Aligned)                                                      | T                                         |
-| Type in Text (Right Aligned)                                                     | Shift + T                                 |
-| Increase/Decrease Font Size (Typing Mode)                                        | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
-| Red Pen                                                                          | R                                         |
-| Green Pen                                                                        | G                                         |
-| Blue Pen                                                                         | B                                         |
-| Yellow Pen                                                                       | Y                                         |
-| Orange Pen                                                                       | O                                         |
-| Pink Pen                                                                         | P                                         |
-| Draw a Straight Line                                                             | Hold Shift                                |
-| Draw a Rectangle                                                                 | Hold Ctrl                                 |
-| Draw an Ellipse                                                                  | Hold Tab                                  |
-| Draw an Arrow                                                                    | Hold Ctrl + Shift                         |
-| Erase Last Drawing                                                               | Ctrl + Z                                  |
-| Erase All Drawings                                                               | E                                         |
-| Copy Screenshot to Clipboard                                                     | Ctrl + C                                  |
-| Save Screenshot as PNG                                                           | Ctrl + S                                  |
-| Show Countdown Timer                                                             | Ctrl + 3                                  |
-| Increase/Decrease Time                                                           | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
-| Minimize Timer (Without Pausing It)                                              | Alt + Tab                                 |
-| Show Timer When Minimized                                                        | Left-Click On The ZoomIt Icon             |
-| Live Zoom Mode                                                                   | Ctrl + 4                                  |
-| Start/Stop Screen Recording Saved as MP4 (Windows 10 May 2019 Update And Higher) | Ctrl + 5                                  |
-| Start Cropping Region for Screen Recording                                       | Ctrl + Shift + 5                          |
-| Start Cropping Region for Snipping Into Clipboard                                | Ctrl + 6                                  |
-| Start Cropping Region for Snipping Into File                                     | Ctrl + 6                                  |
-| Exit                                                                             | Esc or Right-Click                        |
+|  Function | Shortcut  |
+|---|---|
+| Zoom Mode | Ctrl + 1 |
+| Zoom In | Mouse Scroll Up or Up Arrow |
+| Zoom Out | Mouse Scroll Down or Down Arrow |
+| Start Drawing (While In Zoom Mode) | Left-Click  |
+| Stop Drawing (While In Zoom Mode) | Right-Click  |
+| Start Drawing (While Not In Zoom Mode) | Ctrl + 2  |
+| Increase/Decrease Line And Cursor Size (Drawing Mode) | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
+| Center The Cursor (Drawing Mode) | Space Bar |
+| Whiteboard (Drawing Mode) | W |
+| Blackboard (Drawing Mode) | K |
+| Type in Text (Left Aligned) | T |
+| Type in Text (Right Aligned) | Shift + T |
+| Increase/Decrease Font Size (Typing Mode) | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
+| Red Pen | R |
+| Green Pen | G |
+| Blue Pen | B |
+| Yellow Pen | Y |
+| Orange Pen | O |
+| Pink Pen | P |
+| Draw a Straight Line | Hold Shift |
+| Draw a Rectangle | Hold Ctrl |
+| Draw an Ellipse | Hold Tab |
+| Draw an Arrow | Hold Ctrl + Shift |
+| Erase Last Drawing | Ctrl + Z |
+| Erase All Drawings | E |
+| Copy Screenshot to Clipboard | Ctrl + C |
+| Save Screenshot as PNG | Ctrl + S |
+| Start/Stop Screen Recording Saved as MP4 (Windows 10 May 2019 Update And Higher) | Ctrl + 5 |
+| Show Countdown Timer | Ctrl + 3 |
+| Increase/Decrease Time | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
+| Minimize Timer (Without Pausing It) | Alt + Tab |
+| Show Timer When Minimized | Left-Click On The ZoomIt Icon |
+| Live Zoom Mode | Ctrl + 4 |
+| Exit | Esc or Right-Click |
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
