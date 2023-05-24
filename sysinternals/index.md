@@ -27,7 +27,7 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
-### What's New (May 23, 2023)
+### What's New (May 24, 2023)
 
 - [ZoomIt v7.0](~/downloads/zoomit.md)  
 This update to ZoomIt, a screen magnification and annotation tool, adds the ability to screen record cropped regions or a specific window, and lets you snip regions of the screen or zoomed views to the clipboard or to a file in a single gesture.
