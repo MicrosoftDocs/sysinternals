@@ -8,11 +8,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
 ms.date: 01/25/2023
 ---
 
-# ZoomIt v6.12
+# ZoomIt v7.0
 
 **By Mark Russinovich**
 
-Published: January 25, 2023
+Published: May 24, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).

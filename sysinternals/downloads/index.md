@@ -370,5 +370,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  
-*v6.12 (January 25, 2023)*  
+*v7.0 (May 24, 2023)*  
 Presentation utility for zooming and drawing on the screen.  
