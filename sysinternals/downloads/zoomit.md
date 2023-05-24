@@ -1,4 +1,4 @@
---- 
+---
 TOCTitle: ZoomIt
 title: ZoomIt
 description: Presentation utility for zooming and drawing on the screen.
@@ -8,13 +8,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
 ms.date: 01/25/2023
 ---
 
-# ZoomIt v6.12
+# ZoomIt v7.0
 
 **By Mark Russinovich**
 
-Published: January 25, 2023
+Published: May 24, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.1 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.1 MB)**
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
 <br><br>
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE55yQm?autoplay=true&loop=true&controls=false]
@@ -23,14 +23,14 @@ Published: January 25, 2023
 ## Introduction
 
 ZoomIt is a screen zoom, annotation, and recording tool for technical presentations
-that include application demonstrations. ZoomIt runs unobtrusively in
-the tray and activates with customizable hotkeys to zoom in on an area
-of the screen, move around while zoomed, and draw on the zoomed image. I
-wrote ZoomIt to fit my specific needs and use it in all my
+and demos. You can also use ZoomIt to snip screenshots to the clipboard or to a file.
+ZoomIt runs unobtrusively in the tray and activates with customizable
+hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on
+the zoomed image. I wrote ZoomIt to fit my specific needs and use it in all my
 presentations.
 
 ZoomIt works on all versions of Windows and you can use touch and pen input for
-ZoomIt drawing on tablets.  
+ZoomIt drawing on tablets.
 
 ## Using ZoomIt
 
@@ -41,8 +41,8 @@ drawing pen color and size. I use the draw-without-zoom option to
 annotate the screen at its native resolution, for example. ZoomIt also
 includes a break timer feature that remains active even when you tab
 away from the timer window and allows you to return to the timer window
-by clicking on the ZoomIt tray icon.  
-  
+by clicking on the ZoomIt tray icon.
+
 ### Shortcuts
 
 ZoomIt offers a number of shortcuts which can extend its usage greatly.
@@ -75,8 +75,14 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Erase Last Drawing | Ctrl + Z |
 | Erase All Drawings | E |
 | Copy Screenshot to Clipboard | Ctrl + C |
+| Crop Screenshot to Clipboard | Ctrl + Shift + C |
 | Save Screenshot as PNG | Ctrl + S |
-| Start/Stop Screen Recording Saved as MP4 (Windows 10 May 2019 Update And Higher) | Ctrl + 5 |
+| Save Cropped Screenshot to a File | Ctrl + Shift + S |
+| Copy a Region of The Screen To Clipboard | Ctrl + 6 |
+| Save a Region of The Screen To a File | Ctrl + Shift + 6 |
+| Start/Stop Full Screen Recording Saved as MP4 (Windows 10 May 2019 Update And Higher) | Ctrl + 5 |
+| Crop Screen Recording Saved as MP4 (Windows 10 May 2019 Update And Higher) | Ctrl + Shift + 5 |
+| Screen Record Only The Window That The Mouse Cursor is Positioned Over Saved as MP4 (Windows 10 May 2019 Update And Higher) | Ctrl + Alt + 5 |
 | Show Countdown Timer | Ctrl + 3 |
 | Increase/Decrease Time | Ctrl + Mouse Scroll Up/Down or Arrow Keys |
 | Minimize Timer (Without Pausing It) | Alt + Tab |
@@ -84,5 +90,5 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Live Zoom Mode | Ctrl + 4 |
 | Exit | Esc or Right-Click |
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.1 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.1 MB)**
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).

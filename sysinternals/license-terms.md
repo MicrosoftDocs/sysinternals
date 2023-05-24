@@ -64,6 +64,11 @@ this and take sole responsibility for any personally identifiable or
 other sensitive information provided to Microsoft or any other party
 through your use of the software.
 
+## Data Collection
+
+The Sysinternals tools do not collect any data. Please refer to the
+[Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=521839).
+
 ## Documentation
 
 Any person that has valid access to your computer or internal network
