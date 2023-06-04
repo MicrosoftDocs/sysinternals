@@ -405,7 +405,7 @@ Configuration entries include the following:
 
 |  Entry             |   Value  |  Description|
 |--------------------|----------|-------------|
-| ArchiveDirectory   |  String  | Name of directories at volume roots into which copy-on-delete files are moved. The directory is protected with a System ACL (you can use PsExec from Sysinternals to access the directory                                 using `psexec -sid cmd`). Default: `Sysmon` |
+| ArchiveDirectory   |  String  | Name of directories at volume roots into which copy-on-delete files are moved. The directory is protected with a System ACL. Default: `Sysmon`<br> **Note**: You can use PsExec from Sysinternals to access the directory using `psexec -sid cmd`. In order to remove files, you need to grant full access for the archive folder, such as `icacls C:\\Sysmon /grant <username here>:(OI)(CI)F /T`. |
 | CheckRevocation   |  Boolean | Controls signature revocation checks. Default: `True` |
 |  CopyOnDeletePE   |  Boolean | Preserves deleted executable image files. Default: `False` |
 |  CopyOnDeleteSIDs | Strings  | Comma-separated list of account SIDs for which file deletes will be preserved. |
