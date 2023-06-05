@@ -82,13 +82,13 @@ A file has all the characteristics of a server group other than being able to ch
 
 ## Groups
 
-A group contains a list of servers and configuration information such as logon credentials. Configuration settings can be inherited from another group or the application defaults. Groups can be nested but are homogenous: a group may either contain groups or servers, but not both. All the servers in a group can be connected or disconnected at once.
+A group contains a list of servers and configuration information such as logon credentials. Configuration settings can be inherited from another group or the application defaults. Groups can be nested but are homogeneous: a group may either contain groups or servers, but not both. All the servers in a group can be connected or disconnected at once.
 
 When a group is selected in the tree view, the servers underneath it are displayed in a thumbnail view. The thumbnails can show the actual server windows or simply the connection status. Global thumbnail view properties can be adjusted via the **[Tools.Options.Client Area]** tab while group/server-specific settings are in Display Settings.
 
 ### Smart Groups
 
-Smart groups are populated dynamically based on a set of rules. All ancestors of sibiling groups of the smart group are eligible for inclusion.
+Smart groups are populated dynamically based on a set of rules. All ancestors of sibling groups of the smart group are eligible for inclusion.
 
 ### The Connected Virtual Group
 
@@ -128,7 +128,7 @@ A server has a server name (the computer's network name or IP address), an optio
 
 Servers names following a pattern can be bulk added to a group. There are two pattern classes:
 
-- Iteration - `{a,b,c}` iterates over the comma-delimeted contents.
+- Iteration - `{a,b,c}` iterates over the comma-delimited contents.
 - Range - `[1-5]` iterates the numerical range. Prefix the lower bound with `0`'s to specify the minimum width.
 
 Examples:
