@@ -9,7 +9,6 @@ ms.date: 11/01/2006
 
 # NewSID v4.10
 
-
 **By Mark Russinovich**
 
 Published: November 1, 2006

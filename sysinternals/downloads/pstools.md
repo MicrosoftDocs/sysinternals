@@ -4,7 +4,7 @@ title: PsTools
 description: Command-line utilities for listing the processes running on local or remote computers, running processes, rebooting computers, and more.
 ms:assetid: '559ea946-3d7d-47bb-821c-b47fd078dfb7'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896649(v=MSDN.10)'
-ms.date: 03/30/2023
+ms.date: 04/11/2023
 ---
 
 # PsTools

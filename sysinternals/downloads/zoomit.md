@@ -5,7 +5,7 @@ description: Presentation utility for zooming and drawing on the screen.
 no-loc: [Mark Russinovich]
 ms:assetid: '0b6c4abc-9482-4759-a9cd-bf77cb961dd4'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
-ms.date: 01/25/2023
+ms.date: 05/24/2023
 ---
 
 # ZoomIt v7.0

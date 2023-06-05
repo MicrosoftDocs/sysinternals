@@ -4,7 +4,7 @@ title: Process Explorer
 description: Find out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more.
 ms:assetid: '32cbeee6-4335-44d5-b94b-160612b99738'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896653(v=MSDN.10)'
-ms.date: 03/30/2023
+ms.date: 04/03/2023
 adobe-target: true
 ---
 

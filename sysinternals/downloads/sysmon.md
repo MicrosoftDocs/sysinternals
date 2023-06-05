@@ -5,7 +5,7 @@ description: Monitors and reports key system activity via the Windows event log.
 no-loc: [Mark Russinovich, Thomas Garnier]
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
-ms.date: 01/25/2023
+ms.date: 04/12/2023
 ---
 
 # Sysmon v14.16

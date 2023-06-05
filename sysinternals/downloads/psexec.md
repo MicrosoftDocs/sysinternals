@@ -4,7 +4,7 @@ title: PsExec
 description: Execute processes on remote systems.
 ms:assetid: '936a8b8b-a7ce-4b63-bcc2-ca334cd4c276'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897553(v=MSDN.10)'
-ms.date: 03/30/2023
+ms.date: 04/11/2023
 ---
 
 # PsExec v2.43

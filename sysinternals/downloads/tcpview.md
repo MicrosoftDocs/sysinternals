@@ -5,7 +5,7 @@ description: Active socket command-line viewer.
 no-loc: [Mark Russinovich]
 ms:assetid: '0797e73a-a0c2-4266-b821-50bc561da3a6'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897437(v=MSDN.10)'
-ms.date: 03/30/2023
+ms.date: 04/11/2023
 ---
 
 # TCPView v4.19
