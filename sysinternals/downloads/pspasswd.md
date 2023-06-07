@@ -49,7 +49,7 @@ account on the local or a remote computer.
 |         **-u**         |                                                                                       Specifies optional user name for login to remote computer.                                                                                        |
 |         **-p**         |                                                              Specifies optional password for user name. If you omit this you will be prompted to enter a hidden password.                                                               |
 |      **Username**      |                                                                                             Specifies name of account for password change.                                                                                              |
-|    **NewPassword**     |                                                                                          New password. If ommitted a NULL password is applied.                                                                                          |
+|    **NewPassword**     |                                                                                          New password. If omitted a NULL password is applied.                                                                                          |
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
