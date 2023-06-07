@@ -54,7 +54,7 @@ for SP 1, etc).
 |         **-s**         |                                                                                                  Show list of installed applications.                                                                                                   |
 |         **-d**         |                                                                                                      Show disk volume information.                                                                                                      |
 |         **-c**         |                                                                                                          Print in CSV format.                                                                                                           |
-|         **-t**         |                                                                 The default delimiter for the -c option is a comma, but can be overriden with the specified character.                                                                  |
+|         **-t**         |                                                                 The default delimiter for the -c option is a comma, but can be overridden with the specified character.                                                                  |
 |       **filter**       |                                                         Psinfo will only show data for the field matching the filter. e.g. "psinfo service" lists only the service pack field.                                                          |
 
 ## Example Output

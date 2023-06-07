@@ -19,7 +19,7 @@ Published: July 4, 2016
 
 While Windows NT/2000 and Windows 95 and 98's built-in Label utility
 lets you change the labels of disk volumes, it does not provide any
-means for changing volume ids. This utiltity, VolumeID, allows you to
+means for changing volume ids. This utility, VolumeID, allows you to
 change the ids of FAT and NTFS disks (floppies or hard drives).
 
 **Usage: volumeid &lt;driveletter:&gt; xxxx-xxxx**
