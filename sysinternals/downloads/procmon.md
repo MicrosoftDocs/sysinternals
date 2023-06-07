@@ -8,11 +8,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896645(v=MSDN.10)'
 ms.date: 03/09/2023
 ---
 
-# Process Monitor v3.93
+# Process Monitor v3.94
 
 **By Mark Russinovich**
 
-Published: March 9, 2023
+Published: June 7, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(3.3 MB)**  
 
