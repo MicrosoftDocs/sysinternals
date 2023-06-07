@@ -86,7 +86,7 @@ SSE4.1          *       Supports Streaming SIMD Extensions 4.1
 SSE4.2          *       Supports Streaming SIMD Extensions 4.2
 
 AES             -       Supports AES extensions
-AVX             -       Supports AVX intruction extensions
+AVX             -       Supports AVX instruction extensions
 FMA             -       Supports FMA extensions using YMM state
 MSR             *       Implements RDMSR/WRMSR instructions
 MTTR            *       Supports Mmeory Type Range Registers

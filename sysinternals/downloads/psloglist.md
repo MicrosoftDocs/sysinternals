@@ -63,7 +63,7 @@ source\]\[,..\]\]\] \[-l event log file\] &lt;eventlog&gt;**
 |         **-q**         |                                       Omit records from the specified event source or sources (e.g. \\"-q cdrom\\").                                       |
 |         **-r**         |                                                        SDump log from least recent to most recent.                                                         |
 |         **-s**         | This switch has *PsLogList* print Event Log records one-per-line, with comma delimited fields. This format is convenient for text searches, e.g. psloglist |
-|         **-t**         |                                    The default delimeter is a comma, but can be overriden with the specified character.                                    |
+|         **-t**         |                                    The default delimiter is a comma, but can be overridden with the specified character.                                    |
 |         **-u**         |                                                 Specifies optional user name for login to remote computer.                                                 |
 |         **-w**         |                                          Wait for new events, dumping them as they generate (local system only).                                           |
 |         **-x**         |                                                                     Dump extended data                                                                     |
