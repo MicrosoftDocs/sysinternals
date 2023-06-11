@@ -412,7 +412,7 @@ Configuration entries include the following:
 |  CopyOnDeleteExtensions | Strings  | Extensions for files that are preserved on delete. |
 |  CopyOnDeleteProcesses  | Strings | Process name(s) for which file deletes will be preserved. |
 |  DnsLookup     |   Boolean | Controls reverse DNS lookup. Default: `True` |
-|  DriverName    |   String  | Uses specied name for driver and service images.  |
+|  DriverName    |   String  | Uses specified name for driver and service images.  |
 | HashAlgorithms |   Strings  | Hash algorithm(s) to apply for hashing. Algorithms supported include MD5, SHA1, SHA256, IMPHASH and * (all). Default: `None` |
 
 Command line switches have their configuration entry described in the Sysmon usage
@@ -538,7 +538,7 @@ except those that have `iexplore.exe` in their name.
 
 It is also possible to override the way that rules are combined by using a rule
 group which allows the rule combine type for one or more events to be set
-explicity to AND or OR.
+explicitly to AND or OR.
 
 The following example demonstrates this usage. In the first rule group, a
 process create event will be generated when `timeout.exe` is executed only with
