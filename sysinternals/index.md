@@ -27,6 +27,11 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
+### What's New (June 27, 2023)
+
+- [Sysmon v15.0](~/downloads/sysmon.md)  
+This update to Sysmon, an advanced host security monitoring tool, sets the service to run as a protected process, hardening it against tampering, adds a new event, `FileExecutableDetected`, for when new executable images are saved to files, and fixes a system hang occurring in certain situations due to an interaction between network and file system events.
+
 ### What's New (May 24, 2023)
 
 - [ZoomIt v7.0](~/downloads/zoomit.md)  
