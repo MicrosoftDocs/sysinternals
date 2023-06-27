@@ -14,7 +14,7 @@ ms.date: 02/16/2022
 
 Published: June 27, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(3.7 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(2.8 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/autoruns.exe).
 <br><br>
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RW14GhU?autoplay=true&loop=true&controls=false]
@@ -134,5 +134,5 @@ Autorunsc is the command-line version of Autoruns. Its usage syntax is:
 
 ## Download
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(3.7 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(2.8 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/autoruns.exe).
