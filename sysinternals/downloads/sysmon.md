@@ -8,11 +8,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
 ms.date: 01/25/2023
 ---
 
-# Sysmon v14.16
+# Sysmon v15.0
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: April 12, 2023
+Published: June 27, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(4.6 MB)**
 
@@ -77,13 +77,13 @@ Install event manifest:  `sysmon64 -m`
 Print schema:            `sysmon64 -s`  
 Uninstall:               `sysmon64 -u [force]`  
 
-|Parameter  |Description  |
-|---------|---------|
-|  **-i** |  Install service and driver. Optionally take a configuration file.|
-|  **-c** |  Update configuration of an installed Sysmon driver or dump the current configuration if no other argument is provided. Optionally takes a configuration file.|
-|  **-m** |  Install the event manifest (implicitly done on service install as well).|
-|  **-s** |  Print configuration schema definition.|
-|  **-u** |  Uninstall service and driver. Using `-u force` causes uninstall to proceed even when some components are not installed.|
+|  Parameter  |  Description                                                                                                                                                    |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  **-i**     |  Install service and driver. Optionally take a configuration file.                                                                                              |
+|  **-c**     |  Update configuration of an installed Sysmon driver or dump the current configuration if no other argument is provided. Optionally takes a configuration file.  |
+|  **-m**     |  Install the event manifest (implicitly done on service install as well).                                                                                       |
+|  **-s**     |  Print configuration schema definition.                                                                                                                         |
+|  **-u**     |  Uninstall service and driver. Using `-u force` causes uninstall to proceed even when some components are not installed.                                        |
 
 The service logs events immediately and the driver installs as a
 boot-start driver to capture activity from early in the boot that the
@@ -254,12 +254,12 @@ autostart locations, or specific malware registry modifications.
 Sysmon uses abbreviated versions of Registry root key names, with the
 following mappings:
 
-|Key name                                     | Abbreviation                    |
-|---------------------------------------------|---------------------------------|
-|  `HKEY_LOCAL_MACHINE`                       | `HKLM`                          |
-|  `HKEY_USERS`                               | `HKU`                           |
-|  `HKEY_LOCAL_MACHINE\System\ControlSet00x`  | `HKLM\System\CurrentControlSet` |
-|  `HKEY_LOCAL_MACHINE\Classes`               | `HKCR`                          |
+|  Key name                                   |  Abbreviation                     |
+| ------------------------------------------- | --------------------------------- |
+|  `HKEY_LOCAL_MACHINE`                       |  `HKLM`                           |
+|  `HKEY_USERS`                               |  `HKU`                            |
+|  `HKEY_LOCAL_MACHINE\System\ControlSet00x`  |  `HKLM\System\CurrentControlSet`  |
+|  `HKEY_LOCAL_MACHINE\Classes`               |  `HKCR`                           |
 
 ### Event ID 13: RegistryEvent (Value Set)
 
@@ -341,11 +341,17 @@ A file was deleted.
 
 ### Event ID 27: FileBlockExecutable
 
-This event is generated when Sysmon detects and blocks the creation of executable files.
+This event is generated when Sysmon detects and blocks the creation of
+executable files (PE format).
 
 ### Event ID 28: FileBlockShredding
 
 This event is generated when Sysmon detects and blocks file shredding from tools such as [SDelete](sdelete.md).
+
+### Event ID 29: FileExecutableDetected
+
+This event is generated when Sysmon detects the creation of a new executable
+file (PE format).
 
 ### Event ID 255: Error
 
@@ -403,17 +409,17 @@ Configuration entries are similar to command line switches and include the follo
 
 Configuration entries include the following:
 
-|  Entry             |   Value  |  Description|
-|--------------------|----------|-------------|
-| ArchiveDirectory   |  String  | Name of directories at volume roots into which copy-on-delete files are moved. The directory is protected with a System ACL (you can use PsExec from Sysinternals to access the directory                                 using `psexec -sid cmd`). Default: `Sysmon` |
-| CheckRevocation   |  Boolean | Controls signature revocation checks. Default: `True` |
-|  CopyOnDeletePE   |  Boolean | Preserves deleted executable image files. Default: `False` |
-|  CopyOnDeleteSIDs | Strings  | Comma-separated list of account SIDs for which file deletes will be preserved. |
-|  CopyOnDeleteExtensions | Strings  | Extensions for files that are preserved on delete. |
-|  CopyOnDeleteProcesses  | Strings | Process name(s) for which file deletes will be preserved. |
-|  DnsLookup     |   Boolean | Controls reverse DNS lookup. Default: `True` |
-|  DriverName    |   String  | Uses specified name for driver and service images.  |
-| HashAlgorithms |   Strings  | Hash algorithm(s) to apply for hashing. Algorithms supported include MD5, SHA1, SHA256, IMPHASH and * (all). Default: `None` |
+|  Entry                   |  Value    |  Description                                                                                                                                                                                                                                                            |
+| ------------------------ | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  ArchiveDirectory        |  String   |  Name of directories at volume roots into which copy-on-delete files are moved. The directory is protected with a System ACL (you can use PsExec from Sysinternals to access the directory                                 using `psexec -sid cmd`). Default: `Sysmon`  |
+|  CheckRevocation         |  Boolean  |  Controls signature revocation checks. Default: `True`                                                                                                                                                                                                                  |
+|  CopyOnDeletePE          |  Boolean  |  Preserves deleted executable image files. Default: `False`                                                                                                                                                                                                             |
+|  CopyOnDeleteSIDs        |  Strings  |  Comma-separated list of account SIDs for which file deletes will be preserved.                                                                                                                                                                                         |
+|  CopyOnDeleteExtensions  |  Strings  |  Extensions for files that are preserved on delete.                                                                                                                                                                                                                     |
+|  CopyOnDeleteProcesses   |  Strings  |  Process name(s) for which file deletes will be preserved.                                                                                                                                                                                                              |
+|  DnsLookup               |  Boolean  |  Controls reverse DNS lookup. Default: `True`                                                                                                                                                                                                                           |
+|  DriverName              |  String   |  Uses specified name for driver and service images.                                                                                                                                                                                                                     |
+|  HashAlgorithms          |  Strings  |  Hash algorithm(s) to apply for hashing. Algorithms supported include MD5, SHA1, SHA256, IMPHASH and * (all). Default: `None`                                                                                                                                           |
 
 Command line switches have their configuration entry described in the Sysmon usage
 output. Parameters are optional based on the tag. If a command line
@@ -444,36 +450,37 @@ host reducing the data to collect.
 Each event has its own filter tag under the EventFiltering node in a
 configuration file:
 
-|ID       |Tag                     | Event |
-|---------|------------------------|---------|
-|  **1**  |  ProcessCreate         | Process Create |
-|  **2**  |  FileCreateTime        | File creation time |
-|  **3**  |  NetworkConnect        | Network connection detected |
-|  **4**  |  n/a                   | Sysmon service state change (cannot be filtered) |
-|  **5**  |  ProcessTerminate      | Process terminated |
-|  **6**  |  DriverLoad            | Driver Loaded |
-|  **7**  |  ImageLoad             | Image loaded |
-|  **8**  |  CreateRemoteThread    | CreateRemoteThread detected |
-|  **9**  |  RawAccessRead         | RawAccessRead detected |
-|  **10** |  ProcessAccess         | Process accessed |
-|  **11** |  FileCreate            | File created |
-|  **12** |  RegistryEvent         | Registry object added or deleted |
-|  **13** |  RegistryEvent         | Registry value set |
-|  **14** |  RegistryEvent         | Registry object renamed |
-|  **15** |  FileCreateStreamHash  | File stream created |
-|  **16** |  n/a                   | Sysmon configuration change (cannot be filtered) |
-|  **17** |  PipeEvent             | Named pipe created |
-|  **18** |  PipeEvent             | Named pipe connected |
-|  **19** |  WmiEvent              | WMI filter |
-|  **20** |  WmiEvent              | WMI consumer |
-|  **21** |  WmiEvent              | WMI consumer filter |
-|  **22** |  DNSQuery              | DNS query |
-|  **23** |  FileDelete            | File Delete archived |
-|  **24** |  ClipboardChange       | New content in the clipboard |
-|  **25** |  ProcessTampering      | Process image change |
-|  **26** |  FileDeleteDetected    | File Delete logged |
-|  **27** |  FileBlockExecutable   | File Block Executable |
-|  **28** |  FileBlockShredding    | File Block Shredding |
+|  ID      |  Tag                     |  Event                                             |
+| -------- | ------------------------ | -------------------------------------------------- |
+|  **1**   |  ProcessCreate           |  Process Create                                    |
+|  **2**   |  FileCreateTime          |  File creation time                                |
+|  **3**   |  NetworkConnect          |  Network connection detected                       |
+|  **4**   |  n/a                     |  Sysmon service state change (cannot be filtered)  |
+|  **5**   |  ProcessTerminate        |  Process terminated                                |
+|  **6**   |  DriverLoad              |  Driver Loaded                                     |
+|  **7**   |  ImageLoad               |  Image loaded                                      |
+|  **8**   |  CreateRemoteThread      |  CreateRemoteThread detected                       |
+|  **9**   |  RawAccessRead           |  RawAccessRead detected                            |
+|  **10**  |  ProcessAccess           |  Process accessed                                  |
+|  **11**  |  FileCreate              |  File created                                      |
+|  **12**  |  RegistryEvent           |  Registry object added or deleted                  |
+|  **13**  |  RegistryEvent           |  Registry value set                                |
+|  **14**  |  RegistryEvent           |  Registry object renamed                           |
+|  **15**  |  FileCreateStreamHash    |  File stream created                               |
+|  **16**  |  n/a                     |  Sysmon configuration change (cannot be filtered)  |
+|  **17**  |  PipeEvent               |  Named pipe created                                |
+|  **18**  |  PipeEvent               |  Named pipe connected                              |
+|  **19**  |  WmiEvent                |  WMI filter                                        |
+|  **20**  |  WmiEvent                |  WMI consumer                                      |
+|  **21**  |  WmiEvent                |  WMI consumer filter                               |
+|  **22**  |  DNSQuery                |  DNS query                                         |
+|  **23**  |  FileDelete              |  File Delete archived                              |
+|  **24**  |  ClipboardChange         |  New content in the clipboard                      |
+|  **25**  |  ProcessTampering        |  Process image change                              |
+|  **26**  |  FileDeleteDetected      |  File Delete logged                                |
+|  **27**  |  FileBlockExecutable     |  File Block Executable                             |
+|  **28**  |  FileBlockShredding      |  File Block Shredding                              |
+|  **29**  |  FileExecutableDetected  |  File Executable Detected                              |
 
 You can also find these tags in the event viewer on the task name.
 
@@ -491,24 +498,24 @@ different field name behave as AND conditions. Field rules can also use
 conditions to match a value. The conditions are as follows (all are case
 insensitive):
 
-|  **Condition**      | **Description** |
-|---------------------|---------|
-|  **is**             | Default, values are equals |
-|  **is any**         | The field is one of the `;` delimited values |
-|  **is not**         | Values are different |
-|  **contains**       | The field contains this value |
-|  **contains any**   | The field contains any of the `;` delimited values |
-|  **contains all**   | The field contains all of the `;` delimited values |
-|  **excludes**       | The field does not contain this value |
-|  **excludes any**   | The field does not contain one or more of the `;` delimited values |
-|  **excludes all**   | The field does not contain any of the `;` delimited values |
-|  **begin with**     | The field begins with this value |
-|  **end with**       | The field ends with this value |
-|  **not begin with** | The field does not begin with this value |
-|  **not end with**   | The field does not end with this value |
-|  **less than**      | Lexicographical comparison is less than zero |
-|  **more than**      | Lexicographical comparison is more than zero |
-|  **image**          | Match an image path (full path or only image name). For example: `lsass.exe` will match `c:\windows\system32\lsass.exe` |
+|  **Condition**       |  **Description**                                                                                                          |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+|  **is**              |  Default, values are equals                                                                                               |
+|  **is any**          |  The field is one of the `;` delimited values                                                                             |
+|  **is not**          |  Values are different                                                                                                     |
+|  **contains**        |  The field contains this value                                                                                            |
+|  **contains any**    |  The field contains any of the `;` delimited values                                                                       |
+|  **contains all**    |  The field contains all of the `;` delimited values                                                                       |
+|  **excludes**        |  The field does not contain this value                                                                                    |
+|  **excludes any**    |  The field does not contain one or more of the `;` delimited values                                                       |
+|  **excludes all**    |  The field does not contain any of the `;` delimited values                                                               |
+|  **begin with**      |  The field begins with this value                                                                                         |
+|  **end with**        |  The field ends with this value                                                                                           |
+|  **not begin with**  |  The field does not begin with this value                                                                                 |
+|  **not end with**    |  The field does not end with this value                                                                                   |
+|  **less than**       |  Lexicographical comparison is less than zero                                                                             |
+|  **more than**       |  Lexicographical comparison is more than zero                                                                             |
+|  **image**           |  Match an image path (full path or only image name). For example: `lsass.exe` will match `c:\windows\system32\lsass.exe`  |
 
 You can use a different condition by specifying it as an attribute. This
 excludes network activity from processes with iexplore.exe in their
