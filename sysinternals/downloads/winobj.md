@@ -23,7 +23,7 @@ Published: January 27, 2022
 about security, a developer tracking down object-related problems, or
 just curious about the Object Manager namespace.
 
-*WinObj* is a 32-bit Windows NT program that uses the native Windows NT
+*WinObj* is a program that uses the native Windows 
 API (provided by NTDLL.DLL) to access and display information on the NT
 Object Manager's namespace. Winobj may seem similar to the Microsoft
 SDK's program of the same name, but the SDK version suffers from
@@ -52,7 +52,7 @@ objects located there, but the interfaces are undocumented.
 ## More Information
 
 Helen Custer's *Inside Windows NT* provides a good overview of the
-Object Manager name space, and Mark's October 1997 [WindowsITPro
+Object Manager namespace, and Mark's October 1997 [WindowsITPro
 Magazine](https://www.windowsitpro.com/) column, "Inside the Object
 Manager", is (of course) an excellent overview.
 

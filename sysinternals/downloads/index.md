@@ -51,7 +51,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v14.09 (February 16, 2022)*  
+*v14.1 (June 27, 2023)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -229,7 +229,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.94 (June 7, 2023)*  
+*v3.95 (June 27, 2023)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -346,7 +346,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v14.16 (April 12, 2023)*  
+*v15.0 (Jun 27, 2023)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
