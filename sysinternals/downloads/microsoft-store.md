@@ -9,8 +9,8 @@ ms.date: 11/03/2022
 
 ## Sysinternals Suite
 
-Version 2023.6.1  
-June 27, 2023
+Version 2023.7  
+July 26, 2023
 
 Sysinternals Suite is installed as an [MSIX bundle](/windows/msix/package/bundling-overview) from the Microsoft Store.
 

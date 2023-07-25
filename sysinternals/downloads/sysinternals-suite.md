@@ -11,7 +11,7 @@ ms.date: 03/30/2023
 # Sysinternals Suite
 
 **By Mark Russinovich**  
-Updated: June 27, 2023
+Updated: July 26, 2023
 
 [**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (45.1 MB)  
 [**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (9.5 MB)  
