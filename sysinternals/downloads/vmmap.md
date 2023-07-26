@@ -8,11 +8,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/Dd535533(v=MSDN.10)'
 ms.date: 01/27/2022
 ---
 
-# VMMap v3.32
+# VMMap v3.33
 
 **By Mark Russinovich**
 
-Published: January 27, 2022
+Published: July 26, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/VMMap.zip) [**Download VMMap**](https://download.sysinternals.com/files/VMMap.zip)  **(1.3 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/vmmap.exe).
