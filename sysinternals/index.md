@@ -27,6 +27,14 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
+### What's New (July 26, 2023)
+
+- [ZoomIt v7.1](~/downloads/zoomit.md)  
+This update to ZoomIt adds audio capture to screen recording.
+
+- [ProcDump 2.0 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux)  
+ProcDump for Linux, a flexible tool for manual and trigger-based process dump generation, receives two new .NET GC triggers (-gcm and -gcgen) and updates the existing memory trigger to allow for multiple thresholds.
+
 ### What's New (June 27, 2023)
 
 - [Sysmon v15.0](~/downloads/sysmon.md)  
@@ -41,8 +49,3 @@ This update to ZoomIt, a screen magnification and annotation tool, adds the abil
 
 - [Sysmon 1.1 for Linux](https://github.com/Sysinternals/SysmonForLinux)  
 This update to Sysmon for Linux, an advanced host monitoring tool, adds support for a wider range of distributions (e.g., RHEL) by leveraging BTF enabled kernels.
-
-### What's New (December 12, 2022)
-
-- [ProcDump 1.4 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux)  
-This update to ProcDump for Linux adds the capability to generate dumps when specified exceptions occur in a .NET process.
