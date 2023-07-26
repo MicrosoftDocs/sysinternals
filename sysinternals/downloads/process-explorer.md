@@ -14,7 +14,7 @@ adobe-target: true
 
 Published: July 26, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.3 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
 <br><br>
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE5d5Rd?autoplay=true&loop=true&controls=false]
@@ -49,7 +49,7 @@ into the way Windows and applications work.
 
 ## Download
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.3 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
 
 **Runs on:**
