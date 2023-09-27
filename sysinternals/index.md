@@ -27,6 +27,11 @@ You can view the entire Sysinternals Live tools directory in a browser at [https
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
+### What's New (September 27, 2023)
+
+- [ProcDump 2.2 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/2.2)  
+This update to ProcDump for Linux adds support for Azure Linux and fixes a couple of memory leaks.
+
 ### What's New (July 26, 2023)
 
 - [ZoomIt v7.1](~/downloads/zoomit.md)  
