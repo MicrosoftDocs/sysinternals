@@ -11,7 +11,7 @@ ms.date: 11/25/2020
 
 **By Mark Russinovich**
 
-Published: September 27, 2023
+Published: September 29, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(518 KB)**
 
@@ -58,14 +58,14 @@ accepts wild card characters as part of the directory or file specifier.
 **Usage:**
 
 ```cmd
-sdelete [-p passes] [-r] [-s] [-q] [-f] <file or directory> [...]
-sdelete [-p passes] [-q] [-z|-c] [<drive letter [...]]>
+sdelete [-p passes] [-r] [-s] [-q] [-f] <file or directory [...]>
+sdelete [-p passes] [-q] [-z|-c] <drive letter [...]>
 sdelete [-p passes] [-q] [-z|-c] <physical disk number [...]>
 ```
 
 |Parameter  |Description  |
 |---------|---------|
-|  **-c**        |  Clean free space. Current drive used implicitly. |
+|  **-c**        |  Clean free space. |
 |  **-f**        |  Force arguments containing only letters to be treated as a file/directory rather than a disk.<br />Not required if the argument contains other characters (path separators or file extensions for example). |
 |  **-p**        |  Specifies number of overwrite passes (default is 1).|
 |  **-q**        |  Quiet mode. |

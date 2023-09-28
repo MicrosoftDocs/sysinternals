@@ -229,7 +229,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.96 (September 27, 2023)*  
+*v3.96 (September 29, 2023)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -314,7 +314,7 @@ View the registry space usage for the specified registry key.
 Jump to the registry path you specify in Regedit.
 
 [SDelete](sdelete.md)  
-*v2.05 (September 272, 2023)*  
+*v2.05 (September 29, 2023)*  
 Securely overwrite your sensitive files and cleanse your free space of
 previously deleted files using this DoD-compliant secure delete program.
 

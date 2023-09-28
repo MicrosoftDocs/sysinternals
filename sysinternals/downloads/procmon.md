@@ -12,7 +12,7 @@ ms.date: 03/09/2023
 
 **By Mark Russinovich**
 
-Published: September 27, 2023
+Published: September 29, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(3.3 MB)**  
 
