@@ -13,7 +13,7 @@ ms.date: 11/25/2020
 
 Published: September 29, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(518 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(304 KB)**
 
 ## Introduction
 
@@ -156,7 +156,7 @@ space containing deleted file names, but the free directory space is not
 available for allocation to other files. Hence, *SDelete* has no way of
 allocating this free space so that it can securely overwrite it.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(518 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(304 KB)**
 
 **Runs on:**
 
