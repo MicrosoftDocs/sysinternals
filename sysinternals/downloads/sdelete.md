@@ -165,4 +165,4 @@ allocating this free space so that it can securely overwrite it.
 
 - Client: Windows 10 and higher.
 - Server: Windows Server 2012 and higher.
-- Nano Server: 2016 and higher
+- Nano Server: 2016 and higher.
