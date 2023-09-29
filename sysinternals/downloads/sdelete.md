@@ -74,6 +74,9 @@ sdelete [-p passes] [-q] [-z|-c] <physical disk number [...]>
 |  **-z**        |  Zero free space (good for virtual disk optimization). |
 |  **-nobanner** |  Do not display the startup banner and copyright message. |
 
+* Disks must not have any volumes in order to be cleaned.
+* For drive letters, include `:`, for example `D:`.
+
 ## How SDelete Works
 
 Securely deleting a file that has no special attributes is relatively
