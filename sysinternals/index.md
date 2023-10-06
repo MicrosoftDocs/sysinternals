@@ -21,11 +21,22 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 ---
 ## Sysinternals Live
 
-Sysinternals Live is a service that enables you to execute Sysinternals tools directly from the Web without hunting for and manually downloading them. Simply enter a tool's Sysinternals Live path into Windows Explorer or a command prompt as live.sysinternals.com/&lt;toolname&gt; or  \\\\live.sysinternals.com\tools\\&lt;toolname&gt;.
+Sysinternals Live is a service that enables you to run Sysinternals tools directly from the Web without manually downloading them.
 
-You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
+Enter a tool's Sysinternals Live path in Windows Explorer as `live.sysinternals.com/<toolname>` or `\\live.sysinternals.com\tools\<toolname>`.
+In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
+
+You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
+
+### What's New (September 29, 2023)
+
+- [ProcDump 2.2 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/2.2)  
+This update to ProcDump for Linux adds support for Azure Linux and fixes a couple of memory leaks.
+
+- [Sysmon 1.3 for Linux](https://github.com/Sysinternals/SysmonForLinux/releases/tag/1.3.0.0)
+This update to Sysmon for Linux fixes a bug with rule case matching.
 
 ### What's New (July 26, 2023)
 

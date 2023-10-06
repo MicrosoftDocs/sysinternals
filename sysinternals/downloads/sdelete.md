@@ -7,13 +7,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb897443(v=MSDN.10)'
 ms.date: 11/25/2020
 ---
 
-# SDelete v2.04
+# SDelete v2.05
 
 **By Mark Russinovich**
 
-Published: November 25, 2020
+Published: September 29, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(518 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(304 KB)**
 
 ## Introduction
 
@@ -57,20 +57,25 @@ accepts wild card characters as part of the directory or file specifier.
 
 **Usage:**
 
-**sdelete \[-p passes\] \[-r\] \[-s\] \[-q\] &lt;file or directory&gt; \[...\]**
-
-**sdelete \[-p passes\] \[-z|-c \[percent free\]\] &lt;drive letter \[...\]&gt;**
-
-**sdelete \[-p passes\] \[-z|-c\] &lt;physical disk number&gt;**
+```cmd
+sdelete [-p passes] [-r] [-s] [-q] [-f] <file or directory [...]>
+sdelete [-p passes] [-q] [-z|-c] <drive letter [...]>
+sdelete [-p passes] [-q] [-z|-c] <physical disk number [...]>
+```
 
 |Parameter  |Description  |
 |---------|---------|
-|  **-c**        |  Clean free space. Specify an option amount of space to leave free for use by a running system.|
+|  **-c**        |  Clean free space. |
+|  **-f**        |  Force arguments containing only letters to be treated as a file/directory rather than a disk.<br />Not required if the argument contains other characters (path separators or file extensions for example). |
 |  **-p**        |  Specifies number of overwrite passes (default is 1).|
-|  **-r**        |  Remove Read-Only attribute.|
-|  **-s**        |  Recurse subdirectories.|
-|  **-z**        |  Zero free space (good for virtual disk optimization).|
-|  **-nobanner** |  Do not display the startup banner and copyright message.|
+|  **-q**        |  Quiet mode. |
+|  **-r**        |  Remove Read-Only attribute. |
+|  **-s**        |  Recurse subdirectories. |
+|  **-z**        |  Zero free space (good for virtual disk optimization). |
+|  **-nobanner** |  Do not display the startup banner and copyright message. |
+
+* Disks must not have any volumes in order to be cleaned.
+* For drive letters, include `:`, for example `D:`.
 
 ## How SDelete Works
 
@@ -154,10 +159,10 @@ space containing deleted file names, but the free directory space is not
 available for allocation to other files. Hence, *SDelete* has no way of
 allocating this free space so that it can securely overwrite it.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(518 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(304 KB)**
 
 **Runs on:**
 
-- Client: Windows Vista and higher
-- Server: Windows Server 2008 and higher
-- Nano Server: 2016 and higher
+- Client: Windows 10 and higher.
+- Server: Windows Server 2012 and higher.
+- Nano Server: 2016 and higher.
