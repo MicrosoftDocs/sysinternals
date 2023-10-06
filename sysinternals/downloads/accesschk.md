@@ -51,7 +51,7 @@ accesschk [-s][-e][-u][-r][-w][-n][-v]-[f <account>,...][[-a]|[-k]|[-p [-f] [-t]
 |  **-n** |  Show only objects that have no access|
 |  **-o** |  Name is an object in the Object Manager namespace (default is root). To view the contents of a directory, specify the name with a trailing backslash or add `-s`. Add `-t` and an object type (e.g. section) to see only objects of a specific type.|
 |  **-p** |  Name is a process name or PID, e.g. `cmd.exe` (specify `"*"` as the name to show all processes). Add `-f` to show full process token information, including groups and privileges. Add `-t` to show threads.|
-|  **-q** |  Omit Banner|
+|  **-nobanner** |  Do not display the startup banner and copyright message.|
 |  **-r** |  Show only objects that have read access|
 |  **-s** |  Recurse|
 |  **-t** |  Object type filter, e.g. `"section"`|
