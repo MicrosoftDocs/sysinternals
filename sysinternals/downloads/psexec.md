@@ -47,7 +47,7 @@ advanced usage of PsExec.
 **Usage:**
 
 ```cmd
-psexec [\\computer[,computer2[,...] | @file]][-accepteula][-nobanner][-u user [-p psswd][-n s][-r servicename][-h][-l][-s|-e][-x][-i [session]][-c executable [-f|-v]][-w directory][-d][-<priority>][-a n,n,...] cmd [arguments]
+psexec [\\\\computer[,computer2[,...] | @file]][-u user [-p psswd]][-n s][-r servicename][-h][-l][-s|-e][-x][-i [session]][-c [-f|-v]][-w directory][-d][-<priority>][-g n][-a n,n,...][-verbose][-accepteula][-nobanner] cmd [arguments]
 ```
 
 |       Parameter        |                                                                                                                                 Description                                                                                                                                 |
