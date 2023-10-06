@@ -47,7 +47,7 @@ advanced usage of PsExec.
 **Usage:**
 
 ```cmd
-psexec [\\computer[,computer2[,...] | @file]][-u user [-p psswd][-n s][-r servicename][-h][-l][-s|-e][-x][-i [session]][-c executable [-f|-v]][-w directory][-d][-<priority>][-a n,n,...] cmd [arguments]
+psexec [\\\\computer[,computer2[,...] | @file]][-u user [-p psswd]][-n s][-r servicename][-h][-l][-s|-e][-x][-i [session]][-c [-f|-v]][-w directory][-d][-<priority>][-g n][-a n,n,...][-accepteula][-nobanner] cmd [arguments]
 ```
 
 |       Parameter        |                                                                                                                                 Description                                                                                                                                 |
@@ -74,6 +74,7 @@ psexec [\\computer[,computer2[,...] | @file]][-u user [-p psswd][-n s][-r servic
 |        **cmd**         |                                                                                                                       Name of application to execute.                                                                                                                       |
 |     **arguments**      |                                                                                            Arguments to pass (note that file paths must be absolute paths on the target system).                                                                                            |
 |    **-accepteula**     |                                                                                                           This flag suppresses the display of the license dialog.                                                                                                           |
+|     **-nobanner**      |                                                                                                       This flag suppresses the startup banner and copyright message.                                                                                                        |
 
 You can enclose applications that have spaces in their name with
 quotation marks e.g.
