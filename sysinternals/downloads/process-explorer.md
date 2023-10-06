@@ -4,18 +4,21 @@ title: Process Explorer
 description: Find out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more.
 ms:assetid: '32cbeee6-4335-44d5-b94b-160612b99738'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896653(v=MSDN.10)'
-ms.date: 11/03/2022
+ms.date: 03/30/2023
 adobe-target: true
 ---
 
-# Process Explorer v17.01
+# Process Explorer v17.05
 
 **By Mark Russinovich**
 
-Published: November 3, 2022
+Published: July 26, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.3 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
+<br><br>
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE5d5Rd?autoplay=true&loop=true&controls=false]
+<sup><i>Created with [ZoomIt](zoomit.md)</i></sup>
 
 ## Introduction
 
@@ -38,10 +41,6 @@ The unique capabilities of *Process Explorer* make it useful for
 tracking down DLL-version problems or handle leaks, and provide insight
 into the way Windows and applications work.
 
-![Process Explorer screenshot](media/process-explorer/processexplorer.jpg)
-
-![System Information screenshot](media/process-explorer/processexplorer2.jpg)
-
 ## Related Links
 
 - [Windows Internals Book](~/resources/windows-internals.md)
@@ -50,7 +49,7 @@ into the way Windows and applications work.
 
 ## Download
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.3 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
 
 **Runs on:**

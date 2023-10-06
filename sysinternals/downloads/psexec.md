@@ -4,16 +4,16 @@ title: PsExec
 description: Execute processes on remote systems.
 ms:assetid: '936a8b8b-a7ce-4b63-bcc2-ca334cd4c276'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897553(v=MSDN.10)'
-ms.date: 07/19/2022
+ms.date: 03/30/2023
 ---
 
-# PsExec v2.40
+# PsExec v2.43
 
 **By Mark Russinovich**
 
-Published: July 19, 2022
+Published: April 11, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(3.5 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 ## Introduction
 
@@ -47,7 +47,7 @@ advanced usage of PsExec.
 **Usage:**
 
 ```cmd
-psexec [\\computer[,computer2[,...] | @file]][-u user [-p psswd][-n s][-r servicename][-h][-l][-s|-e][-x][-i [session]][-c executable [-f|-v]][-w directory][-d][-<priority>][-a n,n,...] cmd [arguments]
+psexec [\\\\computer[,computer2[,...] | @file]][-u user [-p psswd]][-n s][-r servicename][-h][-l][-s|-e][-x][-i [session]][-c [-f|-v]][-w directory][-d][-<priority>][-g n][-a n,n,...][-accepteula][-nobanner] cmd [arguments]
 ```
 
 |       Parameter        |                                                                                                                                 Description                                                                                                                                 |
@@ -74,6 +74,7 @@ psexec [\\computer[,computer2[,...] | @file]][-u user [-p psswd][-n s][-r servic
 |        **cmd**         |                                                                                                                       Name of application to execute.                                                                                                                       |
 |     **arguments**      |                                                                                            Arguments to pass (note that file paths must be absolute paths on the target system).                                                                                            |
 |    **-accepteula**     |                                                                                                           This flag suppresses the display of the license dialog.                                                                                                           |
+|     **-nobanner**      |                                                                                                       This flag suppresses the startup banner and copyright message.                                                                                                        |
 
 You can enclose applications that have spaces in their name with
 quotation marks e.g.
@@ -143,7 +144,7 @@ command:
 psexec -l -d "c:\program files\internet explorer\iexplore.exe"
 ```
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(3.5 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
   
 **PSTools**
 

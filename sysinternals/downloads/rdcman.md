@@ -3,16 +3,16 @@ TOCTitle: Remote Desktop Connection Manager
 title: Remote Desktop Connection Manager
 no-loc: [Julian Burger]
 description: Manage multiple remote desktop connections.
-ms.date: 01/27/2022
+ms.date: 01/25/2023
 ---
 
-# Remote Desktop Connection Manager v2.90
+# Remote Desktop Connection Manager v2.93
 
 **By Julian Burger**
 
-Published: January 27, 2022
+Published: July 26, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(519 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(530 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RDCMan.exe).
 
 ## Introduction
@@ -82,13 +82,13 @@ A file has all the characteristics of a server group other than being able to ch
 
 ## Groups
 
-A group contains a list of servers and configuration information such as logon credentials. Configuration settings can be inherited from another group or the application defaults. Groups can be nested but are homogenous: a group may either contain groups or servers, but not both. All the servers in a group can be connected or disconnected at once.
+A group contains a list of servers and configuration information such as logon credentials. Configuration settings can be inherited from another group or the application defaults. Groups can be nested but are homogeneous: a group may either contain groups or servers, but not both. All the servers in a group can be connected or disconnected at once.
 
 When a group is selected in the tree view, the servers underneath it are displayed in a thumbnail view. The thumbnails can show the actual server windows or simply the connection status. Global thumbnail view properties can be adjusted via the **[Tools.Options.Client Area]** tab while group/server-specific settings are in Display Settings.
 
 ### Smart Groups
 
-Smart groups are populated dynamically based on a set of rules. All ancestors of sibiling groups of the smart group are eligible for inclusion.
+Smart groups are populated dynamically based on a set of rules. All ancestors of sibling groups of the smart group are eligible for inclusion.
 
 ### The Connected Virtual Group
 
@@ -128,7 +128,7 @@ A server has a server name (the computer's network name or IP address), an optio
 
 Servers names following a pattern can be bulk added to a group. There are two pattern classes:
 
-- Iteration - `{a,b,c}` iterates over the comma-delimeted contents.
+- Iteration - `{a,b,c}` iterates over the comma-delimited contents.
 - Range - `[1-5]` iterates the numerical range. Prefix the lower bound with `0`'s to specify the minimum width.
 
 Examples:
@@ -362,7 +362,7 @@ RDCMan retrieves policy information from the `HKEY_LOCAL_MACHINE\SOFTWARE\Polici
 
 ## Download
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(519 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(530 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RDCMan.exe).
 
 **Runs on:**

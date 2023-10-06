@@ -4,16 +4,16 @@ title: PsPing
 description: Measure network performance.
 ms:assetid: '80138356-ebe3-41cd-a14d-8aa7eae81c42'
 ms:mtpsurl: 'https://technet.microsoft.com/JJ729731(v=MSDN.10)'
-ms.date: 06/29/2016
+ms.date: 03/30/2023
 ---
 
-# PsPing v2.1
+# PsPing v2.12
 
 **By Mark Russinovich**
 
-Published: June 29, 2016
+Published: March 30, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 ## Introduction
 
@@ -195,4 +195,15 @@ bandwidth test.
 psping -b -l 8k -n 10000 -h 100 192.168.2.2:5000
 ```
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
+
+**PsTools**  
+
+*PsPing* is part of a growing kit of Sysinternals command-line tools
+that aid in the administration of local and remote systems named
+*PsTools*.
+
+**Runs on:**
+
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.

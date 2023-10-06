@@ -4,16 +4,16 @@ title: PsInfo
 description: Obtain information about a system.
 ms:assetid: '5b454ec8-9d69-44bb-b3fe-c7c252929439'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897550(v=MSDN.10)'
-ms.date: 06/29/2016
+ms.date: 03/30/2023
 ---
 
-# PsInfo v1.78
+# PsInfo v1.79
 
 **By Mark Russinovich**
 
-Published: June 29, 2016
+Published: March 30, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 ## Introduction
 
@@ -54,7 +54,7 @@ for SP 1, etc).
 |         **-s**         |                                                                                                  Show list of installed applications.                                                                                                   |
 |         **-d**         |                                                                                                      Show disk volume information.                                                                                                      |
 |         **-c**         |                                                                                                          Print in CSV format.                                                                                                           |
-|         **-t**         |                                                                 The default delimiter for the -c option is a comma, but can be overriden with the specified character.                                                                  |
+|         **-t**         |                                                                 The default delimiter for the -c option is a comma, but can be overridden with the specified character.                                                                  |
 |       **filter**       |                                                         Psinfo will only show data for the field matching the filter. e.g. "psinfo service" lists only the service pack field.                                                          |
 
 ## Example Output
@@ -112,4 +112,15 @@ Sysinternals - www.sysinternals.com
 system's Registry, and WMI to determine whether Windows XP installations
 have been activated.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
+
+**PsTools**
+
+*PsInfo* is part of a growing kit of Sysinternals command-line tools
+that aid in the administration of local and remote systems named
+*PsTools*.
+
+**Runs on:**
+
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.

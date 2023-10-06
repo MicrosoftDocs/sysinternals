@@ -29,7 +29,7 @@ keys). If you use it to identify the presence of a rootkit please let us
 know!
 
 The reason that there is no longer a command-line version is that
-malware authors have started targetting RootkitRevealer's scan by using
+malware authors have started targeting RootkitRevealer's scan by using
 its executable name. We've therefore updated RootkitRevealer to execute
 its scan from a randomly named copy of itself that runs as a Windows
 service. This type of execution is not conducive to a command-line
@@ -204,7 +204,7 @@ detected rootkits and specific false-positives.
 These discrepancies are the ones exhibited by most rootkits; however, if
 you haven't checked the Hide NTFS metadata files you should expect to
 see a number of such entries on any NTFS volume, since NTFS hides its
-metada files, such as \$MFT and \$Secure, from the Windows API. The
+metadata files, such as \$MFT and \$Secure, from the Windows API. The
 metadata files present on NTFS volumes vary by version of NTFS and the
 NTFS features that have been enabled on the volume. There are also
 antivirus products, such as Kaspersky Antivirus, that use rootkit

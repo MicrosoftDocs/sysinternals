@@ -5,11 +5,11 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 11/03/2022
+ms.date: 03/30/2023
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
-The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows systems and applications.  
+The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows and Linux systems and applications.  
   -   Read the official guide to the Sysinternals tools, [Troubleshooting with the Windows Sysinternals Tools](~/resources/troubleshooting-book.md)
 -   Read the [Sysinternals Blog](https://techcommunity.microsoft.com/t5/Sysinternals-Blog/bg-p/Sysinternals-Blog) for a detailed change feed of tool updates
 -   Watch Mark's [Sysinternals Update videos on YouTube](https://www.youtube.com/playlist?list=PLhFhDWFYccZ_GvdJ11NZwaBAhwDCWmni_)
@@ -21,47 +21,42 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 ---
 ## Sysinternals Live
 
-Sysinternals Live is a service that enables you to execute Sysinternals tools directly from the Web without hunting for and manually downloading them. Simply enter a tool's Sysinternals Live path into Windows Explorer or a command prompt as live.sysinternals.com/&lt;toolname&gt; or  \\\\live.sysinternals.com\tools\\&lt;toolname&gt;.
+Sysinternals Live is a service that enables you to run Sysinternals tools directly from the Web without manually downloading them.
 
-You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
+Enter a tool's Sysinternals Live path in Windows Explorer as `live.sysinternals.com/<toolname>` or `\\live.sysinternals.com\tools\<toolname>`.
+In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
+
+You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
-### What's New (November 3, 2022)
+### What's New (September 29, 2023)
 
-- [ProcDump v11.0](~/downloads/procdump.md)  
-This update to ProcDump, a command-line utility for generating memory dumps from running processes, adds ModuleLoad/Unload and Thread Create/Exit triggers, removes Internet Explorer JavaScript support, and improves descriptive text messages.
+- [ProcDump 2.2 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/2.2)  
+This update to ProcDump for Linux adds support for Azure Linux and fixes a couple of memory leaks.
 
-- [ProcDump 1.3 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux)  
-This update to ProcDump for Linux changes the CLI interface to match ProcDump for Windows, and adds a new process group trigger (`-pgid`) to allow monitoring all processes running in the same process group.
+- [Sysmon 1.3 for Linux](https://github.com/Sysinternals/SysmonForLinux/releases/tag/1.3.0.0)
+This update to Sysmon for Linux fixes a bug with rule case matching.
 
-### What's New (October 26, 2022)
+### What's New (July 26, 2023)
 
-- [Process Explorer v17.0](~/downloads/process-explorer.md)  
-This update to Process Explorer, an advanced process, DLL and handle viewing utility, adds dark theme support, multipane view in the main window with a new threads pane, startup performance optimization and more.
+- [ZoomIt v7.1](~/downloads/zoomit.md)  
+This update to ZoomIt adds audio capture to screen recording.
 
-- [Handle v5.0](~/downloads/handle.md)  
-This update to Handle, a tool that displays information about open handles for any process in the system, adds CSV output with a new `-v` switch and has an option to print the granted access mask with `-g`.
+- [ProcDump 2.0 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux)  
+ProcDump for Linux, a flexible tool for manual and trigger-based process dump generation, receives two new .NET GC triggers (-gcm and -gcgen) and updates the existing memory trigger to allow for multiple thresholds.
 
-### What's New (October 12, 2022)
+### What's New (June 27, 2023)
 
-- [ZoomIt v6.1](~/downloads/zoomit.md)  
-This update to ZoomIt, a screen magnification and annotation tool, adds right-justified text input, an option to scale the screen recordings resolution, and usability fixes.
+- [Sysmon v15.0](~/downloads/sysmon.md)  
+This update to Sysmon, an advanced host security monitoring tool, sets the service to run as a protected process, hardening it against tampering, adds a new event, `FileExecutableDetected`, for when new executable images are saved to files, and fixes a system hang occurring in certain situations due to an interaction between network and file system events.
 
-### What's New (September 29, 2022)
+### What's New (May 24, 2023)
 
-- [Sysmon v14.1](~/downloads/sysmon.md)  
-This update to Sysmon, an advanced host monitoring tool, adds a new event type, FileBlockShredding that prevents wiping tools such as Sysinternals SDelete from corrupting and deleting files.
+- [ZoomIt v7.0](~/downloads/zoomit.md)  
+This update to ZoomIt, a screen magnification and annotation tool, adds the ability to screen record cropped regions or a specific window, and lets you snip regions of the screen or zoomed views to the clipboard or to a file in a single gesture.
 
-- [Coreinfo v3.6](~/downloads/coreinfo.md)  
-This update to Coreinfo, a utility that reports system CPU, memory and cache topology and information, now has an option (-d) for measuring inter-CPU latencies in nanoseconds.
+### What's New (March 9, 2023)
 
-### What's New (August 16, 2022)
-
-- [Sysmon v14.0](~/downloads/sysmon.md)  
-This major update to Sysmon, an advanced host monitoring tool, adds a new event type, FileBlockExecutable that prevents processes from creating executable files in specified locations. It also includes several performance improvements and bug fixes.
-
-### What's New (July 19, 2022)
-
-- [ZoomIt v6.0](~/downloads/zoomit.md)  
-This major update to ZoomIt, a screen magnification and annotation tool, adds built-in screen recording for easy demo recordings and now supports Unicode typing input.
+- [Sysmon 1.1 for Linux](https://github.com/Sysinternals/SysmonForLinux)  
+This update to Sysmon for Linux, an advanced host monitoring tool, adds support for a wider range of distributions (e.g., RHEL) by leveraging BTF enabled kernels.

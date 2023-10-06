@@ -4,16 +4,16 @@ title: PsPasswd
 description: Changes account passwords.
 ms:assetid: '0e454df6-b63b-404d-854c-e2f355630912'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897543(v=MSDN.10)'
-ms.date: 06/29/2016
+ms.date: 03/30/2023
 ---
 
-# PsPasswd v1.24
+# PsPasswd v1.25
 
 **By Mark Russinovich**
 
-Published: June 29, 2016
+Published: March 30, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 ## Introduction
 
@@ -49,9 +49,9 @@ account on the local or a remote computer.
 |         **-u**         |                                                                                       Specifies optional user name for login to remote computer.                                                                                        |
 |         **-p**         |                                                              Specifies optional password for user name. If you omit this you will be prompted to enter a hidden password.                                                               |
 |      **Username**      |                                                                                             Specifies name of account for password change.                                                                                              |
-|    **NewPassword**     |                                                                                          New password. If ommitted a NULL password is applied.                                                                                          |
+|    **NewPassword**     |                                                                                          New password. If omitted a NULL password is applied.                                                                                          |
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 **PsTools**  
 *PsPasswd* is part of a growing kit of Sysinternals command-line tools
@@ -60,5 +60,5 @@ that aid in the administration of local and remote systems named
 
 **Runs on:**
 
-- Client: Windows Vista and higher.
-- Server: Windows Server 2008 and higher.
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.

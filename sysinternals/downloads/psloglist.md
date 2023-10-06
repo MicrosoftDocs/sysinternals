@@ -4,16 +4,16 @@ title: PsLogList
 description: Dump event log records.
 ms:assetid: '78a2118a-4eea-438f-af53-4b44a9058ec6'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897544(v=MSDN.10)'
-ms.date: 06/29/2016
+ms.date: 03/30/2023
 ---
 
-# PsLogList v2.81
+# PsLogList v2.82
 
 **By Mark Russinovich**
 
-Published: March 05, 2019
+Published: March 30, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 ## Introduction
 
@@ -63,7 +63,7 @@ source\]\[,..\]\]\] \[-l event log file\] &lt;eventlog&gt;**
 |         **-q**         |                                       Omit records from the specified event source or sources (e.g. \\"-q cdrom\\").                                       |
 |         **-r**         |                                                        SDump log from least recent to most recent.                                                         |
 |         **-s**         | This switch has *PsLogList* print Event Log records one-per-line, with comma delimited fields. This format is convenient for text searches, e.g. psloglist |
-|         **-t**         |                                    The default delimeter is a comma, but can be overriden with the specified character.                                    |
+|         **-t**         |                                    The default delimiter is a comma, but can be overridden with the specified character.                                    |
 |         **-u**         |                                                 Specifies optional user name for login to remote computer.                                                 |
 |         **-w**         |                                          Wait for new events, dumping them as they generate (local system only).                                           |
 |         **-x**         |                                                                     Dump extended data                                                                     |
@@ -78,7 +78,7 @@ where the event log being viewed resides so that it correctly displays
 event log messages.
 
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(2.7 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
 **PsTools**  
 *PsLogList* is part of a growing kit of Sysinternals command-line tools
@@ -87,5 +87,5 @@ that aid in the administration of local and remote systems named
 
 **Runs on:**
 
-- Client: Windows Vista and higher.
-- Server: Windows Server 2008 and higher.
+- Client: Windows 8.1 and higher.
+- Server: Windows Server 2012 and higher.

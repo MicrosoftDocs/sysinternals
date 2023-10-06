@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 11/03/2022
+ms.date: 03/30/2023
 ---
 
 # Sysinternals Utilities Index
@@ -33,7 +33,7 @@ directories, files and Registry keys on your systems. Use it to find
 holes in your permissions.
 
 [AdExplorer](adexplorer.md)  
-*v1.51 (December 16, 2021)*  
+*v1.52 (November 28, 2022)*  
 Active Directory Explorer is an advanced Active Directory (AD) viewer
 and editor.  
 
@@ -51,7 +51,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v14.09 (February 16, 2022)*  
+*v14.1 (June 27, 2023)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -81,7 +81,7 @@ View the resolution of the system clock, which is also the maximum timer
 resolution.
 
 [Contig](contig.md)  
-*v1.81 (October 12, 2021)*  
+*v1.83 (March 9, 2023)*  
 Wish you could quickly defragment your frequently used files? Use Contig
 to optimize individual files, or to create new files that are
 contiguous.
@@ -223,42 +223,42 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)  
-*v17.01 (November 3, 2022)*  
+*v17.05 (July 26, 2023)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.92 (October 26, 2022)*  
+*v3.96 (September 29, 2023)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
 [PsExec](psexec.md)  
-*v2.40 (July 19, 2022)*  
+*v2.43 (April 11, 2023)*  
 Execute processes on remote systems.
 
 [PsFile](psfile.md)  
-*v1.03 (June 29, 2016)*  
+*v1.04 (March 30, 2023)*  
 See what files are opened remotely.
 
 [PsGetSid](psgetsid.md)  
-*v1.45 (June 29, 2016)*  
+*v1.46 (March 30, 2023)*  
 Displays the SID of a computer or a user.
 
 [PsInfo](psinfo.md)  
-*v1.78 (June 29, 2016)*  
+*v1.79 (March 30, 2023)*  
 Obtain information about a system.
 
 [PsKill](pskill.md)  
-*v1.16 (June 29, 2016)*  
+*v1.17 (March 30, 2023)*  
 Terminate local or remote processes.
 
 [PsPing](psping.md)  
-*v2.01 (January 29, 2014)*  
+*v2.12 (March 30, 2023)*  
 Measure network performance.
 
 [PsList](pslist.md)  
-*v1.4 (June 29, 2016)*  
+*v1.41 (March 30, 2023)*  
 Show information about processes and threads.
 
 [PsLoggedOn](psloggedon.md)  
@@ -266,27 +266,27 @@ Show information about processes and threads.
 Show users logged on to a system.
 
 [PsLogList](psloglist.md)  
-*v2.8 (June 29, 2016)*  
+*v2.82 (March 30, 2023)*  
 Dump event log records.
 
 [PsPasswd](pspasswd.md)  
-*v1.24 (June 29, 2016)*  
+*v1.25 (March 30, 2023)*  
 Changes account passwords.
 
 [PsService](psservice.md)  
-*v2.25 (June 29, 2016)*  
+*v2.26 (March 30, 2023)*  
 View and control services.
 
 [PsShutdown](psshutdown.md)  
-*v2.53 (October 12, 2021)*  
+*v2.6 (March 30, 2023)*  
 Shuts down and optionally reboots a computer.
 
 [PsSuspend](pssuspend.md)  
-*v1.07 (June 29, 2016)*  
+*v1.08 (March 30, 2023)*  
 Suspend and resume processes.
 
 [PsTools](pstools.md)  
-*v2.48 (October 12, 2021)*  
+*v2.51 (April 11, 2023)*  
 The PsTools suite includes command-line utilities for listing the
 processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
@@ -297,7 +297,7 @@ An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v2.90 (January 27, 2022)*  
+*v2.93 (July 26, 2023)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
@@ -314,7 +314,7 @@ View the registry space usage for the specified registry key.
 Jump to the registry path you specify in Regedit.
 
 [SDelete](sdelete.md)  
-*v2.04 (November 25, 2020)*  
+*v2.05 (September 29, 2023)*  
 Securely overwrite your sensitive files and cleanse your free space of
 previously deleted files using this DoD-compliant secure delete program.
 
@@ -346,15 +346,15 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v14.11 (October 26, 2022)*  
+*v15.0 (Jun 27, 2023)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
-*v4.17 (January 27, 2022)*  
+*v4.19 (April 11, 2023)*  
 Active socket viewer.
 
 [VMMap](vmmap.md)  
-*v3.32 (January 27, 2022)*  
+*v3.33 (July 26, 2023)*  
 VMMap is a process virtual and physical memory analysis utility.
 
 [VolumeId](volumeid.md)  
@@ -370,5 +370,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  
-*v6.11 (October 13, 2022)*  
+*v7.1 (July 26, 2023)*  
 Presentation utility for zooming and drawing on the screen.  
