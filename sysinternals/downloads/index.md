@@ -223,13 +223,13 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)  
-*v17.04 (April 3, 2023)*  
+*v17.05 (July 26, 2023)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v3.95 (June 27, 2023)*  
+*v3.96 (September 29, 2023)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -297,7 +297,7 @@ An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v2.92 (January 25, 2023)*  
+*v2.93 (July 26, 2023)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
@@ -314,7 +314,7 @@ View the registry space usage for the specified registry key.
 Jump to the registry path you specify in Regedit.
 
 [SDelete](sdelete.md)  
-*v2.04 (November 25, 2020)*  
+*v2.05 (September 29, 2023)*  
 Securely overwrite your sensitive files and cleanse your free space of
 previously deleted files using this DoD-compliant secure delete program.
 
@@ -354,7 +354,7 @@ Monitors and reports key system activity via the Windows event log.
 Active socket viewer.
 
 [VMMap](vmmap.md)  
-*v3.32 (January 27, 2022)*  
+*v3.33 (July 26, 2023)*  
 VMMap is a process virtual and physical memory analysis utility.
 
 [VolumeId](volumeid.md)  
@@ -370,5 +370,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  
-*v7.0 (May 24, 2023)*  
+*v7.1 (July 26, 2023)*  
 Presentation utility for zooming and drawing on the screen.  

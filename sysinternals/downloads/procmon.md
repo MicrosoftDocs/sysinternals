@@ -8,11 +8,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb896645(v=MSDN.10)'
 ms.date: 03/09/2023
 ---
 
-# Process Monitor v3.95
+# Process Monitor v3.96
 
 **By Mark Russinovich**
 
-Published: June 27, 2023
+Published: September 29, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(3.3 MB)**  
 
@@ -90,5 +90,5 @@ options on a live system.
 
 **Runs on:**
 
-- Client: Windows 8.1 and higher.
+- Client: Windows 10 and higher.
 - Server: Windows Server 2012 and higher.

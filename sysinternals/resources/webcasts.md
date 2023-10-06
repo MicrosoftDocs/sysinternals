@@ -18,6 +18,7 @@ users and our moderators.
 
 ## Case of the Unexplained
 
+- [The Case of the Unexplained 2016](https://www.youtube.com/watch?v=7zu93I-xu6c)
 - [The Case of the Unexplained 2015](https://www.youtube.com/watch?v=WbIYw0tKqm8)
 - [The Case of the Unexplained 2014](https://www.youtube.com/watch?v=iVCU2BDcfo8)
 - [The Case of the Unexplained 2013](https://www.youtube.com/watch?v=RmORNa7rXm8)
