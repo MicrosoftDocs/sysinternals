@@ -23,8 +23,8 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 
 Sysinternals Live is a service that enables you to run Sysinternals tools directly from the Web without manually downloading them.
 
-Enter a tool's Sysinternals Live path into **Windows Explorer** as `live.sysinternals.com/<toolname>` or `\\live.sysinternals.com\tools\<toolname>`.
-The format for **command prompt** or **PowerShell** is `\\live.sysinternals.com\tools\<toolname>`.
+Enter a tool's Sysinternals Live path in Windows Explorer as `live.sysinternals.com/<toolname>` or `\\live.sysinternals.com\tools\<toolname>`.
+In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
