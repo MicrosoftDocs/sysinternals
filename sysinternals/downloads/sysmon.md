@@ -31,10 +31,12 @@ or
 [SIEM](https://en.wikipedia.org/wiki/security_information_and_event_management)
 agents and subsequently analyzing them, you can identify malicious or
 anomalous activity and understand how intruders and malware operate on
-your network.
+your network. The service runs as a
+[protected process](https://learn.microsoft.com/windows/win32/services/protecting-anti-malware-services-#system-protected-process),
+thus disallowing a wide range of user mode interactions.
 
 Note that *Sysmon* does not provide analysis of the events it generates,
-nor does it attempt to protect or hide itself from attackers.
+nor does it attempt to hide itself from attackers.
 
 ## Overview of Sysmon Capabilities
 
