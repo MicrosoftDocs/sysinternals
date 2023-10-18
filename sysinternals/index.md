@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 03/30/2023
+ms.date: 10/18/2023
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -21,11 +21,19 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 ---
 ## Sysinternals Live
 
-Sysinternals Live is a service that enables you to execute Sysinternals tools directly from the Web without hunting for and manually downloading them. Simply enter a tool's Sysinternals Live path into Windows Explorer or a command prompt as live.sysinternals.com/&lt;toolname&gt; or  \\\\live.sysinternals.com\tools\\&lt;toolname&gt;.
+Sysinternals Live is a service that enables you to run Sysinternals tools directly from the Web without manually downloading them.
 
-You can view the entire Sysinternals Live tools directory in a browser at [https://live.sysinternals.com/](https://live.sysinternals.com).
+Enter a tool's Sysinternals Live path in Windows Explorer as `live.sysinternals.com/<toolname>` or `\\live.sysinternals.com\tools\<toolname>`.
+In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
+
+You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
+
+### What's New (October 18, 2023)
+
+- [VMMap v3.4](~/downloads/vmmap.md)  
+This update to VMMap, a virtual and physical memory analysis utility, adds support for .NET 6 and higher, including .NET 8 preview.
 
 ### What's New (September 29, 2023)
 
@@ -52,8 +60,3 @@ This update to Sysmon, an advanced host security monitoring tool, sets the servi
 
 - [ZoomIt v7.0](~/downloads/zoomit.md)  
 This update to ZoomIt, a screen magnification and annotation tool, adds the ability to screen record cropped regions or a specific window, and lets you snip regions of the screen or zoomed views to the clipboard or to a file in a single gesture.
-
-### What's New (March 9, 2023)
-
-- [Sysmon 1.1 for Linux](https://github.com/Sysinternals/SysmonForLinux)  
-This update to Sysmon for Linux, an advanced host monitoring tool, adds support for a wider range of distributions (e.g., RHEL) by leveraging BTF enabled kernels.
