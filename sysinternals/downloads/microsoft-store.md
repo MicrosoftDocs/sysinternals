@@ -2,7 +2,7 @@
 TOCTitle: Microsoft Store
 title: Microsoft Store
 description: Sysinternals Suite is available as an MSIX package from the Microsoft Store.
-ms.date: 18/18/2023
+ms.date: 10/18/2023
 ---
 
 # Microsoft Store
