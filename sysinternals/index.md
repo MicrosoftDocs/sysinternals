@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 10/17/2023
+ms.date: 10/18/2023
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -30,7 +30,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
-### What's New (October 17, 2023)
+### What's New (October 18, 2023)
 
 - [VMMap v3.4](~/downloads/vmmap.md)  
 This update to VMMap, a virtual and physical memory analysis utility, adds support for .NET 6 and higher, including .NET 8 preview.

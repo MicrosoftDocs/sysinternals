@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 10/17/2023
+ms.date: 10/18/2023
 ---
 
 # Sysinternals Utilities Index
@@ -354,7 +354,7 @@ Monitors and reports key system activity via the Windows event log.
 Active socket viewer.
 
 [VMMap](vmmap.md)  
-*v3.4 (October 17, 2023)*  
+*v3.4 (October 18, 2023)*  
 VMMap is a process virtual and physical memory analysis utility.
 
 [VolumeId](volumeid.md)  
