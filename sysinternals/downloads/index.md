@@ -346,7 +346,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v15.1 (Nov 9, 2023)*  
+*v15.1 (November 9, 2023)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
