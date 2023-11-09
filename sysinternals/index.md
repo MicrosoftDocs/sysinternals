@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 11/07/2023
+ms.date: 11/09/2023
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -30,7 +30,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
-### What's New (November 7, 2023)
+### What's New (November 9, 2023)
 
 - [Sysmon v15.1](~/downloads/sysmon.md)  
 This update to Sysmon improves file hash and delete performance, adds a summary message on events dropped due to high system load, fixes a crash during uninstall, and fixes a system hang.
