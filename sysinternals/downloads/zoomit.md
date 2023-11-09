@@ -14,7 +14,7 @@ ms.date: 11/09/2023
 
 Published: November 9, 2023
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.1 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.2 MB)**
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
 <br><br>
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE55yQm?autoplay=true&loop=true&controls=false]
@@ -97,5 +97,5 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 |  Live Zoom Mode                                                                                                               |  Ctrl + 4                                   |
 |  Exit                                                                                                                         |  Esc or Right-Click                         |
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.1 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.2 MB)**
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
