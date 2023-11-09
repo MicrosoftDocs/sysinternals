@@ -5,14 +5,14 @@ description: Monitors and reports key system activity via the Windows event log.
 no-loc: [Mark Russinovich, Thomas Garnier]
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
-ms.date: 01/25/2023
+ms.date: 11/09/2023
 ---
 
-# Sysmon v15.0
+# Sysmon v15.1
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: June 27, 2023
+Published: November 9, 2023
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(4.6 MB)**
 
@@ -574,5 +574,5 @@ generated for the termination of `ping.exe` and `timeout.exe`.
   
 **Runs on:**
 
-- Client: Windows 8.1 and higher.
-- Server: Windows Server 2012 and higher.
+- Client: Windows 10 and higher.
+- Server: Windows Server 2016 and higher.
