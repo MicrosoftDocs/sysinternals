@@ -36,7 +36,7 @@
     "globalMetadata": {
       "uhfHeaderId": "MSDocsHeader-Sysinternals",
       "layout": "Conceptual",
-      "breadcrumb_path": "~/bread/toc.yml",
+      "breadcrumb_path": "/sysinternals/bread/toc.json",
       "author": "markruss",
       "ms.author": "markruss",
       "ms.prod": "windows-sysinternals",
