@@ -37,7 +37,7 @@ Target: DELETE
 
 ## MoveFile usage
 
-The included MoveFile utililty allows you to schedule move and  delete commands for the next reboot:
+The included MoveFile utility allows you to schedule move and  delete commands for the next reboot:
 **usage: movefile [source] [dest]**  
 Specifying an empty destination  ("") deletes the source at boot. An example that deletes test.exe is: 
 

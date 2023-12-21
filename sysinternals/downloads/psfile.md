@@ -44,7 +44,7 @@ system that are open by remote systems. Typing a command followed by "-
 |  **-p** |    Specifies password for user name. If this is omitted, you will be prompted to enter the password without it being echoed to the screen.|
 |  **Id** |    Identifier (as assigned by PsFile) of the file for which to display information or to close.|
 |  **Path** |  Full or partial path of files to match for information display or close.|
-|  **-c**  |   Closes the files identifed by ID or path.|
+|  **-c**  |   Closes the files identified by ID or path.|
 
 ## How it Works
 
