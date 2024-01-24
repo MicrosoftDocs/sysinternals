@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 12/07/2023
+ms.date: 01/23/2024
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,11 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
+
+### What's New (January 23, 2024)
+
+- [ProcDump 3.1 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/3.1.0)  
+This update to ProcDump for Linux adds trigger support for multiple signals as well as the the -mc switch to control the size of the core dump file by choosing what is included.
 
 ### What's New (December 7, 2023)
 
@@ -68,8 +73,3 @@ ProcDump for Linux, a flexible tool for manual and trigger-based process dump ge
 
 - [Sysmon v15.0](~/downloads/sysmon.md)  
 This update to Sysmon, an advanced host security monitoring tool, sets the service to run as a protected process, hardening it against tampering, adds a new event, `FileExecutableDetected`, for when new executable images are saved to files, and fixes a system hang occurring in certain situations due to an interaction between network and file system events.
-
-### What's New (May 24, 2023)
-
-- [ZoomIt v7.0](~/downloads/zoomit.md)  
-This update to ZoomIt, a screen magnification and annotation tool, adds the ability to screen record cropped regions or a specific window, and lets you snip regions of the screen or zoomed views to the clipboard or to a file in a single gesture.
