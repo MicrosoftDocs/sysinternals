@@ -2,8 +2,6 @@
 title: Inside Native Applications
 ms.date: 11/01/2006
 ms.topic: conceptual
-ms.prod: windows-sysinternals
-ms.technology: system-utilities
 description: In this article I'm going to describe how native applications are built and how they work.
 ---
 # Inside Native Applications

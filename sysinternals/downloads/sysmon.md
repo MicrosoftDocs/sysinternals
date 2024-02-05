@@ -5,14 +5,14 @@ description: Monitors and reports key system activity via the Windows event log.
 no-loc: [Mark Russinovich, Thomas Garnier]
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
-ms.date: 11/13/2023
+ms.date: 01/09/2024
 ---
 
-# Sysmon v15.11
+# Sysmon v15.12
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: November 13, 2023
+Published: January 9, 2024
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(4.6 MB)**
 
@@ -31,10 +31,12 @@ or
 [SIEM](https://en.wikipedia.org/wiki/security_information_and_event_management)
 agents and subsequently analyzing them, you can identify malicious or
 anomalous activity and understand how intruders and malware operate on
-your network.
+your network. The service runs as a
+[protected process](https://learn.microsoft.com/windows/win32/services/protecting-anti-malware-services-#system-protected-process),
+thus disallowing a wide range of user mode interactions.
 
 Note that *Sysmon* does not provide analysis of the events it generates,
-nor does it attempt to protect or hide itself from attackers.
+nor does it attempt to hide itself from attackers.
 
 ## Overview of Sysmon Capabilities
 
