@@ -35,7 +35,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 - [ProcDump 3.2 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/3.2.0)  
 This update tracks mmap and munmap syscalls as part of resource leak tracking.
 
-- [ZoomIt v7.3](~/downloads/zoomit.md)  
+- [ZoomIt v8.0](~/downloads/zoomit.md)  
 This update to ZoomIt adds a new feature called DemoType that automates typing.
 
 ### What's New (January 23, 2024)
