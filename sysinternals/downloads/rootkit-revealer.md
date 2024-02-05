@@ -116,7 +116,7 @@ control any aspect of a system's behavior so information returned by any
 API, including the raw reads of Registry hive and file system data
 performed by RootkitRevealer, can be compromised. While comparing an
 on-line scan of a system and an off-line scan from a secure environment
-such as a boot into an CD-based operating system installation is more
+such as a boot into a CD-based operating system installation is more
 reliable, rootkits can target such tools to evade detection by even
 them.
 
@@ -288,7 +288,7 @@ This discrepancy will occur if a Registry value is updated while the
 Registry scan is in progress. Values that change frequently include
 timestamps such as the Microsoft SQL Server uptime value, shown below,
 and virus scanner "last scan" values. You should investigate any
-reported value to ensure that its a valid application or system Registry
+reported value to ensure that it's a valid application or system Registry
 value.
 
 HKLM\\SOFTWARE\\Microsoft\\Microsoft SQL
