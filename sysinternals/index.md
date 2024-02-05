@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 01/23/2024
+ms.date: 02/05/2024
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,14 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
+
+### What's New (February 5, 2024)
+
+- [ProcDump 3.2 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/3.2.0)  
+This update tracks mmap and munmap syscalls as part of resource leak tracking.
+
+- [ZoomIt v7.3](~/downloads/zoomit.md)  
+This update to ZoomIt adds a new feature called DemoType that automates typing.
 
 ### What's New (January 23, 2024)
 
@@ -60,16 +68,3 @@ This update to ProcDump for Linux adds support for Azure Linux and fixes a coupl
 
 - [Sysmon 1.3 for Linux](https://github.com/Sysinternals/SysmonForLinux/releases/tag/1.3.0.0)
 This update to Sysmon for Linux fixes a bug with rule case matching.
-
-### What's New (July 26, 2023)
-
-- [ZoomIt v7.1](~/downloads/zoomit.md)  
-This update to ZoomIt adds audio capture to screen recording.
-
-- [ProcDump 2.0 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux)  
-ProcDump for Linux, a flexible tool for manual and trigger-based process dump generation, receives two new .NET GC triggers (-gcm and -gcgen) and updates the existing memory trigger to allow for multiple thresholds.
-
-### What's New (June 27, 2023)
-
-- [Sysmon v15.0](~/downloads/sysmon.md)  
-This update to Sysmon, an advanced host security monitoring tool, sets the service to run as a protected process, hardening it against tampering, adds a new event, `FileExecutableDetected`, for when new executable images are saved to files, and fixes a system hang occurring in certain situations due to an interaction between network and file system events.
