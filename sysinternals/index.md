@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 02/05/2024
+ms.date: 02/06/2024
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -30,7 +30,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
-### What's New (February 5, 2024)
+### What's New (February 6, 2024)
 
 - [ProcDump 3.2 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/3.2.0)  
 This update tracks mmap and munmap syscalls as part of resource leak tracking.
