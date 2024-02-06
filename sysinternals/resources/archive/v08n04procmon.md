@@ -46,7 +46,7 @@ Thanks for all the feedback and help finding issues with this new site! Here's w
 - Add a link to the Sysinternals home from the home page logo
 - Fix invalid reference on 'Information' page
 - Fix invalid reference in Networking Utilities page
-- Make 'Download....' links more noticable
+- Make 'Download....' links more noticeable
 - Stop links on the left nav bar from creating a new browser window
 
 Published Wednesday, November 08, 2006 3:28 PM by ottoh

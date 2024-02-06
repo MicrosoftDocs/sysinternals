@@ -56,7 +56,7 @@ You may notice that the Cache's size changes immediately and then
 proceeds to shrink or grow quickly. This is because the system
 automatically trims working sets once a second. The Cache pages that are
 released are still in memory, but can be relinquished quickly for use by
-other programs that need more memory. Similarly, the Cache can eaily
+other programs that need more memory. Similarly, the Cache can easily
 regain pages as applications access file system data.
 
 **Resetting Previous Values**

@@ -21,7 +21,7 @@ Published: March 30, 2023
 local or remote Windows NT/2000 system, including the type of
 installation, kernel build, registered organization and owner, number of
 processors and their type, amount of physical memory, the install date
-of the system, and if its a trial version, the expiration date.  
+of the system, and if it's a trial version, the expiration date.  
 
 ## Installation
 

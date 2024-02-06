@@ -21,9 +21,8 @@ Published: April 11, 2023
 
 TCPView is a Windows program that will show you detailed listings of all
 TCP and UDP endpoints on your system, including the local and remote
-addresses and state of TCP connections. On Windows Server 2008, Vista,
-and XP, TCPView also reports the name of the process that owns the
-endpoint. TCPView provides a more informative and conveniently presented
+addresses and state of TCP connections. TCPView also reports the name of the process
+that owns the endpoint. TCPView provides a more informative and conveniently presented
 subset of the Netstat program that ships with Windows. The TCPView
 download includes Tcpvcon, a command-line version with the same
 functionality.
