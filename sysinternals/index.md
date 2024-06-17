@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 02/06/2024
+ms.date: 06/17/2024
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,11 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
+
+### What's New (June 17, 2024)
+
+- [Process Monitor v4.0](~/downloads/procmon.md)  
+This update to Process Monitor, a utility for observing real-time file system, Registry, and process or thread activity, adds user interface improvements, enhances search, filtering and event counting performance, and introduces a new event column for the process start timestamp.
 
 ### What's New (February 6, 2024)
 
