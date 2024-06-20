@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 06/17/2024
+ms.date: 06/20/2024
 ---
 
 # Sysinternals Utilities Index
@@ -229,7 +229,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v4.0 (June 17, 2024)*  
+*v4.01 (June 20, 2024)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
