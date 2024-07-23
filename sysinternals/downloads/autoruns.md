@@ -1,6 +1,6 @@
 ---
 TOCTitle: Autoruns
-title: Autoruns for Windows
+title: Autoruns
 description: See what programs are configured to startup automatically when your system boots and you login.
 no-loc: [Mark Russinovich, David Solomon, Aaron Margosis]
 ms:assetid: 'b13af0f4-f0a1-4cc5-b940-20be546c1179'
@@ -8,7 +8,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb963902(v=MSDN.10)'
 ms.date: 02/06/2024
 ---
 
-# Autoruns for Windows v14.11
+# Autoruns v14.11
 
 **By Mark Russinovich**
 

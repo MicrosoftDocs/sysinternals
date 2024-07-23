@@ -1,13 +1,13 @@
 --- 
 TOCTitle: DiskMon
-title: DiskMon for Windows
+title: DiskMon
 description: This utility captures all hard disk activity or acts like a software disk activity light in your system tray.
 ms:assetid: 'f9e26786-be46-4276-a073-8764d4e9fba4'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896646(v=MSDN.10)'
 ms.date: 10/12/2021
 ---
 
-# DiskMon for Windows v2.02
+# DiskMon v2.02
 
 **By Mark Russinovich**
 
