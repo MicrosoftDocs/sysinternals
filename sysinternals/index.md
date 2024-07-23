@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 06/17/2024
+ms.date: 07/23/2024
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -30,6 +30,11 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
+### What's New (July 23, 2024)
+
+- [Process Monitor 2.0 for Linux](https://github.com/Sysinternals/ProcMon-for-Linux/releases/tag/2.0.0.0)  
+Process Monitor for Linux, a convenient and efficient way for developers to trace the syscall activity on the system, is now updated to support a broader range of Linux distributions.
+
 ### What's New (June 17, 2024)
 
 - [Process Monitor v4.0](~/downloads/procmon.md)  
@@ -47,29 +52,3 @@ This update to ZoomIt adds a new feature called DemoType that automates typing.
 
 - [ProcDump 3.1 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/3.1.0)  
 This update to ProcDump for Linux adds trigger support for multiple signals as well as the the -mc switch to control the size of the core dump file by choosing what is included.
-
-### What's New (December 7, 2023)
-
-- [ProcDump 3.0 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/3.0)  
-This update to ProcDump for Linux adds memory leak tracking and reporting.
-
-### What's New (November 9, 2023)
-
-- [Sysmon v15.1](~/downloads/sysmon.md)  
-This update to Sysmon improves file hash and delete performance, adds a summary message on events dropped due to high system load, fixes a crash during uninstall, and fixes a system hang.
-
-- [ZoomIt v7.2](~/downloads/zoomit.md)  
-This update to ZoomIt adds translucent highlighter and blur to draw mode, microphone selection for recording, and copies the recorded file to the clipboard.
-
-### What's New (October 18, 2023)
-
-- [VMMap v3.4](~/downloads/vmmap.md)  
-This update to VMMap, a virtual and physical memory analysis utility, adds support for .NET 6 and higher, including .NET 8 preview.
-
-### What's New (September 29, 2023)
-
-- [ProcDump 2.2 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/2.2)  
-This update to ProcDump for Linux adds support for Azure Linux and fixes a couple of memory leaks.
-
-- [Sysmon 1.3 for Linux](https://github.com/Sysinternals/SysmonForLinux/releases/tag/1.3.0.0)
-This update to Sysmon for Linux fixes a bug with rule case matching.
