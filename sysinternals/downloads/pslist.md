@@ -39,7 +39,7 @@ You can simply run **pslist** to get the current list of processes and statistic
 Like Windows's built-in PerfMon monitoring tool, *PsList* uses the
 Windows performance counters to obtain the information it
 displays. You can find documentation for Windows performance
-counters, in the [Win32 Docs](https://learn.microsoft.com/en-us/windows/win32/).
+counters, in the [Win32 Docs](/windows/win32/).
 
 ## Statistics Abbreviations Legend
 
