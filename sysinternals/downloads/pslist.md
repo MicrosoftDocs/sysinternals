@@ -17,16 +17,17 @@ Published: March 30, 2023
 
 ## Introduction
 
+You can simply run **pslist** to get the current list of processes and statistical information about each one, or filter to show only processes that start with a specific name for example **pslist exp** will only show processes that start with "exp", which would include Explorer for instance.
+
 |Parameter  |Description  |
 |---------|---------|
-|  **pslist exp**   |  Show statistics for all the processes that start with "exp", which would include Explorer.|
 |  **-d**           |  Show thread detail.|
 |  **-m**           |  Show memory detail.|
 |  **-x**           |  Show processes, memory information and threads.|
 |  **-t**           |  Show process tree.|
 |  **-s \[n\]**     |  Run in task-manager mode, for optional seconds specified. Press Escape to abort.|
 |  **-r n**         |  Task-manager mode refresh rate in seconds (default is 1).|
-|  **\\\\computer** |  Instead of showing process information for the local system, *PsList* will show information for the NT/Win2K system specified. Include the -u switch with a username and password to login to the remote system if your security credentials do not permit you to obtain performance counter information from the remote system.|
+|  **\\\\computer** |  Instead of showing process information for the local system, *PsList* will show information for the system specified. Include the -u switch with a username and password to login to the remote system if your security credentials do not permit you to obtain performance counter information from the remote system.|
 |  **-u**           |  Specifies optional user name for login to remote computer.|
 |  **-p**           |  This option lets you specify the login password on the command line so that you can use *PsList* from batch files. If you specify an account name and omit the -p option *PsList* prompts you interactively for a password.|
 |  **name**         |  Show information about processes that begin with the name specified.|
@@ -35,13 +36,12 @@ Published: March 30, 2023
 
 ## How it Works
 
-Like Windows NT/2K's built-in PerfMon monitoring tool, *PsList* uses the
-Windows NT/2K performance counters to obtain the information it
-displays. You can find documentation for Windows NT/2K performance
-counters, including the source code to Windows NT's built-in performance
-monitor, PerfMon, in MSDN.
+Like Windows's built-in PerfMon monitoring tool, *PsList* uses the
+Windows performance counters to obtain the information it
+displays. You can find documentation for Windows performance
+counters, in the [Win32 Docs](https://learn.microsoft.com/en-us/windows/win32/).
 
-## Memory Abbreviation Key
+## Statistics Abbreviations Legend
 
 All memory values are displayed in KB.
 
