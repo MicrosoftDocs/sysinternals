@@ -15,7 +15,8 @@ Published: 11/03/2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(714 KB)**
 
-[**Download ProcDump for Linux (GitHub)**](https://github.com/Sysinternals/ProcDump-for-Linux)
+[**Download ProcDump for Linux (GitHub)**](https://github.com/Sysinternals/ProcDump-for-Linux)  
+[**Download ProcDump for Mac (GitHub)**](https://github.com/Sysinternals/ProcDump-for-Mac)
 <br><br>
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE591St?autoplay=true&loop=true&controls=false]
 <sup><i>Created with [ZoomIt](zoomit.md)</i></sup>
@@ -361,7 +362,8 @@ C:\>procdump -? -e
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(714 KB)**
 
-[**Download ProcDump for Linux (GitHub)**](https://github.com/Microsoft/ProcDump-for-Linux)
+[**Download ProcDump for Linux (GitHub)**](https://github.com/Microsoft/ProcDump-for-Linux)  
+[**Download ProcDump for Mac (GitHub)**](https://github.com/Sysinternals/ProcDump-for-Mac)
 
 **Runs on:**
 
