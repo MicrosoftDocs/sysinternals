@@ -94,7 +94,8 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 |  Increase/Decrease Time                                                                                                       |  Ctrl + Mouse Scroll Up/Down or Arrow Keys  |
 |  Minimize Timer (Without Pausing It)                                                                                          |  Alt + Tab                                  |
 |  Show Timer When Minimized                                                                                                    |  Left-Click On The ZoomIt Icon              |
-|  Live Zoom Mode                                                                                                               |  Ctrl + 4                                   |
+|  Live Zoom Mode                                                                                                               |  Ctrl + 2                                   |
+|  Live Draw Mode                                                                                                               |  Ctrl + Shift + 2                           |
 |  Start DemoType                                                                                                               |  Ctrl + 7                                   |
 |  Move back to the previous snippet (DemoType)                                                                                 |  Ctrl + Shift + 7                           |
 |  Advance to the next snippet (DemoType User-driven Mode)                                                                      |  Space Bar                                  |
