@@ -55,6 +55,7 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 |  Start Drawing (While In Zoom Mode)                                                                                           |  Left-Click                                 |
 |  Stop Drawing (While In Zoom Mode)                                                                                            |  Right-Click                                |
 |  Start Drawing (While Not In Zoom Mode)                                                                                       |  Ctrl + 2                                   |
+|  Live Draw Mode                                                                                                               |  Ctrl + Shift + 4                           |
 |  Increase/Decrease Line And Cursor Size (Drawing Mode)                                                                        |  Ctrl + Mouse Scroll Up/Down or Arrow Keys  |
 |  Center The Cursor (Drawing Mode)                                                                                             |  Space Bar                                  |
 |  Whiteboard (Drawing Mode)                                                                                                    |  W                                          |
@@ -94,8 +95,7 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 |  Increase/Decrease Time                                                                                                       |  Ctrl + Mouse Scroll Up/Down or Arrow Keys  |
 |  Minimize Timer (Without Pausing It)                                                                                          |  Alt + Tab                                  |
 |  Show Timer When Minimized                                                                                                    |  Left-Click On The ZoomIt Icon              |
-|  Live Zoom Mode                                                                                                               |  Ctrl + 2                                   |
-|  Live Draw Mode                                                                                                               |  Ctrl + Shift + 2                           |
+|  Live Zoom Mode                                                                                                               |  Ctrl + 4                                   |
 |  Start DemoType                                                                                                               |  Ctrl + 7                                   |
 |  Move back to the previous snippet (DemoType)                                                                                 |  Ctrl + Shift + 7                           |
 |  Advance to the next snippet (DemoType User-driven Mode)                                                                      |  Space Bar                                  |
