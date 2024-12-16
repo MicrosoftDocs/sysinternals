@@ -33,7 +33,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 ### What's New (December 16, 2024)
 
 - [ZoomIt v9.0](~/downloads/zoomit.md)  
-This update to ZoomIt, a screen magnification and annotation tool, adds LiveDraw to Live Zoom, enables ZoomIt drawing and annotation on top of live windows and the desktop.
+This update to ZoomIt, a screen magnification and annotation tool, adds LiveDraw to LiveZoom, enables ZoomIt drawing and annotation on top of live windows and the desktop.
 
 ### What's New (November 13, 2024)
 
