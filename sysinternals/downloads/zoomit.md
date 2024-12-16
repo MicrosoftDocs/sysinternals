@@ -5,14 +5,14 @@ description: Presentation utility for zooming and drawing on the screen.
 no-loc: [Mark Russinovich]
 ms:assetid: '0b6c4abc-9482-4759-a9cd-bf77cb961dd4'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
-ms.date: 02/07/2024
+ms.date: 12/16/2024
 ---
 
-# ZoomIt v8.01
+# ZoomIt v9.0
 
 **By Mark Russinovich**
 
-Published: February 7, 2024
+Published: December 16, 2024
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.4 MB)**
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
@@ -95,6 +95,7 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 |  Minimize Timer (Without Pausing It)                                                                                          |  Alt + Tab                                  |
 |  Show Timer When Minimized                                                                                                    |  Left-Click On The ZoomIt Icon              |
 |  Live Zoom Mode                                                                                                               |  Ctrl + 4                                   |
+|  LiveDraw Mode                                                                                                                |  Ctrl + Shift + 4                           |
 |  Start DemoType                                                                                                               |  Ctrl + 7                                   |
 |  Move back to the previous snippet (DemoType)                                                                                 |  Ctrl + Shift + 7                           |
 |  Advance to the next snippet (DemoType User-driven Mode)                                                                      |  Space Bar                                  |

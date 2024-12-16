@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 07/23/2024
+ms.date: 12/16/2024
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -30,9 +30,14 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
 
+### What's New (December 16, 2024)
+
+- [ZoomIt v9.0](~/downloads/zoomit.md)  
+This update to ZoomIt, a screen magnification and annotation tool, adds LiveDraw, a feature that allows drawing and annotating on the live desktop.
+
 ### What's New (November 13, 2024)
 
-We’re excited to announce the release of [ProcDump 1.0 for Mac](https://github.com/Sysinternals/ProcDump-for-Mac/releases/tag/1.0.0), a tool that generates process crash dumps with support for triggers like CPU and memory usage. ProcDump functionality is now available on Windows, Linux, and macOS so that users on all platforms can leverage the same powerful ProcDump capabilities.  
+We’re excited to announce the release of [ProcDump 1.0 for Mac](https://github.com/Sysinternals/ProcDump-for-Mac/releases/tag/1.0.0), a tool that generates process crash dumps with support for triggers like CPU and memory usage. ProcDump functionality is now available on Windows, Linux, and macOS so that users on all platforms can leverage the same powerful ProcDump capabilities.
 
 ### What's New (July 23, 2024)
 
