@@ -2,15 +2,15 @@
 TOCTitle: Microsoft Store
 title: Microsoft Store
 description: Sysinternals Suite is available as an MSIX package from the Microsoft Store.
-ms.date: 07/23/2024
+ms.date: 12/18/2024
 ---
 
 # Microsoft Store
 
 ## Sysinternals Suite
 
-Version 2024.7  
-July 23, 2024
+Version 2024.12  
+December 18, 2024
 
 Sysinternals Suite is installed as an [MSIX bundle](/windows/msix/package/bundling-overview) from the Microsoft Store.
 
@@ -23,7 +23,7 @@ Like most other MSIX packages, Sysinternals Suite is installed per user, but the
 
 All executables are available from the path via Windows [app execution aliases](/uwp/schemas/appxpackage/uapmanifestschema/element-uap5-appexecutionalias):
 
-```
+```txt
 Microsoft.SysinternalsSuite_8wekyb3d8bbwe "Sysinternals Suite"
 
     accesschk.exe        AccessEnum.exe       ADExplorer.exe       ADInsight.exe
