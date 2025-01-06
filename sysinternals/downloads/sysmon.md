@@ -361,8 +361,7 @@ This event is generated when an error occurred within Sysmon. They can
 happen if the system is under heavy load and certain tasks could not be
 performed or a bug exists in the Sysmon service, or even if certain security
 and integrity conditions are not met. You can report any bugs
-on the Sysinternals forum or over Twitter
-([@markrussinovich](https://twitter.com/markrussinovich)).
+on the Sysinternals forum.
 
 ## Configuration files
 
