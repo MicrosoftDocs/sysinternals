@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 12/16/2024
+ms.date: 01/29/2025
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,14 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
+
+### What's New (January 29, 2025)
+
+- [ZoomIt in PowerToys v0.88](https://github.com/microsoft/PowerToys/releases/tag/v0.88.0)  
+ZoomIt is now part of Microsoft PowerToys and open source. ZoomIt will continue being available from Sysinternals, as a stand-alone tool.
+
+- [ProcDump 3.4 for Linux](https://github.com/microsoft/ProcDump-for-Linux/releases/tag/3.4.0)  
+ProcDump for Linux, a convenient way for developers to generate core dumps, now includes ARM64 support.
 
 ### What's New (December 16, 2024)
 
@@ -57,8 +65,3 @@ This update tracks mmap and munmap syscalls as part of resource leak tracking.
 
 - [ZoomIt v8.0](~/downloads/zoomit.md)  
 This update to ZoomIt adds a new feature called DemoType that automates typing.
-
-### What's New (January 23, 2024)
-
-- [ProcDump 3.1 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/3.1.0)  
-This update to ProcDump for Linux adds trigger support for multiple signals as well as the the -mc switch to control the size of the core dump file by choosing what is included.

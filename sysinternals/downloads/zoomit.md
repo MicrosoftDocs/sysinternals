@@ -5,7 +5,7 @@ description: Presentation utility for zooming and drawing on the screen.
 no-loc: [Mark Russinovich]
 ms:assetid: '0b6c4abc-9482-4759-a9cd-bf77cb961dd4'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
-ms.date: 12/16/2024
+ms.date: 01/29/2025
 ---
 
 # ZoomIt v9.0
@@ -14,10 +14,12 @@ ms.date: 12/16/2024
 
 Published: December 16, 2024
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.4 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
+
+[**Download from Microsoft PowerToys (GitHub)**](https://github.com/microsoft/PowerToys)
 <br><br>
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE55yQm?autoplay=true&loop=true&controls=false]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=31330ae9-ccc2-4001-a9ce-35dcbb8b5aa2]
 <sup>*Created with ZoomIt*</sup>
 
 ## Introduction
@@ -101,5 +103,7 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 |  Advance to the next snippet (DemoType User-driven Mode)                                                                      |  Space Bar                                  |
 |  Exit                                                                                                                         |  Esc or Right-Click                         |
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.4 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
+
+[**Download from Microsoft PowerToys (GitHub)**](https://github.com/microsoft/PowerToys)
