@@ -15,8 +15,8 @@ Published: 11/03/2022
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(714 KB)**
 
-[**Download ProcDump for Linux (GitHub)**](https://github.com/Sysinternals/ProcDump-for-Linux)  
-[**Download ProcDump for Mac (GitHub)**](https://github.com/Sysinternals/ProcDump-for-Mac)
+[**Download ProcDump for Linux (GitHub)**](https://github.com/microsoft/ProcDump-for-Linux)  
+[**Download ProcDump for Mac (GitHub)**](https://github.com/microsoft/ProcDump-for-Mac)
 <br><br>
 > [!VIDEO a4624e00-b3ac-455c-a5a2-710ae862e42f]
 <sup><i>Created with [ZoomIt](zoomit.md)</i></sup>
