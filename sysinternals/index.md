@@ -35,7 +35,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 - [ZoomIt in PowerToys v0.88](https://github.com/microsoft/PowerToys/releases/tag/v0.88.0)  
 ZoomIt is now part of Microsoft PowerToys and open source. ZoomIt will continue being available from Sysinternals, as a stand-alone tool.
 
-- [ProcDump 3.4 for Linux](https://github.com/microsoft/ProcDump-for-Linux/releases/tag/3.3.0)  
+- [ProcDump 3.4 for Linux](https://github.com/microsoft/ProcDump-for-Linux/releases/tag/3.4.0)  
 ProcDump for Linux, a convenient way for developers to generate core dumps, now includes ARM64 support.
 
 ### What's New (December 16, 2024)
