@@ -18,7 +18,7 @@ Published: 11/03/2022
 [**Download ProcDump for Linux (GitHub)**](https://github.com/microsoft/ProcDump-for-Linux)  
 [**Download ProcDump for Mac (GitHub)**](https://github.com/microsoft/ProcDump-for-Mac)
 <br><br>
-> [!VIDEO a4624e00-b3ac-455c-a5a2-710ae862e42f]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=a4624e00-b3ac-455c-a5a2-710ae862e42f&autoplay=true&loop=true&controls=false]
 <sup><i>Created with [ZoomIt](zoomit.md)</i></sup>
 ## Introduction
 

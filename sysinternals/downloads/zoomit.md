@@ -19,7 +19,7 @@ Published: December 16, 2024
 
 [**Download from Microsoft PowerToys (GitHub)**](https://github.com/microsoft/PowerToys)
 <br><br>
-> [!VIDEO https://learn-video.azurefd.net/vod/player?id=31330ae9-ccc2-4001-a9ce-35dcbb8b5aa2]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=31330ae9-ccc2-4001-a9ce-35dcbb8b5aa2&autoplay=true&loop=true&controls=false]
 <sup>*Created with ZoomIt*</sup>
 
 ## Introduction
