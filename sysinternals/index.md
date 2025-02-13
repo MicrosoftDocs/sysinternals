@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 01/29/2025
+ms.date: 02/13/2025
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,11 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
+
+### What's New (February 13, 2025)
+
+- [Ctrl2Cap v3.0](~/downloads/ctrl2cap.md)  
+Ctrl2Cap, a tool to help remap the Caps Lock key to Ctrl, has been updated to run on Windows 10 and 11, and not require a driver.
 
 ### What's New (January 29, 2025)
 
@@ -57,11 +62,3 @@ Process Monitor for Linux, a convenient and efficient way for developers to trac
 
 - [Process Monitor v4.0](~/downloads/procmon.md)  
 This update to Process Monitor, a utility for observing real-time file system, Registry, and process or thread activity, adds user interface improvements, enhances search, filtering and event counting performance, and introduces a new event column for the process start timestamp.
-
-### What's New (February 6, 2024)
-
-- [ProcDump 3.2 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/3.2.0)  
-This update tracks mmap and munmap syscalls as part of resource leak tracking.
-
-- [ZoomIt v8.0](~/downloads/zoomit.md)  
-This update to ZoomIt adds a new feature called DemoType that automates typing.

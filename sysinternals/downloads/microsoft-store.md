@@ -2,15 +2,15 @@
 TOCTitle: Microsoft Store
 title: Microsoft Store
 description: Sysinternals Suite is available as an MSIX package from the Microsoft Store.
-ms.date: 12/18/2024
+ms.date: 02/13/2025
 ---
 
 # Microsoft Store
 
 ## Sysinternals Suite
 
-Version 2024.12  
-December 18, 2024
+Version 2025.2  
+February 13, 2025
 
 Sysinternals Suite is installed as an [MSIX bundle](/windows/msix/package/bundling-overview) from the Microsoft Store.
 
