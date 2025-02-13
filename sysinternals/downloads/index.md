@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 12/16/2024
+ms.date: 02/13/2025
 ---
 
 # Sysinternals Utilities Index
@@ -58,7 +58,7 @@ Registry and file locations where applications can configure auto-start
 settings.
 
 [BgInfo](bginfo.md)  
-*v4.32 (September 29, 2022)*  
+*v4.33 (February 13, 2025)*  
 This fully-configurable program automatically generates desktop
 backgrounds that include important information about the system
 including IP addresses, computer name, network adapters, and more.
@@ -93,13 +93,9 @@ between logical processors and the physical processor, NUMA node, and
 socket on which they reside, as well as the cache’s assigned to each
 logical processor.
 
-[Ctrl2cap](ctrl2cap.md)  
-*v2.0 (November 1, 2006)*  
-This is a kernel-mode driver that demonstrates keyboard input filtering
-just above the keyboard class driver in order to turn caps-locks into
-control keys. Filtering at this level allows conversion and hiding of
-keys before NT even "sees" them. Ctrl2cap also shows how to use
-NtDisplayString() to print messages to the initialization blue-screen.
+[Ctrl2Cap](ctrl2cap.md)  
+*v3.0 (February 13, 2025)*  
+Ctrl2Cap is a tool to help remap the Caps Lock key to Ctrl.
 
 [DebugView](debugview.md)  
 *v4.90 (April 23, 2019)*  
