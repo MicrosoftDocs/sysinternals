@@ -13,7 +13,7 @@ ms.date: 02/13/2025
 
 Published: February 13, 2025
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Ctrl2Cap.zip) [**Download Ctrl2Cap**](https://download.sysinternals.com/files/Ctrl2Cap.zip)  **(48 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Ctrl2Cap.zip) [**Download Ctrl2Cap**](https://download.sysinternals.com/files/Ctrl2Cap.zip)  **(132 KB)**
 
 ## Introduction
 
@@ -29,7 +29,7 @@ Install Ctrl2Cap running the command `ctrl2cap /install` from the
 directory into which you've unzipped the Ctrl2Cap files. To uninstall
 type `ctrl2cap /uninstall`.  
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Ctrl2Cap.zip) [**Download Ctrl2Cap**](https://download.sysinternals.com/files/Ctrl2Cap.zip)  **(48 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Ctrl2Cap.zip) [**Download Ctrl2Cap**](https://download.sysinternals.com/files/Ctrl2Cap.zip)  **(132 KB)**
 
 **Runs on:**
 
