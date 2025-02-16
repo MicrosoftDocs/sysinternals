@@ -17,7 +17,7 @@ Published: February 6, 2024
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(2.8 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/autoruns.exe).
 <br><br>
-> [!VIDEO https://learn-video.azurefd.net/vod/player?id=ff2f39c9-26d2-49d6-b060-2c00a62679a9]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=ff2f39c9-26d2-49d6-b060-2c00a62679a9&autoplay=true&loop=true&controls=false]
 <sup><i>Created with [ZoomIt](zoomit.md)</i></sup>
 
 ## Introduction
