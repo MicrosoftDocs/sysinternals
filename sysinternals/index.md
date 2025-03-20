@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 02/13/2025
+ms.date: 03/20/2025
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,11 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
+
+### What's New (March 20, 2025)
+
+- [Sysinternals Azure DevOps Extension](https://marketplace.visualstudio.com/items?itemName=Sysinternals.SysinternalsADOExtension)  
+The Sysinternals ADO Task extension brings the power of Sysinternals tools directly into your Azure DevOps pipelines, enabling you to troubleshoot build and release issues.
 
 ### What's New (February 13, 2025)
 
