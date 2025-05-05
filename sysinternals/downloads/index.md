@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 02/13/2025
+ms.date: 05/05/2025
 ---
 
 # Sysinternals Utilities Index
@@ -293,7 +293,7 @@ An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v2.93 (July 26, 2023)*  
+*v3.0 (May 5, 2025)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  

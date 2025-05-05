@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 03/20/2025
+ms.date: 05/05/2025
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,11 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
+
+### What's New (May 5, 2025)
+
+- [RDCMan v3.0](~/downloads/rdcman.md)  
+This update to RDCMan, a tool for managing and connecting to Remote Desktop sessions, implements Windows 11 Terminal Services client features, and adds a series of security and quality of life improvements, like seamless session resizing, keyboard navigation, IPv6 support, and modern cryptography.
 
 ### What's New (March 20, 2025)
 
@@ -57,13 +62,3 @@ This update to ZoomIt, a screen magnification and annotation tool, adds LiveDraw
 
 - [ProcDump 1.0 for Mac](https://github.com/Sysinternals/ProcDump-for-Mac/releases/tag/1.0.0)  
 We’re excited to announce the release of [ProcDump 1.0 for Mac](https://github.com/Sysinternals/ProcDump-for-Mac/releases/tag/1.0.0), a tool that generates process crash dumps with support for triggers like CPU and memory usage. ProcDump functionality is now available on Windows, Linux, and macOS so that users on all platforms can leverage the same powerful ProcDump capabilities.
-
-### What's New (July 23, 2024)
-
-- [Process Monitor 2.0 for Linux](https://github.com/Sysinternals/ProcMon-for-Linux/releases/tag/2.0.0.0)  
-Process Monitor for Linux, a convenient and efficient way for developers to trace the syscall activity on the system, is now updated to support a broader range of Linux distributions.
-
-### What's New (June 17, 2024)
-
-- [Process Monitor v4.0](~/downloads/procmon.md)  
-This update to Process Monitor, a utility for observing real-time file system, Registry, and process or thread activity, adds user interface improvements, enhances search, filtering and event counting performance, and introduces a new event column for the process start timestamp.
