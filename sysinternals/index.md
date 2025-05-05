@@ -32,7 +32,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 
 ### What's New (May 5, 2025)
 
-- [RDCMan v3.0](~/downloads/rdcman)  
+- [RDCMan v3.0](~/downloads/rdcman.md)  
 This update to RDCMan, a tool for managing and connecting to Remote Desktop sessions, implements Windows 11 Terminal Services client features, and adds a series of security and quality of life improvements, like seamless session resizing, keyboard navigation, IPv6 support, and modern cryptography.
 
 ### What's New (March 20, 2025)
