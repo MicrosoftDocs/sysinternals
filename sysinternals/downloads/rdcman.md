@@ -6,7 +6,7 @@ description: Manage multiple remote desktop connections.
 ms.date: 05/05/2025
 ---
 
-# Remote Desktop Connection Manager v3.0
+# Remote Desktop Connection Manager v3.1
 
 **By Julian Burger**
 
