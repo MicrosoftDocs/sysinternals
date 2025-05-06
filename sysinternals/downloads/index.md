@@ -293,7 +293,7 @@ An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v3.0 (May 5, 2025)*  
+*v3.1 (May 5, 2025)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
