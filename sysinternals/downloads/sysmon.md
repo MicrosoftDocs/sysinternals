@@ -5,7 +5,7 @@ description: Monitors and reports key system activity via the Windows event log.
 no-loc: [Mark Russinovich, Thomas Garnier]
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
-ms.date: 07/23/2024
+ms.date: 09/16/2025
 ---
 
 # Sysmon v15.15
@@ -16,7 +16,7 @@ Published: July 23, 2024
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(4.6 MB)**
 
-[**Download Sysmon for Linux (GitHub)**](https://github.com/Sysinternals/SysmonForLinux)
+[**Download Sysmon for Linux (GitHub)**](https://github.com/microsoft/SysmonForLinux)
 
 ## Introduction
 
