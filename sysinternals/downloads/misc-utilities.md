@@ -4,7 +4,7 @@ title: Sysinternals Miscellaneous Utilities
 description: Windows Sysinternals miscellaneous utilities
 ms:assetid: 'd46b4037-88ae-41d7-a41c-9660d7d96cf2'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb842059(v=MSDN.10)'
-ms.date: 07/29/2016
+ms.date: 09/16/2025
 ---
 
 # Sysinternals Miscellaneous Utilities
@@ -49,6 +49,10 @@ easily switch between them.
 
 [Hex2dec](hex2dec.md)  
 Convert hex numbers to decimal and vice versa.
+
+[jcd](jcd.md)  
+jcd is a command-line tool that provides quick directory navigation with
+substring matching and smart selection for Linux and macOS.
 
 [NotMyFault](notmyfault.md)  
 Notmyfault is a tool that you can use to crash, hang, and cause kernel

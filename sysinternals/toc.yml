@@ -159,6 +159,8 @@
         href: downloads/hex2dec.md
       - name: NotMyFault
         href: downloads/notmyfault.md
+      - name: jcd
+        href: downloads/jcd.md
       - name: PsPasswd
         href: downloads/pspasswd.md
       - name: PsShutdown
