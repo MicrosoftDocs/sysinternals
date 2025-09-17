@@ -4,7 +4,7 @@ title: File and Disk Utilities
 description: Windows Sysinternals file and disk utilities
 ms:assetid: '17988fd8-ed7b-4f90-95bd-e4d23baf441c'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545046(v=MSDN.10)'
-ms.date: 07/27/2021
+ms.date: 09/17/2025
 ---
 # Sysinternals File and Disk Utilities
 
@@ -52,6 +52,10 @@ FindLinks reports the file index and any hard links (alternate file
 paths on the same volume) that exist for the specified file.  A
 file's data remains allocated so long as at it has at least one file
 name referencing it.
+
+[jcd](jcd.md)  
+jcd is a command-line tool that provides quick directory navigation with
+substring matching and smart selection for Linux and macOS.
 
 [Junction](junction.md)  
 Create Win2K NTFS symbolic links.
