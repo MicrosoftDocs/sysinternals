@@ -33,7 +33,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 ### What's New (September 16, 2025)
 
 - [jcd v1.0](https://github.com/microsoft/jcd)  
-jcd (jump change directory) is a Sysinternals command-line tool that provides quick directory navigation with substring matching and smart selection for both Linux and macOS.
+jcd (jump change directory) is a Sysinternals command-line tool for Linux and macOS that provides quick directory navigation with substring matching and smart selection.
 
 ### What's New (May 5, 2025)
 
