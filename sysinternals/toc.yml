@@ -28,6 +28,8 @@
         href: downloads/diskview.md
       - name: EFSDump
         href: downloads/efsdump.md
+      - name: jcd
+        href: downloads/jcd.md
       - name: LDMDump
         href: downloads/ldmdump.md
       - name: MoveFile
@@ -159,8 +161,6 @@
         href: downloads/hex2dec.md
       - name: NotMyFault
         href: downloads/notmyfault.md
-      - name: jcd
-        href: downloads/jcd.md
       - name: PsPasswd
         href: downloads/pspasswd.md
       - name: PsShutdown
