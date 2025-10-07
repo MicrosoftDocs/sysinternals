@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 09/16/2025
+ms.date: 10/07/2025
 ---
 
 # Sysinternals Utilities Index
@@ -153,7 +153,7 @@ which processes, and much more.
 Convert hex numbers to decimal and vice versa.
 
 [jcd](jcd.md)  
-*1.0 (September 16, 2025)*  
+*1.0.1 October 7, 2025)*  
 Enhanced directory navigation with substring matching and smart selection for Linux and macOS.
 
 [Junction](junction.md)  
@@ -370,5 +370,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)  
-*v9.01 (September 16, 2024)*  
+*v9.10 (October 7, 2024)*  
 Presentation utility for zooming and drawing on the screen.  
