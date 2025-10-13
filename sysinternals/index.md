@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 10/07/2025
+ms.date: 10/13/2025
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -30,7 +30,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
 
-### What's New (September 16, 2025)
+### What's New (October 13, 2025)
 
 - [ZoomIt v9.10](~/downloads/zoomit.md)  
 ZoomIt, a screen zooming, recording and annotation utility, adds image smoothing for higher-quality visuals.

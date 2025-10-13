@@ -3,14 +3,14 @@ TOCTitle: jcd
 title: jcd
 description: Enhanced directory navigation with substring matching for Linux and macOS.
 ms:assetid: '6aaba8f7-8861-45fc-9e4d-18322da4271e'
-ms.date: 10/07/2025
+ms.date: 10/13/2025
 ---
 
 # jcd 1.0.1
 
 **By Mark Russinovich**
 
-Published: October 7, 2025
+Published: October 13, 2025
 
 [**Download jcd for Linux and macOS (GitHub)**](https://github.com/microsoft/jcd)
 
