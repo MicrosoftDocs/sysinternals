@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 09/16/2025
+ms.date: 10/13/2025
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,11 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
+
+### What's New (October 13, 2025)
+
+- [ZoomIt v9.10](~/downloads/zoomit.md)  
+ZoomIt, a screen zooming, recording and annotation utility, adds image smoothing for higher-quality visuals.
 
 ### What's New (September 16, 2025)
 
@@ -57,13 +62,3 @@ ZoomIt is now part of Microsoft PowerToys and open source. ZoomIt will continue 
 
 - [ProcDump 3.4 for Linux](https://github.com/microsoft/ProcDump-for-Linux/releases/tag/3.4.0)  
 ProcDump for Linux, a convenient way for developers to generate core dumps, now includes ARM64 support.
-
-### What's New (December 16, 2024)
-
-- [ZoomIt v9.0](~/downloads/zoomit.md)  
-This update to ZoomIt, a screen magnification and annotation tool, adds LiveDraw to LiveZoom, enables ZoomIt drawing and annotation on top of live windows and the desktop.
-
-### What's New (November 13, 2024)
-
-- [ProcDump 1.0 for Mac](https://github.com/Sysinternals/ProcDump-for-Mac/releases/tag/1.0.0)  
-We’re excited to announce the release of [ProcDump 1.0 for Mac](https://github.com/Sysinternals/ProcDump-for-Mac/releases/tag/1.0.0), a tool that generates process crash dumps with support for triggers like CPU and memory usage. ProcDump functionality is now available on Windows, Linux, and macOS so that users on all platforms can leverage the same powerful ProcDump capabilities.
