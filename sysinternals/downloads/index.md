@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 10/13/2025
+ms.date: 11/11/2025
 ---
 
 # Sysinternals Utilities Index
@@ -221,7 +221,7 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)  
-*v17.06 (May 28, 2024)*  
+*v17.07 (November 11, 2025)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
@@ -295,7 +295,7 @@ An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v3.1 (May 5, 2025)*  
+*v3.11 (November 11, 2025)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
@@ -368,5 +368,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)
-*v9.10 (October 13, 2025)*  
+*v9.20 (November 11, 2025)*  
 Presentation utility for zooming and drawing on the screen.
