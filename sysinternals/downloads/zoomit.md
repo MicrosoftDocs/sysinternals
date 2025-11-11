@@ -14,7 +14,7 @@ ms.date: 11/11/2025
 
 Published: November 11, 2025
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.4 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.5 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
 
 [**Download from Microsoft PowerToys (GitHub)**](https://github.com/microsoft/PowerToys)
