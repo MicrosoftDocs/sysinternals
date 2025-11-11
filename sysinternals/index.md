@@ -33,7 +33,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 ### What's New (November 11, 2025)
 
 - [ZoomIt v9.20](~/downloads/zoomit.md)  
-This update to ZoomIt adds capability to save captured video as animated GIF.
+This update to ZoomIt, a screen magnification and annotation tool, can now save screen recordings as either MP4 or GIF.
 
 ### What's New (October 13, 2025)
 
