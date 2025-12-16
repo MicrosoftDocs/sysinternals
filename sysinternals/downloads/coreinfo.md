@@ -12,7 +12,7 @@ ms.date: 12/16/2025
 
 Published: December 16, 2025
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(531 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(3 MB)**
 
 ## Introduction
 
@@ -567,7 +567,7 @@ Logical Processor to Group Map:
 **************  Group 0
 ```
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(531 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Coreinfo.zip) [**Download Coreinfo**](https://download.sysinternals.com/files/Coreinfo.zip) **(3 MB)**
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/CoreinfoEx.exe).
 
 **Runs on:**
