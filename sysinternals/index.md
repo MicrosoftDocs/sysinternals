@@ -33,7 +33,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 ### What's New (December 16, 2025)
 
 - [Coreinfo v4.0](~/downloads/coreinfo.md)  
-This update to Coreinfo, a tool for gaining insight into the processor and cache topology of the system, adds a UI, and improves support for modern processors.
+This update to Coreinfo, a tool that reports processor, socket, NUMA memory, and cache topology of a system, as well as processor features supported, now includes a GUI version and adds checks for features present in modern CPUs.
 
 ### What's New (November 11, 2025)
 
