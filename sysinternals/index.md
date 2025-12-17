@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 11/11/2025
+ms.date: 12/16/2025
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,11 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
+
+### What's New (December 16, 2025)
+
+- [Coreinfo v4.0](~/downloads/coreinfo.md)  
+This update to Coreinfo, a tool that reports processor, socket, NUMA memory, and cache topology of a system, as well as processor features supported, now includes a GUI version and adds checks for features present in modern CPUs.
 
 ### What's New (November 11, 2025)
 

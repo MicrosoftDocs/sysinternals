@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 11/20/2025
+ms.date: 12/16/2025
 ---
 
 # Sysinternals Utilities Index
@@ -86,8 +86,8 @@ Wish you could quickly defragment your frequently used files? Use Contig
 to optimize individual files, or to create new files that are
 contiguous.
 
-[Coreinfo](coreinfo.md)  
-*v3.6 (September 29, 2022)*  
+[Coreinfo](coreinfo.md)
+*v4.0 (December 16, 2025)*  
 Coreinfo is a new command-line utility that shows you the mapping
 between logical processors and the physical processor, NUMA node, and
 socket on which they reside, as well as the cache’s assigned to each
@@ -184,8 +184,8 @@ List the active logon sessions on a system.
 *v1.02 (September 17, 2020)*  
 Allows you to schedule move and delete commands for the next reboot.
 
-[NotMyFault](notmyfault.md)  
-*v4.21 (September 29, 2022)*  
+[NotMyFault](notmyfault.md)
+*v4.30 (December 16, 2025)*  
 Notmyfault is a tool that you can use to crash, hang, and cause kernel
 memory leaks on your Windows system.
 
@@ -220,8 +220,8 @@ as a general process dump creation utility and can also monitor and
 generate process dumps when a process has a hung window or unhandled
 exception.
 
-[Process Explorer](process-explorer.md)  
-*v17.08 (November 20, 2025)*  
+[Process Explorer](process-explorer.md)
+*v17.09 (December 16, 2025)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
