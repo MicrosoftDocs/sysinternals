@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 01/23/2026
+ms.date: 02/04/2026
 ---
 
 # Sysinternals Utilities Index
@@ -98,7 +98,7 @@ logical processor.
 Ctrl2Cap is a tool to help remap the Caps Lock key to Ctrl.
 
 [DebugView](debugview.md)  
-*v4.91 (January 23, 2026)*  
+*v4.90 (April 23, 2019)*  
 Another first from Sysinternals: This program intercepts calls made to
 DbgPrint by device drivers and OutputDebugString made by Win32 programs.
 It allows for viewing and recording of debug session output on your
@@ -290,12 +290,12 @@ processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
 
 [RAMMap](rammap.md)  
-*v1.62 (January 23, 2026)*  
+*v1.62 (February 4, 2026)*  
 An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v3.12 (January 23, 2026)*  
+*v3.12 (February 4, 2026)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
@@ -327,7 +327,7 @@ Launch programs as a different user via a convenient shell context-menu
 entry.
 
 [Sigcheck](sigcheck.md)  
-*v2.90 (July 19, 2022)*  
+*v2.91 (February 4, 2026)*  
 Dump file version information and verify that images on your system are
 digitally signed.
 
@@ -368,5 +368,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)
-*v10.0 (January 23, 2026)*  
+*v10.0 (February 4, 2026)*  
 Presentation utility for zooming and drawing on the screen.
