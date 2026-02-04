@@ -13,7 +13,7 @@ ms.date: 02/04/2026
 
 Published: February 4, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(664 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(645 KB)**
 
 ## Introduction
 
@@ -67,7 +67,7 @@ sigcheck -u -e c:\windows\system32
 
 You should investigate the purpose of any files that are not signed.  
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(664 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(645 KB)**
 
 **Runs on:**
 
