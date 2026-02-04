@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 12/16/2025
+ms.date: 02/04/2026
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,14 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
+
+### What's New (February 4, 2026)
+
+- [ZoomIt v10.0](~/downloads/zoomit.md)  
+This update to ZoomIt, a screen magnification and annotation tool, adds a video clip editor for trimming recordings before saving them and supports recordings with system sounds.
+
+- [Sysmon 1.5 for Linux](https://github.com/microsoft/sysmonforlinux/releases/tag/1.5.0)  
+This update to Sysmon for Linux, a tool that monitors and logs system activity including process lifetime, network connections, file system writes, and more, adds `EbpfEvent` for monitoring Linux EBPF program loading.
 
 ### What's New (December 16, 2025)
 
