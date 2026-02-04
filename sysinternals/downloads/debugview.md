@@ -27,15 +27,14 @@ applications or drivers to use non-standard debug output APIs.
 
 ## DebugView Capture
 
-Under Windows 2000, XP, Server 2003 and Vista *DebugView* will capture:
+*DebugView* will capture:
 
 - Win32 **OutputDebugString**
 - Kernel-mode **DbgPrint**
-- All kernel-mode variants of **DbgPrint** implemented in Windows XP
-    and Server 2003
+- All kernel-mode variants of **DbgPrint** implemented in Windows and Windows Server
 
 *DebugView* also extracts kernel-mode debug output generated before a
-crash from Window's 2000/XP crash dump files if *DebugView* was
+crash from Windows crash dump files if *DebugView* was
 capturing at the time of the crash.
 
 ## DebugView Capabilities
@@ -140,7 +139,7 @@ detail.
 
 Simply execute the *DebugView* program file (dbgview.exe) and
 *DebugView* will immediately start capturing debug output. Note that if
-you run *DebugView* on Windows 2000/XP you must have administrative
+you run *DebugView* you must have administrative
 privilege to view kernel-mode debug output. Menus, hot-keys, or toolbar
 buttons can be used to clear the window, save the monitored data to a
 file, search output, change the window font, and more. The on-line help
