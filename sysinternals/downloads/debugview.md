@@ -34,7 +34,7 @@ applications or drivers to use non-standard debug output APIs.
 - All kernel-mode variants of **DbgPrint** implemented in Windows and Windows Server
 
 *DebugView* also extracts kernel-mode debug output generated before a
-crash from Window crash dump files if *DebugView* was
+crash from Windows crash dump files if *DebugView* was
 capturing at the time of the crash.
 
 ## DebugView Capabilities
