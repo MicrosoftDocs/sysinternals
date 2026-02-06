@@ -4,14 +4,14 @@ title: BgInfo
 description: This fully-configurable program automatically generates desktop backgrounds that include important information about the system.
 ms:assetid: '07f90217-c972-4992-beb1-7fb6c685e9de'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897557(v=MSDN.10)'
-ms.date: 09/29/2022
+ms.date: 02/13/2025
 ---
 
-# BgInfo v4.32
+# BgInfo v4.33
 
 **By Mark Russinovich**
 
-Published: September 29, 2022
+Published: February 13, 2025
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/BGInfo.zip) [**Download BgInfo**](https://download.sysinternals.com/files/BGInfo.zip) **(2.2 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Bginfo.exe).
@@ -181,5 +181,5 @@ the limit is 16K, while on NT/2000/XP systems the limit is 64K.
 
 **Runs on:**
 
-- Client: Windows 8.1 and higher.
-- Server: Windows Server 2012 and higher.
+- Client: Windows 10 and higher.
+- Server: Windows Server 2016 and higher.

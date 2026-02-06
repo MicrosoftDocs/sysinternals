@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 06/17/2024
+ms.date: 02/04/2026
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -28,48 +28,55 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
-## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=Sysinternals-Blog)
+## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
 
-### What's New (June 17, 2024)
+### What's New (February 4, 2026)
 
-- [Process Monitor v4.0](~/downloads/procmon.md)  
-This update to Process Monitor, a utility for observing real-time file system, Registry, and process or thread activity, adds user interface improvements, enhances search, filtering and event counting performance, and introduces a new event column for the process start timestamp.
+- [ZoomIt v10.0](~/downloads/zoomit.md)  
+This update to ZoomIt, a screen magnification and annotation tool, adds a video clip editor for trimming recordings before saving them and supports recordings with system sounds.
 
-### What's New (February 6, 2024)
+- [Sysmon 1.5 for Linux](https://github.com/microsoft/sysmonforlinux/releases/tag/1.5.0)  
+This update to Sysmon for Linux, a tool that monitors and logs system activity including process lifetime, network connections, file system writes, and more, adds `EbpfEvent` for monitoring Linux EBPF program loading.
 
-- [ProcDump 3.2 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/3.2.0)  
-This update tracks mmap and munmap syscalls as part of resource leak tracking.
+### What's New (December 16, 2025)
 
-- [ZoomIt v8.0](~/downloads/zoomit.md)  
-This update to ZoomIt adds a new feature called DemoType that automates typing.
+- [Coreinfo v4.0](~/downloads/coreinfo.md)  
+This update to Coreinfo, a tool that reports processor, socket, NUMA memory, and cache topology of a system, as well as processor features supported, now includes a GUI version and adds checks for features present in modern CPUs.
 
-### What's New (January 23, 2024)
+### What's New (November 11, 2025)
 
-- [ProcDump 3.1 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/3.1.0)  
-This update to ProcDump for Linux adds trigger support for multiple signals as well as the the -mc switch to control the size of the core dump file by choosing what is included.
+- [ZoomIt v9.20](~/downloads/zoomit.md)  
+This update to ZoomIt, a screen magnification and annotation tool, can now save screen recordings as either MP4 or GIF.
 
-### What's New (December 7, 2023)
+### What's New (October 13, 2025)
 
-- [ProcDump 3.0 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/3.0)  
-This update to ProcDump for Linux adds memory leak tracking and reporting.
+- [ZoomIt v9.10](~/downloads/zoomit.md)  
+ZoomIt, a screen zooming, recording and annotation utility, adds image smoothing for higher-quality visuals.
 
-### What's New (November 9, 2023)
+### What's New (September 16, 2025)
 
-- [Sysmon v15.1](~/downloads/sysmon.md)  
-This update to Sysmon improves file hash and delete performance, adds a summary message on events dropped due to high system load, fixes a crash during uninstall, and fixes a system hang.
+- [jcd v1.0](https://github.com/microsoft/Sysinternals-jcd/releases/tag/1.0.0)  
+jcd (jump change directory) is a Sysinternals command-line tool for Linux and macOS that provides quick directory navigation with substring matching and smart selection.
 
-- [ZoomIt v7.2](~/downloads/zoomit.md)  
-This update to ZoomIt adds translucent highlighter and blur to draw mode, microphone selection for recording, and copies the recorded file to the clipboard.
+### What's New (May 5, 2025)
 
-### What's New (October 18, 2023)
+- [RDCMan v3.0](~/downloads/rdcman.md)  
+This update to RDCMan, a tool for managing and connecting to Remote Desktop sessions, implements Windows 11 Terminal Services client features, and adds a series of security and quality of life improvements, like seamless session resizing, keyboard navigation, IPv6 support, and modern cryptography.
 
-- [VMMap v3.4](~/downloads/vmmap.md)  
-This update to VMMap, a virtual and physical memory analysis utility, adds support for .NET 6 and higher, including .NET 8 preview.
+### What's New (March 20, 2025)
 
-### What's New (September 29, 2023)
+- [Sysinternals Azure DevOps Extension](https://marketplace.visualstudio.com/items?itemName=Sysinternals.SysinternalsADOExtension)  
+The Sysinternals ADO Task extension brings the power of Sysinternals tools directly into your Azure DevOps pipelines, enabling you to troubleshoot build and release issues.
 
-- [ProcDump 2.2 for Linux](https://github.com/Sysinternals/ProcDump-for-Linux/releases/tag/2.2)  
-This update to ProcDump for Linux adds support for Azure Linux and fixes a couple of memory leaks.
+### What's New (February 13, 2025)
 
-- [Sysmon 1.3 for Linux](https://github.com/Sysinternals/SysmonForLinux/releases/tag/1.3.0.0)
-This update to Sysmon for Linux fixes a bug with rule case matching.
+- [Ctrl2Cap v3.0](~/downloads/ctrl2cap.md)  
+Ctrl2Cap, a tool to help remap the Caps Lock key to Ctrl, has been updated to run on Windows 10 and 11, and not require a driver.
+
+### What's New (January 29, 2025)
+
+- [ZoomIt in PowerToys v0.88](https://github.com/microsoft/PowerToys/releases/tag/v0.88.0)  
+ZoomIt is now part of Microsoft PowerToys and open source. ZoomIt will continue being available from Sysinternals, as a stand-alone tool.
+
+- [ProcDump 3.4 for Linux](https://github.com/microsoft/ProcDump-for-Linux/releases/tag/3.4.0)  
+ProcDump for Linux, a convenient way for developers to generate core dumps, now includes ARM64 support.

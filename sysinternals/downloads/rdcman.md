@@ -3,16 +3,16 @@ TOCTitle: Remote Desktop Connection Manager
 title: Remote Desktop Connection Manager
 no-loc: [Julian Burger]
 description: Manage multiple remote desktop connections.
-ms.date: 01/25/2023
+ms.date: 02/04/2026
 ---
 
-# Remote Desktop Connection Manager v2.93
+# Remote Desktop Connection Manager v3.12
 
 **By Julian Burger**
 
-Published: July 26, 2023
+Published: February 4, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(530 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(116.1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RDCMan.exe).
 
 ## Introduction
@@ -362,10 +362,10 @@ RDCMan retrieves policy information from the `HKEY_LOCAL_MACHINE\SOFTWARE\Polici
 
 ## Download
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(530 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RDCMan.zip) [**Download Remote Desktop Connection Manager**](https://download.sysinternals.com/files/RDCMan.zip) **(116.1 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RDCMan.exe).
 
 **Runs on:**
 
-- Client: Windows 8.1 and higher.
-- Server: Windows Server 2012 and higher.
+- Client: Windows 11 and higher.
+- Server: Windows Server 2016 and higher.

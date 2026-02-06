@@ -1,13 +1,13 @@
 ---
 TOCTitle: Portmon
-title: Portmon for Windows
+title: Portmon
 description: Monitor serial and parallel port activity with this advanced monitoring tool.
 ms:assetid: 'f989ac38-afd3-4e14-ad47-85af3c4f8ded'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896644(v=MSDN.10)'
 ms.date: 01/12/2012
 ---
 
-# Portmon for Windows v3.03
+# Portmon v3.03
 
 **By Mark Russinovich**
 
