@@ -4,16 +4,16 @@ title: ProcDump
 description: This command-line utility is aimed at capturing process dumps of otherwise difficult to isolate and reproduce CPU spikes.
 ms:assetid: 'f4201936-3609-4255-8d1e-93601e34aa34'
 ms:mtpsurl: 'https://technet.microsoft.com/Dd996900(v=MSDN.10)'
-ms.date: 11/03/2022
+ms.date: 11/13/2025
 ---
 
-# ProcDump v11.0
+# ProcDump v11.1
 
 **By Mark Russinovich and Andrew Richards**
 
-Published: 11/03/2022
+Published: November 13, 2025
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(714 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(1.2 MB)**
 
 [**Download ProcDump for Linux (GitHub)**](https://github.com/microsoft/ProcDump-for-Linux)  
 [**Download ProcDump for Mac (GitHub)**](https://github.com/microsoft/ProcDump-for-Mac)
@@ -360,15 +360,15 @@ C:\>procdump -? -e
     features, how to use them for troubleshooting, and example
     real-world cases of their use.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(714 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(1.2 MB)**
 
-[**Download ProcDump for Linux (GitHub)**](https://github.com/Microsoft/ProcDump-for-Linux)  
-[**Download ProcDump for Mac (GitHub)**](https://github.com/Sysinternals/ProcDump-for-Mac)
+[**Download ProcDump for Linux (GitHub)**](https://github.com/microsoft/ProcDump-for-Linux)  
+[**Download ProcDump for Mac (GitHub)**](https://github.com/microsoft/ProcDump-for-Mac)
 
 **Runs on:**
 
-- Client: Windows 8.1 and higher.
-- Server: Windows Server 2012 and higher.
+- Client: Windows 11 and higher.
+- Server: Windows Server 2016 and higher.
 
 ## Learn More
 

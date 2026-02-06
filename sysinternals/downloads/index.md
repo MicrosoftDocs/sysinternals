@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 05/05/2025
+ms.date: 02/04/2026
 ---
 
 # Sysinternals Utilities Index
@@ -86,8 +86,8 @@ Wish you could quickly defragment your frequently used files? Use Contig
 to optimize individual files, or to create new files that are
 contiguous.
 
-[Coreinfo](coreinfo.md)  
-*v3.6 (September 29, 2022)*  
+[Coreinfo](coreinfo.md)
+*v4.0 (December 16, 2025)*  
 Coreinfo is a new command-line utility that shows you the mapping
 between logical processors and the physical processor, NUMA node, and
 socket on which they reside, as well as the cache’s assigned to each
@@ -152,7 +152,9 @@ which processes, and much more.
 *v1.1 (July 4, 2016)*  
 Convert hex numbers to decimal and vice versa.
 
-[Junction](junction.md)  
+[jcd](jcd.md)
+*1.0.1 October 13, 2025)*  
+Enhanced directory navigation with substring matching and smart selection for Linux and macOS.[Junction](junction.md)  
 *v1.07 (July 4, 2016)*  
 Create Win2K NTFS symbolic links.
 
@@ -182,8 +184,8 @@ List the active logon sessions on a system.
 *v1.02 (September 17, 2020)*  
 Allows you to schedule move and delete commands for the next reboot.
 
-[NotMyFault](notmyfault.md)  
-*v4.21 (September 29, 2022)*  
+[NotMyFault](notmyfault.md)
+*v4.30 (December 16, 2025)*  
 Notmyfault is a tool that you can use to crash, hang, and cause kernel
 memory leaks on your Windows system.
 
@@ -211,15 +213,15 @@ shows you a portion of the data being sent and received. Version 3.x has
 powerful new UI enhancements and advanced filtering capabilities.
 
 [ProcDump](procdump.md)  
-*v11.0 (November 3, 2022)*  
+*v11.1 (November 13, 2025)*  
 This command-line utility is aimed at capturing process dumps of
 otherwise difficult to isolate and reproduce CPU spikes. It also serves
 as a general process dump creation utility and can also monitor and
 generate process dumps when a process has a hung window or unhandled
 exception.
 
-[Process Explorer](process-explorer.md)  
-*v17.06 (May 28, 2024)*  
+[Process Explorer](process-explorer.md)
+*v17.09 (December 16, 2025)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
@@ -288,12 +290,12 @@ processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
 
 [RAMMap](rammap.md)  
-*v1.61 (May 11, 2022)*  
+*v1.62 (February 4, 2026)*  
 An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v3.1 (May 5, 2025)*  
+*v3.12 (February 4, 2026)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
@@ -325,7 +327,7 @@ Launch programs as a different user via a convenient shell context-menu
 entry.
 
 [Sigcheck](sigcheck.md)  
-*v2.90 (July 19, 2022)*  
+*v2.91 (February 4, 2026)*  
 Dump file version information and verify that images on your system are
 digitally signed.
 
@@ -365,6 +367,6 @@ See who owns an Internet address.
 *v3.14 (January 27, 2022)*  
 The ultimate Object Manager namespace viewer is here.
 
-[ZoomIt](zoomit.md)  
-*v9.0 (December 16, 2024)*  
-Presentation utility for zooming and drawing on the screen.  
+[ZoomIt](zoomit.md)
+*v10.0 (February 4, 2026)*  
+Presentation utility for zooming and drawing on the screen.
