@@ -474,7 +474,7 @@ configuration file:
 |  **19**  |  WmiEvent                |  WMI filter                                        |
 |  **20**  |  WmiEvent                |  WMI consumer                                      |
 |  **21**  |  WmiEvent                |  WMI consumer filter                               |
-|  **22**  |  DNSQuery                |  DNS query                                         |
+|  **22**  |  DnsQuery                |  DNS query                                         |
 |  **23**  |  FileDelete              |  File Delete archived                              |
 |  **24**  |  ClipboardChange         |  New content in the clipboard                      |
 |  **25**  |  ProcessTampering        |  Process image change                              |
