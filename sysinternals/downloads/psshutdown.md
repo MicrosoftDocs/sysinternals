@@ -18,7 +18,7 @@ Published: March 30, 2023
 ## Introduction
 
 *PsShutdown* is a command-line utility similar to the shutdown utility
-from the Windows 2000 Resource Kit, but with the ability to do much
+included with Windows, but with the ability to do much
 more. In addition to supporting the same options for shutting down or
 rebooting the local or a remote computer, *PsShutdown* can logoff the
 console user or lock the console (locking requires Windows 2000 or
@@ -33,8 +33,8 @@ with command-line options defined below.
 ## Using PsShutdown
 
 See the February 2005 issue of Windows IT Pro Magazine for Mark's
-article (https<nolink>://www.windowsitpro.com/article/articleid/44973/44973.html)
-that covers advanced usage of *PsKill*.
+article (https://www.itprotoday.com/microsoft-windows/psshutdown)
+that covers advanced usage of *PsShutdown*.
 
 You can use *PsShutdown* to initiate a shutdown of the local or a remote
 computer, logoff a user, lock a system, or to abort an imminent
