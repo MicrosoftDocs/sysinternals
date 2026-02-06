@@ -5,18 +5,18 @@ description: Monitors and reports key system activity via the Windows event log.
 no-loc: [Mark Russinovich, Thomas Garnier]
 ms:assetid: 'f49b1cb3-c689-469e-ade0-6fa98d72f9d6'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn798348(v=MSDN.10)'
-ms.date: 02/13/2024
+ms.date: 09/16/2025
 ---
 
-# Sysmon v15.14
+# Sysmon v15.15
 
 **By Mark Russinovich and Thomas Garnier**
 
-Published: February 13, 2024
+Published: July 23, 2024
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sysmon.zip) [**Download Sysmon**](https://download.sysinternals.com/files/Sysmon.zip) **(4.6 MB)**
 
-[**Download Sysmon for Linux (GitHub)**](https://github.com/Sysinternals/SysmonForLinux)
+[**Download Sysmon for Linux (GitHub)**](https://github.com/microsoft/SysmonForLinux)
 
 ## Introduction
 
@@ -361,8 +361,7 @@ This event is generated when an error occurred within Sysmon. They can
 happen if the system is under heavy load and certain tasks could not be
 performed or a bug exists in the Sysmon service, or even if certain security
 and integrity conditions are not met. You can report any bugs
-on the Sysinternals forum or over Twitter
-([@markrussinovich](https://twitter.com/markrussinovich)).
+on the Sysinternals forum.
 
 ## Configuration files
 

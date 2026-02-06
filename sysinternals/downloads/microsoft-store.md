@@ -2,15 +2,15 @@
 TOCTitle: Microsoft Store
 title: Microsoft Store
 description: Sysinternals Suite is available as an MSIX package from the Microsoft Store.
-ms.date: 02/13/2024
+ms.date: 02/04/2026
 ---
 
 # Microsoft Store
 
 ## Sysinternals Suite
 
-Version 2024.2.1  
-February 13, 2024
+Version 2026.2  
+February 4, 2026
 
 Sysinternals Suite is installed as an [MSIX bundle](/windows/msix/package/bundling-overview) from the Microsoft Store.
 
@@ -23,28 +23,28 @@ Like most other MSIX packages, Sysinternals Suite is installed per user, but the
 
 All executables are available from the path via Windows [app execution aliases](/uwp/schemas/appxpackage/uapmanifestschema/element-uap5-appexecutionalias):
 
-```
-Microsoft.SysinternalsSuite_8wekyb3d8bbwe "Sysinternals Suite"
+```txt
+Microsoft.SysinternalsSuite_8wekyb3d8bbwe
 
-    accesschk.exe        AccessEnum.exe       ADExplorer.exe       ADInsight.exe
-    adrestore.exe        Autologon.exe        Autoruns.exe         autorunsc.exe
-    Bginfo.exe           Cacheset.exe         Clockres.exe         Contig.exe
-    Coreinfo.exe         CPUSTRES.EXE         Dbgview.exe          Desktops.exe
-    disk2vhd.exe         diskext.exe          Diskmon.exe          DiskView.exe
-    du.exe               efsdump.exe          FindLinks.exe        handle.exe
-    hex2dec.exe          junction.exe         Listdlls.exe         livekd.exe
-    LoadOrd.exe          LoadOrdC.exe         logonsessions.exe    movefile.exe
-    notmyfault.exe       notmyfaultc.exe      ntfsinfo.exe         pendmoves.exe
-    pipelist.exe         procdump.exe         procexp.exe          Procmon.exe
-    PsExec.exe           psfile.exe           PsGetsid.exe         PsInfo.exe
-    pskill.exe           pslist.exe           PsLoggedon.exe       psloglist.exe
-    pspasswd.exe         psping.exe           PsService.exe        psshutdown.exe
-    pssuspend.exe        RAMMap.exe           RDCMan.exe           RegDelNull.exe
-    regjump.exe          ru.exe               sdelete.exe          ShareEnum.exe
-    ShellRunas.exe       sigcheck.exe         streams.exe          strings.exe
-    sync.exe             Sysmon.exe           tcpvcon.exe          tcpview.exe
-    Testlimit.exe        vmmap.exe            Volumeid.exe         whois.exe
-    Winobj.exe           ZoomIt.exe
+    accesschk.exe       AccessEnum.exe      ADExplorer.exe      ADInsight.exe
+    adrestore.exe       Autologon.exe       Autoruns.exe        autorunsc.exe
+    Bginfo.exe          Cacheset.exe        Clockres.exe        Contig.exe
+    Coreinfo.exe        CPUSTRES.EXE        ctrl2cap.exe        Dbgview.exe
+    Desktops.exe        disk2vhd.exe        diskext.exe         Diskmon.exe
+    DiskView.exe        du.exe              efsdump.exe         FindLinks.exe
+    handle.exe          hex2dec.exe         junction.exe        Listdlls.exe
+    livekd.exe          LoadOrd.exe         LoadOrdC.exe        logonsessions.exe
+    movefile.exe        notmyfault.exe      notmyfaultc.exe     ntfsinfo.exe
+    pendmoves.exe       pipelist.exe        procdump.exe        procexp.exe
+    Procmon.exe         PsExec.exe          psfile.exe          PsGetsid.exe
+    PsInfo.exe          pskill.exe          pslist.exe          PsLoggedon.exe
+    psloglist.exe       pspasswd.exe        psping.exe          PsService.exe
+    psshutdown.exe      pssuspend.exe       RAMMap.exe          RDCMan.exe
+    RegDelNull.exe      regjump.exe         ru.exe              sdelete.exe
+    ShareEnum.exe       ShellRunas.exe      sigcheck.exe        streams.exe
+    strings.exe         sync.exe            Sysmon.exe          tcpvcon.exe
+    tcpview.exe         Testlimit.exe       vmmap.exe           Volumeid.exe
+    whois.exe           Winobj.exe          ZoomIt.exe
 ```
 
 ### App Execution Aliases

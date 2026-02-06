@@ -3,19 +3,19 @@ TOCTitle: Sysinternals Suite
 title: Sysinternals Suite
 description: The Windows Sysinternals troubleshooting Utilities have been rolled up into a single suite of tools.
 no-loc: [Mark Russinovich]
-ms:assetid: '0e18b180-9b7a-4c49-8120-c47c5a693683' 
-ms:mtpsurl: 'https://technet.microsoft.com/Bb842062(v=MSDN.10)' 
-ms.date: 02/13/2024
+ms:assetid: '0e18b180-9b7a-4c49-8120-c47c5a693683'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb842062(v=MSDN.10)'
+ms.date: 02/04/2026
 ---
 
 # Sysinternals Suite
 
-**By Mark Russinovich**  
-Updated: February 13, 2024
+**By Mark Russinovich**
+Updated: February 4, 2026
 
-[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (50.8 MB)  
-[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (9.5 MB)  
-[**Download Sysinternals Suite for ARM64**](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip) (15.1 MB)  
+[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (168.7 MB)
+[**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (10.2 MB)  
+[**Download Sysinternals Suite for ARM64**](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip) (15.8 MB)  
 [**Install Sysinternals Suite from the Microsoft Store**](https://www.microsoft.com/store/apps/9p7knl5rwt25)  
 
 ## Introduction
