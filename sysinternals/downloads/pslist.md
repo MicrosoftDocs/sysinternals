@@ -4,7 +4,7 @@ title: PsList
 description: Show information about processes and threads.
 ms:assetid: '3922c630-462d-4c3a-8b02-532865f37df4'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896682(v=MSDN.10)'
-ms.date: 03/30/2023
+ms.date: 02/06/2026
 ---
 
 # PsList v1.41
