@@ -35,7 +35,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 - [ZoomIt v10.0](~/downloads/zoomit.md)  
 This update to ZoomIt, a screen magnification and annotation tool, adds a video clip editor for trimming recordings before saving them and supports recordings with system sounds.
 
-- [Sysmon 1.5 for Linux](https://github.com/microsoft/sysmonforlinux/releases/tag/1.5.0)  
+- [Sysmon 1.5 for Linux](https://github.com/microsoft/sysmonforlinux/releases/tag/1.5.0.0)  
 This update to Sysmon for Linux, a tool that monitors and logs system activity including process lifetime, network connections, file system writes, and more, adds `EbpfEvent` for monitoring Linux EBPF program loading.
 
 ### What's New (December 16, 2025)
