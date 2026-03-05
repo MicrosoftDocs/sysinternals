@@ -163,6 +163,6 @@ allocating this free space so that it can securely overwrite it.
 
 **Runs on:**
 
-- Client: Windows 10 and higher.
-- Server: Windows Server 2012 and higher.
+- Client: Windows 11 and higher.
+- Server: Windows Server 2016 and higher.
 - Nano Server: 2016 and higher.
