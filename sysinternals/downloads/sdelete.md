@@ -4,16 +4,16 @@ title: SDelete
 description: Securely overwrite your sensitive files and cleanse your free space of previously deleted files using this DoD-compliant secure delete program.
 ms:assetid: '5cc3991b-5a50-4784-a795-185e4ac84603'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897443(v=MSDN.10)'
-ms.date: 11/25/2020
+ms.date: 03/05/2026
 ---
 
-# SDelete v2.05
+# SDelete v2.06
 
 **By Mark Russinovich**
 
-Published: September 29, 2023
+Published: March 5, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(304 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(328 KB)**
 
 ## Introduction
 
@@ -159,7 +159,7 @@ space containing deleted file names, but the free directory space is not
 available for allocation to other files. Hence, *SDelete* has no way of
 allocating this free space so that it can securely overwrite it.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(304 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/SDelete.zip) [**Download SDelete**](https://download.sysinternals.com/files/SDelete.zip) **(328 KB)**
 
 **Runs on:**
 
