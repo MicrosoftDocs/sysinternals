@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Mt742033(v=MSDN.10)'
 ms.date: 03/26/2026
 ---
 
-# NotMyFault v4.40
+# NotMyFault v4.4
 
 **By Mark Russinovich**
 
