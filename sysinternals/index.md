@@ -41,7 +41,7 @@ This update to Sysmon, an advanced host security monitoring tool, improves the h
 - [DebugView v5.0](~/downloads/debugview.md)  
 This update to DebugView, a tool for displaying both kernel-mode and Win32 debug output, improves Windows 11 support and offers a modern UI with a dark theme, and includes performance optimizations.
 
-- [ZoomIt v10.1](~/downloads/zoomit.md)  
+- [ZoomIt v11.0](~/downloads/zoomit.md)  
 This update to ZoomIt, a screen magnification and annotation tool, adds panorama / scrolling screenshots support, text extraction during snip, break timer improvements, and enables the trimming clip editor for existing .mp4 files.
 
 - [NotMyFault v4.40](~/downloads/notmyfault.md)  
@@ -74,26 +74,3 @@ ZoomIt, a screen zooming, recording and annotation utility, adds image smoothing
 
 - [jcd v1.0](https://github.com/microsoft/Sysinternals-jcd/releases/tag/1.0.0)  
 jcd (jump change directory) is a Sysinternals command-line tool for Linux and macOS that provides quick directory navigation with substring matching and smart selection.
-
-### What's New (May 5, 2025)
-
-- [RDCMan v3.0](~/downloads/rdcman.md)  
-This update to RDCMan, a tool for managing and connecting to Remote Desktop sessions, implements Windows 11 Terminal Services client features, and adds a series of security and quality of life improvements, like seamless session resizing, keyboard navigation, IPv6 support, and modern cryptography.
-
-### What's New (March 20, 2025)
-
-- [Sysinternals Azure DevOps Extension](https://marketplace.visualstudio.com/items?itemName=Sysinternals.SysinternalsADOExtension)  
-The Sysinternals ADO Task extension brings the power of Sysinternals tools directly into your Azure DevOps pipelines, enabling you to troubleshoot build and release issues.
-
-### What's New (February 13, 2025)
-
-- [Ctrl2Cap v3.0](~/downloads/ctrl2cap.md)  
-Ctrl2Cap, a tool to help remap the Caps Lock key to Ctrl, has been updated to run on Windows 10 and 11, and not require a driver.
-
-### What's New (January 29, 2025)
-
-- [ZoomIt in PowerToys v0.88](https://github.com/microsoft/PowerToys/releases/tag/v0.88.0)  
-ZoomIt is now part of Microsoft PowerToys and open source. ZoomIt will continue being available from Sysinternals, as a stand-alone tool.
-
-- [ProcDump 3.4 for Linux](https://github.com/microsoft/ProcDump-for-Linux/releases/tag/3.4.0)  
-ProcDump for Linux, a convenient way for developers to generate core dumps, now includes ARM64 support.

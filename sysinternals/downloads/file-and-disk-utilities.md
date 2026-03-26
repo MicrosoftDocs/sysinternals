@@ -4,7 +4,7 @@ title: File and Disk Utilities
 description: Windows Sysinternals file and disk utilities
 ms:assetid: '17988fd8-ed7b-4f90-95bd-e4d23baf441c'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545046(v=MSDN.10)'
-ms.date: 09/17/2025
+ms.date: 03/26/2026
 ---
 # Sysinternals File and Disk Utilities
 
@@ -63,6 +63,11 @@ Create Win2K NTFS symbolic links.
 [LDMDump](ldmdump.md)  
 Dump the contents of the Logical Disk Manager"s on-disk database,
 which describes the partitioning of Windows 2000 Dynamic disks.
+
+[listent](listent.md)  
+A command-line tool to discover and list code signing entitlements for macOS
+executable binaries. Supports static scanning, real-time process monitoring,
+and background daemon operation.
 
 [MoveFile](pendmoves.md)  
 Schedule file rename and delete commands for the next reboot. This

@@ -168,6 +168,12 @@ describes the partitioning of Windows 2000 Dynamic disks.
 List all the DLLs that are currently loaded, including where they are
 loaded and their version numbers.
 
+[listent](listent.md)  
+*1.0 (March 26, 2026)*  
+A command-line tool to discover and list code signing entitlements for macOS
+executable binaries. Supports static scanning, real-time process monitoring,
+and background daemon operation.
+
 [LiveKd](livekd.md)  
 *v5.62 (May 16, 2017)*  
 Use Microsoft kernel debuggers to examine a live system.
@@ -368,5 +374,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)
-*v10.1 (March 26, 2026)*  
+*v11.0 (March 26, 2026)*  
 Presentation utility for zooming and drawing on the screen.
