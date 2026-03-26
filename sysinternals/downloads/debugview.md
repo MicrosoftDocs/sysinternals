@@ -4,16 +4,16 @@ title: DebugView
 description: This program intercepts calls made to DbgPrint by device drivers and OutputDebugString made by Win32 programs.
 ms:assetid: 'e20c3b02-fe03-4067-82e9-f5c01398b804'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896647(v=MSDN.10)'
-ms.date: 09/17/2020
+ms.date: 03/26/2026
 ---
 
-# DebugView v4.90
+# DebugView v5.0
 
 **By Mark Russinovich**
 
-Published: April 23, 2019
+Published: March 26, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1.3 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1012 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Dbgview.exe).
 
 ## Introduction
@@ -150,6 +150,6 @@ describes all of *DebugView*'s features.
 This is a screenshot of *DebugView* capturing Win32 debug output from a
 remote system. Note the presence of a highlighting filter.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1.3 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1012 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Dbgview.exe).
