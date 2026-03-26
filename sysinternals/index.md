@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 02/04/2026
+ms.date: 03/26/2026
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,23 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
+
+### What's New (March 26, 2026)
+
+- [listent 1.0 for macOS](https://github.com/microsoft/Sysinternals-listent/releases/tag/1.0.0)  
+listent is a macOS command-line tool to discover and list code signing entitlements for executable binaries. It supports static scanning, real-time process monitoring, and background daemon operation.
+
+- [Sysmon v15.2](~/downloads/sysmon.md)  
+This update to Sysmon, an advanced host security monitoring tool, improves the handling of the internal events queue, making the service more resilient to dropped events on high system load.
+
+- [DebugView v5.0](~/downloads/debugview.md)  
+This update to DebugView, a tool for displaying both kernel-mode and Win32 debug output, improves Windows 11 support and offers a modern UI with a dark theme, and includes performance optimizations.
+
+- [ZoomIt v10.1](~/downloads/zoomit.md)  
+This update to ZoomIt, a screen magnification and annotation tool, adds panorama / scrolling screenshots support, text extraction during snip, break timer improvements, and enables the trimming clip editor for existing .mp4 files.
+
+- [NotMyFault v4.40](~/downloads/notmyfault.md)  
+This update to NotMyFault, a tool that can crash, hang, and cause kernel memory leaks on the Windows system, adds secure kernel and hypervisor crash triggers.
 
 ### What's New (February 4, 2026)
 

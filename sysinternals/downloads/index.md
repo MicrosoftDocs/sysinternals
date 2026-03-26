@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 03/05/2026
+ms.date: 03/26/2026
 ---
 
 # Sysinternals Utilities Index
@@ -98,7 +98,7 @@ logical processor.
 Ctrl2Cap is a tool to help remap the Caps Lock key to Ctrl.
 
 [DebugView](debugview.md)  
-*v4.90 (April 23, 2019)*  
+*v5.0 (March 26, 2026)*  
 Another first from Sysinternals: This program intercepts calls made to
 DbgPrint by device drivers and OutputDebugString made by Win32 programs.
 It allows for viewing and recording of debug session output on your
@@ -185,7 +185,7 @@ List the active logon sessions on a system.
 Allows you to schedule move and delete commands for the next reboot.
 
 [NotMyFault](notmyfault.md)
-*v4.30 (December 16, 2025)*  
+*v4.40 (March 26, 2026)*  
 Notmyfault is a tool that you can use to crash, hang, and cause kernel
 memory leaks on your Windows system.
 
@@ -290,7 +290,7 @@ processes running on local or remote computers, running processes
 remotely, rebooting computers, dumping event logs, and more.
 
 [RAMMap](rammap.md)  
-*v1.62 (February 4, 2026)*  
+*v1.63 (March 26, 2026)*  
 An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
@@ -344,7 +344,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v15.15 (July 23, 2024)*  
+*v15.2 (March 26, 2026)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
@@ -368,5 +368,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)
-*v10.0 (February 4, 2026)*  
+*v10.1 (March 26, 2026)*  
 Presentation utility for zooming and drawing on the screen.
