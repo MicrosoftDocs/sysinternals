@@ -13,7 +13,7 @@ ms.date: 03/26/2026
 
 Published: March 26, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1.3 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1012 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Dbgview.exe).
 
 ## Introduction
@@ -150,6 +150,6 @@ describes all of *DebugView*'s features.
 This is a screenshot of *DebugView* capturing Win32 debug output from a
 remote system. Note the presence of a highlighting filter.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1.3 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1012 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Dbgview.exe).

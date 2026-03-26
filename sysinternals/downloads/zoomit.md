@@ -14,7 +14,7 @@ ms.date: 03/26/2026
 
 Published: March 26, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.7 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(2.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
 
 [**Download from Microsoft PowerToys (GitHub)**](https://github.com/microsoft/PowerToys)
@@ -89,6 +89,7 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Save Cropped Screenshot to a File                                                                                                  | Ctrl + Shift + S                          |
 | Copy a Region of The Screen To Clipboard                                                                                           | Ctrl + 6                                  |
 | Save a Region of The Screen To a File                                                                                              | Ctrl + Shift + 6                          |
+| Copy text (OCR) from a region of The Screen to Clipboard                                                                           | Ctrl + Alt + 6                            |
 | Start/Stop Full Screen Recording Saved as MP4 or GIF (Windows 10 May 2019 Update And Higher)                                       | Ctrl + 5                                  |
 | Crop Screen Recording Saved as MP4 or GIF (Windows 10 May 2019 Update And Higher)                                                  | Ctrl + Shift + 5                          |
 | Screen Record Only The Window That The Mouse Cursor is Positioned Over Saved as MP4 or GIF (Windows 10 May 2019 Update And Higher) | Ctrl + Alt + 5                            |
@@ -100,10 +101,11 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | LiveDraw Mode                                                                                                                      | Ctrl + Shift + 4                          |
 | Start DemoType                                                                                                                     | Ctrl + 7                                  |
 | Move back to the previous snippet (DemoType)                                                                                       | Ctrl + Shift + 7                          |
+| Start/Stop Panorama recording                                                                                                      | Ctrl + 8                                  |
 | Advance to the next snippet (DemoType User-driven Mode)                                                                            | Space Bar                                 |
 | Exit                                                                                                                               | Esc or Right-Click                        |
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(1.7 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(2.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
 
 [**Download from Microsoft PowerToys (GitHub)**](https://github.com/microsoft/PowerToys)

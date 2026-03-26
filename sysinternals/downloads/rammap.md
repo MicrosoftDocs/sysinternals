@@ -13,7 +13,7 @@ ms.date: 03/26/2026
 
 Published: March 26, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(706 KB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(719 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RAMMap.exe).
 
 Have you ever wondered exactly how Windows is assigning physical memory,
@@ -52,7 +52,7 @@ manager, please see [Windows Internals, 5<sup>th</sup> Edition](~/resources/wind
   descriptions of all the tools, their features, how to use them for troubleshooting, and example
   real-world cases of their use.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(706 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RAMMap.zip) [**Download RAMMap**](https://download.sysinternals.com/files/RAMMap.zip) **(719 KB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/RAMMap.exe).
 
