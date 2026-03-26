@@ -3,7 +3,7 @@ TOCTitle: jcd
 title: jcd
 description: Enhanced directory navigation with substring matching for Linux and macOS.
 ms:assetid: '6aaba8f7-8861-45fc-9e4d-18322da4271e'
-ms.date: 10/13/2025
+ms.date: 03/26/2026
 ---
 
 # jcd 1.0.1
@@ -12,7 +12,7 @@ ms.date: 10/13/2025
 
 Published: October 13, 2025
 
-[**Download jcd for Linux and macOS (GitHub)**](https://github.com/microsoft/jcd)
+[**Download jcd for Linux and macOS (GitHub)**](https://github.com/microsoft/Sysinternals-jcd)
 
 ## Introduction
 
@@ -52,7 +52,11 @@ directory_pattern:
   jcd <path/pattern>     # Navigate using path-like patterns
 ```
 
-[**Download jcd for Linux and macOS (GitHub)**](https://github.com/microsoft/jcd)
+## Security
+
+If you believe you have found a security issue, please report it via [the project's GitHub repository](https://github.com/microsoft/Sysinternals-jcd/issues) rather than opening a public issue.
+
+[**Download jcd for Linux and macOS (GitHub)**](https://github.com/microsoft/Sysinternals-jcd)
 
 **Runs on:**
 
