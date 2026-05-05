@@ -4,15 +4,15 @@ title: Process Explorer
 description: Find out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more.
 ms:assetid: '32cbeee6-4335-44d5-b94b-160612b99738'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896653(v=MSDN.10)'
-ms.date: 04/09/2026
+ms.date: 05/06/2026
 adobe-target: true
 ---
 
-# Process Explorer v17.11
+# Process Explorer v17.12
 
 **By Mark Russinovich**
 
-Published: April 9, 2026
+Published: May 6, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.4 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).

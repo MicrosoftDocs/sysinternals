@@ -4,14 +4,14 @@ title: ProcDump
 description: This command-line utility is aimed at capturing process dumps of otherwise difficult to isolate and reproduce CPU spikes.
 ms:assetid: 'f4201936-3609-4255-8d1e-93601e34aa34'
 ms:mtpsurl: 'https://technet.microsoft.com/Dd996900(v=MSDN.10)'
-ms.date: 11/13/2025
+ms.date: 05/06/2026
 ---
 
-# ProcDump v11.1
+# ProcDump v12.0
 
 **By Mark Russinovich and Andrew Richards**
 
-Published: November 13, 2025
+Published: May 6, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Procdump.zip) [**Download ProcDump**](https://download.sysinternals.com/files/Procdump.zip) **(1.2 MB)**
 

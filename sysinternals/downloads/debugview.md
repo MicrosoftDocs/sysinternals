@@ -4,14 +4,14 @@ title: DebugView
 description: This program intercepts calls made to DbgPrint by device drivers and OutputDebugString made by Win32 programs.
 ms:assetid: 'e20c3b02-fe03-4067-82e9-f5c01398b804'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896647(v=MSDN.10)'
-ms.date: 03/27/2026
+ms.date: 05/06/2026
 ---
 
-# DebugView v5.0
+# DebugView v5.01
 
 **By Mark Russinovich**
 
-Published: March 26, 2026
+Published: May 6, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1012 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Dbgview.exe).
