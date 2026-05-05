@@ -30,6 +30,17 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
 
+### What's New (May 6, 2026)
+
+- [Autoruns v14.2](~/downloads/autoruns.md)  
+This update to Autoruns, a utility for monitoring startup items, add support for Windows packaged apps.
+
+- [ProcDump v12.0](~/downloads/procdump.md)  
+This update to ProcDump, a command-line utility for generating memory dumps from running processes, adds process tree support with -pt.
+
+- [ZoomIt v12.0](~/downloads/zoomit.md)  
+ZoomIt, a screen magnification and annotation tool, brings webcam overlay support for video captures and allows appending clips in the video trim editor.
+
 ### What's New (March 26, 2026)
 
 - [listent 1.0 for macOS](https://github.com/microsoft/Sysinternals-listent/releases/tag/1.0.0)  

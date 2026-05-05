@@ -51,7 +51,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v14.11 (February 6, 2024)*  
+*v14.2 (May 6, 2026)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -98,7 +98,7 @@ logical processor.
 Ctrl2Cap is a tool to help remap the Caps Lock key to Ctrl.
 
 [DebugView](debugview.md)  
-*v5.0 (March 26, 2026)*  
+*v5.01 (May 6, 2026)*  
 Another first from Sysinternals: This program intercepts calls made to
 DbgPrint by device drivers and OutputDebugString made by Win32 programs.
 It allows for viewing and recording of debug session output on your
@@ -191,7 +191,7 @@ List the active logon sessions on a system.
 Allows you to schedule move and delete commands for the next reboot.
 
 [NotMyFault](notmyfault.md)
-*v4.40 (March 26, 2026)*  
+*v4.5 (May 6, 2026)*  
 Notmyfault is a tool that you can use to crash, hang, and cause kernel
 memory leaks on your Windows system.
 
@@ -219,7 +219,7 @@ shows you a portion of the data being sent and received. Version 3.x has
 powerful new UI enhancements and advanced filtering capabilities.
 
 [ProcDump](procdump.md)  
-*v11.1 (November 13, 2025)*  
+*v12.0 (May 6, 2026)*  
 This command-line utility is aimed at capturing process dumps of
 otherwise difficult to isolate and reproduce CPU spikes. It also serves
 as a general process dump creation utility and can also monitor and
@@ -227,13 +227,13 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)
-*v17.11 (April 9, 2026)*  
+*v17.12 (May 6, 2026)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v4.01 (June 20, 2024)*  
+*v4.02 (May 6, 2026)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -374,5 +374,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)
-*v11.0 (March 26, 2026)*  
+*v12.0 (May 6, 2026)*  
 Presentation utility for zooming and drawing on the screen.
