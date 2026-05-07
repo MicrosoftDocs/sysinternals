@@ -33,7 +33,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 ### What's New (May 7, 2026)
 
 - [Autoruns v14.2](~/downloads/autoruns.md)  
-This update to Autoruns, a utility for monitoring startup items, add support for Windows packaged apps.
+This update to Autoruns, a utility for monitoring startup items, adds support for Windows packaged apps.
 
 - [ProcDump v12.0](~/downloads/procdump.md)  
 This update to ProcDump, a command-line utility for generating memory dumps from running processes, adds process tree support with -pt.
