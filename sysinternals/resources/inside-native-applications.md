@@ -1,7 +1,7 @@
 ---
 title: Inside Native Applications
 ms.date: 11/01/2006
-ms.topic: conceptual
+ms.topic: article
 description: In this article I'm going to describe how native applications are built and how they work.
 ---
 # Inside Native Applications
