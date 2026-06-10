@@ -14,7 +14,7 @@ ms.date: 06/10/2026
 
 Published: June 10, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(2.9 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(3 MB)**  
 
 [**Download Procmon for Linux (GitHub)**](https://github.com/microsoft/ProcMon-for-Linux)
 
@@ -84,7 +84,7 @@ options on a live system.
 
 ## Download
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(2.9 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(3 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Procmon.exe).
 

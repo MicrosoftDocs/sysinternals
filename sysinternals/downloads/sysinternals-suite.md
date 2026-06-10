@@ -13,7 +13,7 @@ ms.date: 06/10/2026
 **By Mark Russinovich**
 Updated: June 10, 2026
 
-[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (167.9 MB)
+[**Download Sysinternals Suite**](https://download.sysinternals.com/files/SysinternalsSuite.zip) (168 MB)
 [**Download Sysinternals Suite for Nano Server**](https://download.sysinternals.com/files/SysinternalsSuite-Nano.zip) (9.6 MB)  
 [**Download Sysinternals Suite for ARM64**](https://download.sysinternals.com/files/SysinternalsSuite-ARM64.zip) (15.4 MB)  
 [**Install Sysinternals Suite from the Microsoft Store**](ms-windows-store://pdp/?ProductId=9p7knl5rwt25)  
