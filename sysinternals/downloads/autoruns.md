@@ -5,14 +5,14 @@ description: See what programs are configured to startup automatically when your
 no-loc: [Mark Russinovich, David Solomon, Aaron Margosis]
 ms:assetid: 'b13af0f4-f0a1-4cc5-b940-20be546c1179'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb963902(v=MSDN.10)'
-ms.date: 05/07/2026
+ms.date: 06/17/2026
 ---
 
-# Autoruns v14.2
+# Autoruns v14.3
 
 **By Mark Russinovich**
 
-Published: May 7, 2026
+Published: June 17, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Autoruns.zip) [**Download Autoruns and Autorunsc**](https://download.sysinternals.com/files/Autoruns.zip) **(2.9 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/autoruns.exe).

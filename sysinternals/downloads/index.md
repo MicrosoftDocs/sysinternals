@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 05/07/2026
+ms.date: 06/17/2026
 ---
 
 # Sysinternals Utilities Index
@@ -51,7 +51,7 @@ Undelete Server 2003 Active Directory objects.
 Bypass password screen during logon.
 
 [Autoruns](autoruns.md)  
-*v14.2 (May 7, 2026)*  
+*v14.3 (June 17, 2026)*  
 See what programs are configured to startup automatically when your
 system boots and you login. Autoruns also shows you the full list of
 Registry and file locations where applications can configure auto-start
@@ -87,7 +87,7 @@ to optimize individual files, or to create new files that are
 contiguous.
 
 [Coreinfo](coreinfo.md)
-*v4.0 (December 16, 2025)*  
+*v4.01 (June 17, 2026)*  
 Coreinfo is a new command-line utility that shows you the mapping
 between logical processors and the physical processor, NUMA node, and
 socket on which they reside, as well as the cache’s assigned to each
@@ -98,7 +98,7 @@ logical processor.
 Ctrl2Cap is a tool to help remap the Caps Lock key to Ctrl.
 
 [DebugView](debugview.md)  
-*v5.01 (May 7, 2026)*  
+*v5.02 (June 17, 2026)*  
 Another first from Sysinternals: This program intercepts calls made to
 DbgPrint by device drivers and OutputDebugString made by Win32 programs.
 It allows for viewing and recording of debug session output on your
@@ -175,7 +175,7 @@ executable binaries. Supports static scanning, real-time process monitoring,
 and background daemon operation.
 
 [LiveKd](livekd.md)  
-*v5.62 (May 16, 2017)*  
+*v5.64 (June 17, 2026)*  
 Use Microsoft kernel debuggers to examine a live system.
 
 [LoadOrder](loadorder.md)  
@@ -233,7 +233,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v4.02 (May 7, 2026)*  
+*v4.04 (June 17, 2026)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -301,7 +301,7 @@ An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v3.12 (February 4, 2026)*  
+*v3.20 (June 17, 2026)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
@@ -350,7 +350,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v15.2 (March 26, 2026)*  
+*v15.21 (June 17, 2026)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
@@ -374,5 +374,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)
-*v12.0 (May 7, 2026)*  
+*v12.1 (June 17, 2026)*  
 Presentation utility for zooming and drawing on the screen.
