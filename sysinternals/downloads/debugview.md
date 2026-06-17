@@ -13,7 +13,7 @@ ms.date: 06/17/2026
 
 Published: June 17, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1.7 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Dbgview.exe).
 
 ## Introduction
@@ -582,6 +582,6 @@ This is a screenshot of *DebugView* capturing debug output. Note the
 modern dark mode interface with the dedicated PID column and highlighting
 filter.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1.7 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Dbgview.exe).
