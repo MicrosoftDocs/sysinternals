@@ -35,9 +35,6 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 - [Autoruns v14.3](~/downloads/autoruns.md)  
 This update to Autoruns, a utility for monitoring startup items, adds bug fixes and improves the command-line application autorunsc.
 
-- [RDCMan v3.20](~/downloads/rdcman.md)  
-This update to RDCMan, a tool for managing and connecting to Remote Desktop sessions, adds support for Azure Dev Box resources.
-
 - [ZoomIt v12.1](~/downloads/zoomit.md)  
 This update to ZoomIt, a screen magnification and annotation tool, adds image backgrounds, webcam background blur and microphone noise cancellation support.
 
