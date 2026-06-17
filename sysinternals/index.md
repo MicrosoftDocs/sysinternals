@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 05/07/2026
+ms.date: 06/17/2026
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,14 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
+
+### What's New (June 17, 2026)
+
+- [Autoruns v14.3](~/downloads/autoruns.md)  
+This update to Autoruns, a utility for monitoring startup items, adds bug fixes and improves the command-line application autorunsc.
+
+- [ZoomIt v12.1](~/downloads/zoomit.md)  
+This update to ZoomIt, a screen magnification and annotation tool, adds image backgrounds, webcam background blur and microphone noise cancellation support.
 
 ### What's New (May 7, 2026)
 
@@ -65,23 +73,3 @@ This update to ZoomIt, a screen magnification and annotation tool, adds a video 
 
 - [Sysmon 1.5 for Linux](https://github.com/microsoft/sysmonforlinux/releases/tag/1.5.0.0)  
 This update to Sysmon for Linux, a tool that monitors and logs system activity including process lifetime, network connections, file system writes, and more, adds `EbpfEvent` for monitoring Linux EBPF program loading.
-
-### What's New (December 16, 2025)
-
-- [Coreinfo v4.0](~/downloads/coreinfo.md)  
-This update to Coreinfo, a tool that reports processor, socket, NUMA memory, and cache topology of a system, as well as processor features supported, now includes a GUI version and adds checks for features present in modern CPUs.
-
-### What's New (November 11, 2025)
-
-- [ZoomIt v9.20](~/downloads/zoomit.md)  
-This update to ZoomIt, a screen magnification and annotation tool, can now save screen recordings as either MP4 or GIF.
-
-### What's New (October 13, 2025)
-
-- [ZoomIt v9.10](~/downloads/zoomit.md)  
-ZoomIt, a screen zooming, recording and annotation utility, adds image smoothing for higher-quality visuals.
-
-### What's New (September 16, 2025)
-
-- [jcd v1.0](https://github.com/microsoft/Sysinternals-jcd/releases/tag/1.0.0)  
-jcd (jump change directory) is a Sysinternals command-line tool for Linux and macOS that provides quick directory navigation with substring matching and smart selection.
