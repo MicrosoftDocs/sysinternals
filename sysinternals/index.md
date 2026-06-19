@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 06/17/2026
+ms.date: 06/19/2026
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -33,7 +33,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 ### What's New (June 17, 2026)
 
 - [Autoruns v14.3](~/downloads/autoruns.md)  
-This update to Autoruns, a utility for monitoring startup items, adds bug fixes and improves the command-line application autorunsc.
+This update to Autoruns, a utility for monitoring startup items, adds bug fixes and fully aligns the command-line autorunsc with the GUI capabilities, including packaged apps support.
 
 - [ZoomIt v12.1](~/downloads/zoomit.md)  
 This update to ZoomIt, a screen magnification and annotation tool, adds image backgrounds, webcam background blur and microphone noise cancellation support.
