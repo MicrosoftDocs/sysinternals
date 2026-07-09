@@ -13,7 +13,7 @@ ms.date: 07/09/2026
 
 Published: July 9, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LiveKD.zip) [**Download LiveKd**](https://download.sysinternals.com/files/LiveKD.zip) **(504 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LiveKD.zip) [**Download LiveKd**](https://download.sysinternals.com/files/LiveKD.zip) **(509 KB)**
 
 ## Introduction
 
@@ -88,7 +88,7 @@ hangs.
 
 By default LiveKd runs kd.exe.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LiveKD.zip) [**Download LiveKd**](https://download.sysinternals.com/files/LiveKD.zip) **(504 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LiveKD.zip) [**Download LiveKd**](https://download.sysinternals.com/files/LiveKD.zip) **(509 KB)**
 
 **Runs on:**
 
