@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 06/17/2026
+ms.date: 07/09/2026
 ---
 
 # Sysinternals Utilities Index
@@ -175,7 +175,7 @@ executable binaries. Supports static scanning, real-time process monitoring,
 and background daemon operation.
 
 [LiveKd](livekd.md)  
-*v5.64 (June 17, 2026)*  
+*v5.65 (July 9, 2026)*  
 Use Microsoft kernel debuggers to examine a live system.
 
 [LoadOrder](loadorder.md)  
@@ -219,7 +219,7 @@ shows you a portion of the data being sent and received. Version 3.x has
 powerful new UI enhancements and advanced filtering capabilities.
 
 [ProcDump](procdump.md)  
-*v12.0 (May 7, 2026)*  
+*v12.01 (July 9, 2026)*  
 This command-line utility is aimed at capturing process dumps of
 otherwise difficult to isolate and reproduce CPU spikes. It also serves
 as a general process dump creation utility and can also monitor and
@@ -374,5 +374,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)
-*v12.1 (June 17, 2026)*  
+*v12.11 (July 9, 2026)*  
 Presentation utility for zooming and drawing on the screen.
