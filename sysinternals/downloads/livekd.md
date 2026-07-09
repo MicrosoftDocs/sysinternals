@@ -4,14 +4,14 @@ title: LiveKd
 description: Use Microsoft kernel debuggers to examine a live system.
 ms:assetid: '9b0d30e0-be2b-41f0-a6b6-cee2ffb5f283'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897415(v=MSDN.10)'
-ms.date: 06/17/2026
+ms.date: 07/09/2026
 ---
 
-# LiveKd v5.64
+# LiveKd v5.65
 
 **By Mark Russinovich and Ken Johnson**
 
-Published: June 17, 2026
+Published: July 9, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/LiveKD.zip) [**Download LiveKd**](https://download.sysinternals.com/files/LiveKD.zip) **(504 KB)**
 
