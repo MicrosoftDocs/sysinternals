@@ -8,13 +8,15 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
 ms.date: 07/24/2026
 ---
 
+# Sysinternals
+
 <table>
 <tr>
 <td>
 ![Sysinternals logo](media/index/Sysinternals.png)
 </td>
 <td valign="middle">
-# Sysinternals
+Sysinternals
 </td>
 </tr>
 </table>
