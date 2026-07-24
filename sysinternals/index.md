@@ -11,7 +11,7 @@ ms.date: 07/24/2026
 <table>
 <tr>
 <td>
-![Sysinternals logo](media/sysinternals-logo.png)
+![Sysinternals logo](media/index/Sysinternals.png)
 </td>
 <td valign="middle">
 # Sysinternals
