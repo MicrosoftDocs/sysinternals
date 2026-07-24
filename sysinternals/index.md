@@ -5,10 +5,19 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 06/19/2026
+ms.date: 07/24/2026
 ---
 
-# ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
+<table>
+<tr>
+<td>
+![Sysinternals logo](media/sysinternals-logo.png)
+</td>
+<td valign="middle">
+# Sysinternals
+</td>
+</tr>
+</table>
 The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows and Linux systems and applications.  
   -   Read the official guide to the Sysinternals tools, [Troubleshooting with the Windows Sysinternals Tools](~/resources/troubleshooting-book.md)
 -   Read the [Sysinternals Blog](https://techcommunity.microsoft.com/t5/Sysinternals-Blog/bg-p/Sysinternals-Blog) for a detailed change feed of tool updates
@@ -29,6 +38,11 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
+
+### What's New (July 24, 2026)
+
+- [ZoomIt for Mac v12.21](~/downloads/zoomit.md)  
+ZoomIt, the all-in-one presentation and recording utility, is now available for macOS. It includes all the zooming, annotation, screenshot, and recording capabilities of the Windows version, along with video clip editing, panoramic capture, and a break timer.
 
 ### What's New (June 17, 2026)
 
@@ -66,10 +80,3 @@ This update to DebugView, a tool for displaying both kernel-mode and Win32 debug
 - [NotMyFault v4.40](~/downloads/notmyfault.md)  
 This update to NotMyFault, a tool that can crash, hang, and cause kernel memory leaks on the Windows system, adds secure kernel and hypervisor crash triggers.
 
-### What's New (February 4, 2026)
-
-- [ZoomIt v10.0](~/downloads/zoomit.md)  
-This update to ZoomIt, a screen magnification and annotation tool, adds a video clip editor for trimming recordings before saving them and supports recordings with system sounds.
-
-- [Sysmon 1.5 for Linux](https://github.com/microsoft/sysmonforlinux/releases/tag/1.5.0.0)  
-This update to Sysmon for Linux, a tool that monitors and logs system activity including process lifetime, network connections, file system writes, and more, adds `EbpfEvent` for monitoring Linux EBPF program loading.
