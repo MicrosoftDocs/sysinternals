@@ -8,10 +8,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
 ms.date: 07/24/2026
 ---
 
-<table>
+<table style="width:auto;">
    <tr>
-     <td><img src="sysinternals-logo.png" width="180"></td>
-     <td style="vertical-align: middle; padding-left: 24px;">Sysinternals</td>
+     <td><img src="logo.png" width="180"></td>
+     <td valign="middle" style="padding-left:24px;">
+        Sysinternals
+     </td>
    </tr>
 </table>
 The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows and Linux systems and applications.  
