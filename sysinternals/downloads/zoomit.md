@@ -15,8 +15,8 @@ ms.date: 07/09/2026
 Published: July 9, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(24.2 MB)**  
-[**Download from Microsoft PowerToys (GitHub)**](https://github.com/microsoft/PowerToys)
-[**Download ZoomIt For Mac (GitHub)**]([https://github.com/microsoft/PowerToys](https://github.com/microsoft/ZoomitForMac)
+[**Download from Microsoft PowerToys (GitHub)**](https://github.com/microsoft/PowerToys)<br>
+[**Download ZoomIt For Mac (GitHub)**]([https://github.com/microsoft/PowerToys](https://github.com/microsoft/ZoomitForMac)<br>
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
 <br><br>
 > [!VIDEO https://learn-video.azurefd.net/vod/player?id=31330ae9-ccc2-4001-a9ce-35dcbb8b5aa2]
