@@ -21,7 +21,9 @@ Published: July 9, 2026
 <br>
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
 <br><br>
-> [!VIDEO https://learn-video.azurefd.net/vod/player?id=31330ae9-ccc2-4001-a9ce-35dcbb8b5aa2]
+TEST TEST TEST TEST
+<br><br>
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=31330ae9-ccc2-4001-a9ce-35dcbb8b5aa2&autoplay=true&loop=true&controls=false]
 <sup>*Created with ZoomIt*</sup>
 
 ## Introduction
