@@ -35,6 +35,14 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 - [ZoomIt for Mac v12.21](~/downloads/zoomit.md)  
 ZoomIt, the all-in-one presentation and recording utility, is now available for macOS. It includes all the zooming, annotation, screenshot, and recording capabilities of the Windows version, along with video clip editing, panoramic capture, and a break timer.
 
+### What's New (June 17, 2026)
+
+- [Autoruns v14.3](~/downloads/autoruns.md)  
+This update to Autoruns, a utility for monitoring startup items, adds bug fixes and fully aligns the command-line autorunsc with the GUI capabilities, including packaged apps support.
+
+- [ZoomIt v12.1](~/downloads/zoomit.md)  
+This update to ZoomIt, a screen magnification and annotation tool, adds image backgrounds, webcam background blur and microphone noise cancellation support.
+
 ### What's New (May 7, 2026)
 
 - [Autoruns v14.2](~/downloads/autoruns.md)  
