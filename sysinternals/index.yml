@@ -1,0 +1,153 @@
+### YamlMime:Hub
+
+title: Sysinternals
+summary: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
+brand: windows
+
+metadata:
+  title: "Sysinternals: Documentation, downloads and additional resources"
+  description: Library, learning resources, downloads, support, and community. Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
+  no-loc: [Mark Russinovich]
+  ms.assetid: "2b0d74e3-5962-455a-b35a-248979737b61"
+  ms.mtpsurl: "https://technet.microsoft.com/Bb545021(v=MSDN.10)"
+  ms.topic: hub-page
+  ms.service: sysinternals
+  ms.date: 07/24/2026
+
+tools:
+  items:
+    # Card
+    - title: Sysinternals
+      imageSrc: ./media/index/Sysinternals.png
+      url: ""
+
+highlightedContent:
+  items:
+    - title: Download Sysinternals utilities
+      itemType: download
+      url: downloads/index.md
+    - title: Sysinternals Suite
+      itemType: download
+      url: downloads/sysinternals-suite.md
+    - title: Troubleshooting with the Windows Sysinternals Tools
+      itemType: reference
+      url: resources/troubleshooting-book.md
+    - title: Sysinternals learning resources
+      itemType: overview
+      url: resources/index.md
+    - title: Sysinternals Blog
+      itemType: whats-new
+      url: https://techcommunity.microsoft.com/t5/Sysinternals-Blog/bg-p/Sysinternals-Blog
+    - title: Sysinternals Update videos on YouTube
+      itemType: video
+      url: https://www.youtube.com/playlist?list=PLhFhDWFYccZ_GvdJ11NZwaBAhwDCWmni_
+    - title: Sysinternals Forum
+      itemType: get-started
+      url: https://aka.ms/sysint-forums
+    - title: Sysinternals Live tools directory
+      itemType: overview
+      url: https://live.sysinternals.com/
+
+conceptualContent:
+  title: "Sysinternals: Troubleshooting and diagnostics"
+  summary: The Sysinternals web site was created in 1996 by Mark Russinovich to host advanced system utilities and technical information for IT pros and developers.
+  items:
+    - title: Learn and explore
+      links:
+        - url: resources/troubleshooting-book.md
+          itemType: reference
+          text: Read the official Sysinternals tools guide
+        - url: resources/webcasts.md
+          itemType: video
+          text: Watch Mark's Case-of-the-Unexplained presentations and webcasts
+        - url: resources/index.md
+          itemType: overview
+          text: Explore Sysinternals learning resources
+        - url: https://techcommunity.microsoft.com/t5/Sysinternals-Blog/bg-p/Sysinternals-Blog
+          itemType: whats-new
+          text: Follow the Sysinternals Blog change feed
+        - url: https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/bg-p/Windows-Blog-Archive/label-name/Mark%20Russinovich
+          itemType: overview
+          text: Read Mark's Blog for real-world troubleshooting examples
+        - url: community.md
+          itemType: overview
+          text: Visit the Sysinternals community page
+        - url: https://aka.ms/sysint-forums
+          itemType: get-started
+          text: Ask questions in the Sysinternals Forum
+
+    - title: Sysinternals Live
+      summary: Run Sysinternals tools directly from the web without manually downloading them.
+      links:
+        - url: https://live.sysinternals.com/
+          itemType: overview
+          text: Browse the full Sysinternals Live tools directory
+        - url: https://live.sysinternals.com/tools/
+          itemType: overview
+          text: Open the tools share path root
+
+    - title: Browse downloads by category
+      links:
+        - url: downloads/file-and-disk-utilities.md
+          itemType: download
+          text: File and Disk Utilities
+        - url: downloads/networking-utilities.md
+          itemType: download
+          text: Networking Utilities
+        - url: downloads/process-utilities.md
+          itemType: download
+          text: Process Utilities
+        - url: downloads/security-utilities.md
+          itemType: download
+          text: Security Utilities
+        - url: downloads/system-information.md
+          itemType: download
+          text: System Information
+        - url: downloads/misc-utilities.md
+          itemType: download
+          text: Miscellaneous Utilities
+        - url: downloads/microsoft-store.md
+          itemType: download
+          text: Microsoft Store
+
+additionalContent:
+  sections:
+    - title: Sysinternals Live usage
+      summary: "In Windows Explorer use live.sysinternals.com/<toolname> or \\\\live.sysinternals.com\\tools\\<toolname>. In a command prompt use \\\\live.sysinternals.com\\tools\\<toolname>."
+
+    - title: What's new
+      summary: "Latest utility updates. RSS feed: https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog"
+      items:
+        - title: July 24, 2026
+          links:
+            - url: downloads/zoomit.md
+              text: "ZoomIt for Mac v12.21: Adds macOS availability with zooming, annotation, screenshot, recording, video clip editing, panoramic capture, and break timer features."
+
+        - title: June 17, 2026
+          links:
+            - url: downloads/autoruns.md
+              text: "Autoruns v14.3: Adds bug fixes and aligns autorunsc command-line capabilities with the GUI, including packaged apps support."
+            - url: downloads/zoomit.md
+              text: "ZoomIt v12.1: Adds image backgrounds, webcam background blur, and microphone noise cancellation support."
+
+        - title: May 7, 2026
+          links:
+            - url: downloads/autoruns.md
+              text: "Autoruns v14.2: Adds support for Windows packaged apps."
+            - url: downloads/procdump.md
+              text: "ProcDump v12.0: Adds process tree support with -pt."
+            - url: downloads/zoomit.md
+              text: "ZoomIt v12.0: Adds webcam overlay for video captures and clip append support in the video trim editor."
+
+        - title: March 26, 2026
+          links:
+            - url: https://github.com/microsoft/Sysinternals-listent/releases/tag/1.0.0
+              text: "listent 1.0 for macOS: Command-line tool to discover and list code signing entitlements with static scanning, real-time process monitoring, and daemon mode."
+            - url: downloads/zoomit.md
+              text: "ZoomIt v11.0: Adds panorama and scrolling screenshots, text extraction during snip, break timer improvements, and .mp4 clip editor support."
+            - url: downloads/sysmon.md
+              text: "Sysmon v15.2: Improves internal events queue handling for better resilience under high system load."
+            - url: downloads/debugview.md
+              text: "DebugView v5.0: Improves Windows 11 support, adds a modern dark-theme UI, and includes performance optimizations."
+            - url: downloads/notmyfault.md
+              text: "NotMyFault v4.40: Adds secure kernel and hypervisor crash triggers."

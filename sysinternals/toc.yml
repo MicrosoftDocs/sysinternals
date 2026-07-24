@@ -1,5 +1,6 @@
+items:
 - name: Home
-  href: index.md
+  href: index.yml
   items:
   - name: Downloads
     href: downloads/index.md
