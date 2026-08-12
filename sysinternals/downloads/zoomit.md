@@ -5,16 +5,16 @@ description: Presentation utility for zooming and drawing on the screen.
 no-loc: [Mark Russinovich]
 ms:assetid: '0b6c4abc-9482-4759-a9cd-bf77cb961dd4'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897434(v=MSDN.10)'
-ms.date: 07/09/2026
+ms.date: 08/12/2026
 ---
 
-# ZoomIt v12.11
+# ZoomIt v12.2
 
 **By Mark Russinovich**
 
-Published: July 9, 2026
+Published: August 12, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(24.2 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(24.3 MB)**  
 [**Download from Microsoft PowerToys (GitHub)**](https://github.com/microsoft/PowerToys)
 <br>
 [**Download ZoomIt For Mac (GitHub)**](https://github.com/microsoft/ZoomitForMac)
@@ -107,7 +107,7 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Advance to the next snippet (DemoType User-driven Mode)                                                                            | Space Bar                                 |
 | Exit                                                                                                                               | Esc or Right-Click                        |
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(24.2 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(24.3 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
 
 [**Download from Microsoft PowerToys (GitHub)**](https://github.com/microsoft/PowerToys)
