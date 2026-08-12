@@ -33,7 +33,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 ### What's New (August 12, 2026)
 
 - [NotMyFault v4.6](~/downloads/notmyfault.md)  
-This update to NotMyFault, a tool that can crash, hang, and cause kernel memory leaks on the Windows system, adds a modern UI.
+This update to NotMyFault, a tool that creates on-demand Windows crashes, hangs, and kernel memory leaks, is now in Rust and has a modern UI.
 
 - [RDCMan v3.20](~/downloads/rdcman.md)  
 This update to RDCMan, a tool for managing and connecting to Remote Desktop sessions, adds Azure Virtual Desktop workspace feed, and Microsoft Dev Box support.
