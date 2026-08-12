@@ -5,14 +5,14 @@ description: Monitor file system, Registry, process, thread and DLL activity in 
 no-loc: [Mark Russinovich, David Solomon, Aaron Margosis]
 ms:assetid: '37225635-4ad0-4b08-aa5e-4bba665b1d89'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896645(v=MSDN.10)'
-ms.date: 06/17/2026
+ms.date: 08/12/2026
 ---
 
-# Process Monitor v4.04
+# Process Monitor v4.05
 
 **By Mark Russinovich**
 
-Published: June 17, 2026
+Published: August 12, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(2.9 MB)**  
 

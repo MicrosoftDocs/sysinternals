@@ -4,14 +4,14 @@ title: NotMyFault
 description: Notmyfault is a tool that you can use to crash, hang, and cause kernel memory leaks on your Windows system.
 ms:assetid: 'fc881ee6-6e6a-480f-95d2-83458e2d09b7'
 ms:mtpsurl: 'https://technet.microsoft.com/Mt742033(v=MSDN.10)'
-ms.date: 05/07/2026
+ms.date: 08/12/2026
 ---
 
-# NotMyFault v4.5
+# NotMyFault v4.6
 
 **By Mark Russinovich**
 
-Published: May 7, 2026
+Published: August 12, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(1.4 MB)**
 

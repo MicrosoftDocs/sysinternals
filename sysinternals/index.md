@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 07/24/2026
+ms.date: 08/12/2026
 ---
 
 # ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
@@ -29,6 +29,17 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
+
+### What's New (August 12, 2026)
+
+- [NotMyFault v4.6](~/downloads/notmyfault.md)  
+This update to NotMyFault, a tool that can crash, hang, and cause kernel memory leaks on the Windows system, adds a modern UI.
+
+- [RDCMan v3.20](~/downloads/rdcman.md)  
+This update to RDCMan, a tool for managing and connecting to Remote Desktop sessions, adds Azure Virtual Desktop workspace feed, and Microsoft Dev Box support.
+
+- [ZoomIt v12.2](~/downloads/zoomit.md)  
+This update to ZoomIt, a screen magnification and annotation tool, introduces DemoMirror for mirroring the screen, a screen region, or a window, including the mouse pointer, onto a second monitor.
 
 ### What's New (July 24, 2026)
 

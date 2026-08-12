@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 07/09/2026
+ms.date: 08/12/2026
 ---
 
 # Sysinternals Utilities Index
@@ -87,7 +87,7 @@ to optimize individual files, or to create new files that are
 contiguous.
 
 [Coreinfo](coreinfo.md)
-*v4.01 (June 17, 2026)*  
+*v4.02 (August 12, 2026)*  
 Coreinfo is a new command-line utility that shows you the mapping
 between logical processors and the physical processor, NUMA node, and
 socket on which they reside, as well as the cache’s assigned to each
@@ -191,7 +191,7 @@ List the active logon sessions on a system.
 Allows you to schedule move and delete commands for the next reboot.
 
 [NotMyFault](notmyfault.md)
-*v4.5 (May 7, 2026)*  
+*v4.6 (August 12, 2026)*  
 Notmyfault is a tool that you can use to crash, hang, and cause kernel
 memory leaks on your Windows system.
 
@@ -227,13 +227,13 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)
-*v17.12 (May 7, 2026)*  
+*v17.13 (August 12, 2026)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v4.04 (June 17, 2026)*  
+*v4.05 (August 12, 2026)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -258,7 +258,7 @@ Obtain information about a system.
 Terminate local or remote processes.
 
 [PsPing](psping.md)  
-*v2.12 (March 30, 2023)*  
+*v2.13 (August 12, 2026)*  
 Measure network performance.
 
 [PsList](pslist.md)  
@@ -301,7 +301,7 @@ An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v3.12 (February 4, 2026)*  
+*v3.20 (August 12, 2026)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
@@ -374,5 +374,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)
-*v12.11 (July 9, 2026)*  
+*v12.2 (August 12, 2026)*  
 Presentation utility for zooming and drawing on the screen.

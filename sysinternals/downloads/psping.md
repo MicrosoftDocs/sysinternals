@@ -4,14 +4,14 @@ title: PsPing
 description: Measure network performance.
 ms:assetid: '80138356-ebe3-41cd-a14d-8aa7eae81c42'
 ms:mtpsurl: 'https://technet.microsoft.com/JJ729731(v=MSDN.10)'
-ms.date: 03/30/2023
+ms.date: 08/12/2026
 ---
 
-# PsPing v2.12
+# PsPing v2.13
 
 **By Mark Russinovich**
 
-Published: March 30, 2023
+Published: August 12, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
