@@ -39,7 +39,7 @@ This update to NotMyFault, a tool that creates on-demand Windows crashes, hangs,
 This update to RDCMan, a tool for managing and connecting to Remote Desktop sessions, adds Azure Virtual Desktop workspace feed, and Microsoft Dev Box support.
 
 - [ZoomIt v12.2](~/downloads/zoomit.md)  
-This update to ZoomIt, a screen magnification and annotation tool, introduces DemoMirror for mirroring the screen, a screen region, or a window, including the mouse pointer, onto a second monitor.
+This update to ZoomIt, a screen magnification and annotation tool, introduces DemoMirror for mirroring the screen, a screen region, or a window, onto a second monitor.
 
 ### What's New (July 24, 2026)
 
