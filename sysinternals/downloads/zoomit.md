@@ -14,7 +14,7 @@ ms.date: 08/12/2026
 
 Published: August 12, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(24.2 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(24.3 MB)**  
 [**Download from Microsoft PowerToys (GitHub)**](https://github.com/microsoft/PowerToys)
 <br>
 [**Download ZoomIt For Mac (GitHub)**](https://github.com/microsoft/ZoomitForMac)
@@ -107,7 +107,7 @@ ZoomIt offers a number of shortcuts which can extend its usage greatly.
 | Advance to the next snippet (DemoType User-driven Mode)                                                                            | Space Bar                                 |
 | Exit                                                                                                                               | Esc or Right-Click                        |
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(24.2 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ZoomIt.zip) [**Download ZoomIt**](https://download.sysinternals.com/files/ZoomIt.zip) **(24.3 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/ZoomIt.exe).
 
 [**Download from Microsoft PowerToys (GitHub)**](https://github.com/microsoft/PowerToys)

@@ -13,7 +13,7 @@ ms.date: 08/12/2026
 
 Published: August 12, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(1.4 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(1.8 MB)**
 
 ## Introduction
 
@@ -60,4 +60,4 @@ Or  **notmyfaultc.exe hang hang\_type\_num**
       0x02: Hang with DPC
 ```
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(1.4 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/NotMyFault.zip) [**Download NotMyFault**](https://download.sysinternals.com/files/NotMyFault.zip) **(1.8 MB)**

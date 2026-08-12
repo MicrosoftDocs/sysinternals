@@ -25,10 +25,6 @@ output, so you don't need a debugger to catch the debug output your
 applications or device drivers generate, nor do you need to modify your
 applications or drivers to use non-standard debug output APIs.
 
-> [!NOTE]
-> *DebugView* v5.0 requires Windows 10 version 1809 (build 17763) /
-> Windows Server 2019 or later.
-
 ## DebugView Capture
 
 *DebugView* will capture:
@@ -585,3 +581,8 @@ filter.
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DebugView.zip) [**Download DebugView**](https://download.sysinternals.com/files/DebugView.zip) **(1.7 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Dbgview.exe).
+
+**Runs on:**
+
+- Client: Windows 11 and higher.
+- Server: Windows Server 2019 and higher.
