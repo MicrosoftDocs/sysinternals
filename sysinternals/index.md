@@ -11,7 +11,7 @@ ms.date: 08/12/2026
 #
 
 > [!div class="text-align-center"]
-> # ![Sysinternals icon](media/index/Sysinternals.png) <br>Sysinternals
+> # ![Sysinternals icon](media/index/Sysinternals.png) Sysinternals
 > This is yet another test
 
 The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows and Linux systems and applications.  
