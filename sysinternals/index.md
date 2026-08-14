@@ -9,8 +9,7 @@ ms.date: 08/12/2026
 ---
 
 > [!div class="text-align-center"]
-> ![Sysinternals icon](media/index/Sysinternals.png)
-> # Sysinternals
+> # ![Sysinternals icon](media/index/Sysinternals.png) Sysinternals
 > This is not a test
 
 # Sysinternals
