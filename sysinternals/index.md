@@ -8,7 +8,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
 ms.date: 08/12/2026
 ---
 
-# First paragraph
+# 1st paragraph
 
 > [!div class="display-flex align-items-center justify-content-center font-size-h1 font-weight-semibold"]
 > <img src="media/index/sysinternals.png" alt="Sysinternals icon" data-linktype="relative-path"> Sysinternals
