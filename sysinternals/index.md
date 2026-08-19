@@ -5,18 +5,26 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 07/24/2026
+ms.date: 08/19/2026
 ---
 
-# ![Sysinternals icon](media/index/Sysinternals.png)<br>Sysinternals
+# 
+
+> [!div class="display-flex align-items-center justify-content-center font-size-h1 font-weight-semibold"]
+> <span class="display-flex align-items-center justify-content-center font-size-h1 font-weight-semibold"><img src="media/index/sysinternals.png" alt="Sysinternals icon" data-linktype="relative-path">&nbsp;Sysinternals</span>
+
 The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows and Linux systems and applications.  
-  -   Read the official guide to the Sysinternals tools, [Troubleshooting with the Windows Sysinternals Tools](~/resources/troubleshooting-book.md)
+-   Read the official guide to the Sysinternals tools, [Troubleshooting with the Windows Sysinternals Tools](~/resources/troubleshooting-book.md)
 -   Read the [Sysinternals Blog](https://techcommunity.microsoft.com/t5/Sysinternals-Blog/bg-p/Sysinternals-Blog) for a detailed change feed of tool updates
 -   Watch Mark's [Sysinternals Update videos on YouTube](https://www.youtube.com/playlist?list=PLhFhDWFYccZ_GvdJ11NZwaBAhwDCWmni_)
 -   Watch Mark’s top-rated [Case-of-the-Unexplained](~/resources/webcasts.md) troubleshooting presentations and other webcasts
 -   Read [Mark’s Blog](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/bg-p/Windows-Blog-Archive/label-name/Mark%20Russinovich) which highlight use of the tools to solve real problems
 -   Check out the Sysinternals [Learning Resources](~/resources/index.md) page
 -   Post your questions in the [Sysinternals Forum](https://aka.ms/sysint-forums)
+
+---
+## Sysinternals 30<sup>th</sup> Anniversary
+[![sysinternals30](media/index/sysinternals30_banner.png)](https://aka.ms/sysinternals30)
 
 ---
 ## Sysinternals Live
@@ -29,6 +37,25 @@ In a command prompt use `\\live.sysinternals.com\tools\<toolname>`.
 You can view the entire Sysinternals Live tools directory in a browser or Windows Explorer at [https://live.sysinternals.com/](https://live.sysinternals.com).
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
+
+### What's New (August 19, 2026)
+
+- [Process Monitor v4.1](~/downloads/procmon.md)  
+This update to Process Monitor, a utility for observing real-time file system, Registry, and process or thread activity, adds the IPC event class for named pipes and mailslots.
+
+- [ZoomIt 12.3 for macOS](https://github.com/microsoft/ZoomitForMac/releases/tag/12.3.0)  
+This update to ZoomIt for macOS, a screen magnification and annotation tool, introduces DemoMirror for mirroring the screen, a screen region, or a window, onto a second monitor.
+
+### What's New (August 12, 2026)
+
+- [NotMyFault v4.6](~/downloads/notmyfault.md)  
+This update to NotMyFault, a tool that creates on-demand Windows crashes, hangs, and kernel memory leaks, is now in Rust and has a modern UI.
+
+- [RDCMan v3.20](~/downloads/rdcman.md)  
+This update to RDCMan, a tool for managing and connecting to Remote Desktop sessions, adds Azure Virtual Desktop workspace feed, and Microsoft Dev Box support.
+
+- [ZoomIt v12.2](~/downloads/zoomit.md)  
+This update to ZoomIt, a screen magnification and annotation tool, introduces DemoMirror for mirroring the screen, a screen region, or a window, onto a second monitor.
 
 ### What's New (July 24, 2026)
 
