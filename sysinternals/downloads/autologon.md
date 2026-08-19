@@ -1,7 +1,7 @@
---- 
+---
 TOCTitle: Autologon
 title: Autologon
-description: Bypass password screen during logon.
+description: Autologon for Windows lets you skip the logon password screen by securely storing encrypted credentials in the registry. Learn how to enable it.
 ms:assetid: '121f300c-85cb-418d-8199-48e587d864c3'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb963905(v=MSDN.10)'
 ms.date: 09/17/2020
