@@ -233,7 +233,7 @@ open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v4.05 (August 12, 2026)*  
+*v4.1 (August 19, 2026)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -301,7 +301,7 @@ An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v3.20 (August 12, 2026)*  
+*v3.21 (August 19, 2026)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
@@ -374,5 +374,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)
-*v12.2 (August 12, 2026)*  
+*v12.21 (August 19, 2026)*  
 Presentation utility for zooming and drawing on the screen.
