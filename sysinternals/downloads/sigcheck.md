@@ -4,16 +4,16 @@ title: Sigcheck
 description: Dump file version information and verify that images on your system are digitally signed.
 ms:assetid: 'fe633cd0-b369-4ca5-a9ae-c64e2d52acac'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897441(v=MSDN.10)'
-ms.date: 02/04/2026
+ms.date: 09/10/2026
 ---
 
-# Sigcheck v2.91
+# Sigcheck v2.92
 
 **By Mark Russinovich**
 
-Published: February 4, 2026
+Published: September 10, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(645 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(663)**
 
 ## Introduction
 
@@ -67,13 +67,13 @@ sigcheck -u -e c:\windows\system32
 
 You should investigate the purpose of any files that are not signed.  
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(645 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Sigcheck.zip) [**Download Sigcheck**](https://download.sysinternals.com/files/Sigcheck.zip) **(663 KB)**
 
 **Runs on:**
 
-- Client: Windows 8.1 and higher
-- Server: Windows Server 2012 and higher
-- Nano Server: 2016 and higher
+- Client: Windows 11 and higher
+- Server: Windows Server 2019 and higher
+- Nano Server: 2019 and higher
 
 ## Learn More
 

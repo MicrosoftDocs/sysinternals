@@ -4,14 +4,14 @@ title: Pipelist
 description: Displays the named pipes on your system, including the number of maximum instances and active instances for each pipe.
 ms:assetid: 'c379bcf5-754c-46b0-807d-1266658bd8be'
 ms:mtpsurl: 'https://technet.microsoft.com/Dd581625(v=MSDN.10)'
-ms.date: 09/17/2020
+ms.date: 09/10/2026
 ---
 
-# PipeList v1.02
+# PipeList v1.03
 
-Published: July 4, 2016
+Published: September 10, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList**](https://download.sysinternals.com/files/PipeList.zip) **(496 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList**](https://download.sysinternals.com/files/PipeList.zip) **(295 KB)**
 
 ## Introduction
 
@@ -26,10 +26,10 @@ to list the pipes. The directory listing NPFS returns also indicates the
 maximum number of pipe instances set for each pipe and the number of
 active instances.
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList**](https://download.sysinternals.com/files/PipeList.zip) **(496 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PipeList.zip) [**Download PipeList**](https://download.sysinternals.com/files/PipeList.zip) **(295 KB)**
 
 **Runs on:**
 
-- Client: Windows Vista and higher
-- Server: Windows Server 2008 and higher
-- Nano Server: 2016 and higher
+- Client: Windows 11 and higher
+- Server: Windows Server 2019 and higher
+- Nano Server: 2019 and higher

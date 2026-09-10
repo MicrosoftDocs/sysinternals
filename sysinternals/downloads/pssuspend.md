@@ -4,14 +4,14 @@ title: PsSuspend
 description: Suspend and resume processes.
 ms:assetid: '148ead94-34cd-47f1-83e2-f3fb3486ef7d'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897540(v=MSDN.10)'
-ms.date: 03/30/2023
+ms.date: 09/10/2026
 ---
 
-# PsSuspend v1.08
+# PsSuspend v1.09
 
 **By Mark Russinovich**
 
-Published: March 30, 2023
+Published: September 10, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 

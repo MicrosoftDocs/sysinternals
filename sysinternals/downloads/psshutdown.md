@@ -4,14 +4,14 @@ title: PsShutdown
 description: Shuts down and optionally reboots a computer.
 ms:assetid: 'ba3665e1-fbac-45a1-b1c3-575d83832987'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897541(v=MSDN.10)'
-ms.date: 03/30/2023
+ms.date: 09/10/2026
 ---
 
-# PsShutdown v2.6
+# PsShutdown v2.61
 
 **By Mark Russinovich**
 
-Published: March 30, 2023
+Published: September 10, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
