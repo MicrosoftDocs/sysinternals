@@ -5,16 +5,16 @@ description: Monitor file system, Registry, process, thread and DLL activity in 
 no-loc: [Mark Russinovich, David Solomon, Aaron Margosis]
 ms:assetid: '37225635-4ad0-4b08-aa5e-4bba665b1d89'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896645(v=MSDN.10)'
-ms.date: 08/19/2026
+ms.date: 09/10/2026
 ---
 
-# Process Monitor v4.1
+# Process Monitor v4.11
 
 **By Mark Russinovich**
 
-Published: August 19, 2026
+Published: September 10, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(2.9 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(3.1 MB)**  
 
 [**Download Procmon for Linux (GitHub)**](https://github.com/microsoft/ProcMon-for-Linux)
 
@@ -84,11 +84,11 @@ options on a live system.
 
 ## Download
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(2.9 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessMonitor.zip) [**Download Process Monitor**](https://download.sysinternals.com/files/ProcessMonitor.zip) **(3.1 MB)**
 
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/Procmon.exe).
 
 **Runs on:**
 
-- Client: Windows 10 and higher.
-- Server: Windows Server 2012 and higher.
+- Client: Windows 11 and higher.
+- Server: Windows Server 2019 and higher.

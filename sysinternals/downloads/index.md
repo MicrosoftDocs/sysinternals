@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 08/12/2026
+ms.date: 09/10/2026
 ---
 
 # Sysinternals Utilities Index
@@ -207,7 +207,7 @@ Enumerate the list of file rename and delete commands that will be
 executed the next boot.
 
 [PipeList](pipelist.md)  
-*v1.02 (July 4, 2016)*  
+*v1.03 (September 10, 2026)*  
 Displays the named pipes on your system, including the number of maximum
 instances and active instances for each pipe.
 
@@ -227,13 +227,13 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)
-*v17.13 (August 12, 2026)*  
+*v17.14 (September 10, 2026)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v4.1 (August 19, 2026)*  
+*v4.11 (September 10, 2026)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -246,15 +246,15 @@ Execute processes on remote systems.
 See what files are opened remotely.
 
 [PsGetSid](psgetsid.md)  
-*v1.46 (March 30, 2023)*  
+*v1.47 (September 10, 2026)*  
 Displays the SID of a computer or a user.
 
 [PsInfo](psinfo.md)  
-*v1.79 (March 30, 2023)*  
+*v1.8 (September 10, 2026)*  
 Obtain information about a system.
 
 [PsKill](pskill.md)  
-*v1.17 (March 30, 2023)*  
+*v1.18 (September 10, 2026)*  
 Terminate local or remote processes.
 
 [PsPing](psping.md)  
@@ -282,11 +282,11 @@ Changes account passwords.
 View and control services.
 
 [PsShutdown](psshutdown.md)  
-*v2.6 (March 30, 2023)*  
+*v2.61 (September 10, 2026)*  
 Shuts down and optionally reboots a computer.
 
 [PsSuspend](pssuspend.md)  
-*v1.08 (March 30, 2023)*  
+*v1.09 (September 10, 2026)*  
 Suspend and resume processes.
 
 [PsTools](pstools.md)  
@@ -333,7 +333,7 @@ Launch programs as a different user via a convenient shell context-menu
 entry.
 
 [Sigcheck](sigcheck.md)  
-*v2.91 (February 4, 2026)*  
+*v2.92 (September 10, 2026)*  
 Dump file version information and verify that images on your system are
 digitally signed.
 
@@ -350,7 +350,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v15.21 (June 17, 2026)*  
+*v15.22 (September 10, 2026)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
@@ -374,5 +374,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)
-*v12.21 (August 19, 2026)*  
+*v12.22 (September 10, 2026)*  
 Presentation utility for zooming and drawing on the screen.

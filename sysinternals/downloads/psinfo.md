@@ -4,14 +4,14 @@ title: PsInfo
 description: Obtain information about a system.
 ms:assetid: '5b454ec8-9d69-44bb-b3fe-c7c252929439'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897550(v=MSDN.10)'
-ms.date: 03/30/2023
+ms.date: 09/10/2026
 ---
 
-# PsInfo v1.79
+# PsInfo v1.8
 
 **By Mark Russinovich**
 
-Published: March 30, 2023
+Published: September 10, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 

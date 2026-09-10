@@ -4,17 +4,17 @@ title: Process Explorer
 description: Find out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more.
 ms:assetid: '32cbeee6-4335-44d5-b94b-160612b99738'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896653(v=MSDN.10)'
-ms.date: 08/12/2026
+ms.date: 09/10/2026
 adobe-target: true
 ---
 
-# Process Explorer v17.13
+# Process Explorer v17.14
 
 **By Mark Russinovich**
 
-Published: August 12, 2026
+Published: September 10, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.4 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.5 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
 <br><br>
 > [!VIDEO https://learn-video.azurefd.net/vod/player?id=27421f3d-e796-4ecd-935d-ea78cd638757]
@@ -49,13 +49,13 @@ into the way Windows and applications work.
 
 ## Download
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.4 MB)**  
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.5 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
 
 **Runs on:**
 
 - Client: Windows 11 and higher.
-- Server: Windows Server 2016 and higher.
+- Server: Windows Server 2019 and higher.
 
 ## Installation
 
