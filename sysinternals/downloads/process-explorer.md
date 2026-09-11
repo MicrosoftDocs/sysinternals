@@ -17,7 +17,7 @@ Published: September 10, 2026
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/ProcessExplorer.zip) [**Download Process Explorer**](https://download.sysinternals.com/files/ProcessExplorer.zip) **(3.5 MB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/procexp.exe).
 <br><br>
-> [!VIDEO https://learn-video.azurefd.net/vod/player?id=27421f3d-e796-4ecd-935d-ea78cd638757]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=27421f3d-e796-4ecd-935d-ea78cd638757&autoplay=true&loop=true&controls=false]
 <sup><i>Created with [ZoomIt](zoomit.md)</i></sup>
 
 ## Introduction
