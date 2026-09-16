@@ -1,7 +1,7 @@
---- 
+---
 TOCTitle: Process Monitor
 title: Process Monitor
-description: Monitor file system, Registry, process, thread and DLL activity in real-time.
+description: Process Monitor tracks file system, Registry, process, thread, and DLL activity in real time. Learn about its features and download the free tool from Sysinternals.
 no-loc: [Mark Russinovich, David Solomon, Aaron Margosis]
 ms:assetid: '37225635-4ad0-4b08-aa5e-4bba665b1d89'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896645(v=MSDN.10)'
