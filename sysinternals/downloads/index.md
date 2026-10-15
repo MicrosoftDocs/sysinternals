@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 09/10/2026
+ms.date: 10/15/2026
 ---
 
 # Sysinternals Utilities Index
@@ -58,7 +58,7 @@ Registry and file locations where applications can configure auto-start
 settings.
 
 [BgInfo](bginfo.md)  
-*v4.33 (February 13, 2025)*  
+*v4.34 (October 12, 2026)*  
 This fully-configurable program automatically generates desktop
 backgrounds that include important information about the system
 including IP addresses, computer name, network adapters, and more.
@@ -164,7 +164,7 @@ Dump the contents of the Logical Disk Manager's on-disk database, which
 describes the partitioning of Windows 2000 Dynamic disks.
 
 [ListDLLs](listdlls.md)  
-*v3.2 (July 4, 2016)*  
+*v3.21 (October 12, 2026)*  
 List all the DLLs that are currently loaded, including where they are
 loaded and their version numbers.
 
@@ -219,7 +219,7 @@ shows you a portion of the data being sent and received. Version 3.x has
 powerful new UI enhancements and advanced filtering capabilities.
 
 [ProcDump](procdump.md)  
-*v12.01 (July 9, 2026)*  
+*v12.02 (October 12, 2026)*  
 This command-line utility is aimed at capturing process dumps of
 otherwise difficult to isolate and reproduce CPU spikes. It also serves
 as a general process dump creation utility and can also monitor and
@@ -227,13 +227,13 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)
-*v17.14 (September 10, 2026)*  
+*v17.2 (October 12, 2026)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v4.11 (September 10, 2026)*  
+*v4.12 (October 12, 2026)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -254,7 +254,7 @@ Displays the SID of a computer or a user.
 Obtain information about a system.
 
 [PsKill](pskill.md)  
-*v1.18 (September 10, 2026)*  
+*v1.19 (October 12, 2026)*  
 Terminate local or remote processes.
 
 [PsPing](psping.md)  
@@ -301,7 +301,7 @@ An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v3.21 (August 19, 2026)*  
+*v3.22 (October 12, 2026)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
@@ -333,7 +333,7 @@ Launch programs as a different user via a convenient shell context-menu
 entry.
 
 [Sigcheck](sigcheck.md)  
-*v2.92 (September 10, 2026)*  
+*v2.93 (October 12, 2026)*  
 Dump file version information and verify that images on your system are
 digitally signed.
 
@@ -374,5 +374,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)
-*v12.22 (September 10, 2026)*  
+*v12.3 (October 15, 2026)*  
 Presentation utility for zooming and drawing on the screen.
