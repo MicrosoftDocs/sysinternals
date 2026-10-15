@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 10/12/2026
+ms.date: 10/15/2026
 ---
 
 # 
@@ -39,7 +39,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 - [Process Explorer v17.2](~/downloads/process-explorer.md)  
 This update to Process Explorer, an advanced process, DLL, and handle viewing utility, adds process efficiency mode support, persistent process activity history, live kernel memory dump creation, a process memory map explorer, a Devices page to System Information, NPU monitoring, and fixes a series of bugs and inefficiencies.
 
-- [ZoomIt v12.23](~/downloads/zoomit.md)  
+- [ZoomIt v12.3](~/downloads/zoomit.md)  
 This update to ZoomIt, a screen magnification and annotation tool, adds dictation support for captions on screen snips.
 
 ### What's New (August 19, 2026)
