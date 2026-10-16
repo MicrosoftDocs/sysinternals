@@ -4,14 +4,14 @@ title: PsKill
 description: Terminate local or remote processes.
 ms:assetid: '12798522-e5f1-494c-8824-38db3162eea7'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896683(v=MSDN.10)'
-ms.date: 10/12/2026
+ms.date: 10/15/2026
 ---
 
-# PsKill v1.19
+# PsKill v1.18
 
 **By Mark Russinovich**
 
-Published: October 12, 2026
+Published: October 15, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
