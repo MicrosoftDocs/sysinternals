@@ -154,7 +154,9 @@ Convert hex numbers to decimal and vice versa.
 
 [jcd](jcd.md)
 *1.0.1 October 13, 2025)*  
-Enhanced directory navigation with substring matching and smart selection for Linux and macOS.[Junction](junction.md)  
+Enhanced directory navigation with substring matching and smart selection for Linux and macOS.
+
+[Junction](junction.md)  
 *v1.08 (November 4, 2026)*  
 Create Win2K NTFS symbolic links.
 
