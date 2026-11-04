@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 10/15/2026
+ms.date: 11/04/2026
 ---
 
 # Sysinternals Utilities Index
@@ -129,7 +129,7 @@ disk activity light in your system tray.
 Graphical disk sector utility.
 
 [Disk Usage (DU)](du.md)  
-*v1.62 (November 04, 2020)*  
+*v1.63 (November 4, 2026)*  
 View disk usage by directory.
 
 [EFSDump](efsdump.md)  
@@ -155,7 +155,7 @@ Convert hex numbers to decimal and vice versa.
 [jcd](jcd.md)
 *1.0.1 October 13, 2025)*  
 Enhanced directory navigation with substring matching and smart selection for Linux and macOS.[Junction](junction.md)  
-*v1.07 (July 4, 2016)*  
+*v1.08 (November 4, 2026)*  
 Create Win2K NTFS symbolic links.
 
 [LDMDump](ldmdump.md)  
@@ -227,18 +227,18 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)
-*v17.2 (October 15, 2026)*  
+*v17.21 (November 4, 2026)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v4.12 (October 15, 2026)*  
+*v4.13 (November 4, 2026)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
 [PsExec](psexec.md)  
-*v2.43 (April 11, 2023)*  
+*v2.44 (November 4, 2026)*  
 Execute processes on remote systems.
 
 [PsFile](psfile.md)  
@@ -246,7 +246,7 @@ Execute processes on remote systems.
 See what files are opened remotely.
 
 [PsGetSid](psgetsid.md)  
-*v1.47 (September 10, 2026)*  
+*v1.48 (November 4, 2026)*  
 Displays the SID of a computer or a user.
 
 [PsInfo](psinfo.md)  
@@ -282,11 +282,11 @@ Changes account passwords.
 View and control services.
 
 [PsShutdown](psshutdown.md)  
-*v2.61 (September 10, 2026)*  
+*v2.64 (November 4, 2026)*  
 Shuts down and optionally reboots a computer.
 
 [PsSuspend](pssuspend.md)  
-*v1.09 (September 10, 2026)*  
+*v1.1 (November 4, 2026)*  
 Suspend and resume processes.
 
 [PsTools](pstools.md)  
@@ -301,7 +301,7 @@ An advanced physical memory usage analysis utility that presents usage
 information in different ways on its several different tabs.
 
 [RDCMan](rdcman.md)  
-*v3.22 (October 15, 2026)*  
+*v3.23 (November 4, 2026)*  
 Manage multiple remote desktop connections.
 
 [RegDelNull](regdelnull.md)  
@@ -374,5 +374,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)
-*v12.3 (October 15, 2026)*  
+*v12.31 (November 4, 2026)*  
 Presentation utility for zooming and drawing on the screen.
