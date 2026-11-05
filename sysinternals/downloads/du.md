@@ -13,7 +13,7 @@ ms.date: 11/05/2026
 
 Published: November 5, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DU.zip)] [**Download Du**](https://download.sysinternals.com/files/DU.zip) **(1.62 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DU.zip)] [**Download Du**](https://download.sysinternals.com/files/DU.zip) **(317 KB)**
 
 ## Introduction
 
@@ -41,4 +41,4 @@ CSV output is formatted as:
 Path, CurrentFileCount, CurrentFileSize, FileCount, DirectoryCount,
 DirectorySize, DirectorySizeOnDisk
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DU.zip) [**Download Du**](https://download.sysinternals.com/files/DU.zip) **(1.62 MB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/DU.zip) [**Download Du**](https://download.sysinternals.com/files/DU.zip) **(317 MB)**

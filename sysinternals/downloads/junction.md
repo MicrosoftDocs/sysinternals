@@ -13,7 +13,7 @@ ms.date: 11/05/2026
 
 Published: November 5, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(504 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(328 KB)**
 
 ## Introduction
 
@@ -85,7 +85,7 @@ junction -d c:\Program-Files
 **0**  - on failed deletion of junction  (e.g. if file not found)  
 **0**  - on the check if a file is a junction fails (e.g. if file not found)  
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(504 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(328 KB)**
 
 **Runs on:**
 
