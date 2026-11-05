@@ -4,16 +4,16 @@ title: Junction
 description: Create Win2K NTFS junction points.
 ms:assetid: '16f763c0-cb78-4d67-a865-63e79bef0c58'
 ms:mtpsurl: 'https://learn.microsoft.com/sysinternals/downloads/junction'
-ms.date: 09/17/2020
+ms.date: 11/05/2026
 ---
 
-# Junction v1.07
+# Junction v1.08
 
 **By Mark Russinovich**
 
-Published: July 4, 2016
+Published: November 5, 2026
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(504 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(328 KB)**
 
 ## Introduction
 
@@ -85,7 +85,7 @@ junction -d c:\Program-Files
 **0**  - on failed deletion of junction  (e.g. if file not found)  
 **0**  - on the check if a file is a junction fails (e.g. if file not found)  
 
-[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(504 KB)**
+[![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(328 KB)**
 
 **Runs on:**
 
