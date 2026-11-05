@@ -4,14 +4,14 @@ title: Junction
 description: Create Win2K NTFS junction points.
 ms:assetid: '16f763c0-cb78-4d67-a865-63e79bef0c58'
 ms:mtpsurl: 'https://learn.microsoft.com/sysinternals/downloads/junction'
-ms.date: 11/04/2026
+ms.date: 11/05/2026
 ---
 
 # Junction v1.08
 
 **By Mark Russinovich**
 
-Published: November 4, 2026
+Published: November 5, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Junction.zip) [**Download Junction**](https://download.sysinternals.com/files/Junction.zip) **(504 KB)**
 

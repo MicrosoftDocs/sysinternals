@@ -5,7 +5,7 @@ description: Library, learning resources, downloads, support, and community. Eva
 no-loc: [Mark Russinovich]
 ms:assetid: '2b0d74e3-5962-455a-b35a-248979737b61'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545021(v=MSDN.10)'
-ms.date: 11/04/2026
+ms.date: 11/05/2026
 ---
 
 # 
@@ -34,7 +34,7 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 
 ## What's New [![RSS icon](media/index/rss.gif)](https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Sysinternals-Blog)
 
-### What's New (November 4, 2026)
+### What's New (November 5, 2026)
 
 - [Autoruns 1.0 for Linux](https://github.com/microsoft/Autoruns-for-Linux/releases/tag/1.0.0)  
 Autoruns, a utility for viewing and managing boot and login auto start configuration, now has a Linux version.
