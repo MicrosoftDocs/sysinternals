@@ -4,14 +4,14 @@ title: PsGetSid
 description: Translate SIDs to their display name and vice versa.
 ms:assetid: 'f7eefa28-72dd-4dc7-a41e-02e7ac7e35ae'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897417(v=MSDN.10)'
-ms.date: 09/10/2026
+ms.date: 11/05/2026
 ---
 
-# PsGetSid v1.47
+# PsGetSid v1.48
 
 **By Mark Russinovich**
 
-Published: September 10, 2026
+Published: November 5, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
