@@ -4,14 +4,14 @@ title: PsList
 description: Show information about processes and threads.
 ms:assetid: '3922c630-462d-4c3a-8b02-532865f37df4'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896682(v=MSDN.10)'
-ms.date: 02/06/2026
+ms.date: 12/09/2026
 ---
 
-# PsList v1.41
+# PsList v1.42
 
 **By Mark Russinovich**
 
-Published: March 30, 2023
+Published: December 9, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PSTools.zip) [**Download PsTools**](https://download.sysinternals.com/files/PSTools.zip) **(5 MB)**
 
