@@ -39,6 +39,9 @@ You can view the entire Sysinternals Live tools directory in a browser or Window
 - [Process Monitor v4.2](~/downloads/procmon.md)  
 This update to Process Monitor, a utility for observing file system, Registry, and process and thread activity in real time, adds a command-line version and support for agent skills.
 
+- [Sysmon v15.3](~/downloads/sysmon.md)
+This update to Sysmon, an advanced host security monitoring tool, introduces a new implementation written in Rust.
+
 ### What's New (November 5, 2026)
 
 - [Autoruns 1.0 for Linux](https://github.com/microsoft/Autoruns-for-Linux/releases/tag/1.0.0)  
