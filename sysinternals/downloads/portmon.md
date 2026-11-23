@@ -4,14 +4,14 @@ title: Portmon
 description: Monitor serial and parallel port activity with this advanced monitoring tool.
 ms:assetid: 'f989ac38-afd3-4e14-ad47-85af3c4f8ded'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896644(v=MSDN.10)'
-ms.date: 01/12/2012
+ms.date: 12/09/2026
 ---
 
-# Portmon v3.03
+# Portmon v3.04
 
 **By Mark Russinovich**
 
-Published: January 12, 2012
+Published: December 9, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/PortMon.zip) [**Download Portmon**](https://download.sysinternals.com/files/PortMon.zip) **(226 KB)**  
 **Run now** from [Sysinternals Live](https://live.sysinternals.com/portmon.exe).

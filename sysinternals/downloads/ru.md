@@ -4,14 +4,14 @@ title: Registry Usage
 description: View the registry space usage for the specified registry key.
 ms:assetid: 'a0d594d7-9653-4dc3-8a32-d1ab452d04e7'
 ms:mtpsurl: 'https://technet.microsoft.com/Dn194428(v=MSDN.10)'
-ms.date: 09/17/2020
+ms.date: 12/09/2026
 ---
 
-# Registry Usage (RU) v1.2
+# Registry Usage (RU) v1.21
 
 **By Mark Russinovich**
 
-Published: July 4, 2016
+Published: December 9, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/RU.zip) [**Download RU**](https://download.sysinternals.com/files/RU.zip) **(507 KB)**
 

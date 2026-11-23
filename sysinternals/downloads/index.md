@@ -4,7 +4,7 @@ title: Sysinternals Utilities
 description: Evaluate and find out how to install, deploy, and maintain Windows with Sysinternals utilities.
 ms:assetid: 'aefdbd0d-e21b-45ad-8e2b-b69cb8e04d5f'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb545027(v=MSDN.10)'
-ms.date: 11/05/2026
+ms.date: 12/09/2026
 ---
 
 # Sysinternals Utilities Index
@@ -129,7 +129,7 @@ disk activity light in your system tray.
 Graphical disk sector utility.
 
 [Disk Usage (DU)](du.md)  
-*v1.63 (November 5, 2026)*  
+*v1.64 (December 9, 2026)*  
 View disk usage by directory.
 
 [EFSDump](efsdump.md)  
@@ -177,7 +177,7 @@ executable binaries. Supports static scanning, real-time process monitoring,
 and background daemon operation.
 
 [LiveKd](livekd.md)  
-*v5.65 (July 9, 2026)*  
+*v5.66 (December 9, 2026)*  
 Use Microsoft kernel debuggers to examine a live system.
 
 [LoadOrder](loadorder.md)  
@@ -185,7 +185,7 @@ Use Microsoft kernel debuggers to examine a live system.
 See the order in which devices are loaded on your WinNT/2K system.
 
 [LogonSessions](logonsessions.md)  
-*v1.41 (November 25, 2020)*  
+*v1.42 (December 9, 2026)*  
 List the active logon sessions on a system.
 
 [MoveFile](pendmoves.md)  
@@ -214,7 +214,7 @@ Displays the named pipes on your system, including the number of maximum
 instances and active instances for each pipe.
 
 [PortMon](portmon.md)  
-*v3.03 (January 12, 2012)*  
+*v3.04 (December 9, 2026)*  
 Monitor serial and parallel port activity with this advanced monitoring
 tool. It knows about all standard serial and parallel IOCTLs and even
 shows you a portion of the data being sent and received. Version 3.x has
@@ -229,13 +229,13 @@ generate process dumps when a process has a hung window or unhandled
 exception.
 
 [Process Explorer](process-explorer.md)
-*v17.21 (November 5, 2026)*  
+*v17.22 (December 9, 2026)*  
 Find out what files, registry keys and other objects processes have
 open, which DLLs they have loaded, and more. This uniquely powerful
 utility will even show you who owns each process.
 
 [Process Monitor](procmon.md)  
-*v4.13 (November 5, 2026)*  
+*v4.2 (December 9, 2026)*  
 Monitor file system, Registry, process, thread and DLL activity in
 real-time.
 
@@ -260,11 +260,11 @@ Obtain information about a system.
 Terminate local or remote processes.
 
 [PsPing](psping.md)  
-*v2.13 (August 12, 2026)*  
+*v2.14 (December 9, 2026)*  
 Measure network performance.
 
 [PsList](pslist.md)  
-*v1.41 (March 30, 2023)*  
+*v1.42 (December 9, 2026)*  
 Show information about processes and threads.
 
 [PsLoggedOn](psloggedon.md)  
@@ -312,7 +312,7 @@ Scan for and delete Registry keys that contain embedded null-characters
 that are otherwise undeleteable by standard Registry-editing tools.
 
 [Registry Usage (RU)](ru.md)  
-*v1.2 (July 4, 2016)*  
+*v1.21 (December 9, 2026)*  
 View the registry space usage for the specified registry key.
 
 [RegJump](regjump.md)  
@@ -340,7 +340,7 @@ Dump file version information and verify that images on your system are
 digitally signed.
 
 [Streams](streams.md)  
-*v1.6 (July 4, 2016)*  
+*v1.61 (December 9, 2026)*  
 Reveal NTFS alternate streams.
 
 [Strings](strings.md)  
@@ -352,7 +352,7 @@ Search for ANSI and UNICODE strings in binary images.
 Flush cached data to disk.
 
 [Sysmon](sysmon.md)  
-*v15.22 (September 10, 2026)*  
+*v15.23 (December 9, 2026)*  
 Monitors and reports key system activity via the Windows event log.
 
 [TCPView](tcpview.md)  
@@ -376,5 +376,5 @@ See who owns an Internet address.
 The ultimate Object Manager namespace viewer is here.
 
 [ZoomIt](zoomit.md)
-*v12.31 (November 5, 2026)*  
+*v12.32 (December 9, 2026)*  
 Presentation utility for zooming and drawing on the screen.

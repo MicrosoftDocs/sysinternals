@@ -4,14 +4,14 @@ title: Streams
 description: Reveal NTFS alternate streams.
 ms:assetid: '5e6c8d3a-0865-4e4d-9f23-bd4c431a27c3'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb897440(v=MSDN.10)'
-ms.date: 09/17/2020
+ms.date: 12/09/2026
 ---
 
-# Streams v1.6
+# Streams v1.61
 
 **By Mark Russinovich**
 
-Published: July 4, 2016
+Published: December 9, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/Streams.zip) [**Download Streams**](https://download.sysinternals.com/files/Streams.zip) **(499 KB)**
 

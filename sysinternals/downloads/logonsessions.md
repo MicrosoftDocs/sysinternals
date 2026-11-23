@@ -4,14 +4,14 @@ title: LogonSessions
 description: List the active logon sessions on a system.
 ms:assetid: 'b7415eea-e897-49ba-b304-dd6879718a74'
 ms:mtpsurl: 'https://technet.microsoft.com/Bb896769(v=MSDN.10)'
-ms.date: 11/25/2020
+ms.date: 12/09/2026
 ---
 
-# LogonSessions v1.41
+# LogonSessions v1.42
 
 **By Mark Russinovich**
 
-Published: November 25, 2020
+Published: December 9, 2026
 
 [![Download](media/shared/Download_sm.png)](https://download.sysinternals.com/files/logonSessions.zip) [**Download LogonSessions**](https://download.sysinternals.com/files/logonSessions.zip) **(667 KB)**
 
